@@ -1,0 +1,49 @@
+
+*** These modified files were found in JOE when it aborted on Tue May  3 14:39:28 2016
+*** JOE was aborted because the terminal closed
+
+*** File '/etc/sudoers.tmp'
+#
+# This file MUST be edited with the 'visudo' command as root.
+#
+# Please consider adding local content in /etc/sudoers.d/ instead of
+# directly modifying this file.
+#
+# See the man page for details on how to write a sudoers file.
+#
+Defaults	env_reset
+Defaults	secure_path="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+Defaults	!authenticate
+
+# Host alias specification
+
+# User alias specification
+
+# Cmnd alias specification
+
+# User privilege specification
+root	ALL=(ALL:ALL) ALL
+git	ALL=(www-data) /usr/bin/git push
+
+# Members of the admin group may gain root privileges
+%admin ALL=(ALL) ALL
+
+# Allow members of group sudo to execute any command
+%sudo	ALL=(ALL:ALL) ALL
+
+# See sudoers(5) for more information on "#include" directives:
+
+#includedir /etc/sudoers.d
+
+*** File '(Unnamed)'
+custom_shortcode.php
+custom_shortcode.php
+custom_shortcode.php
+/etc/sudoers.tmp
+/etc/sudoers.tmp
+/etc/sudoers.tmp
+/etc/sudoers.tmp
+/etc/sudoers.tmp
+/etc/sudoers.tmp
+/etc/sudoers.tmp
+/etc/sudoers.tmp
