@@ -3,7 +3,7 @@
 This repository tracks the contents of each tablepress table over at [sourcemodding](http://www.sourcemodding.com)
 It is part of a system that takes user input for each table, lets the admin know, and commits to Github.
 
-Tablepress inturn reads the raw files from Github so that it always has the lastest version of the tables, It polls once every hour.
+Tablepress inturn reads the raw files from Github so that it always has the lastest version of the tables, It polls once every day.
 
 ### Contributing
 
