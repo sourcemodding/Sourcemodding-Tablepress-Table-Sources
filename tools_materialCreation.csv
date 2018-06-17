@@ -70,3 +70,6 @@ Name / Purpose,Rating,"<img src=""https://s5.postimg.cc/hcrrlhu9z/camera_2.png""
 "[title_desc name=""Sprite generator"" desc=""Sprite generator for HL "" /]","[kkratings id=""232367""]","[prev img=""https://s5.postimg.cc/y5nre9g93/cmd_Tool.png"" /]",[goldsrc],"[mega id=""https://mega.nz/#F!ZZQBhC6J!xcBZo018fD0kV8TZErpc9A"" /]"
 "[title_desc name=""Terrain Texture Generator"" desc=""Here\'s a little toy that synthesizes a unique terrain texture
 by blending a set of base texture layers"" /]","[kkratings id=""232368""]","[prev img=""https://s5.postimg.cc/3rkaq1gxj/texgen.png"" /]",[goldsrc_and_source],"[mega id=""https://mega.nz/#F!9RAFiDTA!NX83WJROiYNNkfp1st5YEg"" /]"
+"[title_desc name=""SkyGen"" desc=""This is a simple seamless skybox bitmap generator. It generates
+six bitmaps which can be used as the textures on a skybox within
+a game engine"" /]","[kkratings id=""232369""]","[prev img=""https://s5.postimg.cc/4u5i5hhyf/5a5117b229cbe.jpg"" /]",[goldsrc],"[mega id=""https://mega.nz/#F!VBpyCZgT!FAT5eUs_ti75cq2u-JvgXg"" /]"
