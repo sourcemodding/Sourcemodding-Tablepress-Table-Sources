@@ -1,0 +1,74 @@
+[
+  {
+    "tut_name": "Introduction to Perforce",
+    "tut_description": "Detailed Tutorial covering how to use Perforce to control your Source Code and Assets.",
+    "tut_link": "http://www.sourcemodding.com/tutorials/generic/source-control/Introduction-to-perforce/",
+    "tut_download": "",
+    "tut_author_name": "sourcemodding",
+    "tut_author_alt": "sourcemodding"
+  },
+  {
+    "tut_name": "Git on Windows for Newbs",
+    "tut_description": "Concise Tutorial covering the basics of using GIT in a windows environment with a GUI.",
+    "tut_link": "http://code.tutsplus.com/tutorials/git-on-windows-for-newbs--net-25847",
+    "tut_download": "",
+    "tut_author_name": "David D'hont",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "An Illustrated Guide to Git on Windows",
+    "tut_description": "Illustrated Tutorial on how to use GIT through msysgit on windows.",
+    "tut_link": "https://nathanj.github.io/gitguide/tour.html",
+    "tut_download": "",
+    "tut_author_name": "nathanj",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Perforce P4V Client Tutorial",
+    "tut_description": "An old but indepth tutorial on using P4V.",
+    "tut_link": "http://www.scribd.com/doc/4570622/Perforce-P4V-Client-Tutorial",
+    "tut_download": "",
+    "tut_author_name": "shrivastav.ajay",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Mercurial Tutorial",
+    "tut_description": "A tutorial covering the basic usage of mercurial for version control.",
+    "tut_link": "https://wiki.alliedmods.net/Mercurial_Tutorial",
+    "tut_download": "",
+    "tut_author_name": "alliedmodders",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Mercurial: The Definitive Guide",
+    "tut_description": "An online book that goes in deep with mercurial for source control.",
+    "tut_link": "http://hgbook.red-bean.com/read/",
+    "tut_download": "",
+    "tut_author_name": "Bryan O'Sullivan",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Practical guide to subversion on Windows with TortoiseSVN",
+    "tut_description": "Introductory tutorial on how to use Tortoise SVN for versioning files.",
+    "tut_link": "http://www.shokhirev.com/nikolai/programs/SVN/svn.html",
+    "tut_download": "",
+    "tut_author_name": "Nikolai Shokhirev",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Get up and running with tortoisesvn and Subversion in 15 mins",
+    "tut_description": "Older tutorial on how to get up and running with Subversion through tortoiseSVN.",
+    "tut_link": "http://blog.surfulater.com/2007/02/28/get-up-and-running-with-tortoisesvn-and-subversion-in-15-minutes/",
+    "tut_download": "",
+    "tut_author_name": "nevf",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Using Git for Source Control",
+    "tut_description": "Tutorial on how to use GIT for Version control with the Source SDK",
+    "tut_link": "http://steamcommunity.com/sharedfiles/filedetails/?id=415620774",
+    "tut_download": "",
+    "tut_author_name": "Wazanator",
+    "tut_author_alt": "generic"
+  }
+]

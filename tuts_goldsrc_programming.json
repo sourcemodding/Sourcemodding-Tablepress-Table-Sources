@@ -1,0 +1,4592 @@
+[
+  {
+    "tut_name": "Introduction to GoldSrc Programming - Setting up Visual Studio",
+    "tut_description": "A detailed tutorial covering the setup of Visual Studio for work with GoldSrc",
+    "tut_link": "http://www.sourcemodding.com/tutorials/goldsrc/programming/intro-to-goldsrc-programming-setting-up-visual-studio/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sourcemodding",
+    "tut_author_alt": "sourcemodding"
+  },
+  {
+    "tut_name": "Coding Fog",
+    "tut_description": "How to code in some fog in your mod",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Coding_Fog",
+    "tut_download": "https://mega.nz/#F!1JpyBTpI!8aF22-2NYDe_eZFFo1FtFg",
+    "tut_game": "HL",
+    "tut_author_name": "Highlander",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Coding NPCs in GoldSrc",
+    "tut_description": "This tutorial will lead you through the arcane art of adding fog to your mod",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Coding_NPCs_in_GoldSrc",
+    "tut_download": "https://mega.nz/#F!IcYAjDLD!G-j48DO9uEiw9TpD_f1MAg",
+    "tut_game": "HL",
+    "tut_author_name": "dexter",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Building the hlds_l Linux .so",
+    "tut_description": "How to get Half-Life's server to compile and run on Linux boxes worldwide",
+    "tut_link": "http://articles.thewavelength.net/617/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Vino",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Using the Persistence Engine with Half-Life",
+    "tut_description": "This article describes first line-by-line how to create a program that uses the Persistence Engine, and then suggests some ways to use it in a Half-Life mod.",
+    "tut_link": "http://articles.thewavelength.net/617/",
+    "tut_download": "https://mega.nz/#F!UN4CFBCb!INVqpLwS2uyA_Ip-P0gNUg",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Installing Your Mod on Steam",
+    "tut_description": "Have you tried to install your mod on steam and you just can't do it well i aim to give a little insight into this problem.",
+    "tut_link": "http://articles.thewavelength.net/517/",
+    "tut_download": "https://mega.nz/#F!URI0Qaha!ZiUX8nrQWZWURz7Up_iwTw",
+    "tut_game": "HL",
+    "tut_author_name": "myristate",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Hints on how to program a Half-Life mod",
+    "tut_description": "This article tries to give hints to would-be HL mod authors in many different aspects of the programming experience.",
+    "tut_link": "http://articles.thewavelength.net/440/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Debugging your mod using steam",
+    "tut_description": "A small guide, written by Valve's Alfred Reynolds, on how to debug your mod in steam.",
+    "tut_link": "http://articles.thewavelength.net/382/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Bulk",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "HUD Sprites",
+    "tut_description": "Understanding hud.txt",
+    "tut_link": "http://articles.thewavelength.net/275/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "thenerd",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Downloading and setting up the Half-Life SDK",
+    "tut_description": "Understanding hud.txt",
+    "tut_link": "http://web.archive.org/web/20070311194939/http://articles.thewavelength.net/274/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "'Dynamic' skies in Half-Life",
+    "tut_description": "Controllable skies",
+    "tut_link": "http://articles.thewavelength.net/263/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Patrick",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Building the Half-Life DLLs",
+    "tut_description": "with the Microsoft Command-Line Compiler",
+    "tut_link": "http://articles.thewavelength.net/218/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Entropy",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Debugging in Visual Studio 6",
+    "tut_description": "Debugging in Visual Studio 6",
+    "tut_link": "http://web.archive.org/web/20041026205607/http://articles.thewavelength.net/211/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Dynamic NPC Stepping Sound",
+    "tut_description": "Replace default set of NPC stepping sounds with the set from the texture they're walking on.",
+    "tut_link": "http://articles.thewavelength.net/574/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ts2do",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Checkpoint system for spawnpoints",
+    "tut_description": "A checkpoint system designed for cooperative play but possible in other game modes.",
+    "tut_link": "http://articles.thewavelength.net/522/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "jim_the_coder",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "CoD/Halo style weapon switching",
+    "tut_description": "How to implement call of Duty/Halo style weapon slots and switching.",
+    "tut_link": "http://articles.thewavelength.net/444/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ICR",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Team Spawn Points Fixed!",
+    "tut_description": "Bigguys Team Spawn Points had a couple of errors, so here is how your fix them.",
+    "tut_link": "http://articles.thewavelength.net/364/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Put Put Cars",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Relation between monsters",
+    "tut_description": "Relations between monsters in Half-Life",
+    "tut_link": "http://articles.thewavelength.net/278/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Bob le Pointu",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "An Entity like a CS Buy Zone",
+    "tut_description": "Create an Entity like a CS Buy Zone",
+    "tut_link": "http://articles.thewavelength.net/237/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Automatically set entity collision box by model",
+    "tut_description": "(Extension to X-0ut's custom model tut)",
+    "tut_link": "http://articles.thewavelength.net/214/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Custom Model Entity",
+    "tut_description": "This is a tutorial on making a custom model entity.",
+    "tut_link": "http://articles.thewavelength.net/212/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "X-0ut",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Tungsten Arrows",
+    "tut_description": "Ricochets of walls.",
+    "tut_link": "http://articles.thewavelength.net/197/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ScoBra7",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Egon Secondary Fire: Vampire",
+    "tut_description": "This tutorial will show you how to create new damage type for the Egon.",
+    "tut_link": "http://articles.thewavelength.net/196/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ScoBra7",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Butter Fingers Bullet",
+    "tut_description": "This tutorial will show you how to create new bullet types.",
+    "tut_link": "http://articles.thewavelength.net/195/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ScoBra7",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Booby trap satchel",
+    "tut_description": "In this tutorial we will add a new type of Satchel using the weapons box as a model.",
+    "tut_link": "http://articles.thewavelength.net/194/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ScoBra7",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Binding new keys.",
+    "tut_description": "In this tutorial we are going to add two new key functionalities. ",
+    "tut_link": "http://articles.thewavelength.net/185/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ScoBra7",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Drop primary gun instead of weapon box",
+    "tut_description": "When a player dies drop primary weapon rather than weapon box",
+    "tut_link": "http://articles.thewavelength.net/169/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "(NL)Mox",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "TriAPI based scope-masking system",
+    "tut_description": "Revision 4",
+    "tut_link": "http://articles.thewavelength.net/326/",
+    "tut_download": "https://mega.nz/#F!ldpz2bSJ!V6ZkeYoEr1Z8KBEfDwDJaA",
+    "tut_game": "HL",
+    "tut_author_name": "XENO",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Effects Fun Part I",
+    "tut_description": "The BSP map format that Half-Life uses makes it fairly easy to do certain types of special effects, including fake underwater caustics, so we'll play around with that a little...",
+    "tut_link": "http://articles.thewavelength.net/367/",
+    "tut_download": "https://mega.nz/#F!lMQzBS4J!GO8LYWZ10WMY13ORqyD1bA",
+    "tut_game": "HL",
+    "tut_author_name": "Patrick",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "VGUI HUD",
+    "tut_description": "This article describes the principles behind coding a VGUI HUD by piggy backing off the existing HUD, seriously reducing the amount of code needed.",
+    "tut_link": "http://articles.thewavelength.net/537/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ICR",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Better Third Person Camera",
+    "tut_description": "Simple snippet for a better third person camera with player fading.",
+    "tut_link": "http://articles.thewavelength.net/523/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "How to make a key that toggles",
+    "tut_description": "If players want to remain in a position (such as crouch or prone) for extended periods of time, this could lead to fatigue, here's how you can alleviate that with some clever manipulation of the button code.",
+    "tut_link": "http://articles.thewavelength.net/378/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sluggo",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Do-it-yourself-WireFrame!",
+    "tut_description": "Rendering a wireframe of maps yourself",
+    "tut_link": "http://articles.thewavelength.net/316/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Patrick",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Third and Fourth attack",
+    "tut_description": "Addign a Third and Fourth attack to your mod",
+    "tut_link": "https://web.archive.org/web/20080915083700/http://hlpp.thewavelength.net/tuts/multi-fire-modes.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "micshi",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Custom DrawHudString",
+    "tut_description": "This tutorial will alter the existing DrawHudString function in the CHud Class, we will be adding the ability for colored text and different draw modes.",
+    "tut_link": "http://articles.thewavelength.net/315/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "X-0ut",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Dash Key Part 2",
+    "tut_description": "Stamina controlled sprint",
+    "tut_link": "http://articles.thewavelength.net/311/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "X-0ut",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "VGUI Scope",
+    "tut_description": "This tutorial is a step-by-step guide to creating a VGUI Sniper Scope.",
+    "tut_link": "http://articles.thewavelength.net/293/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Pongles",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Complete Freedom of Rotation",
+    "tut_description": "Changing view angles with quaternions",
+    "tut_link": "http://articles.thewavelength.net/269/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Entropy",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "FOV and LOS Checks",
+    "tut_description": "Checking line of sight and field of view",
+    "tut_link": "http://articles.thewavelength.net/242/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Entity Effects on View Model",
+    "tut_description": "Add Entity Effects on a View Model",
+    "tut_link": "http://articles.thewavelength.net/209/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Orthogonal Drawing with TriAPI",
+    "tut_description": "I decided to whip up this tutorial to show you the simplicity of drawing triangles in orthogonal mode using TriAPI",
+    "tut_link": "http://articles.thewavelength.net/200/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Particle Engine tutorial part 5",
+    "tut_description": "Part 5 in 5 part series",
+    "tut_link": "http://articles.thewavelength.net/189/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Particle Engine tutorial part 4",
+    "tut_description": "Part 4 in 5 part series",
+    "tut_link": "http://articles.thewavelength.net/188/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Particle Engine tutorial part 3",
+    "tut_description": "Part 3 in 5 part series",
+    "tut_link": "http://articles.thewavelength.net/168/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Particle Engine tutorial part 2",
+    "tut_description": "Part 2 in 5 part series",
+    "tut_link": "http://articles.thewavelength.net/167/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Particle Engine tutorial part 1",
+    "tut_description": "Part 1 in 5 part series",
+    "tut_link": "http://articles.thewavelength.net/166/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "TriAPI BreakOut",
+    "tut_description": "Hud game",
+    "tut_link": "http://articles.thewavelength.net/184/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "X-0ut",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Egon Beam Observer Fix",
+    "tut_description": "For eye-mode specators",
+    "tut_link": "http://articles.thewavelength.net/182/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "OPTIMUS PRIME",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Making a Flashbang",
+    "tut_description": "Tutorial on making a flashbang grenade, complete with CS-style screen fading &amp; concussion effect.",
+    "tut_link": "http://articles.thewavelength.net/608/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "PowerSoul",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "How to create a server-client message",
+    "tut_description": "This article describes, step-by-step, how to create a message which can be sent from the server-side to the client-side.",
+    "tut_link": "http://articles.thewavelength.net/433/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Revamping the Player Model System",
+    "tut_description": "A system to Revamp the Player Model system so that it doesn't use Infokeys (which are easily hackable, and insecure) this also prevents hltv bugs.",
+    "tut_link": "http://articles.thewavelength.net/268/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Rescaling Half-Life",
+    "tut_description": "Rescaling Half-Life",
+    "tut_link": "http://articles.thewavelength.net/232/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "HUD Countdown Timer",
+    "tut_description": "add a server controlled hud countdown",
+    "tut_link": "http://articles.thewavelength.net/330/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hopper",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating a New VGUI Menu - Part 3",
+    "tut_description": "Editboxes and Images",
+    "tut_link": "http://articles.thewavelength.net/300/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "rkzad",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating a New VGUI Menu - Part 2",
+    "tut_description": "Panels, Labels, Buttons, and Commands",
+    "tut_link": "http://articles.thewavelength.net/299/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "rkzad",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating a New VGUI Menu - Part 1",
+    "tut_description": "Creating a New VGUI Menu and getting it to show in your mod",
+    "tut_link": "http://articles.thewavelength.net/298/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "rkzad",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "New HL HUD Message System",
+    "tut_description": "I noticed that a lot of bandwidth is consumed when trying to display a HUD Message. To fix this I coded a new type of message system that uses a lot less bandwidth. ",
+    "tut_link": "http://articles.thewavelength.net/288/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Pongles",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Wall Jumping",
+    "tut_description": "Wall Jumping Tutorial",
+    "tut_link": "http://articles.thewavelength.net/226/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "X-0ut",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating a Dash key",
+    "tut_description": "This tutorial will show you how to setup a new key and console command, which can then be used in game to make the player sprint when holding the key",
+    "tut_link": "http://articles.thewavelength.net/215/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "X-0ut",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "CTF Gameplay Part 3",
+    "tut_description": "Setting up Client side and FGD",
+    "tut_link": "http://articles.thewavelength.net/206/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DarkNight",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "CTF Gameplay Part 2",
+    "tut_description": "Creating the Capture Point",
+    "tut_link": "http://articles.thewavelength.net/205/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DarkNight",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "CTF Gameplay Part 1",
+    "tut_description": "Creating the Flag Entity",
+    "tut_link": "http://articles.thewavelength.net/203/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DarkNight",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating full Half-Life weapons",
+    "tut_description": "both client and server side detailed",
+    "tut_link": "http://articles.thewavelength.net/183/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Persuter",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Player-guided weapons",
+    "tut_description": "Make the RPG like the UT redeemer, easy!",
+    "tut_link": "http://articles.thewavelength.net/547/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Wil5on",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Fixing Valve's bouncy crouch code",
+    "tut_description": "Notice how if you tap your crouch key very fast you bounce? This code will fix that.",
+    "tut_link": "http://articles.thewavelength.net/473/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Render Scene",
+    "tut_description": "Quick &amp; simple, heres how to draw visible surfaces (bsp only) - unlit.",
+    "tut_link": "http://articles.thewavelength.net/478/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "X-0ut",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Clearing Decals",
+    "tut_description": "This snippet gives you some simple code to utilize the client side decal clearing function to wipe all decals from the map for a round reset, or whatever.",
+    "tut_link": "http://articles.thewavelength.net/465/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Spinning Corpses Simple Fix",
+    "tut_description": "A Simple 4-line fix for spinning corpses.",
+    "tut_link": "http://articles.thewavelength.net/447/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Removing a PlayerItem",
+    "tut_description": "Function to remove named items from a player's inventory.",
+    "tut_link": "http://articles.thewavelength.net/385/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "bigguy",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Using the ALERT function",
+    "tut_description": "Using the ALERT function",
+    "tut_link": "http://articles.thewavelength.net/321/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "darkNight",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Higher Res for VGUI Images",
+    "tut_description": "This article shows you how to quickly change the default 320 &amp; 640 .tga image sizes to fit whatever resolution a player is using.",
+    "tut_link": "http://articles.thewavelength.net/306/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "-+Arcadian+-",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Freezing a Player",
+    "tut_description": "Freezing a Player while shooting a weapon",
+    "tut_link": "http://articles.thewavelength.net/305/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "-+Arcadian+-",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Non-Exploding Snarks",
+    "tut_description": "This tutorial explains how to have snarks that don't explode after 15 seconds in your mod.",
+    "tut_link": "http://articles.thewavelength.net/165/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "The Evil One",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Controlling Player Speeds",
+    "tut_description": "This tutorial shows how to enable you to set what speeds the player can go, and force them to remain at those speeds.",
+    "tut_link": "http://articles.thewavelength.net/210/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Fireball",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "New Menuing System Tutorial",
+    "tut_description": "In this tutorial, we are going to go through the steps necessary to create a menuing system for Half-Life similar to the one for Quake 2.",
+    "tut_link": "http://articles.thewavelength.net/204/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Phillip Peterson",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Custom Player Animations",
+    "tut_description": "This tutorial will explain what you need todo in order to get a custom player animation to play.",
+    "tut_link": "https://web.archive.org/web/20080915083705/http://hlpp.thewavelength.net/tuts/playeranimation.txt",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Biggs",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Respawning Entities",
+    "tut_description": "This tutorial will show you how to reset pushables, breakables, doors, dead bodies and dropped weapons.",
+    "tut_link": "https://web.archive.org/web/20080915083720/http://hlpp.thewavelength.net/tuts/respawnentities.txt",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Biggs",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "TeamKiller Kicking",
+    "tut_description": "This tut will show you how do add a function to your code that will check a players teamkill amount and justify it with an action. So here we go.",
+    "tut_link": "https://web.archive.org/web/20080915025333/http://hlpp.thewavelength.net/tuts/tktut.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Deadpool",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "GameRules - Part 1",
+    "tut_description": "Adding Two-Team Deathmatch to Your Mod (part 3 &amp; 4 are missing)",
+    "tut_link": "https://web.archive.org/web/20080915025222/http://hlpp.thewavelength.net/tuts/grpack1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Varlock",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "GameRules - Part 2",
+    "tut_description": "Adding Assault to Your Mod (part 3 &amp; 4 are missing)",
+    "tut_link": "https://web.archive.org/web/20080915025227/http://hlpp.thewavelength.net/tuts/grpack2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Varlock",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "GameRules - Part 5",
+    "tut_description": "I've decided to add the Last Man Standing gamerule set (part 3 &amp; 4 are missing)",
+    "tut_link": "https://web.archive.org/web/20080915083655/http://hlpp.thewavelength.net/tuts/grpack5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Varlock",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "AI Tutorial - Part 1",
+    "tut_description": "This tut will cover a new monster who can sit in your map, and run away if you shoot at it.",
+    "tut_link": "https://web.archive.org/web/20080915083655/http://hlpp.thewavelength.net/tuts/grpack5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Deepflame",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "AI Tutorial - Part 2",
+    "tut_description": "Today we are going to make our monster kill",
+    "tut_link": "https://web.archive.org/web/20080915025115/http://hlpp.thewavelength.net/tuts/ai_tut2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Deepflame",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "AI Tutorial - Part 3",
+    "tut_description": "This tutorial will cover : 1. Making the monster get angry at you if you shoot him. 2. Random chatting according to it's state.",
+    "tut_link": "https://web.archive.org/web/20080915025120/http://hlpp.thewavelength.net/tuts/ai_tut3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Deepflame",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Wall Puff",
+    "tut_description": "This tutorial will show you how to add clientside smoke puffs. You'll need a sprite that's compiled as an additive.",
+    "tut_link": "https://web.archive.org/web/20080915025406/http://hlpp.thewavelength.net/tuts/wallpuff.txt",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Biggs",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Viewport Management",
+    "tut_description": "Tutorial covering the creation of multiple viewports",
+    "tut_link": "https://web.archive.org/web/20080915025258/http://hlpp.thewavelength.net/tuts/multiple-viewports-tut.txt",
+    "tut_download": "https://mega.nz/#F!FQATxQaS!15xhvOi86JksT4-6N_2Ucg",
+    "tut_game": "HL",
+    "tut_author_name": "bigguy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Paintrace Hud Indicator",
+    "tut_description": "This tutorial will show you how to add a hud element that will project a sprite of you player that flashes in the area you were last hit.",
+    "tut_link": "https://web.archive.org/web/20080915085643/http://hlpp.thewavelength.net/tuts/paintracer.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Deadpool",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Scissoring Sprites",
+    "tut_description": "instead of defining the area the sprite CANNOT be drawn in, you instead define the area the sprite CAN be drawn in.",
+    "tut_link": "https://web.archive.org/web/20080915085638/http://hlpp.thewavelength.net/tuts/cl_scissoring.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Varlock",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "VGUI HUD Tutorial - Part 1",
+    "tut_description": "this tutorial will explain how to set the HUD up, and just get the basis.",
+    "tut_link": "https://web.archive.org/web/20080611030451/http://hlpp.thewavelength.net/tuts/vgui_hud1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "VGUI HUD Tutorial - Part 2",
+    "tut_description": "Adding panels and labels and such.",
+    "tut_link": "https://web.archive.org/web/20080915085648/http://hlpp.thewavelength.net/tuts/vgui_hud2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "VGUI HUD Tutorial - Part 3",
+    "tut_description": "This tutorial will explain how to add the current name of the weapon the player is using to the HUD we created earlier.",
+    "tut_link": "https://web.archive.org/web/20080915085654/http://hlpp.thewavelength.net/tuts/vgui_hud3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "VGUI HUD Tutorial - Part 4",
+    "tut_description": "Adding an ammo indicator to the HUD",
+    "tut_link": "https://web.archive.org/web/20080915085715/http://hlpp.thewavelength.net/tuts/vgui_hud4.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Client Side word censoring",
+    "tut_description": "how to add old school Client Side word censoring",
+    "tut_link": "https://web.archive.org/web/20080915001456/http://hlpp.thewavelength.net/tut-cln.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Vacindak",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "MP3 Player",
+    "tut_description": "Add MP3 support to Half-Life",
+    "tut_link": "https://web.archive.org/web/20080915192146/http://hlpp.thewavelength.net/tuts/mp3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheTinySteini",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Making an InstallShield Installer",
+    "tut_description": "Making an InstallShield Installer for your Mod ",
+    "tut_link": "https://web.archive.org/web/20080915192102/http://hlpp.thewavelength.net/tuts/installshield.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Varlock",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Debugging your dlls",
+    "tut_description": "Debugging your dlls for your Mod ",
+    "tut_link": "https://web.archive.org/web/20080915192056/http://hlpp.thewavelength.net/tuts/debug.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Introduction to C",
+    "tut_description": "Short Article Introducing C",
+    "tut_link": "https://web.archive.org/web/20080915192110/http://hlpp.thewavelength.net/tuts/introC.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Your First Program",
+    "tut_description": "Here I will show you a fast and simple program and demonstrate the basics of C",
+    "tut_link": "https://web.archive.org/web/20080915192116/http://hlpp.thewavelength.net/tuts/lessonC1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Variables",
+    "tut_description": "This is going to be a fairly long tutorial on the basic data types of C.",
+    "tut_link": "https://web.archive.org/web/20080915192121/http://hlpp.thewavelength.net/tuts/lessonc2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Short Essay about most common functions in C++ for HL Coders",
+    "tut_description": "This is going to be a fairly long tutorial on some basic functions in HL SDK.",
+    "tut_link": "https://web.archive.org/web/20080915192126/http://hlpp.thewavelength.net/tuts/lessonc3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "KaReL",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Creating your Menu Bitmasks ",
+    "tut_description": "Creating your Menu Bitmasks in Half-Life",
+    "tut_link": "https://web.archive.org/web/20080915192136/http://hlpp.thewavelength.net/tuts/menubits.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Bot Tutorial 101",
+    "tut_description": "Basics of coding bots in Half-Life",
+    "tut_link": "https://web.archive.org/web/20080915025130/http://hlpp.thewavelength.net/tuts/bot_101.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Bot Tutorial 2",
+    "tut_description": "In this one I hope to start on some of the navigation code and the bots use of ladders.",
+    "tut_link": "https://web.archive.org/web/20080915083619/http://hlpp.thewavelength.net/tuts/bot_2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Scavenger Hunt AI Tutorial",
+    "tut_description": "Heres another tutorial for bots. This one on creating some basic bot item search code.",
+    "tut_link": "https://web.archive.org/web/20080915083624/http://hlpp.thewavelength.net/tuts/bot_3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Egon secondary fire mode",
+    "tut_description": "So, lets add up a secondary fire mode for the egon",
+    "tut_link": "https://web.archive.org/web/20080916220253/http://hlpp.thewavelength.net/tuts/egon2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Willem II",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Shotgun w/ slugs and buckshot ",
+    "tut_description": "This tutorial is about how to create a Shotgun with two types of ammo (slugs and buckshot).",
+    "tut_link": "https://web.archive.org/web/20080916220325/http://hlpp.thewavelength.net/tuts/slugs.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Dr.Death",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Show mod name in server list",
+    "tut_description": "Customize the Mod name displayed in the server list",
+    "tut_link": "https://web.archive.org/web/20080916220259/http://hlpp.thewavelength.net/tuts/gamename.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "rkzad",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Changing the Default Multiplayer Weapons",
+    "tut_description": "Changing the weapons a player spawns with is very easy, very simple.",
+    "tut_link": "https://web.archive.org/web/20080916220335/http://hlpp.thewavelength.net/tuts/spawnwith.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "rkzad",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Installing Gamerules ",
+    "tut_description": "This is just a simple way to switch to different gameplay modes.",
+    "tut_link": "https://web.archive.org/web/20080916220310/http://hlpp.thewavelength.net/tuts/installrules.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "gavin",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "CS-style weapon dropping",
+    "tut_description": "Here is a little tutorial on CS-style weapon dropping.",
+    "tut_link": "https://web.archive.org/web/20080916220400/http://hlpp.thewavelength.net/tuts/weapdrop.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BoRiS,Surreal",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Snark Trails",
+    "tut_description": "This tutorial, while not hard to do, gives a great effect; with snarks leaving behind a smoke trail as they run.",
+    "tut_link": "https://web.archive.org/web/20080916220330/http://hlpp.thewavelength.net/tuts/snarktrail.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Famine",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Changing Tracer Effects",
+    "tut_description": "Changing Tracer Effects on weapons in Half-Life",
+    "tut_link": "https://web.archive.org/web/20080916220355/http://hlpp.thewavelength.net/tuts/tracer.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Down",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "TFC Rocket Launcher",
+    "tut_description": "Add a TFC Rocket Launcher in Half-Life",
+    "tut_link": "https://web.archive.org/web/20080916220350/http://hlpp.thewavelength.net/tuts/tfcrocket.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "daMaker",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Taunting Crowbar",
+    "tut_description": "Very simple done, this you now be able to taunt other players when you have the crowbar out.",
+    "tut_link": "https://web.archive.org/web/20080916220345/http://hlpp.thewavelength.net/tuts/taunter.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Changing Multiplayer Weapon Damages",
+    "tut_description": "To change the weapon values for multiplayer games simply open up the multiplay_gamerules.cpp",
+    "tut_link": "https://web.archive.org/web/20080916220315/http://hlpp.thewavelength.net/tuts/multi_damage.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Stealthsuit",
+    "tut_description": "Create a Cloaked Stealth Suit in Half-Life",
+    "tut_link": "https://web.archive.org/web/20080916220340/http://hlpp.thewavelength.net/tuts/stealths.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "NVGoggles",
+    "tut_description": "Create Night Vision Goggles in Half-Life",
+    "tut_link": "https://web.archive.org/web/20080916220320/http://hlpp.thewavelength.net/tuts/nvgogg.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Homing Missle",
+    "tut_description": "Create a homing missile in Half-Life",
+    "tut_link": "https://web.archive.org/web/20080916220305/http://hlpp.thewavelength.net/tuts/homing.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Basic Weapon Coding Reference",
+    "tut_description": "here are the basic things you need in a normal weapon",
+    "tut_link": "https://web.archive.org/web/20080916220247/http://hlpp.thewavelength.net/tuts/basicwep.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Changing Weapon Damage Outside the Dll",
+    "tut_description": "In this tutorial I will show you how to change the weapon damages without recompiling the dll",
+    "tut_link": "https://web.archive.org/web/20080916220405/http://hlpp.thewavelength.net/tuts/weapondamage.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Half-Life Programming Planet Snippet Collection",
+    "tut_description": "Collection of coding snippets that may or may not work, use a a reference when building your mod",
+    "tut_link": "https://web.archive.org/web/20080915083604/http://hlpp.thewavelength.net/snippets/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Various Authors",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Basics on C++ Objects and Inheritance",
+    "tut_description": "Basics on C++ Objects and Inheritance",
+    "tut_link": "http://hpb-bot.bots-united.com/cplusplus.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "botman",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Creating a Mad Scientist Entity",
+    "tut_description": "Simple tutorial on creating a custom entity",
+    "tut_link": "http://web.archive.org/web/20041214152536/http://www.planethalflife.com/botman/balfourroad/scientist.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Kate",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Precaching",
+    "tut_description": "Precaching was one of the first stumbling blocks we encountered when we starting working with the SDK.",
+    "tut_link": "http://web.archive.org/web/20041214184407/http://www.planethalflife.com/botman/balfourroad/precache.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Activities and Sequences",
+    "tut_description": "This is a brief description of the difference between an activity and a sequence. I expect it will be fleshed out in time.",
+    "tut_link": "http://web.archive.org/web/20041214184925/http://www.planethalflife.com/botman/balfourroad/activities.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Entity Variables",
+    "tut_description": "The more coding you do, the more you'll start talking about the 'pev'",
+    "tut_link": "http://web.archive.org/web/20041211231656/http://www.planethalflife.com/botman/balfourroad/entvars.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Engine Functions",
+    "tut_description": "This is the lowest level entry to the engine. It also maps quite conveniently to Quake-C stuff, so check that out",
+    "tut_link": "http://web.archive.org/web/20041211230438/http://www.planethalflife.com/botman/balfourroad/engfuncs.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Good Half-Life Net Play",
+    "tut_description": "Things that effect network stats during gameplay",
+    "tut_link": "http://web.archive.org/web/20041211230421/http://www.planethalflife.com/botman/balfourroad/netplay.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Turning speed of an entity",
+    "tut_description": "Challenge based article covering the turning speed of an entity",
+    "tut_link": "http://web.archive.org/web/20041211231357/http://www.planethalflife.com/botman/balfourroad/challenge1.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Getting entity walking speed to match animation",
+    "tut_description": "Challenge based article covering getting an entities walking speed to match its animation",
+    "tut_link": "http://web.archive.org/web/20041211232423/http://www.planethalflife.com/botman/balfourroad/challenge2.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Getting an entity to point at you while it fires",
+    "tut_description": "Challenge based article about getting an entity to point at you while it fires",
+    "tut_link": "http://web.archive.org/web/20041211231234/http://www.planethalflife.com/botman/balfourroad/challenge3.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "A New Weapon Challenge",
+    "tut_description": "Challenge based article about adding a new weapon to Half-Life",
+    "tut_link": "http://web.archive.org/web/20050112152447/http://www.planethalflife.com/Botman/balfourroad/challenge4.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlcoding",
+    "tut_author_alt": "hlcoding"
+  },
+  {
+    "tut_name": "Temporary Entities",
+    "tut_description": "what temporary entities are and how to use them in Half-Life",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hl_te.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "the fixxxer",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "The Weapons Tutorial - Part One",
+    "tut_description": "how the code actually works so that you can add your own features",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hl_weap1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "the fixxxer",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "The Weapons Tutorial - Part Two",
+    "tut_description": "The second part builds upon the more general information learnt in the first, describing how it applies to each of the original half-life weapons.",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hl_weap2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "the fixxxer",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "The Weapons Tutorial - Part Three",
+    "tut_description": "add a complete, fully functional new weapon to Half-Life (and that includes the HUD componants!)",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hl_weap3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "the fixxxer",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "All About messages in Half-Life",
+    "tut_description": "This tutorial will describe the basics of adding new HUD componants to the client dll",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hl_msg.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "the fixxxer",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "The Half-Life DLL",
+    "tut_description": "Finding your way around the Half-Life DLL",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hl_seek.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "the fixxxer",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "Your First MOD",
+    "tut_description": "good introduction to starting a Half-Life Mod",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hl_first.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "the fixxxer",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "Observer Tutorial",
+    "tut_description": "create an observer mode for your mod",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hls_observer.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Aybara",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "Adding weapons to the HUD",
+    "tut_description": "Adding weapons to the HUD",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hls_wtohud.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Aybara",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "Super Sharp MP5",
+    "tut_description": "This is an easy way to change the widespread of the MP5 into a much smaller one.",
+    "tut_link": "http://web.archive.org/web/20050211203854/http://www.planethalflife.com/fixxxer/hltuts/hls_sharpmp5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Reflex",
+    "tut_author_alt": "fixxxer"
+  },
+  {
+    "tut_name": "Cluster grenades, a complete new weapon for Half-Life",
+    "tut_description": "Create a new weapon for Half-Life",
+    "tut_link": "http://web.archive.org/web/20010720214509/http://www.contaminated.net/whenitsdone/tutorials/coding/clustergrenades/index.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "RR2DO2",
+    "tut_author_alt": "whenitsdone"
+  },
+  {
+    "tut_name": "Weapon Names on the HUD",
+    "tut_description": "Weapon Names on the HUD",
+    "tut_link": "http://web.archive.org/web/20040702181915/http://www.contaminated.net/mach3/tutorials/weapons/weapon_names.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "Dynamic Lighting",
+    "tut_description": "Dynamic Lighting",
+    "tut_link": "http://web.archive.org/web/20040702084954/http://www.contaminated.net/mach3/tutorials/entities/dynamic_light.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "In-game Player Menus",
+    "tut_description": "In-game Player Menus",
+    "tut_link": "http://web.archive.org/web/20040702084215/http://www.contaminated.net/mach3/tutorials/interface/player_menu.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "TURRETS",
+    "tut_description": "TURRETS in Half-Life",
+    "tut_link": "http://web.archive.org/web/20040702183340/http://www.contaminated.net/mach3/tutorials/turrets.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "TURRETS - Secondary Fire",
+    "tut_description": "Here's how you PREPARE a turret to support the secondary fire mode.",
+    "tut_link": "http://web.archive.org/web/20040702183402/http://www.contaminated.net/mach3/tutorials/turrets/secondary_fire.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "TURRETS - Gauss Turret",
+    "tut_description": "This tutorial will somewhat describe how to create a completely new turret.",
+    "tut_link": "http://web.archive.org/web/20040702172621/http://www.contaminated.net/mach3/tutorials/turrets/gauss.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "TURRETS - HORNET GUN TURRET",
+    "tut_description": "This tutorial will somewhat describe how to create a completely new turret.",
+    "tut_link": "http://web.archive.org/web/20040702182108/http://www.contaminated.net/mach3/tutorials/turrets/hornetgun.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "TURRETS - Targeting Laser Spot",
+    "tut_description": "Here's how to get the little red dot on turrets.",
+    "tut_link": "http://web.archive.org/web/20040702182622/http://www.contaminated.net/mach3/tutorials/turrets/laser_spot.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "Using INI configuration files properly",
+    "tut_description": "Using INI configuration files properly",
+    "tut_link": "http://web.archive.org/web/20040702182740/http://www.contaminated.net/mach3/tutorials/other/game_config.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nighthawk",
+    "tut_author_alt": "mach3"
+  },
+  {
+    "tut_name": "How to Make a Desert-Eagle (SDK2.2)",
+    "tut_description": "How to make a Desert-Eagle",
+    "tut_link": "http://web.archive.org/web/20040807125144/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=238",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Meastro",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Make a player fly",
+    "tut_description": "Make a player fly",
+    "tut_link": "http://web.archive.org/web/20040807124350/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=237",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Sneezy",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Team Coloured Text and Spectator Chat ( Fix )",
+    "tut_description": "In pongles Tutorial on 'Team Coloured Text and Spectator Chat ' he has 2 small errors to fix :",
+    "tut_link": "http://web.archive.org/web/20040807115550/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=235",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "WhiteDragon",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Smoke Grenade",
+    "tut_description": "Code a Smoke Grenade",
+    "tut_link": "http://web.archive.org/web/20040807114924/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=234",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Toby Craten",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "CS AK47",
+    "tut_description": "Code a CS AK47 into Half-Life",
+    "tut_link": "http://web.archive.org/web/20040807114649/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=233",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Adrian Shephard\r\n",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Admin System",
+    "tut_description": "Code an Admin System into Half-Life",
+    "tut_link": "http://web.archive.org/web/20040807114010/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=231",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Doketid",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Model Classes",
+    "tut_description": "Model Classes in Half-Life",
+    "tut_link": "http://web.archive.org/web/20040807113644/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=230",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Prince_vegita",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Homing Rockets with no laser spot",
+    "tut_description": "Homing Rockets with no laser spot in Half-Life",
+    "tut_link": "http://web.archive.org/web/20040804050424/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=222",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Put Put Cars",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Glock Silenced and zoomed",
+    "tut_description": "Glock Silenced and zoomed in Half-Life",
+    "tut_link": "http://web.archive.org/web/20040804045433/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=220",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Put Put Cars",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "No minus frag when killed self",
+    "tut_description": "No minus frag when killed self in Half-Life",
+    "tut_link": "http://web.archive.org/web/20040804044441/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=219",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Snaileri",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Change the origin of bullets",
+    "tut_description": "This is how you would change the location of where tracers and bullets, or rockets, are coming from to match your weapon model ",
+    "tut_link": "http://web.archive.org/web/20040804042832/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=217",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MoltenMallard",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Changing maximum allowed weapons to 45",
+    "tut_description": "Changing maximum allowed weapons to 45",
+    "tut_link": "http://web.archive.org/web/20040804042657/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=215",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Matt Swartz",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "How to use UTIL_ScreenShake",
+    "tut_description": "Hello children, today i'll teach you how to use the UTIL_ScreenShake. Well actually it's really easy, you just gotta know what everything does.",
+    "tut_link": "http://web.archive.org/web/20040804042019/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=214",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "PowerSoul",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "UTIL_ScreenShake",
+    "tut_description": "You know, the UTIL_ScreenShake can only shake clients that are on ground. Because that sucks ass, here we're gonna fix it.",
+    "tut_link": "http://web.archive.org/web/20040804041505/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=213",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "PowerSoul",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Slots/positions Fix",
+    "tut_description": "Slots/positions Fix",
+    "tut_link": "http://web.archive.org/web/20040804040554/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=212",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Put Put Cars",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "CS Style 2x Zooming (for SDK 2.3)",
+    "tut_description": "CS Style 2x Zooming (for SDK 2.3)",
+    "tut_link": "http://web.archive.org/web/20040804035632/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=205",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jmv_cyber",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Team Coloured Text and Spectator Chat",
+    "tut_description": "This tut will show you how to make spectators stop seeing what alive people are saying and vice-vesa.",
+    "tut_link": "http://web.archive.org/web/20040804034923/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=204",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Pongles",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Change the mp5 grenade launcher to a Shotgun-cannon Fix.",
+    "tut_description": "Change the mp5 grenade launcher to a Shotgun-cannon Fix.",
+    "tut_link": "http://web.archive.org/web/20040804033455/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=200",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "General_Dodo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Respawn Delay (When Dead, Not When Spawn)",
+    "tut_description": "Respawn Delay (When Dead, Not When Spawn)",
+    "tut_link": "http://web.archive.org/web/20040804032610/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=199",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Pongles",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Decals for every mp5 bullet",
+    "tut_description": "Decals for every mp5 bullet",
+    "tut_link": "http://web.archive.org/web/20040804031133/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=197",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "johle",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Activating w_ models animated animation",
+    "tut_description": "Activating w_ models animated animation",
+    "tut_link": "http://web.archive.org/web/20040807143154/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=188",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jmv_cyber",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Activating w_ models animated animation",
+    "tut_description": "Activating w_ models animated animation",
+    "tut_link": "http://web.archive.org/web/20040807143154/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=188",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jmv_cyber",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Different Classes In Every Team (FIX)",
+    "tut_description": "Different Classes In Every Team (FIX)",
+    "tut_link": "http://web.archive.org/web/20040807141130/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=185",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cooljo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Different Classes In Every Team",
+    "tut_description": "Different Classes In Every Team",
+    "tut_link": "http://web.archive.org/web/20040807140737/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=184",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cooljo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Maintaining Class After Death",
+    "tut_description": "Maintaining Class After Death",
+    "tut_link": "http://web.archive.org/web/20040807133028/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=182",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "SyF",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Instant Firing Rockets (like in TFC)",
+    "tut_description": "Instant Firing Rockets (like in TFC)",
+    "tut_link": "http://web.archive.org/web/20040807132256/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=181",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jmv_cyber",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "CS Style 2x Zooming",
+    "tut_description": "CS Style 2x Zooming",
+    "tut_link": "http://web.archive.org/web/20040807131453/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=180",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jmv_cyber",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Funcs for Round system",
+    "tut_description": "Funcs for Round system",
+    "tut_link": "http://web.archive.org/web/20040807125549/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=178",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Biffenstof",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Changing Spawn Times",
+    "tut_description": "Changing Spawn Times",
+    "tut_link": "http://web.archive.org/web/20040807125352/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=177",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "CS/TFC Spawn Delay",
+    "tut_description": "CS/TFC Spawn Delay",
+    "tut_link": "http://web.archive.org/web/20040807115944/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=175",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "G3n3Starwind",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "How to change your MP5 to an MP5-SD3",
+    "tut_description": "How to change your MP5 to an MP5-SD3",
+    "tut_link": "http://web.archive.org/web/20040807115334/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=174",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jorkapp",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "HEV Chargers with larger charging capacity",
+    "tut_description": "HEV Chargers with larger charging capacity",
+    "tut_link": "http://web.archive.org/web/20040807114930/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=173",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jorkapp",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Change the mp5 grenade launcher to a Shotgun-cannon.",
+    "tut_description": "Change the mp5 grenade launcher to a Shotgun-cannon.",
+    "tut_link": "http://web.archive.org/web/20040807114611/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=172",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Biotech",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Light Effect After an Grenade (Very Fast)",
+    "tut_description": "Light Effect After an Grenade (Very Fast)",
+    "tut_link": "http://web.archive.org/web/20040804051114/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=166",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Green Driplles",
+    "tut_description": "Green Driplles",
+    "tut_link": "http://web.archive.org/web/20040804050704/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=165",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapons that use!",
+    "tut_description": "Very simple tutorial, but it will teach you how to allow a weapon to 'use' objects, just like when the player hits the use key.",
+    "tut_link": "http://web.archive.org/web/20040804045910/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=164",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "GroZZleR",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Standing Still For 5 Seconds (Respawning)",
+    "tut_description": "Standing Still For 5 Seconds (Respawning)",
+    "tut_link": "http://web.archive.org/web/20040804045428/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=163",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Half-Life Team System With VGUI Menu w/SDK 2.2",
+    "tut_description": "Half-Life Team System With VGUI Menu w/SDK 2.2",
+    "tut_link": "http://web.archive.org/web/20030225101134/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=160",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Sh1nj1",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Launch 3 Rockets",
+    "tut_description": "Launch 3 Rockets",
+    "tut_link": "http://web.archive.org/web/20040804042742/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=157",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Explode Shake (UPDATE)",
+    "tut_description": "Explode Shake (UPDATE)",
+    "tut_link": "http://web.archive.org/web/20040804041928/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=156",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Explosion Shake",
+    "tut_description": "Explosion Shake",
+    "tut_link": "http://web.archive.org/web/20040804041538/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=155",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BIGman10in",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "visible laser sight line thingy",
+    "tut_description": "visible laser sight line thingy",
+    "tut_link": "http://web.archive.org/web/20040804040528/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=154",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sh4D0w c0nSum3s",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Shields",
+    "tut_description": "Shields",
+    "tut_link": "http://web.archive.org/web/20040804040138/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=153",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sh4D0w c0nSum3s",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Proximity Satchels UPDATED",
+    "tut_description": "Proximity Satchels UPDATED",
+    "tut_link": "http://web.archive.org/web/20040804034830/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=151",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tony",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "No gun dropping after death",
+    "tut_description": "No gun dropping after death",
+    "tut_link": "http://web.archive.org/web/20040804031853/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=147",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BIGman10in",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon Clips and such",
+    "tut_description": "Weapon Clips and such",
+    "tut_link": "http://web.archive.org/web/20040804031308/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=146",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Brian",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Gman 2",
+    "tut_description": "Ever wanted to use gman twice in a map with a different look?",
+    "tut_link": "http://web.archive.org/web/20040804030534/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=145",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Gman 2",
+    "tut_description": "Ever wanted to use gman twice in a map with a different look?",
+    "tut_link": "http://web.archive.org/web/20040804030534/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=145",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Where Did I Hit Him (Update 2)",
+    "tut_description": "Where Did I Hit Him (Update 2)",
+    "tut_link": "http://web.archive.org/web/20040804025411/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=144",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "killa_kid",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Frags for killing Monsters in MP FIX",
+    "tut_description": "Frags for killing Monsters in MP FIX",
+    "tut_link": "http://web.archive.org/web/20040804025044/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=143",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "g00dbytes",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Frags for killing Monsters in MP",
+    "tut_description": "Frags for killing Monsters in MP",
+    "tut_link": "http://web.archive.org/web/20040804024529/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=141",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "g00dbytes",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Set Up a liblist.gam",
+    "tut_description": "Set Up a liblist.gam",
+    "tut_link": "http://web.archive.org/web/20040804023518/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=140",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "1 Swing Crowbar",
+    "tut_description": "make the crowbar only swing once when held",
+    "tut_link": "http://web.archive.org/web/20040807143234/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=139",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Reloadable HornetGun FIX",
+    "tut_description": " I tested my tutorial and found out that there was an error with the reloading with secondary attack so im attempting ot fix it",
+    "tut_link": "http://web.archive.org/web/20040622170332/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=138",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon Strength",
+    "tut_description": "how to change the strength of weapons",
+    "tut_link": "http://web.archive.org/web/20040807141816/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=137",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Respawning Monsters in MP (concept)",
+    "tut_description": "I will now explain how I did monster respawning in MP",
+    "tut_link": "http://web.archive.org/web/20040622170225/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=134",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "MP5 to Chain gun",
+    "tut_description": "MP5 to Chain gun",
+    "tut_link": "http://web.archive.org/web/20040807140942/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=132",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BIGman10in",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "RPG Item Dropper",
+    "tut_description": "RPG Item Dropper",
+    "tut_link": "http://web.archive.org/web/20040807140013/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=131",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Reloadable Hornet Gun",
+    "tut_description": "How to make a reloadable hornet gun ",
+    "tut_link": "http://web.archive.org/web/20040807133012/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=130",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Changing max ammo/clip capacities",
+    "tut_description": "Changing max ammo/clip capacities",
+    "tut_link": "http://web.archive.org/web/20040807131324/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=129",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "August",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Adding new monster classes",
+    "tut_description": "Adding new monster classes",
+    "tut_link": "http://web.archive.org/web/20040807131217/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=126",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "BULLET type",
+    "tut_description": "This tutorial will help you gain an understanding of the FireBulletsPlayer and FireBullets",
+    "tut_link": "http://web.archive.org/web/20040807130231/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=124",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tyler Durden",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon Categories Fix",
+    "tut_description": "Wep-Cat-Fix",
+    "tut_link": "http://web.archive.org/web/20040807125627/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=123",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "R3c01L",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon Categories",
+    "tut_description": "Weapon Categories",
+    "tut_link": "http://web.archive.org/web/20040807125428/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=122",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "R3c01L",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "6 shot magnum",
+    "tut_description": "In this tutorial we are going to make the secondary fire of the python fire off all six rounds.",
+    "tut_link": "http://web.archive.org/web/20040807115855/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=120",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sheepy",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Impulse 101",
+    "tut_description": "This tutorial teach a very simple way to edit, remove the cheating Impulse 101 code.",
+    "tut_link": "http://web.archive.org/web/20040622165925/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=119",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Max -V- PorZ",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Chumtoad firing hornetgun correction",
+    "tut_description": "Chumtoad firing hornetgun correction",
+    "tut_link": "http://web.archive.org/web/20040807113606/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=116",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "KnuckleHead",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "MP3 player in HL",
+    "tut_description": "MP3 player in HL",
+    "tut_link": "http://web.archive.org/web/20040807113216/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=115",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "XWider",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Sawed-Off Shotgun",
+    "tut_description": "This Tutorial will convert the .12 Gauge shotgun into a Sawed-Off Shotgun, This will make it much loader and it also fires a much larger load than a normal shotgun,",
+    "tut_link": "http://web.archive.org/web/20040807112638/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=114",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Chumtoad firing hornet gun",
+    "tut_description": "Chumtoad firing hornet gun",
+    "tut_link": "http://web.archive.org/web/20040804163508/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=113",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "KnuckleHead",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "ANY blood color",
+    "tut_description": "ANY blood color",
+    "tut_link": "http://web.archive.org/web/20040804045548/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=109",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "XWider",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Guass Fix",
+    "tut_description": "Guass Fix",
+    "tut_link": "http://web.archive.org/web/20040804045012/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=106",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MaRk",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Better Weapon Droping",
+    "tut_description": "Better Weapon Droping",
+    "tut_link": "http://web.archive.org/web/20040804042828/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=101",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Coder",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Secondary Attack for Egon: Teleport player to random info_player_deathmatch",
+    "tut_description": "Secondary Attack for Egon: Teleport player to random info_player_deathmatch",
+    "tut_link": "http://web.archive.org/web/20040804042324/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=100",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Energy weapon",
+    "tut_description": "Energy weapon",
+    "tut_link": "http://web.archive.org/web/20040622165857/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=99",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "fish_bucket",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "HL's Color Indexing System (fixed/changed)",
+    "tut_description": "HL's Color Indexing System (fixed/changed)",
+    "tut_link": "http://web.archive.org/web/20040807141055/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=96",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Unlimited Health Rechargers",
+    "tut_description": "Unlimited Health Rechargers",
+    "tut_link": "http://web.archive.org/web/20040807140923/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=95",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Vader",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Health and Armor restore after frag",
+    "tut_description": "Health and Armor restore after frag",
+    "tut_link": "http://web.archive.org/web/20040807140421/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=94",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HumanError",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Half-Life''s Color Indexing System",
+    "tut_description": "This tutorial is meant for the people who are confused about how Half-Life uses its color index's.",
+    "tut_link": "http://web.archive.org/web/20040807132442/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=92",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "TFC Concussion Fix",
+    "tut_description": "TFC Concussion Fix",
+    "tut_link": "http://web.archive.org/web/20040807131348/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=91",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Specific weapons for different teams",
+    "tut_description": "Specific weapons for different teams",
+    "tut_link": "http://web.archive.org/web/20040807131101/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=90",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MG-Chief",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Old Menus Fix",
+    "tut_description": "Old Menus Fix",
+    "tut_link": "http://web.archive.org/web/20040807130207/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=89",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MG-Chief",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Old Menus System",
+    "tut_description": "Old Menus System",
+    "tut_link": "http://web.archive.org/web/20040807124751/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=85",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MG-Chief",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Snark Grenade",
+    "tut_description": "Snark Grenade",
+    "tut_link": "http://web.archive.org/web/20040807115620/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=83",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mr. BLonDe",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Snark Grenade",
+    "tut_description": "Snark Grenade",
+    "tut_link": "http://web.archive.org/web/20040807115620/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=83",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mr. BLonDe",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Re-enabling the TFC concussion effect",
+    "tut_description": "Re-enabling the TFC concussion effect",
+    "tut_link": "http://web.archive.org/web/20040807114643/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=81",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Doubler Powerup",
+    "tut_description": "Doubler Powerup",
+    "tut_link": "http://web.archive.org/web/20040807114143/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=80",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Timay",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Solid Triggers",
+    "tut_description": "This is really a reference tutorial which will help you create your own solid based entities for things like the CS Buy Area. ",
+    "tut_link": "http://web.archive.org/web/20040807113913/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=79",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Timay",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon : FireGrenade",
+    "tut_description": "Weapon : FireGrenade",
+    "tut_link": "http://web.archive.org/web/20040807113152/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=78",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Axe-=HL CODER=-",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Improved Spectatormode for Teamplay",
+    "tut_description": "Improved Spectatormode for Teamplay",
+    "tut_link": "http://web.archive.org/web/20040807112544/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=77",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cybersonic",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon Ammo Modification, Etc.",
+    "tut_description": "Weapon Ammo Modification, Etc.",
+    "tut_link": "http://web.archive.org/web/20040804163614/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=76",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Bearman187",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Adding new bullet types",
+    "tut_description": " In this tutorial I will go over how to add new bullet types.",
+    "tut_link": "http://web.archive.org/web/20040804051108/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=75",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Matt Swartz",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Blood bursts",
+    "tut_description": "In this tutorial I will teach you how to use the UTIL_Bloodstream effect.",
+    "tut_link": "http://web.archive.org/web/20040804050632/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=74",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Matt Swartz",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon Selection Fix",
+    "tut_description": "This tut will fix the weapon select bug where weapons that have ran out of primary ammo but still have secondary ammo are not selectable.",
+    "tut_link": "http://web.archive.org/web/20040804050020/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=73",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Good Homing Rockets",
+    "tut_description": "This tutorial shows how to change the rpg rockets to home in on the closest living thing besides you.",
+    "tut_link": "http://web.archive.org/web/20040804045551/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=72",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Improved Freeze Grenades",
+    "tut_description": " I have found a way to make Better Freeze Grenades",
+    "tut_link": "http://web.archive.org/web/20040804044629/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=71",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Shadow Consumes",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Sensor Mine",
+    "tut_description": "Sensor Mine",
+    "tut_link": "http://web.archive.org/web/20040804044453/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=70",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Supertramp",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Medkit Bugfix",
+    "tut_description": "Medkit Bugfix",
+    "tut_link": "http://web.archive.org/web/20040804043236/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=69",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Shadow Consumes",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Charging Crossbow",
+    "tut_description": "Charging Crossbow",
+    "tut_link": "http://web.archive.org/web/20040804042343/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=68",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Supertramp",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "2 zoom sniper scope",
+    "tut_description": "2 zoom sniper scope",
+    "tut_link": "http://web.archive.org/web/20040804042213/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=67",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Sniper",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Freeze Grenades",
+    "tut_description": "Freeze Grenades",
+    "tut_link": "http://web.archive.org/web/20040804041434/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=65",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Shadow Consumes",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Jumping and Landing Sounds",
+    "tut_description": "Jumping and Landing Sounds",
+    "tut_link": "http://web.archive.org/web/20040804040742/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=64",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Deany",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Gauss Teleporter",
+    "tut_description": "Gauss Teleporter",
+    "tut_link": "http://web.archive.org/web/20040804035648/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=61",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Shadow Consumes",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Make a Particle Burst When a Player Joins (Like Q1/Q2)",
+    "tut_description": "Make a Particle Burst When a Player Joins (Like Q1/Q2)",
+    "tut_link": "http://web.archive.org/web/20040804035018/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=60",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Turn off flashlight after player death",
+    "tut_description": "Turn off flashlight after player death",
+    "tut_link": "http://web.archive.org/web/20040804033615/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=59",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Screenshaking",
+    "tut_description": "Screenshaking",
+    "tut_link": "http://web.archive.org/web/20040804033142/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=56",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "SiliconSniper",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Disable The FoV Command",
+    "tut_description": "Disable The FoV Command",
+    "tut_link": "http://web.archive.org/web/20040804032100/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=54",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Newbie",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Where DiD I Hit Him (Update)",
+    "tut_description": "Where DiD I Hit Him (Update)",
+    "tut_link": "http://web.archive.org/web/20040804031415/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=53",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Newbie",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Adding new advanced options",
+    "tut_description": "Adding new advanced options",
+    "tut_link": "http://web.archive.org/web/20040804030054/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=51",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon Droppings",
+    "tut_description": "Weapon Droppings",
+    "tut_link": "http://web.archive.org/web/20040804025300/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=49",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "mark",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "How to allow monsters in mp",
+    "tut_description": "How to allow monsters in mp",
+    "tut_link": "http://web.archive.org/web/20040804024843/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=48",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mark",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Make a Medic",
+    "tut_description": "Make a Medic",
+    "tut_link": "http://web.archive.org/web/20040804024042/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=44",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "F!oppy",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Parachute",
+    "tut_description": "Okay this tutorial covers how to create a parachute like the one in firearms",
+    "tut_link": "http://web.archive.org/web/20040807143541/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=42",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "®2-D2",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Smoke trail behind player",
+    "tut_description": "Smoke trail behind player",
+    "tut_link": "http://web.archive.org/web/20040807143346/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=41",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "®2-D2",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "A Laser-Pointer for any hl-weapon",
+    "tut_description": "A Laser-Pointer for any hl-weapon",
+    "tut_link": "http://web.archive.org/web/20040807141812/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=38",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "F!oppy",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Round based system",
+    "tut_description": "Round based system",
+    "tut_link": "http://web.archive.org/web/20040807141100/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=37",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "De KoFfie©",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Adding Ammo items to a H-L weapon.",
+    "tut_description": "Adding Ammo items to a H-L weapon.",
+    "tut_link": "http://web.archive.org/web/20040807140849/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=32",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "engineer",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Proximity Fuse for Satchels",
+    "tut_description": "Proximity Fuse for Satchels",
+    "tut_link": "http://web.archive.org/web/20040807135849/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=31",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tony",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Radio System",
+    "tut_description": "This tutorial is made to help you create a Radio System (like CS). With sounds and team only messages.",
+    "tut_link": "http://web.archive.org/web/20040807132720/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=29",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "zuzin",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Opening slots for old Menu System",
+    "tut_description": "Opening slots for old Menu System",
+    "tut_link": "http://web.archive.org/web/20040807132422/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=28",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "IceBryce",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Usp ( Counter-Strike Style)",
+    "tut_description": "Usp ( Counter-Strike Style)",
+    "tut_link": "http://web.archive.org/web/20040807131608/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=27",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Newbie Coder",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "How to change the tripmine beam color in the console",
+    "tut_description": "How to change the tripmine beam color in the console",
+    "tut_link": "http://web.archive.org/web/20040807130953/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=26",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "FLoyD",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Faster clicking equals faster shots",
+    "tut_description": "Faster clicking equals faster shots",
+    "tut_link": "http://web.archive.org/web/20040807130525/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=25",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HeadHunter",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Tripmines with configurable beam brightness",
+    "tut_description": "Tripmines with configurable beam brightness",
+    "tut_link": "http://web.archive.org/web/20040807125546/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=24",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tony",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Improved MP5 Burst",
+    "tut_description": "Improved MP5 Burst",
+    "tut_link": "http://web.archive.org/web/20040807113308/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=23",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tony",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Changing The Server Browser To Show Your MOD Name In 'Game Type'",
+    "tut_description": "Changing The Server Browser To Show Your MOD Name In 'Game Type'",
+    "tut_link": "http://web.archive.org/web/20040804045005/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=22",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Chip Lambert",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Making a NailGun",
+    "tut_description": "Making a NailGun",
+    "tut_link": "http://web.archive.org/web/20040804033330/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=20",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "3 Mode Zoom For Mp5",
+    "tut_description": "3 Mode Zoom For Mp5",
+    "tut_link": "http://web.archive.org/web/20040807143511/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=19",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "FlashBang",
+    "tut_description": "FlashBang",
+    "tut_link": "http://web.archive.org/web/20040807131256/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=18",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Mp5 Burst",
+    "tut_description": "Mp5 Burst",
+    "tut_link": "http://web.archive.org/web/20040807113725/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=17",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Flipmo",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Infrared NightVision",
+    "tut_description": "Infrared NightVision",
+    "tut_link": "http://web.archive.org/web/20040804034006/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=15",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Prefect",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Vehicles",
+    "tut_description": "Vehicles",
+    "tut_link": "http://web.archive.org/web/20040807143936/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=14",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "kukyona",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Speed",
+    "tut_description": "This tuturial helps you set your speed this tuturial is really easy.",
+    "tut_link": "http://web.archive.org/web/20040807132321/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=13",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MachoMan",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Yell at them",
+    "tut_description": "Yell at them",
+    "tut_link": "http://web.archive.org/web/20040807115416/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=12",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "IceBryce",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Change Armor Spawn",
+    "tut_description": "This tuturial will help you to change the armor you are spawning with",
+    "tut_link": "http://web.archive.org/web/20040804050013/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=11",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MachoMan",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Hud_print",
+    "tut_description": "This tuturial shows you how to get a message on the HUD",
+    "tut_link": "http://web.archive.org/web/20040804043432/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=7",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MachoMan",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Shooting through walls",
+    "tut_description": "Shooting through walls",
+    "tut_link": "http://web.archive.org/web/20040804034531/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=6",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Viri-",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Shooting through walls",
+    "tut_description": "Shooting through walls",
+    "tut_link": "http://web.archive.org/web/20040804034531/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=6",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Viri-",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Spectator-style camera with clipping",
+    "tut_description": "Spectator-style camera with clipping",
+    "tut_link": "http://web.archive.org/web/20040807120008/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=236",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "XWider",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Blast Soundwave Effect From a Weapon",
+    "tut_description": "Blast Soundwave Effect From a Weapon",
+    "tut_link": "http://web.archive.org/web/20040807112908/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=229",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MadMonkee",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Blended color indication",
+    "tut_description": "Blended color indication",
+    "tut_link": "http://web.archive.org/web/20040804163243/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=226",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "XWider",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "How to create a DEAD message in your scoreboard",
+    "tut_description": "How to create a DEAD message in your scoreboard",
+    "tut_link": "http://web.archive.org/web/20040804051012/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=223",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Dolphin's Eye",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Placing Breakpoints",
+    "tut_description": "Placing Breakpoints",
+    "tut_link": "http://web.archive.org/web/20040804043713/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=218",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "G00fy",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Decals for every mp5 bullet (FIX)",
+    "tut_description": "Decals for every mp5 bullet (FIX)",
+    "tut_link": "http://web.archive.org/web/20040804031850/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=198",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "johle",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Particles FIXes and improvements",
+    "tut_description": "Particles FIXes and improvements",
+    "tut_link": "http://web.archive.org/web/20040804030123/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=196",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "XWider",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Health/Armor color blending",
+    "tut_description": "Health/Armor color blending",
+    "tut_link": "http://web.archive.org/web/20040804025512/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=195",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "XWider",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Changing Armour colours",
+    "tut_description": "What this code will do is change the armour hud colours depending on how much armour you actually have.",
+    "tut_link": "http://web.archive.org/web/20040804024233/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=193",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BadKarmaJunior",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Adding a Diablo View Effect",
+    "tut_description": "In this tut, i will show you how to add a diablo camera effect to your mod.",
+    "tut_link": "http://web.archive.org/web/20040804023943/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=190",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Valk",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Ping Rating",
+    "tut_description": "Ping Rating",
+    "tut_link": "http://web.archive.org/web/20040807142722/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=187",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jorkapp",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Getting Started",
+    "tut_description": "Getting Started",
+    "tut_link": "http://web.archive.org/web/20040807141622/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=186",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Change host players ping on the scoreboard to 'Host'",
+    "tut_description": "Change host players ping on the scoreboard to 'Host'",
+    "tut_link": "http://web.archive.org/web/20040807140433/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=183",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Endolaylith",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "HUD Health Bar",
+    "tut_description": "HUD Health Bar",
+    "tut_link": "http://web.archive.org/web/20040807130603/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=179",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jorkapp",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Weapon flags",
+    "tut_description": "Every Half-Life weapon have flags. For example MP5",
+    "tut_link": "http://web.archive.org/web/20040807113338/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=169",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Durane",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Config for map",
+    "tut_description": "If u want add options to your maps u can add to all maps config files...",
+    "tut_link": "http://web.archive.org/web/20040807112503/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=168",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Durane",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "thirdperson camera clip",
+    "tut_description": "thirdperson camera clip",
+    "tut_link": "http://web.archive.org/web/20040804163425/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=167",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BIGman10in",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Dule Shell Ejects",
+    "tut_description": "This will tell you how to make Client side dule shell ejections for dule guns",
+    "tut_link": "http://web.archive.org/web/20040804045100/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=162",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sh4D0w c0nSum3s",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "TO Recoil",
+    "tut_description": "TO Recoil",
+    "tut_link": "http://web.archive.org/web/20040804042913/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=159",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cont - Force MOD",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "View Roll On Strafe",
+    "tut_description": "This tutorial will show you how to achieve the view rolling effect while strafing, as in DMC and AHL",
+    "tut_link": "http://web.archive.org/web/20040804034438/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=150",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Drop NOTHING on death",
+    "tut_description": "Drop NOTHING on death",
+    "tut_link": "http://web.archive.org/web/20040804033320/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=149",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "smasherbob",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Governer",
+    "tut_description": "Governer",
+    "tut_link": "http://web.archive.org/web/20040804032357/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=148",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "CopCartman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Scoreboard team colors",
+    "tut_description": "You wanted to know how to color the teams in the scoreboard?",
+    "tut_link": "http://web.archive.org/web/20040622170442/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=118",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Demoman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Mp3 Fix",
+    "tut_description": "Mp3 Fix",
+    "tut_link": "http://web.archive.org/web/20040807113957/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=117",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Lukas Proggrammer",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Team name fix for SDK 2.2",
+    "tut_description": "Here is a fix for people having problems with DarkKnight's team VGUI tutorial",
+    "tut_link": "http://web.archive.org/web/20040804050956/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=112",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Demoman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Modeling events",
+    "tut_description": "Modeling events",
+    "tut_link": "http://web.archive.org/web/20040804050256/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=110",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "XWider",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "How To Make Thirdperson View To Your Mod",
+    "tut_description": "How To Make Thirdperson View To Your Mod",
+    "tut_link": "http://web.archive.org/web/20040804044258/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=104",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "MaRk",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Clientside richoche sounds",
+    "tut_description": "This tutorial will tell you how to make clientside richoche sounds. That basicly means, if you shoot at metal railings, then you hear metal richoche's etc.",
+    "tut_link": "http://web.archive.org/web/20040804043809/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=103",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Demoman",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "VGUI HUD Suppliment (Part 2)",
+    "tut_description": "Alright, you made it this far, now there isn''t much more to be done, you have the basis already, now we just gotta do some normal VGUI code. Adding panels and labels and such. So, lets get started...",
+    "tut_link": "http://web.archive.org/web/20040807142653/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=98",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "VGUI HUD Suppliment (Part 1)(FIX)",
+    "tut_description": "It has been brought to my attention that people are having problems with their OTHER VGUI menus after doing this HUD tutorial... ie: no mouse control. I have found the cause, and figured out how to fix it.",
+    "tut_link": "http://web.archive.org/web/20040807142003/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=97",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "VGUI HUD Suppliment (Part 1)",
+    "tut_description": "Ok, now, for starters, this tutorial will explain how to set the HUD up, and just get the basis.",
+    "tut_link": "http://web.archive.org/web/20040807132909/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=93",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "View model rendering tut fix",
+    "tut_description": "View model rendering tut fix",
+    "tut_link": "http://web.archive.org/web/20040807125715/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=87",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "View model rendering",
+    "tut_description": "View model rendering",
+    "tut_link": "http://web.archive.org/web/20040807125347/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=86",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Sparks &amp; Smokepuffs fix",
+    "tut_description": "Sparks &amp; Smokepuffs fix",
+    "tut_link": "http://web.archive.org/web/20040807114905/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=82",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "^^BloodBeast^^",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "How to Make your Death Msg more like you",
+    "tut_description": "How to Make your Death Msg more like you",
+    "tut_link": "http://web.archive.org/web/20040804031009/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=52",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Fast 'n easy weapon naming",
+    "tut_description": "Fast 'n easy weapon naming",
+    "tut_link": "http://web.archive.org/web/20040804023544/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=43",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ms",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Sparks &amp; Smokepuffs",
+    "tut_description": "Sparks &amp; Smokepuffs",
+    "tut_link": "http://web.archive.org/web/20040622170903/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=39",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "zuzin",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "Colour attributes for Menus",
+    "tut_description": "Colour attributes for Menus",
+    "tut_link": "http://web.archive.org/web/20040804035928/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=21",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "zuzin",
+    "tut_author_alt": "hlp"
+  },
+  {
+    "tut_name": "A smoke grenade",
+    "tut_description": "Difficulty rating: easy. This relies heavily on existing Halflife grenade code and has almost nothing original.",
+    "tut_link": "http://web.archive.org/web/20030402171642/http://www.nerdchow.com/halflife/smoke_grenade.php",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "nerdchow",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Throwable Crowbar",
+    "tut_description": "Code a Throwable Crowbar",
+    "tut_link": "http://web.archive.org/web/20020717063241/http://lambda.bubblemod.org/tuts/crowbar/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "bubblemod",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "3rd Person Ansicht",
+    "tut_description": "3rd Person Ansicht (German)",
+    "tut_link": "http://web.archive.org/web/20030518214009/http://www.resourcecode.de/view.php?id=734",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Black",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Flammenwerfer erstellen",
+    "tut_description": "Flammenwerfer erstellen (German)",
+    "tut_link": "http://web.archive.org/web/20030518214809/http://www.resourcecode.de/view.php?id=739",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Seeker",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Half-Life Graphics Part 1 - 2D Sprites",
+    "tut_description": "Half-Life Graphics Part 1 - 2D Sprites (German)",
+    "tut_link": "http://web.archive.org/web/20071103160602/http://resourcecode.de/view.php?id=744",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Shadowman",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Half-Life Graphics Part 2 - EfxAPI",
+    "tut_description": "Half-Life Graphics Part 2 - EfxAPI (German)",
+    "tut_link": "http://web.archive.org/web/20071103160557/http://resourcecode.de/view.php?id=743",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Shadowman",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Half-Life Graphics Part 3 - TriAPI",
+    "tut_description": "Half-Life Graphics Part 3 - TriAPI (German)",
+    "tut_link": "http://web.archive.org/web/20071103160101/http://resourcecode.de/view.php?id=742",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Shadowman",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Minikarte im HUD",
+    "tut_description": "Minikarte im HUD (German)",
+    "tut_link": "http://web.archive.org/web/20071103160107/http://resourcecode.de/view.php?id=745",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Diablo_bth",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Geldanzeige im HUD",
+    "tut_description": "Geldanzeige im HUD (German)",
+    "tut_link": "http://web.archive.org/web/20071103160112/http://resourcecode.de/view.php?id=747",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Creeper",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "WaterMatch",
+    "tut_description": "WaterMatch (German)",
+    "tut_link": "http://web.archive.org/web/20071103155018/http://resourcecode.de/view.php?id=746",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "RirA",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Unsichtbarkeit",
+    "tut_description": "Unsichtbarkeit (German)",
+    "tut_link": "http://web.archive.org/web/20071103160609/http://resourcecode.de/view.php?id=748",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "McMapper",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "MP3-Dateien in HL abspielen",
+    "tut_description": "MP3-Dateien in HL abspielen (German)",
+    "tut_link": "http://web.archive.org/web/20071103160122/http://resourcecode.de/view.php?id=750",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheTinySteini",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Nebel in HL (SDK 2.2)",
+    "tut_description": "Nebel in HL (SDK 2.2) (German)",
+    "tut_link": "http://web.archive.org/web/20071103160117/http://resourcecode.de/view.php?id=749",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Basiror",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Bullet Chasecam",
+    "tut_description": "Bullet Chasecam (German)",
+    "tut_link": "http://web.archive.org/web/20071103160614/http://resourcecode.de/view.php?id=752",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Seeker",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Client-Side Waffen-Coding",
+    "tut_description": "Client-Side Waffen-Coding (German)",
+    "tut_link": "http://web.archive.org/web/20071103160133/http://resourcecode.de/view.php?id=754",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Retro",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Half-Life debuggen",
+    "tut_description": "Half-Life debuggen (German)",
+    "tut_link": "http://web.archive.org/web/20071103155412/http://resourcecode.de/view.php?id=757",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheTinySteini",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Particle System",
+    "tut_description": "Particle System (German)",
+    "tut_link": "http://web.archive.org/web/20071103160143/http://resourcecode.de/view.php?id=759",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheTinySteini",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Das Half-Life Serverprotokoll",
+    "tut_description": "Das Half-Life Serverprotokoll (German)",
+    "tut_link": "http://web.archive.org/web/20071027114340/http://www.resourcecode.de/view.php?id=774",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "King2500",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Roter Bildschirm bei Schaden",
+    "tut_description": "Roter Bildschirm bei Schaden (German)",
+    "tut_link": "http://web.archive.org/web/20071103160719/http://resourcecode.de/view.php?id=773",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nightmare",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Crosshair Tutorial",
+    "tut_description": "Crosshair Tutorial (German)",
+    "tut_link": "http://web.archive.org/web/20071103155429/http://resourcecode.de/view.php?id=772",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Airmack",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Spreadsystem",
+    "tut_description": "Spreadsystem (German)",
+    "tut_link": "http://web.archive.org/web/20071103160629/http://resourcecode.de/view.php?id=771",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HankY",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Crosshair Tutorial Nr.2",
+    "tut_description": "Crosshair Tutorial Nr.2 (German)",
+    "tut_link": "http://web.archive.org/web/20071103155422/http://resourcecode.de/view.php?id=768",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Airmack",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Die Erstellung eines Laserstrahls",
+    "tut_description": "Die Erstellung eines Laserstrahls (German)",
+    "tut_link": "http://web.archive.org/web/20071103160158/http://resourcecode.de/view.php?id=767",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Executioner",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Waffensystem",
+    "tut_description": "Waffensystem (German)",
+    "tut_link": "http://web.archive.org/web/20071103160619/http://resourcecode.de/view.php?id=766",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hankY",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Bullet FlyBy",
+    "tut_description": "Bullet FlyBy (German)",
+    "tut_link": "http://web.archive.org/web/20071103160153/http://resourcecode.de/view.php?id=765",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Paul Gielens",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Monster Teamplay",
+    "tut_description": "Monster Teamplay (German)",
+    "tut_link": "http://web.archive.org/web/20071103160203/http://resourcecode.de/view.php?id=779",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Bleifrei",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "MP3-Entity erstellen",
+    "tut_description": "MP3-Entity erstellen (German)",
+    "tut_link": "http://web.archive.org/web/20071103160213/http://resourcecode.de/view.php?id=793",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Havoc",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Orthogonale TriAPI",
+    "tut_description": "Orthogonale TriAPI (German)",
+    "tut_link": "http://web.archive.org/web/20071103155328/http://resourcecode.de/view.php?id=1003",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Spawnpoints",
+    "tut_description": "Spawnpoints (German)",
+    "tut_link": "http://web.archive.org/web/20071103155339/http://resourcecode.de/view.php?id=1270",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Teamdeathmatch Spielmodus",
+    "tut_description": "Teamdeathmatch Spielmodus (German)",
+    "tut_link": "http://web.archive.org/web/20071103155344/http://resourcecode.de/view.php?id=1285",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mr. T",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Hud Bars (Statussäulen)",
+    "tut_description": "Hud Bars (Statussäulen) (German)",
+    "tut_link": "http://web.archive.org/web/20071103160456/http://resourcecode.de/view.php?id=1427",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mamarulez",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Steam-Developing Q&amp;A",
+    "tut_description": "Steam-Developing Q&amp;A (German)",
+    "tut_link": "http://web.archive.org/web/20071103154906/http://resourcecode.de/view.php?id=1507",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Various",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Recoil",
+    "tut_description": "Recoil (German)",
+    "tut_link": "http://web.archive.org/web/20071103155954/http://resourcecode.de/view.php?id=1722",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HankY / Mr.T",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "Erstellen einer schallgedämpften USP",
+    "tut_description": "Creating a Silenced USP (German)",
+    "tut_link": "http://web.archive.org/web/20071103154917/http://resourcecode.de/view.php?id=1737",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DarKRealm",
+    "tut_author_alt": "resourcecode"
+  },
+  {
+    "tut_name": "DISGUISE TUTORIAL",
+    "tut_description": "This tutorial shows how you can make a very simple disguise system with an old style menu.",
+    "tut_link": "http://web.archive.org/web/20101218232004/http://editingarchive.com/viewer.php?ID=122",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeViAnT",
+    "tut_author_alt": "thearchive"
+  },
+  {
+    "tut_name": "M16 TUTORIAL",
+    "tut_description": "This tutorial shows how to make an M16 assault rifle, with an optional silencer, just like the M4 rifle from Counter-Strike.",
+    "tut_link": "http://web.archive.org/web/20101218231431/http://editingarchive.com/viewer.php?ID=121",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeViAnT",
+    "tut_author_alt": "thearchive"
+  },
+  {
+    "tut_name": "Sentry continued: adding Sentry-parts box and hud-icon",
+    "tut_description": "Sentry continued: adding Sentry-parts box and hud-icon",
+    "tut_link": "http://web.archive.org/web/20071103120512/http://www.gamedesign.net/node/541",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cheesemonster",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "Sentry",
+    "tut_description": "The final sentry will look and work something like the sentries in TFC that the engineers build, we are going to have a phase when a player builds the sentry and can give it ammo and rockets.",
+    "tut_link": "http://web.archive.org/web/20071103120459/http://www.gamedesign.net/node/538",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cheesemonster",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "Adding a zoom to the mp5",
+    "tut_description": "adding zoom functinality to your mp5",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/182/Adding_a_zoom_to_the_mp5",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Le Chief",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Where is Poppy - Setting up a GoldSrc Mod",
+    "tut_description": "In this, the first part in the 'Where is Poppy' modding tutorial series i highlight the steps required for setting up your GoldSrc Mod for its first run",
+    "tut_link": "http://www.sourcemodding.com/tutorials/goldsrc/projects/where-is-poppy/setting-up-a-goldsrc-mod/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sourcemodding",
+    "tut_author_alt": "sourcemodding"
+  },
+  {
+    "tut_name": "Where is Poppy - Your First Custom Entity",
+    "tut_description": "In this, the second part in the 'Where is Poppy' modding tutorial series I take you through the steps for creating your own custom mesh loading entity",
+    "tut_link": "http://www.sourcemodding.com/tutorials/goldsrc/projects/where-is-poppy/your-first-custom-entity/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sourcemodding",
+    "tut_author_alt": "sourcemodding"
+  },
+  {
+    "tut_name": "Add cl_righthand to your mod",
+    "tut_description": "This is for Half-Life 1 and the GoldSrc engine",
+    "tut_link": "https://gamebanana.com/tuts/12284",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "RaraKnight",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Adding Weapons in 2.2 sdk PART 1",
+    "tut_description": "Okay, so you want to add your own weapon to the 2.2 sdk?",
+    "tut_link": "https://web.archive.org/web/20050501064650/http://www.3rdlife.net:80/3port/articles/show.php/13",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Combat",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Adding new weapons 2.2 sdk PART 2",
+    "tut_description": "continued",
+    "tut_link": "https://web.archive.org/web/20040902100203/http://www.3rdlife.net:80/3port/articles/show.php/14",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Combat",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Changing the HUD color",
+    "tut_description": "Changing the HUD color",
+    "tut_link": "https://web.archive.org/web/20040902095835/http://www.3rdlife.net:80/3port/articles/show.php/15",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Combat",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Fog in half-life (using tri-api)",
+    "tut_description": "This tutorial should be easy to follow provided that you have at least some\r\ngrounding in c++",
+    "tut_link": "https://web.archive.org/web/20040902100119/http://www.3rdlife.net:80/3port/articles/show.php/2",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cause of death",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Half-life\\'s hidden physics code",
+    "tut_description": "Half life contains some extra code dealing with dead body physics",
+    "tut_link": "https://web.archive.org/web/20050807083842/http://www.3rdlife.net:80/3port/articles/show.php/3",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cause of death",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Remove the minus frag when killed self",
+    "tut_description": "You want to kill yourself and dont get minus points?",
+    "tut_link": "https://web.archive.org/web/20050404025930/http://3rdlife.net:80/3port/articles/show.php/58",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jorg40",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Removing blood and gibs from Half Life",
+    "tut_description": "This tutorial will show you how to remove blood and gore from Half Life.",
+    "tut_link": "https://web.archive.org/web/20050403214835/http://www.3rdlife.net:80/3port/articles/show.php/52",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Cause of death",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Rescaling the easiest way",
+    "tut_description": "You want the most easy way to rescale halflife",
+    "tut_link": "https://web.archive.org/web/20060614221017/http://www.3rdlife.net:80/3port/articles/article.php?id=71",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "cctnt",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "bouncing bodies",
+    "tut_description": "bouncing bodies",
+    "tut_link": "https://web.archive.org/web/20060405222106/http://www.3rdlife.net:80/3port/articles/article.php?id=67",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scojer",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Stop Grenade Tumbling",
+    "tut_description": "Ever noticed that grenade the MP5 fires tumbles end over end in the air",
+    "tut_link": "https://web.archive.org/web/20040902095702/http://www.3rdlife.net:80/3port/articles/show.php/16",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Combat",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Team Spawn Point Fix",
+    "tut_description": "okay, make sure to do BigGuy\\'s tut on team spawn points first",
+    "tut_link": "https://web.archive.org/web/20040902095815/http://www.3rdlife.net:80/3port/articles/show.php/17",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Combat",
+    "tut_author_alt": "3rdlife"
+  },
+  {
+    "tut_name": "Shotgun Modes",
+    "tut_description": "decide between firing a super compressed attack or a really spread out attack",
+    "tut_link": "https://web.archive.org/web/20000618021308/http://www.halflife.net:80/hec/cdtut/shotgun.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Camperman",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Weapon Modifications",
+    "tut_description": "Weapon Modifications",
+    "tut_link": "https://web.archive.org/web/20011230150855fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/weaponmod.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Quick Guide to Debugging",
+    "tut_description": "Quick Guide to Debugging",
+    "tut_link": "https://web.archive.org/web/20011221040402fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/34.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Pink",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "HUD Graphics for Half-Life",
+    "tut_description": "This tutorial almost completely explains how to do HUD graphics.",
+    "tut_link": "https://web.archive.org/web/20020202154815fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/33.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "2",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Red screen after Death and Damage",
+    "tut_description": "Red screen after Death and Damage",
+    "tut_link": "https://web.archive.org/web/20020202154303fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/32.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Nightmare",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "TFC Status Bar Functionality",
+    "tut_description": "TFC has a generic status bar that sends a bunch of different details to the client.",
+    "tut_link": "https://web.archive.org/web/20011204104926fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/30.htm",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": "Robin Walker",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Counterstrike Gameplay",
+    "tut_description": "Counterstrike Gameplay",
+    "tut_link": "https://web.archive.org/web/20011204072800fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/26.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Gooseman, Pink",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Screen Fading and Shaking",
+    "tut_description": "This tutorial will show you how to use the UTIL_ScreenFade and UTIL_ScreenShake functions in your weapons to create effects like night vision and vibrations.",
+    "tut_link": "https://web.archive.org/web/20011204054056fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/24.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Changing Blood and HUD Colors",
+    "tut_description": "Heres a short tutorial on how to change the HUD and blood colors. Really simple.",
+    "tut_link": "https://web.archive.org/web/20011006140337fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/23.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "How to Compile the Half-Life Standard SDK on the Linux Platform",
+    "tut_description": "How to Compile the Half-Life Standard SDK on the Linux Platform",
+    "tut_link": "https://web.archive.org/web/20011204053430fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/21.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Leon Hartwig",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Class System Tutorial ",
+    "tut_description": "There are a few ways of implementing a class system.",
+    "tut_link": "https://web.archive.org/web/20011204051100fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/20.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Blake Grant",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Weapons in the HUD Tutorial",
+    "tut_description": "Made a weapon and can\\'t figure out how in the hell to get it into the HUD?",
+    "tut_link": "https://web.archive.org/web/20011204051713fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/19.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Blake Grant",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Half-Life Observer Mode Tutorial",
+    "tut_description": "Half-Life Observer Mode Tutorial",
+    "tut_link": "https://web.archive.org/web/20011204050118fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/18.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Blake Grant",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Printing messages to a client",
+    "tut_description": "how to print stuff to a client",
+    "tut_link": "https://web.archive.org/web/20011006201805fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/17.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Pink",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Startup Edits",
+    "tut_description": "Specify the weapons and ammo players spawn with via your server.cfg or listenserver.cfg",
+    "tut_link": "https://web.archive.org/web/20020202160734fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/16.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Dr Schwa",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Menus in Half-Life",
+    "tut_description": "Menus in Half-Life",
+    "tut_link": "https://web.archive.org/web/20010821231942fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/15.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tim Smith",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "C++ Review",
+    "tut_description": "C++ Cheat Sheet",
+    "tut_link": "https://web.archive.org/web/20020611193451/http://www.planethalflife.com:80/wavelength/coding/tutorials/14.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Erik Corradino",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Coding New Entities for Half-Life",
+    "tut_description": "This is a simple tutorial to discuss making new entities, and reading their keys in your code, so you can customize them.",
+    "tut_link": "https://web.archive.org/web/20011204042507fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/13.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "PsychoDude",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Power Shotgun",
+    "tut_description": "here\\'s how to create a power-shotgun",
+    "tut_link": "https://web.archive.org/web/20011221041607fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/12.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Dr Octagon",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Holster Animation",
+    "tut_description": "Holster Animation",
+    "tut_link": "https://web.archive.org/web/20011006194358fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/11.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Trond",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Snark-Dropping Crossbow",
+    "tut_description": "Snark-Dropping Crossbow",
+    "tut_link": "https://web.archive.org/web/20011221040416fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/10.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Grunt",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Door Fix",
+    "tut_description": "It seems the door entities have a bug, if they are blocked, the moving sound gets played continuously even after the door closes or opens.",
+    "tut_link": "https://web.archive.org/web/20011006193150fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/08.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tim Smith",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Basic Half-Life Weapon Coding",
+    "tut_description": "Basic Half-Life Weapon Coding",
+    "tut_link": "https://web.archive.org/web/20011007023818fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/07_2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "PsychoDude",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Hand Cannon",
+    "tut_description": "How to convert the .12 Gauge shotgun into a Hand Cannon",
+    "tut_link": "https://web.archive.org/web/20011204103938fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/06.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Phlash",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "RPG Power",
+    "tut_description": "make the RPG a little more powerful",
+    "tut_link": "https://web.archive.org/web/20011204073317fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/05.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Voidmaster",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Radio Voices",
+    "tut_description": "This tutorial modifies the client dll (in codedir\\\\cl_dll) to play audio sounds.",
+    "tut_link": "https://web.archive.org/web/20011204073118fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/04.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Decker",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Exploding Rounds for the Python",
+    "tut_description": "Exploding Rounds for the Python",
+    "tut_link": "https://web.archive.org/web/20011204055929fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/03.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Chris Whitman",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Silenced Glock",
+    "tut_description": "Silenced Glock",
+    "tut_link": "https://web.archive.org/web/20011204054313fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/02.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Chris Whitman",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Triple-Bolt Crossbow",
+    "tut_description": "Triple-Bolt Crossbow",
+    "tut_link": "https://web.archive.org/web/20011204054147fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/01.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Drywall",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Installing the SDK",
+    "tut_description": "Installing the SDK",
+    "tut_link": "https://web.archive.org/web/20010805032200fw_/http://www.planethalflife.com:80/hlsdk2/sdk/sdk2_installation_guide.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "steve",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Introduction to Half-Life SDK2",
+    "tut_description": "Introduction to Half-Life SDK2",
+    "tut_link": "https://web.archive.org/web/20010805031205fw_/http://www.planethalflife.com:80/hlsdk2/sdk/intro.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Introduction to the Sourcecode",
+    "tut_description": "Introduction to the Sourcecode",
+    "tut_link": "https://web.archive.org/web/20010711161848fw_/http://www.planethalflife.com:80/hlsdk2/sdk/intro2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Using the Microsoft Visual C++ 6 IDE",
+    "tut_description": "Using the Microsoft Visual C++ 6 IDE",
+    "tut_link": "https://web.archive.org/web/20020307205049fw_/http://planethalflife.com:80/hlsdk2/sdk/using_msvc.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Quick Hints and Tips",
+    "tut_description": "Here is a collection of quick hints and tips that various people have asked me, but I cant be bothered to write a whole article about...",
+    "tut_link": "https://web.archive.org/web/20010710055955fw_/http://planethalflife.com:80/hlsdk2/sdk/quick_hints_and_tips.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "SDK2 Basics: Looking at a simple entity class",
+    "tut_description": "This is a quick look to see what an existing entity class, CGameText, does and how it works.",
+    "tut_link": "https://web.archive.org/web/20010821070749fw_/http://www.planethalflife.com:80/hlsdk2/sdk/sdk2_basics.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "SDK2 Basics: How to send messages between the client and game DLLs",
+    "tut_description": "Half-Life is split into two DLLs - client.dll and hl.dll.",
+    "tut_link": "https://web.archive.org/web/20020307205129fw_/http://planethalflife.com:80/hlsdk2/sdk/messaging.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "SDK2 Basics: String handling",
+    "tut_description": "The way that strings are handled internally in the SDK can be confusing to start with.",
+    "tut_link": "https://web.archive.org/web/20010710060435fw_/http://planethalflife.com:80/hlsdk2/sdk/sdk_string_handling.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hllsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "SDK2 Basics: Creating a new entity class and adding it to your level",
+    "tut_description": "How to create a simple variant of the CGameText class and add it to the available entities in Worldcraft.",
+    "tut_link": "https://web.archive.org/web/20010821070604fw_/http://www.planethalflife.com:80/hlsdk2/sdk/new_entity.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "SDK2 Basics: Adding a new monster with default AI",
+    "tut_description": "How to add a new monster to your maps.",
+    "tut_link": "https://web.archive.org/web/20010502195417fw_/http://www.planethalflife.com:80/hlsdk2/sdk/new_monster_chumtoad.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "SDK2 Basics: Explanation of the Weapon code (MP5) by Greg Hudson",
+    "tut_description": "Explanation of all the MP5 code. Written by Greg Hudson.",
+    "tut_link": "https://web.archive.org/web/20020307204945fw_/http://planethalflife.com:80/hlsdk2/sdk/weapon_mp5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Graphics Part 1: 2D Sprites",
+    "tut_description": "All you ever wanted to know about drawing 2d sprites on the HUD.",
+    "tut_link": "https://web.archive.org/web/20010710053142fw_/http://planethalflife.com:80/hlsdk2/sdk/graphics_efx.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Graphics Part2: EfxAPI",
+    "tut_description": "An overview of all the useful UTIL_ and efxAPI functions for drawing 3d sprites, shaking and fading the screen, drawing beams + decals, temporary models etc.",
+    "tut_link": "https://web.archive.org/web/20010710053341fw_/http://planethalflife.com:80/hlsdk2/sdk/graphics_efx2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Graphics Part 3: Triangle API",
+    "tut_description": "An overview of the triangle API, which can be used to draw textured, animated polygons on the fly.",
+    "tut_link": "https://web.archive.org/web/20010710054219fw_/http://planethalflife.com:80/hlsdk2/sdk/graphics_efx3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Advanced: Building an in-game menu entity",
+    "tut_description": "How to develop a new entity that handles menus in game (ala counterstrike\\'s \\'buy weapons\\' menu).",
+    "tut_link": "https://web.archive.org/web/20010821065007fw_/http://www.planethalflife.com:80/hlsdk2/sdk/gamemenutext.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Advanced: How to create a radar for Half-Life",
+    "tut_description": "It\\'s been done before for Counterstrike.. but this\\'ll go over how to make your own, including sprite display, use of vector classes etc.",
+    "tut_link": "https://web.archive.org/web/20010710060127fw_/http://planethalflife.com:80/hlsdk2/sdk/creating_a_radar_on_the_hud.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Advanced: Understanding the Monster AI",
+    "tut_description": "A detailed tutorial on how the Half-Life AI hangs together. Covers Schedules, Tasks, and Monster States, with examples.",
+    "tut_link": "https://web.archive.org/web/20010821080604fw_/http://www.planethalflife.com:80/hlsdk2/sdk/understanding_the_monster_ai.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Advanced: Understanding the Monster AI (part 2)",
+    "tut_description": "Second part of the AI tutorial. Covers how events are triggered from the monsters animation definitions (.qc file), and some addtional info on Monster Attacks.",
+    "tut_link": "https://web.archive.org/web/20010502194658fw_/http://www.planethalflife.com:80/hlsdk2/sdk/advanced_ai_2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Playing .mp3 files in Half-Life",
+    "tut_description": "Warning - this is taken from my brief investigation, but relies on having a multi-channel soundcard ",
+    "tut_link": "https://web.archive.org/web/20010905135654fw_/http://www.planethalflife.com:80/hlsdk2/sdk/playing_mp3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Client dll Coding Tutorial #1",
+    "tut_description": "Drawing a Special Credit Number on the clients head\\'s up display!",
+    "tut_link": "https://web.archive.org/web/20011107130643/http://hlpp.valveworld.com:80/tuts/cl_tut1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Surreal",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Client dll Coding Tutorial #2",
+    "tut_description": "Drawing a Special Credit String on the clients head\\'s up display",
+    "tut_link": "https://web.archive.org/web/20011107131157/http://hlpp.valveworld.com:80/tuts/cl_tut2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Surreal",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Dead Icon",
+    "tut_description": "In this tutorial I\\'m going to show you how to add a dead-icon to the scoreboard.",
+    "tut_link": "https://web.archive.org/web/20011206050849/http://hlpp.valveworld.com:80/tuts/cl_deadicon.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BoRiS",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Creating Different Colored Menus",
+    "tut_description": "Fairly simple put, it allows you to create menus of different colors.",
+    "tut_link": "https://web.archive.org/web/20011220223742/http://hlpp.valveworld.com:80/tuts/colormenu.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Map Briefing",
+    "tut_description": "how to add \r\nmap briefings to your mod as seen in TFC, CS",
+    "tut_link": "https://web.archive.org/web/20011121123816/http://hlpp.valveworld.com:80/tuts/mapbrief.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BigGuy",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Radar System",
+    "tut_description": "Radar System",
+    "tut_link": "https://web.archive.org/web/20011211004512/http://hlpp.valveworld.com:80/tuts/attrd.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "botman",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Flexible Client Based Zoom - SDK2",
+    "tut_description": "This tutorial is designed to help you create a flexible client side Zoom function for SDK2",
+    "tut_link": "https://web.archive.org/web/20011222202902/http://hlpp.valveworld.com:80/tuts/zoomtut.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DarthBobo",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Incremental Zooming (On the Client Side)",
+    "tut_description": "Incremental Zooming (On the Client Side)",
+    "tut_link": "https://web.archive.org/web/20011220223016/http://hlpp.valveworld.com:80/tuts/clientzoom.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Colbernicus",
+    "tut_author_alt": "hlpp"
+  },
+  {
+    "tut_name": "Advanced Bot Frame",
+    "tut_description": "This is for people wanting to make their own Half-Life bot.",
+    "tut_link": "https://web.archive.org/web/20061230205144/http://www.telefragged.com:80/thefatal/index.php?content=inc_mods_hl.htm",
+    "tut_download": "https://web.archive.org/web/20061128172020/http://www.lordbob.net:80/rdawg/abframe.zip",
+    "tut_game": "HL",
+    "tut_author_name": "thefatal",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Bot Frame",
+    "tut_description": "This is for people wanting to make their own Half-Life bot.",
+    "tut_link": "https://web.archive.org/web/20061230205144/http://www.telefragged.com:80/thefatal/index.php?content=inc_mods_hl.htm",
+    "tut_download": "https://web.archive.org/web/20060614060331/http://www.lordbob.net:80/rdawg/botframe.zip",
+    "tut_game": "HL",
+    "tut_author_name": "thefatal",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Dynamic colored lights - model color fix",
+    "tut_description": "Dynamic colored lights - model color fix",
+    "tut_link": "https://web.archive.org/web/20051119074207/http://www.telefragged.com:80/thefatal/q_tutorials/dlight_models.txt",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "thefatal",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Adding New Skill Healths",
+    "tut_description": "In this tutorial we will learn how to add new Skill Health links to add to new custom monsters.",
+    "tut_link": "https://www.moddb.com/mods/half-life-modding-kit/tutorials/adding-new-skill-healths",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": " badsniper365",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Half-life1 Coding: More than 254 of ammo",
+    "tut_description": "In hl1 you can simply edit the max_ammo_carry of certain ammo type but the hud would show up to 254 of ammo, this is because the message that send the info to the client uses a byte value for it.",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/half-life1-coding-more-than-254-of-ammo",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Foxtrop ",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Half-life1 Coding: 4digits on HUD and 9999 ammo on clip",
+    "tut_description": "Second part of the tutorial, that includes the modification of the HUD to show 4 digits on ammo, and the modificacion on the client-server message for the weapon magazine.",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/half-life1-coding-4digits-on-hud-and-9999-ammo-on-clip",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Foxtrop",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Modding Weapons (Ammo, Weight etc)",
+    "tut_description": "This tutorial will teach you how to edit the ammo per clip, how fast you walk with a weapon and much more!",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/modding-weapons-ammo-weight-etc",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Davik",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "HuD Colouring",
+    "tut_description": "This tutorial will cover the Basics for changing the colour of the HUD in HL",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/hud-colouring",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Davik",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Building the DLLs with VS.NET 2003 for Steam",
+    "tut_description": "Teaches you how to setup your VS.NET 2003 to build the Half-Life dlls, and how to get them working on Steam.",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/building-the-dlls-with-vsnet-2003-for-steam",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "d0t",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Using Glowshell",
+    "tut_description": "I am writing this tutorial because there are no tutorials on this that I can find and this effect is easy to make if you know what to do. This tutorial will be easy for people who are new to Half-Life Modding.",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/using-glowshell",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "OsirisGodoftheDead",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "How to add a Christmas Easter Egg! (or any date!)",
+    "tut_description": "New to coding and ever wondered how TFC did the Christmas easter egg? Fear nevermore!",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-add-a-christmas-easter-egg-or-any-date",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ash_link",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Custom AABB collision boxes for an entity",
+    "tut_description": "How do you use the existing AABB collision system in Half-Life to provide a more precise collision model of an object? You simply fill it with smaller objects! Read on for more details.",
+    "tut_link": "https://www.moddb.com/mods/bleachzanpakutousenshi/tutorials/custom-aabb-collision-boxes-for-an-entity",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "eliasr",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Make a teleporter exit spawn you inside an area",
+    "tut_description": "This tutorial will demonstrate how simple you can make a brush define the area where the player will spawn inside when entering a teleporter.",
+    "tut_link": "https://www.moddb.com/mods/bleachzanpakutousenshi/tutorials/make-a-teleporter-exit-spawn-you-inside-an-area",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "eliasr",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Creating New Entities",
+    "tut_description": "ow to create a brand new entity! + writing the FGD",
+    "tut_link": "https://gamebanana.com/tuts/12874",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Admer456",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Introduction to Half-Life coding",
+    "tut_description": "Introduction to Half-Life coding",
+    "tut_link": "https://gamebanana.com/tuts/12801",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Admer456",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "HLSDK Engine Notes",
+    "tut_description": "HLSDK Engine Notes",
+    "tut_link": "http://metamod.org/engine_notes.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "metamod",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Customising the HUD colour ",
+    "tut_description": "Customising the HUD colour ",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Customising_the_HUD_colour",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "m0p",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Palette.lmp file ",
+    "tut_description": "Quake style particle effects disabled but present in goldsrc",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Palette.lmp_file",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hfc",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Scripting with sequence files",
+    "tut_description": "Scripting with sequence files",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Scripting_with_sequence_files",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Solokiller",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Half-Life Server Info Class",
+    "tut_description": "Half-Life Server Info Class",
+    "tut_link": "https://web.archive.org/web/20020430050806/http://coding.valve-erc.com/?area=browse&id=90/1013408321",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Red Wingate",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Simulating Randomness",
+    "tut_description": "Simulating Randomness",
+    "tut_link": "https://web.archive.org/web/20071225112428/http://collective.valve-erc.com/index.php?doc=1103410891-08896900",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Zipster",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Hiding in Shadow",
+    "tut_description": "In this article I will explain how to make a monster disregard the player if they\\'re within a certain level of light",
+    "tut_link": "https://web.archive.org/web/20071225112408/http://collective.valve-erc.com/index.php?doc=1092932859-33776100",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "NoBody",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Bump Mapping in Half-Life",
+    "tut_description": "e. It adds detail where there was none before, and provides a much enhanced visual experience.",
+    "tut_link": "https://web.archive.org/web/20071225112403/http://collective.valve-erc.com/index.php?doc=1091469531-97736200",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Real-Time \\'TRON 2.0\\' Glow For Low-Spec Hardware",
+    "tut_description": "Real-Time \\'TRON 2.0\\' Glow For Low-Spec Hardware",
+    "tut_link": "https://web.archive.org/web/20070807195639/http://collective.valve-erc.com/index.php?go=tron2",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Real-Time \\'TRON 2.0\\' Glow in Half-Life",
+    "tut_description": "Real-Time \\'TRON 2.0\\' Glow in Half-Life",
+    "tut_link": "https://web.archive.org/web/20070807195614/http://collective.valve-erc.com/index.php?go=tron1",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Hitboxes and Code",
+    "tut_description": "In Half-Life you may have noticed sparks appear when you shoot barney\\'s helmet or an alien grunt\\'s armor.",
+    "tut_link": "https://web.archive.org/web/20071225112358/http://collective.valve-erc.com/index.php?doc=1081522672-30622600",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Teh_Freak",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Dynamic Lighting",
+    "tut_description": " I\\'ll show you how to make monsters attacks light up world brushes",
+    "tut_link": "https://web.archive.org/web/20070622151150/http://collective.valve-erc.com/index.php?doc=1075051453-05891900",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Teh_Freak",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "How to Align a Model Against the Floor",
+    "tut_description": "How to Align a Model Against the Floor",
+    "tut_link": "https://web.archive.org/web/20050217093654/http://collective.valve-erc.com/index.php?doc=1074691576-40315100",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Masahiro Sakuta",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Beheading Zombies",
+    "tut_description": "Beheading Zombies",
+    "tut_link": "https://web.archive.org/web/20070623055520/http://collective.valve-erc.com/index.php?doc=1073715722-41434400",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Teh_Freak",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Making A Semi-Automatic Handgun",
+    "tut_description": "Making A Semi-Automatic Handgun",
+    "tut_link": "https://web.archive.org/web/20070815215226/http://collective.valve-erc.com/index.php?doc=1070626969-44481300",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Loc",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Another Way To Make Those Cute Lil Houndeyes Not So Cute",
+    "tut_description": "Another Way To Make Those Cute Lil Houndeyes Not So Cute",
+    "tut_link": "https://web.archive.org/web/20070622215545/http://collective.valve-erc.com/index.php?doc=1067535512-32611600",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Me2",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Half-Life Server Protocol",
+    "tut_description": " This article is a reference to a method of using the server protocol with PHP",
+    "tut_link": "https://web.archive.org/web/20080522021656/http://collective.valve-erc.com/index.php?doc=1063146620-20111500",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Zypher",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "FatBoy Mode",
+    "tut_description": "FatBoy Mode",
+    "tut_link": "https://web.archive.org/web/20070623060733/http://collective.valve-erc.com/index.php?doc=1057349827-18454000",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "J.P.Barry",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Customizable Hud Color",
+    "tut_description": "Customizable Hud Color",
+    "tut_link": "https://web.archive.org/web/20070622133259/http://collective.valve-erc.com/index.php?doc=1057178411-14238000",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "J.P.Barry",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "View Turrets through Barrel",
+    "tut_description": "View Turrets through Barrel",
+    "tut_link": "https://web.archive.org/web/20070815223002/http://collective.valve-erc.com/index.php?doc=1056701757-88444800",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "J.P.Barry",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Creating a Vampire gamestyle",
+    "tut_description": "The purpose of this tutorial is to show you how to create a whole new game type in 12 lines",
+    "tut_link": "https://web.archive.org/web/20070815222850/http://collective.valve-erc.com/index.php?doc=1050757524-43536500",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ICR",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Vertex and Pixel Shaders",
+    "tut_description": "Per-pixel dynamic lighting. Real-time bumpmapping. Cartoon shading. Thermal goggles.",
+    "tut_link": "https://web.archive.org/web/20080328054155/http://collective.valve-erc.com/index.php?doc=1050408506-48967500",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Realistic Reflections in Real-Time",
+    "tut_description": "Realistic Reflections in Real-Time",
+    "tut_link": "https://web.archive.org/web/20070623055707/http://collective.valve-erc.com/index.php?doc=1047209522-09755900",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Painlessly Drawing TriAPI In Orthogonal Mode",
+    "tut_description": "I decided to whip up this tutorial to show you the simplicity of drawing triangles in orthogonal mode using TriAPI",
+    "tut_link": "https://web.archive.org/web/20070807194136/http://collective.valve-erc.com/index.php?doc=1047069136-92127300",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Dynamically Resizing Models",
+    "tut_description": "Dynamically Resizing Models",
+    "tut_link": "https://web.archive.org/web/20070714130202/http://collective.valve-erc.com/index.php?doc=1046456014-98367600",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Laurie Cheers",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "The Think, Touch, and Use functions.",
+    "tut_description": "These functions are key to how an entity w",
+    "tut_link": "https://web.archive.org/web/20070807195534/http://collective.valve-erc.com/index.php?doc=1042080107-38582000",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Adding User Variables to Half-Life",
+    "tut_description": "Adding User Variables to Half-Life",
+    "tut_link": "https://web.archive.org/web/20070715150304/http://collective.valve-erc.com/index.php?doc=1026069361-83627700",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Entrophy",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Random Terrain Generation",
+    "tut_description": "Random Terrain Generation",
+    "tut_link": "https://web.archive.org/web/20070623061042/http://collective.valve-erc.com/index.php?doc=1040644009-23694100",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Vectors: An Introduction",
+    "tut_description": "Vectors: An Introduction",
+    "tut_link": "https://web.archive.org/web/20070816053853/http://collective.valve-erc.com/index.php?doc=1039880877-82189500",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Adding New skill.cfg Entries",
+    "tut_description": "Adding New skill.cfg Entries",
+    "tut_link": "https://web.archive.org/web/20070629151614/http://collective.valve-erc.com/index.php?doc=1039234001-79220900",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Static Water Simulation",
+    "tut_description": "Static Water Simulation",
+    "tut_link": "https://web.archive.org/web/20070715151251/http://collective.valve-erc.com/index.php?go=water_simulation",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Half-Life\\'s In-Game Visibility Determination",
+    "tut_description": "Where would we be without visibility determination?",
+    "tut_link": "https://web.archive.org/web/20070714130254/http://collective.valve-erc.com/index.php?go=visibility_determination",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Particle Systems: The Theory",
+    "tut_description": "Particle Systems: The Theory",
+    "tut_link": "https://web.archive.org/web/20071204052951/http://collective.valve-erc.com/index.php?go=particle_theory",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Coding Style",
+    "tut_description": "Coding Style",
+    "tut_link": "https://web.archive.org/web/20070715150516/http://collective.valve-erc.com/index.php?go=coding_style",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Cecil",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Basing one monster class off another",
+    "tut_description": "Basing one monster class off another",
+    "tut_link": "https://web.archive.org/web/20070714130146/http://collective.valve-erc.com/index.php?doc=1037152293-25623400",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": ".MAP to .DXF Conversion",
+    "tut_description": " Hammer code that converts a map from standard .map format to .dxf format",
+    "tut_link": "https://web.archive.org/web/20070715150753/http://collective.valve-erc.com/index.php?go=map2dxf",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "autolycus",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Adding muzzle flashes that also light up world brushes",
+    "tut_description": "Adding muzzle flashes that also light up world brushes",
+    "tut_link": "https://web.archive.org/web/20070808152256/http://collective.valve-erc.com/index.php?doc=1031137353-13157900",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "TriAPI based team overlays",
+    "tut_description": "This tutorial will show you how to make use of the Triangle API to make team overlays",
+    "tut_link": "https://web.archive.org/web/20070715151045/http://collective.valve-erc.com/index.php?go=triapi_overlays",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "View Roll When Strafing (like DMC)",
+    "tut_description": "View Roll When Strafing (like DMC)",
+    "tut_link": "https://web.archive.org/web/20070711233040/http://collective.valve-erc.com/index.php?doc=1031026499-09952900",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mazor",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Adding new monster factions",
+    "tut_description": "this tutorial will show you how to add new factions to monsters.",
+    "tut_link": "https://web.archive.org/web/20070715151019/http://collective.valve-erc.com/index.php?doc=1027959603-92825800",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Creating a Sniper Rifle in the 2.2 SDK",
+    "tut_description": "Creating a Sniper Rifle in the 2.2 SDK",
+    "tut_link": "https://web.archive.org/web/20070711233032/http://collective.valve-erc.com/index.php?doc=1026504803-74538300",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Robert Prouse",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Making A Player Fly",
+    "tut_description": "This is a tutorial teaching you how to make a flying system in half-life",
+    "tut_link": "https://web.archive.org/web/20070711232833/http://collective.valve-erc.com/index.php?doc=1025983986-94426600",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Stephen",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Creating New Weapons in the 2.2 SDK",
+    "tut_description": "Creating New Weapons in the 2.2 SDK",
+    "tut_link": "https://web.archive.org/web/20070815212753/http://collective.valve-erc.com/index.php?doc=1026171711-73606300",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Robert Prouse",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Half-Life AI, Schedules and Tasks",
+    "tut_description": "The Half-Life AI is made mostly of two things, tasks and schedules",
+    "tut_link": "https://web.archive.org/web/20070715150849/http://collective.valve-erc.com/index.php?go=ai_tasks_schedules",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Hash Tables",
+    "tut_description": "Hash Tables",
+    "tut_link": "https://web.archive.org/web/20070711233022/http://collective.valve-erc.com/index.php?doc=1013317462-41485000",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Zipster",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Function Overloading",
+    "tut_description": "Function Overloading is useful when you have a function that you want to do several different things with",
+    "tut_link": "https://web.archive.org/web/20070714125323/http://collective.valve-erc.com/index.php?doc=1013095485-78347500",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tim Toxopeus",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Coded Fabrics",
+    "tut_description": "This model I\\'m describing can be used for any surface that can bend, so it can be a flag",
+    "tut_link": "https://web.archive.org/web/20070711233049/http://collective.valve-erc.com/index.php?go=fabrics",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "James Griffin",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "The Power of CVARs!",
+    "tut_description": "The Power of CVARs!",
+    "tut_link": "https://web.archive.org/web/20070715151308/http://collective.valve-erc.com/index.php?go=cvars",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ghoul",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "User Input Processing System",
+    "tut_description": "User Input Processing System",
+    "tut_link": "https://web.archive.org/web/20070715150638/http://collective.valve-erc.com/index.php?doc=1012354672-37112300",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Valve",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Voice API in SDK 2.2",
+    "tut_description": "Voice API in SDK 2.2",
+    "tut_link": "https://web.archive.org/web/20070715151326/http://collective.valve-erc.com/index.php?go=voice_api",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Valve",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "How To Enable HLTV In Your Mod",
+    "tut_description": "How To Enable HLTV In Your Mod",
+    "tut_link": "https://web.archive.org/web/20070711232638/http://collective.valve-erc.com/index.php?go=howto_hltv",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Valve",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Event System in SDK 2.2",
+    "tut_description": "Event System in SDK 2.2",
+    "tut_link": "https://web.archive.org/web/20070714125232/http://collective.valve-erc.com/index.php?go=event_system",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Valve",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Scripts (a follow up to Aliases, scripts, and binds)",
+    "tut_description": "Scripts (a follow up to Aliases, scripts, and binds)",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122822560",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Stu Pidaso",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Alias\\'s, Scripts, and Binds.",
+    "tut_description": "This is a brief guide explaining the differences between Alias\\'s, Scripts, and Binds.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122816008",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Stu Pidaso",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Advanced script for Holstering Weapon",
+    "tut_description": "Script for a slightly better illusion of holstering and re-equipping weapon in Half-Life.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1615066593",
+    "tut_download": "https://www.moddb.com/games/half-life/downloads/holstering-weapon",
+    "tut_game": "HL",
+    "tut_author_name": "Vankulas",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Advanced script for Slow Motion (bullet time)",
+    "tut_description": "Script for a kind of smooth slow motion (bullet time) in Half-Life.",
+    "tut_link": "sharedfiles",
+    "tut_download": "https://www.moddb.com/games/half-life/downloads/slow-motion",
+    "tut_game": "HL",
+    "tut_author_name": "Vankulas",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Advanced script for Mouse Wheel Zoom",
+    "tut_description": "Script for smooth mouse wheel zooming in and out in Half-Life.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1615032889",
+    "tut_download": "https://www.moddb.com/games/half-life/downloads/mouse-wheel-zoom",
+    "tut_game": "HL",
+    "tut_author_name": "Vankulas",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Advanced script for Smooth Zoom",
+    "tut_description": "Script for smooth zooming in and out in Half-Life.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1615023630",
+    "tut_download": "https://www.moddb.com/games/half-life/downloads/smooth-zoom",
+    "tut_game": "HL",
+    "tut_author_name": "Vankulas",
+    "tut_author_alt": "steam"
+  }
+]

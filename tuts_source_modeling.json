@@ -1,0 +1,209 @@
+[
+  {
+    "tut_name": "Introduction to the Half-Life Model Viewer (HLMV)",
+    "tut_description": "In this tutorial i will explain to the best of my knowledge how to use HLMV for viewing and editing models",
+    "tut_link": "http://www.sourcemodding.com/tutorials/source/modeling/intro-to-hlmv-source/",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "sourcemodding",
+    "tut_author_alt": "sourcemodding"
+  },
+  {
+    "tut_name": "TF2 Custom Eyes in 3DS Max",
+    "tut_description": "Creating custom eyes in 3DSMAX for TF2",
+    "tut_link": "https://www.youtube.com/watch?v=5_ATRl1twEE",
+    "tut_download": "https://mega.nz/#F!VBhyDRBS!fA13Q3sncmzt7jCNYFmYDg",
+    "tut_game": "TF2",
+    "tut_author_name": "Anatoly Volnov",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "TF2 Facial Morphs in 3DS Max",
+    "tut_description": "How to work with TF2 facial morphs in 3DSMAX",
+    "tut_link": "https://www.youtube.com/watch?v=U_-4HjXH97U",
+    "tut_download": "https://mega.nz/#F!xZ4mnLCQ!3u8GY2xf2kX6mpDffpm26A",
+    "tut_game": "TF2",
+    "tut_author_name": "Anatoly Volnov",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "Quick compilation of QC files using the Explorer 'Send To' dropdown dialog",
+    "tut_description": "If you want to quickly compile a model by just right clicking on the QC and selecting an option to compile it, then you're in the right place! ",
+    "tut_link": "http://steamcommunity.com/sharedfiles/filedetails/?id=492350894",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Thundery Steak",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "SoftImage - Moving Around the Viewports",
+    "tut_description": "This is a short article describing the 2 options for moving around the viewports.",
+    "tut_link": "http://articles.thewavelength.net/516/",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Mosquito",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "SoftImage - Creating You First Character",
+    "tut_description": "Here is how to create your first character in SOFTIMAGE|XSI.",
+    "tut_link": "http://articles.thewavelength.net/508/",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "-=Druid=-",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Attachments ",
+    "tut_description": "There are two reasons to use attachments. The first was touched on in the Point_Viewcontrol tutorial here, where you can set the PVC to always point at a particular feature on an NPC, Alyx's eyes in the tutorial.",
+    "tut_link": "http://web.archive.org/web/20141005115112/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=14",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "halfwit 2",
+    "tut_author_alt": "halfwit"
+  },
+  {
+    "tut_name": "HL2 Model List",
+    "tut_description": "A full listing of HL2 models by directory",
+    "tut_link": "http://web.archive.org/web/20060618113058/http://halfwit-2.com/?page=resources&amp;action=view&amp;item=1&amp;PHPSESSID=d50bbc8e15612551d0eb10d5f6efb683",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "halfwit 2",
+    "tut_author_alt": "halfwit"
+  },
+  {
+    "tut_name": "Adding an HL2 Custom Sequence",
+    "tut_description": "How to add a custom sequence to an existing model",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Adding_an_HL2_Custom_Sequence",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "BJ",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Animating Models",
+    "tut_description": "Rigging and animation for Source models, using XSI.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Animating_Models",
+    "tut_download": "https://mega.nz/#F!Jd4V1KaJ!5LkcAH1IF64fd2K4i5lyLw",
+    "tut_game": "game_multi",
+    "tut_author_name": "BJ",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "First XSI Model",
+    "tut_description": "Guides you through creating your first Source mode in XSI.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_First_XSI_Model",
+    "tut_download": "https://mega.nz/#F!McwHWD5A!ljy6ZacJdNEymhnnhHZ7JA",
+    "tut_game": "game_multi",
+    "tut_author_name": "BJ",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Rescaling Prop Models",
+    "tut_description": "You can't use Model Viewer to do it anymore. This covers rescaling prop models for Source.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Rescaling_Prop_Models",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Gman",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Source Modelling Setup",
+    "tut_description": "Configuring XSI and using the SDK tools",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Source_Modelling_Setup",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "BJ",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Creating a 'prop_physics entity'",
+    "tut_description": "I will guide you through the creation of a prop_physics entity, which may also be used as a prop_static entity.",
+    "tut_link": "http://web.archive.org/web/20071127125604/http://www.gamedesign.net/node/1002",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "yesukai",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "Adding Extra Skins to Existing Models",
+    "tut_description": "Describes how to add extra skins to existing compiled models in the Source engine",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/194/Adding_Extra_Skins_to_Existing_Models",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Le Chief",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Creating and compiling basic models",
+    "tut_description": "Getting started",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/169/Creating_and_compiling_basic_models",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Vash",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Modeling: Getting Started with XSI",
+    "tut_description": "Get everything set up for your first model!",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/167/Modeling:_Getting_Started_with_XSI",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Addicted to Morphine",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Digital Tutors - Softimage 7.5 Training",
+    "tut_description": "Training kit originally provided for free by Digital Tutors and Autodesk to train those learning Sodtimage XSI",
+    "tut_link": "https://mega.nz/#F!gZhFzZja!4w8BbHm1GEFg_5_xenkAHA",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Digital Tutors",
+    "tut_author_alt": "digitaltutors"
+  },
+  {
+    "tut_name": "Writing a basic QC file",
+    "tut_description": "This is not a tutorial of such, more of a reference and is only an introduction to the QC file.",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/148/Writing_a_basic_QC_file",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Quaver",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Custom Props Part 1",
+    "tut_description": "Modelling in Milkshape ",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/142/Custom_Props:_Part_1",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "ReNo",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Source Model Compile/Decompile Flowchart",
+    "tut_description": "A quick reference for source model compiling and decompiling. Includes links. ",
+    "tut_link": "http://the303.org/tutorials/index.html",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Mario\\'s Guide to Ragdolling",
+    "tut_description": "Gmod Ragdolling with 3dmax",
+    "tut_link": "https://web.archive.org/web/20110401001456/http://www.facepunch.com/threads/542906-Mario-s-Guide-To-Ragdolling?p=10073132#post10073132",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "mariokart64n",
+    "tut_author_alt": "facepunch"
+  },
+  {
+    "tut_name": "How to make a prop in XSI for HL2",
+    "tut_description": "How to construct a prop in XSI, texture it, export it & compile to .mdl format and put in-game!",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-make-a-prop-in-xsi-for-hl2",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Pretador",
+    "tut_author_alt": "moddb"
+  }
+]

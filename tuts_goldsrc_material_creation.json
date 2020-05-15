@@ -1,0 +1,1613 @@
+[
+  {
+    "tut_name": "How to get perfect texture rotations in Hammer",
+    "tut_description": "Tutorial covering how to calculate the perfect texture rotations in hammer",
+    "tut_link": "http://www.isolated-design.de/tutorials/how-to-get-perfect-texture-rotations-in-hammer/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "isolated-design",
+    "tut_author_alt": "isolated"
+  },
+  {
+    "tut_name": "Custom Textures",
+    "tut_description": "Learn how to incorporate your own custom textures into maps.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Custom_Textures",
+    "tut_download": "https://mega.nz/#F!NdQCHDIJ!IX7iiY5rtR48o2dhGyweEQ",
+    "tut_game": "HL",
+    "tut_author_name": "atom",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Adding startup movies to your Steam mods",
+    "tut_description": "So you want a movie to play, right before your Steam mod loads? Did you know that you can actually do it very simply with Steam?",
+    "tut_link": "http://articles.thewavelength.net/548/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Doofus",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating Custom Splash Screens for Your mod in Steam",
+    "tut_description": "Just as the title says, this tutorial will explain how to create a Splash Screen for your Mod.",
+    "tut_link": "http://articles.thewavelength.net/395/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Animated sprites &amp; fixing palette issues in Photoshop",
+    "tut_description": "How to make animated sprites in Photoshop, and how to fix the frames of your sprites so they share the same palette.",
+    "tut_link": "http://articles.thewavelength.net/384/",
+    "tut_download": "https://mega.nz/#F!gJZyDJoL!HqM3hAR3SGqTgUKDo5MGxw",
+    "tut_game": "HL",
+    "tut_author_name": "imaculata2000",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Animated textures",
+    "tut_description": "Making them, and getting them to work",
+    "tut_link": "http://articles.thewavelength.net/254/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "NOmad",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Making a Half-Life Decal in Paint Shop Pro",
+    "tut_description": "Decals are as easy as drawing in black &amp; white and saving it into the right directory.",
+    "tut_link": "http://articles.thewavelength.net/199/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Making a Half-Life Decal in Photoshop",
+    "tut_description": "Decals are as easy as drawing in black &amp; white and saving it into the right directory.",
+    "tut_link": "http://articles.thewavelength.net/198/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Materials.txt",
+    "tut_description": "Change the sound of your textures!",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Materials.txt",
+    "tut_download": "https://mega.nz/#F!MM5ATIgK!7iIKtuDMGNLJ8NQr_KxEQg",
+    "tut_game": "HL",
+    "tut_author_name": "paulkennedy",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Detailed Textures in Half-Life",
+    "tut_description": "Improve the look of your maps using Valve's powerful 'Detail Texture' upgrade.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Detailed_Textures_in_Half-Life",
+    "tut_download": "https://mega.nz/#F!4VZ2wQDa!peK-NNerqgHTBhS0OplIqA",
+    "tut_game": "HL",
+    "tut_author_name": "hlife_hotdog",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Modifying the HUD",
+    "tut_description": "Changing the look of your HUD in Half-Life",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Modifying_the_HUD",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Daubster",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Custom Skyboxes for Goldsource",
+    "tut_description": "Using Terragen to render and put together a custom skybox.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Custom_Skyboxes_for_Goldsource",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "JeffMOD",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "The easiest way to make tileable textures with PhotoShop7 or above",
+    "tut_description": "The easiest way to make tileable textures with PhotoShop7 or above",
+    "tut_link": "http://web.archive.org/web/20070906103113/http://www.egir.dk/index.php?page=wal_tiling/wal_tiling.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DaddyCool",
+    "tut_author_alt": "egirdk"
+  },
+  {
+    "tut_name": "Textured lightning.",
+    "tut_description": "Textured lightning.",
+    "tut_link": "http://web.archive.org/web/20071022085534/http://www.freewebs.com/naigel/tutorials.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Naigel",
+    "tut_author_alt": "egirdk"
+  },
+  {
+    "tut_name": "The see through texture.",
+    "tut_description": "The see through texture.",
+    "tut_link": "http://web.archive.org/web/http://www.freewebs.com/naigel/seethrough.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Naigel",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Adding .bmp in .wad",
+    "tut_description": "OK, this tutorial is about how to make a .wad. I'm only showing how to import a .bmp into a .wad with Wally ",
+    "tut_link": "http://web.archive.org/web/20071022085534/http://www.freewebs.com/naigel/tutorials.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Naigel",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "The glass(es) texture(s)",
+    "tut_description": "The glass(es) texture(s) ",
+    "tut_link": "http://web.archive.org/web/http://www.freewebs.com/naigel/glass.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Naigel",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to Make Transparent Textures with Wally",
+    "tut_description": "How to Make Transparent Textures with Wally",
+    "tut_link": "http://web.archive.org/web/20071011030116/http://egir.dk/index.php?page=wal_transparent/wal_transparent.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Robert Olesen",
+    "tut_author_alt": "egirdk"
+  },
+  {
+    "tut_name": "TEXTURE REDUCTION TUTORIAL",
+    "tut_description": "TEXTURE REDUCTION TUTORIAL",
+    "tut_link": "http://web.archive.org/web/20041023120526/http://www.game-edit.org/tutorials/general/texture_reduction.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Evile",
+    "tut_author_alt": "doe"
+  },
+  {
+    "tut_name": "Blast Marks using Painter",
+    "tut_description": "Blast Marks using Painter",
+    "tut_link": "http://web.archive.org/web/http://www.game-edit.org/tutorials/general/blast_marks/blast_marks.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Evile",
+    "tut_author_alt": "doe"
+  },
+  {
+    "tut_name": "Texture Types Info",
+    "tut_description": "Texture Types Info",
+    "tut_link": "http://web.archive.org/web/20041010142218/http://www.slackiller.com/tommy14/hltexture.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "tommy14",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Texture dimensions vs. appearance, memory, and r_speeds",
+    "tut_description": "Texture dimensions have a significant effect on the appearance of the texture, the memory used by textures, and in a minor way on r_speeds.",
+    "tut_link": "http://web.archive.org/web/20041010151405/http://www.slackiller.com/tommy14/tex-dimensions.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "tommy14",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Making Decals",
+    "tut_description": "Decals are images that you can 'spray-paint' on walls to...um make a statement. Making decals is extremely easy, so let's get to it.",
+    "tut_link": "http://web.archive.org/web/20081003012539/http://www.vlatitude.com/tutorials.php?tutID=28",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Vlad",
+    "tut_author_alt": "vlatitude"
+  },
+  {
+    "tut_name": "Making Textures and Wads",
+    "tut_description": "Im no texture making expert, but ill give you what I believe to me the way to make textures and wads, wait keep reading!",
+    "tut_link": "http://web.archive.org/web/20151029151351/http://www.slackiller.com/tutorials/tutorials/makingtextures.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Eyeronik",
+    "tut_author_alt": "eyeronik"
+  },
+  {
+    "tut_name": "Half-Life Full Crosshair Tutorial.",
+    "tut_description": "Half-Life Full Crosshair Tutorial.",
+    "tut_link": "http://web.archive.org/web/20041212012204/http://www.planethalflife.com/cc/800/tutors/xhairs3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Crosshair Central",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "HalfLife Crosshair Tutorial. From concept to reality. ",
+    "tut_description": "HalfLife Crosshair Tutorial. From concept to reality. ",
+    "tut_link": "http://web.archive.org/web/http://www.planethalflife.com/cc/800/tutors/con2real.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Crosshair Central",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Developing Photo Textures Using PanoTools",
+    "tut_description": "A small little tutorial on how to turn an object from a digital photo into a reasonable texture.",
+    "tut_link": "http://web.archive.org/web/20041010035134/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=55",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "ginsengavenger",
+    "tut_author_alt": "counter-map"
+  },
+  {
+    "tut_name": "Info tutorial on texture types",
+    "tut_description": "This is NOT a tutorial on how to make textures. Instead, here are all the texture types I know of, the symbols their names should start with, roughly what they do, and some of the potential problems.",
+    "tut_link": "http://web.archive.org/web/20041010035134/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=53",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Tommy14 ",
+    "tut_author_alt": "counter-map"
+  },
+  {
+    "tut_name": "Texturing Techniques (PS Filters, And Features)",
+    "tut_description": "jOeSmOe gives us a tutorial on advanced texturing using PhotoShop.",
+    "tut_link": "http://web.archive.org/web/20041119022353/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=38",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "jOeSmOe",
+    "tut_author_alt": "counter-map"
+  },
+  {
+    "tut_name": "The key to making good tileable textures",
+    "tut_description": "Relic explains the techniques on how to make textures that tile seamlessly.",
+    "tut_link": "http://web.archive.org/web/20041119022111/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=37",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Relic25",
+    "tut_author_alt": "counter-map"
+  },
+  {
+    "tut_name": "Making good WADS for distribution",
+    "tut_description": "A few notes on what seems to \"help\" with making wads easy to distribute and use.",
+    "tut_link": "http://web.archive.org/web/20041119021101/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=33",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Waldo",
+    "tut_author_alt": "counter-map"
+  },
+  {
+    "tut_name": "The GoldSrc Spraylogo Introduction",
+    "tut_description": "What are spraylogos? Spraylogos are images you can place on most surfaces multiplayer games, with the exception of models.",
+    "tut_link": "http://www.the303.org/tutorials/goldsrcspraylogo.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "The GoldSrc Spraylogo Tutorial 1 - Creating a Spray",
+    "tut_description": "Our first tutorial is creating a Simple spray",
+    "tut_link": "http://www.the303.org/tutorials/goldspray01.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "The GoldSrc Spraylogo Tutorial 2 - Creating a Spray With Transparency",
+    "tut_description": "Create a Simple Spray with Transparency",
+    "tut_link": "http://www.the303.org/tutorials/goldspray01.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Introduction",
+    "tut_description": "Creating Textures for GoldSrc Mapping",
+    "tut_link": "http://www.the303.org/tutorials/gold_texture.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 1",
+    "tut_description": "PART1 SIMPLE TEXTURES AND WAD PACKING",
+    "tut_link": "http://www.the303.org/tutorials/gold_texture_p1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 2",
+    "tut_description": "PART 2 Masked Transparent textures",
+    "tut_link": "http://www.the303.org/tutorials/gold_texture_p2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 3",
+    "tut_description": "PART3 ADDITIVE TRANSPARENT Textures",
+    "tut_link": "http://www.the303.org/tutorials/gold_texture_p3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 4",
+    "tut_description": "Part4 ANIMATED Textures",
+    "tut_link": "http://www.the303.org/tutorials/gold_texture_p4.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 5",
+    "tut_description": "PART 5 TOGGLED AND TOGGLED ANIMATED TEXTURES",
+    "tut_link": "http://www.the303.org/tutorials/gold_texture_p5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 6",
+    "tut_description": "PART 6 WATER Textures",
+    "tut_link": "http://www.the303.org/tutorials/gold_texture_p6.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Half Life Sprite List",
+    "tut_description": "A definitive list of all worthy Sprites in HL",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/46/Sky_boxes_for_Newbies",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ferret",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Making textures",
+    "tut_description": "using Wally and PhotoShop",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/66/Making_textures",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "matt",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "NS-type Metal Textures",
+    "tut_description": "How to make amazing metal textures like in Natural Selection",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/9/NS-type_Metal_Textures",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Campaignjunkie",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "How to make \\'Transparent Textures\\' the easy way.",
+    "tut_description": "In this tutorial I hope to demonstrate an easier way of making those pesky transparent textures that have R:G:B: blue areas that disappear when used in the Half-Life 1 engine.",
+    "tut_link": "https://gamebanana.com/tuts/12595",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DiscountKiller",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to use detailtextures in a professional manner",
+    "tut_description": "Pro Detail Textures",
+    "tut_link": "https://gamebanana.com/tuts/11852",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "trempler",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Half Life Logo Creator",
+    "tut_description": "An intoduction to logos in Halflife What are logos and how can I use them?",
+    "tut_link": "https://gamebanana.com/tuts/10816",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Robster ",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Super easy Counter Strike 1.6 Guns skin creating !",
+    "tut_description": "Before we can begin note taht that i didnt created program ! this program isn\\'t for skining but i founded super easy way to do it with this program ! So lets start !",
+    "tut_link": "https://gamebanana.com/tuts/12435",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "FagOut",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Creating and Editing WAD Files",
+    "tut_description": "Ever wanted to know how to add your own textures into VHE? Here you can find out!",
+    "tut_link": "https://gamebanana.com/tuts/11597",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Glock18",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Excluding and embedding custom textures with ZHLT",
+    "tut_description": "Excluding and embedding custom textures with ZHLT",
+    "tut_link": "https://gamebanana.com/tuts/12219",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "cd5ssmffan",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to Add Custom Texture on a Model in CS1.6",
+    "tut_description": "How to Add Custom Texture on a Model in CS1.6",
+    "tut_link": "https://gamebanana.com/tuts/12140",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Sharma",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make your texture HD (Highpass increase)",
+    "tut_description": "So, there are some people complain about my texture, I\\'ll make it up to you by writing this tutorial",
+    "tut_link": "https://gamebanana.com/tuts/12055",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Mr.Headshot",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Preserving Details (Blending Modes)",
+    "tut_description": "AKA Blending Mode",
+    "tut_link": "https://gamebanana.com/tuts/11770",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Ankh",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Creating your own decals",
+    "tut_description": "Something useful I learned over the months of mapping with VHE.",
+    "tut_link": "https://gamebanana.com/tuts/11679",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Glock18",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Making (SEMI-)Transparent Textures",
+    "tut_description": "Making (SEMI-)Transparent Textures",
+    "tut_link": "https://gamebanana.com/tuts/11661",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "...",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Transparent textures for Counterstrike 1.6 Maps",
+    "tut_description": "Transparent textures for Counterstrike 1.6 Maps",
+    "tut_link": "https://gamebanana.com/tuts/11542",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Akshit Saklani",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Making Textile textures for skinning",
+    "tut_description": "Making Textile textures for skinning",
+    "tut_link": "https://gamebanana.com/tuts/11499",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Klint",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How To Make Sprite For A Skin.",
+    "tut_description": "How To Make Sprite For A Skin.",
+    "tut_link": "https://gamebanana.com/tuts/11496",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Kokorov",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make a muzzleflash in Gimp.",
+    "tut_description": "How to make a muzzleflash in Gimp.",
+    "tut_link": "https://gamebanana.com/tuts/11318",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": " Kokorov",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to use Texlights",
+    "tut_description": "How to use Texlights",
+    "tut_link": "https://gamebanana.com/tuts/11301",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Rageline",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How To Make A Transparent Radar",
+    "tut_description": "Hello, in this tutorial I will teach you, how to make your own transparent radar. There is a tutorial for solid radars, but it explains only the basics and it doesn\\'t cover the transparent radars.\r\n",
+    "tut_link": "https://gamebanana.com/tuts/11195",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Kokorov",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Create your very own menu background",
+    "tut_description": "Create your very own menu background",
+    "tut_link": "https://gamebanana.com/tuts/11169",
+    "tut_download": "https://files.gamebanana.com/tools/cake_v01_2.zip",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Making a custom crosshair in CS and HL",
+    "tut_description": "Making a custom crosshair in CS and HL",
+    "tut_link": "https://gamebanana.com/tuts/11168",
+    "tut_download": "http://files.gamebanana.com/bitpit/redesign.zip",
+    "tut_game": "game_multi",
+    "tut_author_name": " natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to do Realistic Shine",
+    "tut_description": "Hey, today I\\'m going to show you a easy to use but not well known technique using chrome that gives a realistic shine and reflection.",
+    "tut_link": "https://gamebanana.com/tuts/11167",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "DoomMarine23",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to Retexture in Photoshop for CS (CS Rn\\'RG)",
+    "tut_description": "This is a HIGH DETAILED tutorial. The first one of two about texturing and rendering using Photoshop and HLMV for Counter-Strike and Half-Life.",
+    "tut_link": "https://gamebanana.com/tuts/11063",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Changing weapon textures",
+    "tut_description": "This tutorial is for BEGINNERS, yes BEGINNERS and for those who don\\'t know how to change the extra textures between weapons if the extra texture is provided.",
+    "tut_link": "https://gamebanana.com/tuts/11049",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Brief guide about realigning textures",
+    "tut_description": "Brief guide about realigning textures\r\nBrief guide about realigning textures",
+    "tut_link": "https://web.archive.org/web/20081011054448/http://homepage.ntlworld.com/scitzo/guidealign.html",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "MaRzY",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Camouflage/Cloth Skinning Tutorial",
+    "tut_description": "Camouflage/Cloth Skinning Tutorial",
+    "tut_link": "https://gamebanana.com/tuts/11016",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make a custom spray for CS 1.6",
+    "tut_description": "How to make a custom spray for CS 1.6",
+    "tut_link": "https://gamebanana.com/tuts/10963",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Akshit Saklani",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How To Make Transparent Thingy Work",
+    "tut_description": "How To Make Transparent Thingy Work",
+    "tut_link": "https://gamebanana.com/tuts/10764",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "(Tikus Kali)",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to create overview for CS 1.6 map",
+    "tut_description": "Steps to creation overview",
+    "tut_link": "https://gamebanana.com/tuts/10738",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": " SickiX",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make a solid radar",
+    "tut_description": "In this Tutorial I will attempt to learn you how to make a solid radar with transparent areas. It\\'s not really hard when you understand what we\\'re doing.",
+    "tut_link": "https://gamebanana.com/tuts/10723",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "-bastard-",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": " Installing GUIs/Sprites",
+    "tut_description": "Installing GUIs/Sprites",
+    "tut_link": "https://gamebanana.com/tuts/10515",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Adding Custom Sprays",
+    "tut_description": "Adding Custom Sprays",
+    "tut_link": "https://gamebanana.com/tuts/10512",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make skys for cs 1.6",
+    "tut_description": "In this tutorial i will show you how to make a sky texture for cs 1.6 ",
+    "tut_link": "https://gamebanana.com/tuts/10438",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Mr.Rampage",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Light Environment",
+    "tut_description": "Light Environment",
+    "tut_link": "https://gamebanana.com/tuts/10299",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": " Tatu Eugen",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Wadinclude in bsp",
+    "tut_description": "Wadinclude in bsp",
+    "tut_link": "https://gamebanana.com/tuts/10264",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": " Tatu Eugen",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Lights Textures",
+    "tut_description": "Lights Textures",
+    "tut_link": "https://gamebanana.com/tuts/10260",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": " Tatu Eugen",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to create team colored",
+    "tut_description": "How to create team colored",
+    "tut_link": "https://gamebanana.com/tuts/11862",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": " Ezequiel-TM",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How To Recolor Texture",
+    "tut_description": "How To Recolor Texture",
+    "tut_link": "https://gamebanana.com/tuts/10767",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "MakarovVR",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to fix texture missaligments",
+    "tut_description": "A simple tutorial for fixing texture missaligments",
+    "tut_link": "https://gamebanana.com/tuts/10384",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Crash",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make a model transparent",
+    "tut_description": "How to make a model transparent",
+    "tut_link": "https://gamebanana.com/tuts/9670",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Neytiri",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Hands/Recoloring",
+    "tut_description": "Hands/Recoloring",
+    "tut_link": "https://gamebanana.com/tuts/3888",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Y3TTER",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Overview Image",
+    "tut_description": "Overview Image",
+    "tut_link": "https://gamebanana.com/tuts/2908",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "manoj",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Entity system in goldsrc",
+    "tut_description": "In this tutorial, I will show you how do entities in cs 1.6",
+    "tut_link": "http://cstrikemapping.blogspot.com/2011/11/entity-system-in-goldsrc.html",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "shash7",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "The GoldSrc Spraylogo Tutorial 4 - Slightly higher resolution Sven Co-Op spray using wally",
+    "tut_description": "Slightly higher resolution Sven Co-Op spray using wally",
+    "tut_link": "http://the303.org/tutorials/goldspray03.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Sprite Tutorial - PART1: Normal Sprites",
+    "tut_description": "PART1: Normal Sprites",
+    "tut_link": "http://the303.org/tutorials/gold_sprite_p1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Sprite Tutorial - Introduction",
+    "tut_description": "Introduction",
+    "tut_link": "http://the303.org/tutorials/gold_sprite.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Sprite Tutorial - PART4: Masked Sprites",
+    "tut_description": "PART4: Masked Sprites",
+    "tut_link": "http://the303.org/tutorials/gold_sprite_p4.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Sprite Tutorial - PART5: Animated Sprites",
+    "tut_description": "PART5: Animated Sprites",
+    "tut_link": "http://the303.org/tutorials/gold_sprite_p5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 8",
+    "tut_description": "Custom Skies",
+    "tut_link": "http://the303.org/tutorials/gold_texture_p8.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 9",
+    "tut_description": "DETAIL Textures",
+    "tut_link": "http://the303.org/tutorials/gold_texture_p9.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 10",
+    "tut_description": "Batch Conversion",
+    "tut_link": "http://the303.org/tutorials/gold_texture_p10.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Batch image processing transparency method ",
+    "tut_description": "Batch image processing transparency method ",
+    "tut_link": "https://forums.svencoop.com/showthread.php/43322-Batch-image-processing-transparency-method",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "The303",
+    "tut_author_alt": "sven"
+  },
+  {
+    "tut_name": "makels and qlumpy explination",
+    "tut_description": "makels and qlumpy explination",
+    "tut_link": "https://forums.svencoop.com/showthread.php/43462-makels-and-qlumpy-explaination-but-Half-Life-SDK-from-Steam-is-missunderstanding",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "SourceSkyBoxer",
+    "tut_author_alt": "sven"
+  },
+  {
+    "tut_name": " Lifts, Moving Platform and Elevators.",
+    "tut_description": " Lifts, Moving Platform and Elevators.",
+    "tut_link": "https://forums.svencoop.com/showthread.php/41389-Tutorial-1-Making-Simple-Lifts-(using-func_plat-func_door-or-func_train-)",
+    "tut_download": "https://web.archive.org/web/20180622171541/https://forums.svencoop.com/attachment.php?attachmentid=15627&d=1388869550",
+    "tut_game": "unknown",
+    "tut_author_name": "wolf-3d",
+    "tut_author_alt": "sven"
+  },
+  {
+    "tut_name": "Creating Sprites for Half-Life",
+    "tut_description": "Making sprites for Half-Life is an easy way to add visual appeal to any new map or add-on that you create.",
+    "tut_link": "https://web.archive.org/web/20010417035421/http://www.planethalflife.com:80/wavelength/2dart/tutorials/SpriteTutorial.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "valve",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Editing .mdl Skins",
+    "tut_description": "This tutorial covers how to use the Model Viewer from the Half-Life Workshop to edit skins for .mdl files using the Recon Grunt as an example.",
+    "tut_link": "https://web.archive.org/web/20011023034037/http://www.planethalflife.com:80/wavelength/2dart/tutorials/mdlskins.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating Custom Menu Art for the Half-Life Launcher",
+    "tut_description": "This tutorial will explain how to create and implement custom graphics for the Half-life menu system. ",
+    "tut_link": "https://web.archive.org/web/20011106131750/http://www.planethalflife.com:80/wavelength/2Dart/tutorials/MenuTutorial.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "dr. angryman",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Half-Life Sprite Tutorial",
+    "tut_description": "Half-Life Sprite Tutorial",
+    "tut_link": "https://web.archive.org/web/20011006043240/http://www.planethalflife.com:80/wavelength/2dart/tutorials/sprites.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating Textures and Texture WADs for Half-Life",
+    "tut_description": "Creating Textures and Texture WADs for Half-Life",
+    "tut_link": "https://web.archive.org/web/20011006105149/http://www.planethalflife.com:80/wavelength/2dart/tutorials/TextureTutorial.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "valve",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Creating a 24 Bit Texture From Scratch",
+    "tut_description": "Creating a 24 Bit Texture From Scratch",
+    "tut_link": "https://web.archive.org/web/20011102235359/http://www.planethalflife.com:80/wavelength/2Dart/tutorials/texturetutorial01.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ApocX",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Half-Life Deathmatch Skin files",
+    "tut_description": "Half-Life Deathmatch Skin files",
+    "tut_link": "https://web.archive.org/web/20011106132150/http://www.planethalflife.com:80/wavelength/2Dart/tutorials/SkinTutorial.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Mirar\\'s sprite guide.",
+    "tut_description": "mostly broken sprite guide",
+    "tut_link": "https://web.archive.org/web/20000309214305/http://www.mirar.org:80/half-life/sprites/sprites.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mirar",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Making a texture start to finish",
+    "tut_description": "Making a texture start to finish",
+    "tut_link": "https://web.archive.org/web/20010521145121/http://www.loonygames.com:80/content/1.11/gc/",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "shaithis",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "General Texture Tips",
+    "tut_description": "General Texture Tips",
+    "tut_link": "https://web.archive.org/web/20010617132730/http://www.loonygames.com:80/content/1.17/gc/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "shaithis",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Creating a Hand Drawn Texture",
+    "tut_description": "Creating a Hand Drawn Texture",
+    "tut_link": "https://web.archive.org/web/20010617133321/http://www.loonygames.com:80/content/1.19/gc/",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "shaithis",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Creating a Hand Drawn Texture (part two)",
+    "tut_description": "Creating a Hand Drawn Texture (part two)",
+    "tut_link": "https://web.archive.org/web/20010502060808/http://www.loonygames.com:80/content/1.23/gc/",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "shaithis",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Making ENV. Maps with Bryce 2",
+    "tut_description": "Making ENV. Maps with Bryce 2",
+    "tut_link": "https://web.archive.org/web/20010417012755/http://www.gamedesign.net:80/quake2/tutorials/bryce2/bryce2.shtml",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "rust",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "Environmental Maps",
+    "tut_description": "Environmental Maps",
+    "tut_link": "https://web.archive.org/web/20010417014411/http://www.gamedesign.net:80/quake2/tutorials/env_maps/env_maps.shtml",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "rust",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "Creating Skies With Terragen",
+    "tut_description": "Creating Skies With Terragen",
+    "tut_link": "https://web.archive.org/web/20010427211531/http://www.telefragged.com:80/soup/terra_tut/terra_tut.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "soup",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How To Use Environment Maps",
+    "tut_description": "How To Use Environment Maps",
+    "tut_link": "https://web.archive.org/web/20010418212258/http://www.telefragged.com:80/soup/envmapusage.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "soup",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wadfather Colour Spray Tutorials",
+    "tut_description": "Wadfather Colour Spray Tutorials",
+    "tut_link": "https://web.archive.org/web/20010424094835/http://wadfather.game-edit.com:80/spraypaint/wadfather_createbmp.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Un_ethical",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wadfather Colour Spray Tutorials",
+    "tut_description": "Wadfather Colour Spray Tutorials",
+    "tut_link": "https://web.archive.org/web/20010424095515/http://wadfather.game-edit.com:80/spraypaint/wadfather_palette.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Un_ethical",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wadfather Colour Spray Tutorials",
+    "tut_description": "Wadfather Colour Spray Tutorials",
+    "tut_link": "https://web.archive.org/web/20010629075023/http://wadfather.game-edit.com:80/spraypaint/wadfather_pldecal.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Un_ethical",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Modeling / 2D Art Frequently Asked Questions",
+    "tut_description": "Modeling / 2D Art Frequently Asked Questions",
+    "tut_link": "https://web.archive.org/web/20011221063135fw_/http://www.planethalflife.com:80/wavelength/models/reference/faq.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "HALF-LIFE SPRITES LIST",
+    "tut_description": "HALF-LIFE SPRITES LIST",
+    "tut_link": "https://web.archive.org/web/20020418052600/http://www.planethalflife.com:80/wavelength/levels/resources/sprites.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HellBringer, Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "The great outdoors",
+    "tut_description": "tips on making hl levels",
+    "tut_link": "https://web.archive.org/web/20010220153540/http://www.gameditors.co.uk:80/wc/tut/outside.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Skinning by Tormentus",
+    "tut_description": "This is a tutorial for skinning set out to be as easy as possible.",
+    "tut_link": "https://web.archive.org/web/20010223215651/http://www.planethalflife.com:80/tormentus/tutorial1.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tormentus",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "SKINMAKING",
+    "tut_description": "SKINMAKING",
+    "tut_link": "https://web.archive.org/web/20010203162800/http://www.planethalflife.com:80/coldfusion/tutorials/skinmaking/skinmaking.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Spray Tutorial",
+    "tut_description": "Spray Tutorial",
+    "tut_link": "https://web.archive.org/web/20050313220718/http://www.cs-maps.jolt.co.uk:80/index.php?page=spray_tutorial.html",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "cs-maps",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to make your own *.wad file",
+    "tut_description": "How to make your own *.wad file",
+    "tut_link": "https://web.archive.org/web/20020214082628fw_/http://halflife.qeradiant.com:80/misc/misc03.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Tiger",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Creating New Textures Using Wally",
+    "tut_description": "Creating New Textures Using Wally",
+    "tut_link": "https://web.archive.org/web/20040502144406/http://www.telefragged.com:80/wally/tutorials/tutorial1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to make a REGULAR HL logo",
+    "tut_description": "How to make a REGULAR HL logo",
+    "tut_link": "https://web.archive.org/web/20170525043751/http://www.atomicwarrior.com:80/logos/tutorialregular.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "atomicwarrior",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Logos/Decals for Half-Life",
+    "tut_description": "Logos/Decals for Half-Life",
+    "tut_link": "https://web.archive.org/web/20001212002000/http://www.hardwarepub.com:80/articles/logos/logos.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Val",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "The Color Logo Bible",
+    "tut_description": "The Color Logo Bible",
+    "tut_link": "https://web.archive.org/web/20170521182229/http://www.atomicwarrior.com:80/logos/tutorialcolor.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "atomicwarrior",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Color Logos/Decals for Half-Life",
+    "tut_description": "Color Logos/Decals for Half-Life",
+    "tut_link": "https://web.archive.org/web/20010223201425/http://www.hardwarepub.com:80/articles/colorlogos/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Val",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - Using the Rivet tool",
+    "tut_description": "Using the Rivet tool",
+    "tut_link": "https://web.archive.org/web/20040502130412/http://www.telefragged.com:80/wally/tutorials/tutorial2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - Using the Bullet Hole tool",
+    "tut_description": "Using the Bullet Hole tool",
+    "tut_link": "https://web.archive.org/web/20040502131924/http://www.telefragged.com:80/wally/tutorials/tutorial3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - Using the Patterned Paint tool",
+    "tut_description": "Using the Patterned Paint tool",
+    "tut_link": "https://web.archive.org/web/20040502132247/http://www.telefragged.com:80/wally/tutorials/tutorial4.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - Using the Patterned Paint tool",
+    "tut_description": "Using the Patterned Paint tool",
+    "tut_link": "https://web.archive.org/web/20040502133907/http://www.telefragged.com:80/wally/tutorials/tutorial5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - Using the Decal tool",
+    "tut_description": "Using the Decal tool",
+    "tut_link": "https://web.archive.org/web/20040502134039/http://www.telefragged.com:80/wally/tutorials/tutorial6.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - Creating a custom decal texture",
+    "tut_description": "Creating a custom decal texture",
+    "tut_link": "https://web.archive.org/web/20040502135756/http://www.telefragged.com:80/wally/tutorials/tutorial7.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - Editing WAD Files",
+    "tut_description": "Editing WAD Files",
+    "tut_link": "https://web.archive.org/web/20080814163741/http://www.telefragged.com:80/wally/tutorials/wad_files.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Color Decals",
+    "tut_description": "Half-Life Color Decals",
+    "tut_link": "https://web.archive.org/web/20040401200952/http://www.telefragged.com:80/wally/tutorials/hl_color_decals.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - WAD Merge Tool",
+    "tut_description": "WAD Merge Tool",
+    "tut_link": "https://web.archive.org/web/20040314025922/http://www.telefragged.com:80/wally/tutorials/wad_merge.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally - working with RES files",
+    "tut_description": "working with RES files",
+    "tut_link": "https://web.archive.org/web/20040314020907/http://www.telefragged.com:80/wally/tutorials/res_files.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Neal White III",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Wally FAQ",
+    "tut_description": "Wally FAQ",
+    "tut_link": "https://web.archive.org/web/20080724171415/http://www.telefragged.com/wally/faq.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Ty Matthews",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to include custom texture files (.wad files) into your finished .BSP",
+    "tut_description": "How to include custom texture files (.wad files) into your finished .BSP",
+    "tut_link": "https://web.archive.org/web/20020120121401/http://mapmakers.bizland.com:80/tutorials/textures/index.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "mapmakers",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "DESIGN CONSIDERATIONS FOR DEATHMATCH MAPPING - Part 3",
+    "tut_description": "DESIGN CONSIDERATIONS FOR DEATHMATCH MAPPING\r\nPart 3",
+    "tut_link": "https://web.archive.org/web/20021019150428/http://members.bellatlantic.net:80/~stepjack/editing3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sulsa",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to use detailtextures in a professional manner",
+    "tut_description": " If you don\\'t know what a detail texture is, I shall explain",
+    "tut_link": "https://www.moddb.com/mods/goldsource-data-base/tutorials/how-to-use-detailtextures-in-a-professional-manner",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Trempler",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Reskinning A Model",
+    "tut_description": "So, you want to know how to edit your \\'Half-Life 1\\' model and have them show um in your mod?",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/reskinning-a-model",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "bobby0415 ",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "How to change the Textures on a model",
+    "tut_description": "A simple guide on how to export the textures from models and modify them to your liking, and then importing it back into the model.",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-change-the-textures-on-a-model",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "nmb24 ",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "How to use detailtextures in a professional manner",
+    "tut_description": "How to use detailtextures in a professional manner",
+    "tut_link": "https://www.moddb.com/mods/goldsource-data-base/tutorials/how-to-use-detailtextures-in-a-professional-manner",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Trempler",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "textures too dark? here the solution",
+    "tut_description": "in this tutorial will teach you to create brilliant textures and polished like a champion ",
+    "tut_link": "https://www.moddb.com/games/counter-strike-condition-zero/tutorials/textures-too-dark-here-the-solution",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "ezequiel-TM ",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "GoldSrc \\'Chrome\\' Guide",
+    "tut_description": "\\'Chrome\\' in GoldSrc is a special texture mode that allows for a simple environment-like texture",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_chrome.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Spraylogo Tutorial Tutorial 3 - Spray with Hltagconverter With Transparency",
+    "tut_description": "Spray with Hltagconverter With Transparency",
+    "tut_link": "http://the303.org/tutorials/goldspray02.html",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "The GoldSrc Spraylogo Tutorial 5 - Creating A Fixed IndexAlpha Spray",
+    "tut_description": "Creating A Fixed IndexAlpha Spray",
+    "tut_link": "http://the303.org/tutorials/goldspray04.html",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Map Texture Tutorial - Part 7",
+    "tut_description": "SCROLLING Textures",
+    "tut_link": "http://the303.org/tutorials/gold_texture_p7.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Sprite Tutorial - PART2: ADDITIVE Sprites",
+    "tut_description": "PART2: ADDITIVE Sprites",
+    "tut_link": "http://the303.org/tutorials/gold_sprite_p2.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Sprite Tutorial - PART3: IndexAlpha Sprites",
+    "tut_description": "PART3: IndexAlpha Sprites",
+    "tut_link": "http://the303.org/tutorials/gold_sprite_p3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Sprite Tutorial - PART6: BEAM Sprites",
+    "tut_description": "PART6: BEAM Sprites",
+    "tut_link": "http://the303.org/tutorials/gold_sprite_p6.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Model Texturing Oldstyle Methods",
+    "tut_description": "Model Texturing Oldstyle Methods",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_tex_links.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Texturing Tutorial Thread",
+    "tut_description": "a bunch of tutorials compiled over the years to give people a head start on texturing weapons, props and such",
+    "tut_link": "https://forums.tripwireinteractive.com/forum/killing-floor/killing-floor-modifications/3d-and-animation-aa/55519-texturing-tutorial-thread",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Z3RO",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Texturing weapons - part 1",
+    "tut_description": "Texturing weapons - part 1",
+    "tut_link": "https://www.youtube.com/watch?v=AcpKPuBeKE8",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Millenia",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "Texturing weapons - part 2",
+    "tut_description": "Texturing weapons - part 2",
+    "tut_link": "https://www.youtube.com/watch?v=nC3CBzaUyRI&feature=related",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Millenia",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "Texturing weapons - part 3",
+    "tut_description": "Texturing weapons - part 3",
+    "tut_link": "https://www.youtube.com/watch?v=E_DIoRIAI2o&feature=related",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Millenia",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "Texturing weapons - part 4",
+    "tut_description": "Texturing weapons - part 4",
+    "tut_link": "https://www.youtube.com/watch?v=s2JoGtJ7yCo&feature=related",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Millenia",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "How to create transparent sprays",
+    "tut_description": "How to create transparent sprays",
+    "tut_link": "https://gamebanana.com/tuts/12860",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "vodka kmfdm",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "GoldSrc Custom Map Texture & Sprite Tutorial",
+    "tut_description": "This is a massive 16-part tutorial series on custom Map texture and Sprites",
+    "tut_link": "https://gamebanana.com/tuts/12310",
+    "tut_download": "http://files.gamebanana.com/bitpit/texandsprite_tut.rar",
+    "tut_game": "HL",
+    "tut_author_name": "The303",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Converting real life photos into HL textures",
+    "tut_description": "Making custom textures can be annoying at first, I\\'m here to help that process.",
+    "tut_link": "https://gamebanana.com/tuts/12256",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Admer456",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "QRAD Textures and the .RAD file",
+    "tut_description": "QRAD Textures and the .RAD file",
+    "tut_link": "https://web.archive.org/web/20021219134545/http://valve-erc.com/resources/?page=rad",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Creating Skies With Terragen",
+    "tut_description": "Creating Skies With Terragen",
+    "tut_link": "https://web.archive.org/web/20021210055612/http://www.valve-erc.com/resources/?page=makingskies",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ADarcJedi ",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Making a Territory Control Map",
+    "tut_description": "This tutorial explains how to make a basic map where there are flags to capture",
+    "tut_link": "https://web.archive.org/web/20070622132238/http://collective.valve-erc.com/index.php?doc=1026191087-63290200",
+    "tut_download": "",
+    "tut_game": "DOD",
+    "tut_author_name": "Tim Holt",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Controllable Looping.",
+    "tut_description": "Controllable Looping.",
+    "tut_link": "https://web.archive.org/web/20061027230501/http://collective.valve-erc.com/index.php?doc=1050100356-00706300",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ComCray",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Custom Decals",
+    "tut_description": "This beginner\\'s tutorial will discuss how to make your own custom decals for inclusion in your maps",
+    "tut_link": "https://web.archive.org/web/20061027230715/http://collective.valve-erc.com/index.php?doc=1032668728-00841800",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Luke Haywas",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Stand Still, You Sprite! (or: How to Fix Sprites\\' Axes)",
+    "tut_description": "This tutorial explains how to fix sprites\\' axes. Normally, a sprite will aways face the player, but using this method, the sprite can be prevented from moving on some or all axes.",
+    "tut_link": "https://web.archive.org/web/20061027234321/http://collective.valve-erc.com/index.php?doc=1063191790-06027400",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hazardous!",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Animated buttons in Half-Life",
+    "tut_description": "This is a short guide on how to do animated buttons in Half-Life",
+    "tut_link": "https://web.archive.org/web/20061029164753/http://collective.valve-erc.com/index.php?doc=1059416746-92484100",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mike",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "QRAD Textures and the RAD File",
+    "tut_description": "This article explains the concept of QRAD (light emitting) Textures and their relation to the lights.rad file.",
+    "tut_link": "https://web.archive.org/web/20061029164753/http://collective.valve-erc.com/index.php?doc=1037470021-37580600",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "autolycus",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "https://twhl.info/wiki/page/VERC%3A_Creating_Skys_with_Terragen",
+    "tut_description": "VERC: Creating Skys with Terragen ",
+    "tut_link": "https://twhl.info/wiki/page/VERC%3A_Creating_Skys_with_Terragen",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "ADarcJedi",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Custom Sprays - Decals",
+    "tut_description": "How to Create a Custom Spray - Decal",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122828021",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Stu Pidaso",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": " dod texture list",
+    "tut_description": " dod texture list",
+    "tut_link": "https://pastebin.com/f3kG6B6m",
+    "tut_download": "",
+    "tut_game": "DOD",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Hal-Life Wad Texture Contents List",
+    "tut_description": "Hal-Life Wad Texture Contents List",
+    "tut_link": "https://pastebin.com/XmyfmuJX",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Textures from Plastic Models",
+    "tut_description": "Textures from Plastic Models",
+    "tut_link": "http://web.archive.org/web/20031102113237/http://home.att.net/~firebinder/hl/textures1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "firebinder",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to re-skin model to cs 1.6",
+    "tut_description": "How to re-skin model to cs 1.6",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=923018602",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "How to install Custom Crosshair in Day of Defeat",
+    "tut_description": "A Fast and Easy way to install Custom Crosshair\\'s in Day of Defeat !",
+    "tut_link": "https://www.youtube.com/watch?v=JqnW7XeElLk",
+    "tut_download": "",
+    "tut_game": "DOD",
+    "tut_author_name": "Mr.Cypher!",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Creating overviews for maps",
+    "tut_description": "his tutorial will show how to make quick and easy overviews for maps.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=605834480",
+    "tut_download": "",
+    "tut_game": "DOD",
+    "tut_author_name": "LiveWire",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Loading Hi-Res TGA files into Trinity",
+    "tut_description": "One of Trinity\\'s big features is its external texture loader",
+    "tut_link": "http://web.archive.org/web/20181120145016/http://www.halflifezone.com/tutorials/loading-tgas-into-trinity",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Matthew",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to Create Realistic Looking Shadows",
+    "tut_description": "The way it\\'s done is by using decals",
+    "tut_link": "http://web.archive.org/web/20181126210707/http://www.halflifezone.com/tutorials/create-realistic-shadows",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Matthew",
+    "tut_author_alt": "generic"
+  }
+]

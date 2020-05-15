@@ -1,0 +1,290 @@
+[
+  {
+    "tut_name": "Making Your HL2DM Mod a Perfect Clone of HL2DM",
+    "tut_description": "This article let's you know how to setup your HL2DM mod to be exactly like HL2DM.",
+    "tut_link": "http://articles.thewavelength.net/703/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "trepid_jon",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Three Firing Modes for Pistol",
+    "tut_description": "Explains how to create 3 firing modes for the pistol: semi-automatic, burst-fire, and fully-automatic.",
+    "tut_link": "http://articles.thewavelength.net/684/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "minmaijd",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Attaching VGUIScreens to viewmodels",
+    "tut_description": "An article explaining how to attach dynamic vguiscreens to a weapons viewmodel",
+    "tut_link": "http://articles.thewavelength.net/675/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Crazy01",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "An Exploration Of Weapon_RPG: Part 1B",
+    "tut_description": "A fully documented exploration into the weapon_rpg class, starting with the basecombatweapon class and moving up the inheritance stack. The first part of the article disects basecombatweapon_shared.",
+    "tut_link": "http://articles.thewavelength.net/656/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Josiwe",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "An Exploration Of Weapon_RPG: Part 1A",
+    "tut_description": "A fully documented exploration into the weapon_rpg class, starting with the basecombatweapon class and moving up the inheritance stack. The first part of the article disects basecombatweapon_shared.",
+    "tut_link": "http://web.archive.org/web/20050217141502/http://articles.thewavelength.net/654/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Josiwe",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Setting up Visual Studio .net 2005 Beta C++ for Source",
+    "tut_description": "This is a quick and painless Artical on how to setup Visual Studio .net 2005 Beta, for use with Source Mods.",
+    "tut_link": "http://articles.thewavelength.net/678/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "amckern",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Scoreboard",
+    "tut_description": "Setting up a basic scoreboard (with teams!) in the HL2 FROM SCRATCH MP SDK",
+    "tut_link": "http://articles.thewavelength.net/667/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "omega",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Debugging your half-life 2 mod",
+    "tut_description": "I go through both methods for debugging your modification",
+    "tut_link": "http://articles.thewavelength.net/650/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "ibutsu",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "How to add Ammocrates for missing ammo type and/or create new ammo types",
+    "tut_description": "This tutorial will cover the code needed to add Slams and SGM1 Grenades as Ammocrate types, and also fix the graphics for two of the existing ones.",
+    "tut_link": "http://articles.thewavelength.net/700/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Starbreaker",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "3 State Zoom For Any Weapon",
+    "tut_description": "I missed the zooming feature of the 357 that was in HL1 so I thought as a beginner tutorial I'd write a weapon zooming lesson. I then carried it out to a 3-stage zoom.",
+    "tut_link": "http://articles.thewavelength.net/674/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "drnelson",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "3rd person View in Multiplayer",
+    "tut_description": "How to enable it in HL2DM",
+    "tut_link": "http://articles.thewavelength.net/738/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "cct",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Add Far Clipping/Fading to Particles",
+    "tut_description": "This will let you optionally set far clipping/fading on particles, so you can fade particles out at a certain distance from you.",
+    "tut_link": "http://articles.thewavelength.net/672/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "trepid_jon",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "GameUI",
+    "tut_description": "Explanation on handling VGUI without having a connection to a game.",
+    "tut_link": "http://articles.thewavelength.net/710/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "ts2do",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Adding Muting to your Scoreboard",
+    "tut_description": "A Small tutorial that explains how to put in simple muting on your scoreboard.",
+    "tut_link": "http://articles.thewavelength.net/682/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "imperio59",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Enabling Spectator Mode",
+    "tut_description": "How to get spectator mode working. Based on HL2MP SDK",
+    "tut_link": "http://articles.thewavelength.net/702/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "_Ms",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Game Movement Series #2: Analog Jumping and Floating",
+    "tut_description": "How to set up analog jumping (the longer you hold jump, the higher you go) and floating (pressing jump as you are falling decelerates your fall)",
+    "tut_link": "http://articles.thewavelength.net/668/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "hopper",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Game Movement Series #1: Wall jumping",
+    "tut_description": "How to setup wall jumping in half-life 2",
+    "tut_link": "http://articles.thewavelength.net/649/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "hopper",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Storing weapons on ladder",
+    "tut_description": "like Raven Shield or BF2",
+    "tut_link": "http://articles.thewavelength.net/724/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "British_Bomber",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Implementation of a string lookup table",
+    "tut_description": "A string lookup table is a set of functions that is used to convert strings to pre-defined values",
+    "tut_link": "http://articles.thewavelength.net/723/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "deathz0rz",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Smoke Grenade",
+    "tut_description": "Change the frag grenade in MP HL to a smoke grenade",
+    "tut_link": "http://articles.thewavelength.net/716/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Mercalli",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Adding Simple Pick up in Multiplayer",
+    "tut_description": "allows players to pick up objects with +use in multiplayer.",
+    "tut_link": "http://articles.thewavelength.net/707/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "LunarWolfX",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "More 3rd Person Camera Upgrades",
+    "tut_description": "This is an update to chrono's snippet.",
+    "tut_link": "http://articles.thewavelength.net/699/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Yates",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Display player bounding box",
+    "tut_description": "Adds a console command to output the players bounding box mins &amp; maxs to the console, and also draw's the bounding box in the world.",
+    "tut_link": "http://articles.thewavelength.net/691/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Beamish",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Adding explosion to the Xbow bolt",
+    "tut_description": "Remember HL1's cross bow bolt exploded when it hit? Get that, in HL2.",
+    "tut_link": "http://articles.thewavelength.net/683/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Twilight Suzuka",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Static Ragdolls",
+    "tut_description": "Ragdolls attached to their spawnpoint by a ragdoll constraint",
+    "tut_link": "http://articles.thewavelength.net/679/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "ts2do",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Making Bots Join A Team",
+    "tut_description": "Make the bots join whichever team you wish. So easy, even I can do it!",
+    "tut_link": "http://articles.thewavelength.net/680/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "DOOManiac",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Fix MP Grenade Auto-Switching",
+    "tut_description": "A basic fix for stopping the grenade from auto-switching to the next best weapon after you throw one. Also allows more than one grenade to be thrown.",
+    "tut_link": "http://articles.thewavelength.net/671/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "trepid_jon",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Super Phys Cannon Impulse",
+    "tut_description": "Get blue phys cannon with impulse 12",
+    "tut_link": "http://articles.thewavelength.net/636/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "ts2do",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Third Person Camera Upgrades",
+    "tut_description": "Collision check, translucency",
+    "tut_link": "http://articles.thewavelength.net/645/",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Crono",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Coding a Mod by Lord Ned (188)",
+    "tut_description": "You wanna make a mod? This tutorial focuses on the behind the scenes aspect, and less on the content.",
+    "tut_link": "http://web.archive.org/web/20150207065829/http://www.halfwit-2.com/?page=tutorials&amp;id=188",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "halfwit 2",
+    "tut_author_alt": "halfwit"
+  },
+  {
+    "tut_name": "Coding a flashlight to secondary attack by Lord Ned (189)",
+    "tut_description": "Changing a weapon's secondary fire to toggling the flashlight",
+    "tut_link": "http://web.archive.org/web/20141007162923/http://www.halfwit-2.com/?page=tutorials&amp;id=189",
+    "tut_download": "https://mega.nz/#F!dYoCzJBJ!BxS4gph7yOLwKoFFOrc3uA",
+    "tut_game": "HL2",
+    "tut_author_name": "halfwit 2",
+    "tut_author_alt": "halfwit"
+  },
+  {
+    "tut_name": "Adding Single-Player Weapons to Half-Life 2",
+    "tut_description": "The purpose of this article is to help you add the code for new weapons to your Half-Life 2 mod.",
+    "tut_link": "https://web.archive.org/web/20071225112423/http://collective.valve-erc.com/index.php?doc=1102638409-05843300",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Skyler \\'Zipster\\' York",
+    "tut_author_alt": "verc"
+  }
+]

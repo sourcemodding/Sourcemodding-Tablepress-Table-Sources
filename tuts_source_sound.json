@@ -1,0 +1,29 @@
+[
+  {
+    "tut_name": "Basic Voice Acting",
+    "tut_description": "How to get custom voices working, from start to finish.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Basic_Voice_Acting",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Playbus",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Recording Voice into Separate Channels",
+    "tut_description": "Recording Voice into Separate Channels",
+    "tut_link": "http://www.the303.org/tutorials/voicerecord.html",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Using Custom Sounds in HL2",
+    "tut_description": "Inserting them into your map.",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/121/Using_Custom_Sounds_in_HL2",
+    "tut_download": "",
+    "tut_game": "HL2",
+    "tut_author_name": "Nickelplate",
+    "tut_author_alt": "snarkpit"
+  }
+]

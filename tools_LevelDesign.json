@@ -1,0 +1,1282 @@
+[
+  {
+    "tool_name": "ToeTag",
+    "tool_description": "The only native Mac OS X level editor for Quake 1",
+    "tool_preview_image": "",
+    "tool_homelink": "http://oliveratgithub.github.io/ToeTag/",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!lZgWzACA!vUPlgRKfTb9ziFkZCEnIZg"
+  },
+  {
+    "tool_name": "BSP Library",
+    "tool_description": "C# Library for working with BSP files (and other similar file formats). ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/AbitTheGray/BspLib",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!FYphAJ4K!iChx0RsPPxCFeuaaOaeKQQ"
+  },
+  {
+    "tool_name": "BSP-Slicer",
+    "tool_description": "A tool to generate cl_leveloverview from BSP files ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/Traderain/BSP-Slicer",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!9d4zTaQD!_vkQahHy-KW-Wi-gGdNUxg"
+  },
+  {
+    "tool_name": "BSP Lib",
+    "tool_description": "Open-source library for reading and editing BSP files",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/RadCraftplay/Distroir.BSP",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!dIoyEK4R!77B3BviK074_Jnrw3z-7Tw"
+  },
+  {
+    "tool_name": "Half-Life SpawnPointEditor",
+    "tool_description": "This is the barebones program that GFlip uses as it's base",
+    "tool_preview_image": "tl_0",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FNxjVC7a!UJsKN1h7nUWG1tx1v9ccnQ"
+  },
+  {
+    "tool_name": "Calliper",
+    "tool_description": "The Calliper editor (formerly Crowbar) is designed to be a cross-platform, extensible level editor that accelerates the creation of computer game maps, and is targeted specifically at Source engine games.",
+    "tool_preview_image": "tl_1",
+    "tool_homelink": "https://github.com/x6herbius/calliper-osg",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!oNxSGICS!CVzMXRaTfq5hsDaJEGs6Hg"
+  },
+  {
+    "tool_name": "Net Radiant",
+    "tool_description": "The open source, cross platform level editor for idtech games (GTKRadiant fork)",
+    "tool_preview_image": "tl_2",
+    "tool_homelink": "https://gitlab.com/xonotic/netradiant",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!9UxSwQYC!b6jX0uUyONGrXmaMNA8KWQ"
+  },
+  {
+    "tool_name": "Badger",
+    "tool_description": "This is Badger. It's a tool to generate levels for Half-Life 2, Black Mesa.",
+    "tool_preview_image": "tl_3",
+    "tool_homelink": "http://shrinker.seriouszone.com/projects/Badger/",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!hQZSTYrb!wKVi0ByryNcpMYYEab8faw"
+  },
+  {
+    "tool_name": "BSP Pak Extractor",
+    "tool_description": "Simplest Pak extractor ever. Just pick a map and click the button",
+    "tool_preview_image": "tl_4",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!5JZgQYiD!DhC_Y4NM2IsbNTJies8_LQ"
+  },
+  {
+    "tool_name": "VTF Version Changer",
+    "tool_description": "Simple tool to change VTF versions from 7.5 to 7.4",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!kZICgYAS!32JBriEZTL8psvaUr8cJiA"
+  },
+  {
+    "tool_name": "Uncle Mike\\'s VHLT",
+    "tool_description": "This is an modified version of VHLT v34 by ???? ???? (Uncle Mike) designed for the Xash3D engine (bsp v31)",
+    "tool_preview_image": "",
+    "tool_homelink": "https://forums.svencoop.com/showthread.php/44536-Modified-version-of-VHLT-34",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!ZBoTha6b!JAXnJ1feO3e0c-zptfGnTA"
+  },
+  {
+    "tool_name": "Mapping Dev Texture Guides",
+    "tool_description": "Some Dev Texture guides to aid with level creation",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!AFQ2iKhS!r9zDJTXXJPC4UsQKYLZejw"
+  },
+  {
+    "tool_name": "GoldSrc Map Viewer",
+    "tool_description": "Map viewer for Valve\\'s GoldSrc engine (needs to be compiled)",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/wtrsltnk/goldsrc-maps",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!dUxjQbKY!CQqVEwLLE_VCgAsgyazMYA"
+  },
+  {
+    "tool_name": "Hammer Launcher",
+    "tool_description": "A tool for tweaking hammer settings and using multiple texture profiles",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!wZ41DbzB!XpPG4WO-hGHUhnr3ORSDzg"
+  },
+  {
+    "tool_name": "Hammer Floating Point Tool",
+    "tool_description": "This tool blocks Hammer from converting plane coordinates to integers when exporting .map file and thus enables Hammer to output the original floating point coordinates.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!JZxTjTYQ!AA-wVZkCpEnRy6eQHivnKw"
+  },
+  {
+    "tool_name": "Sledge JS",
+    "tool_description": "A collection of JavaScript functions to load Goldsource and Source map files and render them. Not an editor.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!YcwkHSQA!jiPtrqvxro-VEUwpq5ab4A"
+  },
+  {
+    "tool_name": "BSPConv",
+    "tool_description": "Collection of various bspconv exes i have found around the net",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!4JBQhaAC!w1n5SmXLunX31UVfO8VQBQ"
+  },
+  {
+    "tool_name": "BSP Viewer - Solokiller",
+    "tool_description": "This project is a prototype map renderer for Half-Life BSP files.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/SamVanheer/BSPViewer",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!EBRlSRIY!ueYUDiVJ9-XuDgvC4XqZjQ"
+  },
+  {
+    "tool_name": "bsparchive",
+    "tool_description": "Identifies and archives all dependencies for bsp files. ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/clintonbale/bsparchive",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YFgVVLZY!SLnDqD75xHQMv8NjEV7FKg"
+  },
+  {
+    "tool_name": "VBSP - prop_static Fix",
+    "tool_description": "This is a modified VBSP that does not delete prop_static entities using models with propdata",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!RRgADYDS!PmPfuY9FCNjJNLPHWIqYrg"
+  },
+  {
+    "tool_name": "lumpystuff",
+    "tool_description": "Simple tool to dump raw data from Valve\\'s map files. ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/mikesmiffy128/lumpystuff",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0UIXRIRC!oxLz_HPedyt9y6pJslH2zw"
+  },
+  {
+    "tool_name": "SlimBSP",
+    "tool_description": "A slimmed down copy of the Source SDK 2013 map compile tools",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/Revenge282/SlimBSP",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!JJZFBabD!_9K8YuGFu8eN2lG6xE2ABA"
+  },
+  {
+    "tool_name": "Map Parse",
+    "tool_description": "C# library that will parse Quake/Half-Life MAP files",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/Figglewatts/MapParse",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!MdhVDJKD!rnCt7AzdH70EMnLhrPDTZA"
+  },
+  {
+    "tool_name": "Hammer Patch",
+    "tool_description": "Modification of Source Valve Hammer Editor to fix some issues. Fixes brush vertex precision loss.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/crashfort/HammerPatch",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!YRIH3IxI!j_wDMfjNyR22YTLGtckNvg"
+  },
+  {
+    "tool_name": "vmf parser",
+    "tool_description": "A small VMF to JSON parser",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/leops/vmfparser",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!QMBDSIwQ!-5zdGcEgjHrWw3j9A-Q53A"
+  },
+  {
+    "tool_name": "Make VMF",
+    "tool_description": "Q3 .map to HL2 .vmf converter ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/ntrf/makevmf",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xUYzzY7a!gLKU5rwVJY6zQGY9u8Z2pQ"
+  },
+  {
+    "tool_name": "HL Compiled",
+    "tool_description": "Batch compiler for automating Map Compilation",
+    "tool_preview_image": "tl_5",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!tVRDiZrK!ojyFU6FA5c82W51R9W5m5A"
+  },
+  {
+    "tool_name": "Half-Life BSP Tools",
+    "tool_description": "A nice tool made in 2015 which can come in handy sometimes when a bsp file is too large and wont work in BSPtoMAP.exe",
+    "tool_preview_image": "tl_6",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!BQYyFapA!ZIJphJ_KJbB4ffQj9Ajqxw"
+  },
+  {
+    "tool_name": "Plan Shape",
+    "tool_description": "a 3D Shape Generator for the Quake & Half-Life Map Format",
+    "tool_preview_image": "tl_7",
+    "tool_homelink": "http://gibshooter.com/planshape/",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!sdBXTYrJ!Hgul3u0QKRL7nottNcAHRw"
+  },
+  {
+    "tool_name": "Dispgen",
+    "tool_description": "This program will create a half-life2 displacement map from a heightmap image.",
+    "tool_preview_image": "tl_8",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!YEpQWByB!9Bl8icLpys3uAE7uH0Cumg"
+  },
+  {
+    "tool_name": "Map Lister",
+    "tool_description": "Lists maps for easy maplist.txt",
+    "tool_preview_image": "tl_9",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cJI03KjA!NLKYuC0W7BlmXV2MxMMjCA"
+  },
+  {
+    "tool_name": "Map Extractor",
+    "tool_description": "Useful tool for extracting the contents of BSP files",
+    "tool_preview_image": "tl_10",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!1JBTDKYD!2QMvP7a-SJDe6iTU54cTTQ"
+  },
+  {
+    "tool_name": "DispEd",
+    "tool_description": "Create Displacements for your maps",
+    "tool_preview_image": "tl_11",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EZpjzRTA!4l-QZtwB5P3iH1zoifTFTQ"
+  },
+  {
+    "tool_name": "Compile Pal",
+    "tool_description": "A tool to assist in the compiling of source engine maps",
+    "tool_preview_image": "tl_12",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!oEJ1WQzB!oTugepo8goM3m_JskZF5wQ"
+  },
+  {
+    "tool_name": "Tree Planter",
+    "tool_description": "This is a tool I made to create huge forests in Source maps (It should work with any source game!)",
+    "tool_preview_image": "tl_13",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lMhzkIgJ!Y_JMC0Ih3J1wKNrmLqN2aw"
+  },
+  {
+    "tool_name": "HammerMate",
+    "tool_description": "HammerMate is a tool I use to save and load the wad texture list for Hammer 3.4 / 3.5.",
+    "tool_preview_image": "tl_14",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!VVw2jTZZ!VJ9fycnoDfVE-kInbYLcXQ"
+  },
+  {
+    "tool_name": "Hammer VMF Helper",
+    "tool_description": "Used to take source-css console commands and convert them into .vmf-compatible commands.",
+    "tool_preview_image": "tl_15",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!sY4xFajQ!8uLTcKQ5xJpZnuhIX7W64Q"
+  },
+  {
+    "tool_name": "Trimesh",
+    "tool_description": "It is another type of solid which is perfect for creating terrain. A plugin for Hammer",
+    "tool_preview_image": "tl_16",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!RV5VFZbI!24HUJqq27noBMTY3Cskrcw"
+  },
+  {
+    "tool_name": "Instant Lammer Editor",
+    "tool_description": "Well made Russian Level Editor for GoldSrc",
+    "tool_preview_image": "tl_17",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!hdBg2AKS!4aQGAx1i0KPwYICbBpv-dg"
+  },
+  {
+    "tool_name": "Map Resource Extractor",
+    "tool_description": "Map Resource Extractor (MRE) is a small program that reads the VMF, and only copies the content that has been used in the map.",
+    "tool_preview_image": "tl_18",
+    "tool_homelink": "https://developer.valvesoftware.com/wiki/Map_Resource_Extractor",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IAYRzaha!y8Q2ptGFjsUHrWNf5L7Evg"
+  },
+  {
+    "tool_name": "BSP Level Editor",
+    "tool_description": "Alternative to Hammer",
+    "tool_preview_image": "tl_19",
+    "tool_homelink": "http://bspquakeeditor.com/index.php",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kZZR0AQZ!dY2ZQGKdCWvq_z_vqSf4Ow"
+  },
+  {
+    "tool_name": "Maplist Generator",
+    "tool_description": "List Maker automatically generates your maplist.txt and mapcycle.txt, it can be further used for making lists outside of Maplist making.",
+    "tool_preview_image": "tl_20",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!pJonCbpS!ebVGTpCJimxSAzoC_hq5RQ"
+  },
+  {
+    "tool_name": "Worldcraft Hammer Editor Map Compiler",
+    "tool_description": "Worldcraft Hammer Editor Map Compiler is a set of .bat files that make the process of compiling and developing .bsp maps from .vmf files an easy and fun task.",
+    "tool_preview_image": "tl_21",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!FRI3HT4D!FmtKP1CGp4w9TkRpMigZNw"
+  },
+  {
+    "tool_name": "Map Obfuscator (IID)",
+    "tool_description": "Removes entity names from your map and helps prevent people from stealing your work",
+    "tool_preview_image": "tl_22",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cYBHzAbC!VBkfmg27y2mxK8eQJIudGA"
+  },
+  {
+    "tool_name": "HL Labyrinth generator",
+    "tool_description": "This program is a little tool for those that like the Half-Life game, with \r\nits amazing kind of enemies and weapons.",
+    "tool_preview_image": "tl_23",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!gUAlUDjZ!sCl7KRe2Lg_B_OuNB91lsw"
+  },
+  {
+    "tool_name": "BSP2OBJ",
+    "tool_description": "BSP2OBJ is a command-line utility capable of converting Quake, Quake 2 and Half-Life map files into OBJ meshes ",
+    "tool_preview_image": "tl_24",
+    "tool_homelink": "https://github.com/measuredweighed/BSP2OBJ",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kR5FhZYT!gSLsP03Kj0yUBCFMc1uf7A"
+  },
+  {
+    "tool_name": "BrushGen",
+    "tool_description": "This tool is used to create the smallest convex brush containing all points in the input file. Input file can be .smd (use its vertexes), .map (brushes and point entities) or .pts file.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!gd5SDQha!VRY3s26V6yHo6_TIURKmMA"
+  },
+  {
+    "tool_name": "VMF Instance Inserter",
+    "tool_description": "Inserts instances into a map",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!9QpXwYIJ!UJJ20yljVsX4Iudm6LeqIA"
+  },
+  {
+    "tool_name": "Color Correct",
+    "tool_description": "Color Correct is a 3DS Max texture plug-in which alters the colors of any texture",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!VUAxkYxB!y2zDpdj9INDFsDjG3NDubw"
+  },
+  {
+    "tool_name": "JackHammer",
+    "tool_description": "Alternative Map Editor for GoldSrc games",
+    "tool_preview_image": "tl_25",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!dYIBGIJJ!zlqClHBEiiVNnwnifKHsNA"
+  },
+  {
+    "tool_name": "Q2 Beaver",
+    "tool_description": "Windows interface that frontends the compiling utilities",
+    "tool_preview_image": "tl_26",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!cRwzRBQJ!FQd-fLDUoDTAQnZVVNVOmw"
+  },
+  {
+    "tool_name": "Crafty",
+    "tool_description": "Crafty is a 3D object, material, model and file browsing utility for Source &amp; GoldSrc Maps.",
+    "tool_preview_image": "tl_27",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!hYoATbZD!t3OQXx20c9eLV7-oVixP7g"
+  },
+  {
+    "tool_name": "Prop Rotate",
+    "tool_description": "Rotates selected entity types in a map",
+    "tool_preview_image": "tl_28",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!8VwH2STJ!n3HtPVWSO5z43gOzdWcyJA"
+  },
+  {
+    "tool_name": "Half Life Automap",
+    "tool_description": "Generate a random map for Half-Life based on criteria you set in the application",
+    "tool_preview_image": "tl_29",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.co.nz/#F!pYwVwBDL!jm-cpeeGGoOy_WKOVVfMrw"
+  },
+  {
+    "tool_name": "RES File Maker",
+    "tool_description": "Creates .Res files for Source games running on a server",
+    "tool_preview_image": "tl_30",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!YJIVHDqC!zFQASM9hsDLuupPEADr2wg"
+  },
+  {
+    "tool_name": "U Need A Unit",
+    "tool_description": "Simple tool for converting world units into Hammer Units",
+    "tool_preview_image": "tl_31",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!YFJwTLDY!6q1InWhZAIrL3qKYl3w7Eg"
+  },
+  {
+    "tool_name": "BSP Source",
+    "tool_description": "Decompile Source .bsp files into Hammer .vmf files. Successor to VMEX",
+    "tool_preview_image": "tl_32",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.co.nz/#F!8YhiXDaQ!3bg91hvTDLcC9Zsh85nIBw"
+  },
+  {
+    "tool_name": "VNIX Map Protector",
+    "tool_description": "Small utility for helping protect bsp maps",
+    "tool_preview_image": "tl_33",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cUoRmQpB!gyHm3AVlJJzKijvfra2KOg"
+  },
+  {
+    "tool_name": "BSP Viewer",
+    "tool_description": "Preview a map contained in a BSP file.",
+    "tool_preview_image": "tl_34",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!cNh0gb5b!xUzG4qvF-tcQ5bIIlPkZHA"
+  },
+  {
+    "tool_name": "Batch Compiler",
+    "tool_description": "Batch compile Source and GoldSrc Maps",
+    "tool_preview_image": "tl_35",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.co.nz/#F!lMpwFB6S!x9Vy0CtieqbdS73cPUOq_w"
+  },
+  {
+    "tool_name": "RipEnt",
+    "tool_description": "Older program used for editing entities within bsp maps",
+    "tool_preview_image": "tl_36",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YUxnibzZ!Egzjnm-sjMdYZZy7b7ikuQ"
+  },
+  {
+    "tool_name": "Twister",
+    "tool_description": "Generates displacements that would usually take an extremely long time, or just be impossible to do in Hammer.",
+    "tool_preview_image": "tl_37",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!QIBnhAZJ!xrXzxjLkbdPabTWMg2hRGQ"
+  },
+  {
+    "tool_name": "UComplier",
+    "tool_description": "Compiler and Decompiler rolled into one tool",
+    "tool_preview_image": "tl_38",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!8JgShTwR!KuoeJf7dyVwKCK-WHmVc8w"
+  },
+  {
+    "tool_name": "Compile Tracker",
+    "tool_description": "Another great tool from RedMser which tracks Hammers compilation progress even when it seems to hang",
+    "tool_preview_image": "tl_39",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wNAHzAwS!FRiRcLJ06YWgtMs41YoLhg"
+  },
+  {
+    "tool_name": "Vmex",
+    "tool_description": "Valve Map Extractor, Decompile BSP maps for source (original version)",
+    "tool_preview_image": "tl_40",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!Yd4jyS4L!bXYHaLdqh95Uv3EbpY-bWw"
+  },
+  {
+    "tool_name": "Vmex Mod",
+    "tool_description": "Valve Map Extractor modified version (Successor to VMEX)",
+    "tool_preview_image": "tl_41",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ZE4R3TCb!yzUGTmV2CnIT8Ehx-_rJdQ"
+  },
+  {
+    "tool_name": "Half Life Game Level Viewer",
+    "tool_description": "DirectX based application to open and view Half Life 1 game files (Source Code)",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!UYwxSIya!FpxFvBhXYcyuGtsVHHJA5Q"
+  },
+  {
+    "tool_name": "Transparency DLL for WON Half-Life",
+    "tool_description": "Custom DLL that supports transparency in Half-Life for pre Steam WON",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!hMZmGaRT!XYiccedYD_zQHNx4wDx6bA"
+  },
+  {
+    "tool_name": "Map Compiler Plugin - Nightfire",
+    "tool_description": "Displays all options for, and facilitates, compiling maps for Nightfire",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!QVpklIrL!b_pk50ISBIUeV5ErMYOg9A"
+  },
+  {
+    "tool_name": "VBSP h4xed",
+    "tool_description": "A modified version of VBSP designed to greatly increase the maximum width and length of visleaves.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0EgzmAKa!ajktQHfHgoKSB-c8tvhR7w"
+  },
+  {
+    "tool_name": "Map Protector",
+    "tool_description": "Small prefab to help protect your map",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!REJw1C6A!xMWET-aqsYc0PW2r7VXjKg"
+  },
+  {
+    "tool_name": "Mappers Pack",
+    "tool_description": "Collection of the main tools required for mapping with GoldSrc",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!AEZX1JoI!uTAFrW874u_o_7XYegzrrQ"
+  },
+  {
+    "tool_name": "Mapping Tools",
+    "tool_description": "Collection of tools useful for mapping with GoldSrc",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FJwHXKrI!gyp1m-5aMID6qal5F3_sIQ"
+  },
+  {
+    "tool_name": "Transparency DLL for STEAM Half-Life",
+    "tool_description": "Custom DLL that supports transparency in Half-Life for Steam",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!8E5Wga7A!kOWYeiS3-r5Ss2S9JBzFwA"
+  },
+  {
+    "tool_name": "QUARK",
+    "tool_description": "Quake Army Knife, multi-purpose tool for games based on or similar to the Quake engine",
+    "tool_preview_image": "tl_42",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!AUJmDYQD!vcroK-1OOw0Gc1IesRhzAA"
+  },
+  {
+    "tool_name": "Revolver",
+    "tool_description": "Allows you to create interesting 3D shapes without going through all the hassle of vertex manipulation",
+    "tool_preview_image": "tl_43",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FV5WjJqQ!7cDdr0O07VgDYKDSSZ3fEQ"
+  },
+  {
+    "tool_name": "WinBSPc",
+    "tool_description": "Convert .BSP files to .MAP files &amp; Extract files from .PAK or .SIN files",
+    "tool_preview_image": "tl_44",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!hchlgZiL!RhHCCc9WslXGRc3zncqDEA"
+  },
+  {
+    "tool_name": "Enigmas FGD Creator",
+    "tool_description": "A graphical interface for creating and editing Half-Life FGD Files.",
+    "tool_preview_image": "tl_45",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!0EpkkYZI!N9wdByw6Asll5Qt1ICuZKw"
+  },
+  {
+    "tool_name": "Hammer Units Converter (HUC)",
+    "tool_description": "Standalone units converter",
+    "tool_preview_image": "tl_46",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!Zdx3WTTb!wsjs9cCTpodNDJ_Z-ge9YQ"
+  },
+  {
+    "tool_name": "BSP Edit",
+    "tool_description": "View and Edit the Entity information of a compiled BSP Map",
+    "tool_preview_image": "tl_47",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.co.nz/#F!hd5VTBSJ!6EPiMZBCdKcvIWWtsDCOog"
+  },
+  {
+    "tool_name": "EntEd",
+    "tool_description": "Edit the entities of Source and GoldSrc games",
+    "tool_preview_image": "tl_48",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!xF4xBSqT!56DYBupq7DYThfMxXRLxSw"
+  },
+  {
+    "tool_name": "Map Viewer",
+    "tool_description": "Small application for viewing map files, Superseded by crafty",
+    "tool_preview_image": "tl_49",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!1JBWAAaJ!L6y_m0vYd2kuA4nO1WRmXw"
+  },
+  {
+    "tool_name": "GenSurf",
+    "tool_description": "Quake2/3 map surface generator",
+    "tool_preview_image": "tl_50",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!UQ5XFCoZ!AufL7lsGUAilYx-fz9KWHg"
+  },
+  {
+    "tool_name": "Darkulator",
+    "tool_description": "Adjust the light levels in a map",
+    "tool_preview_image": "tl_51",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.co.nz/#F!wdRiwaRS!ka3FKbKti_tR9VpAsOhNrQ"
+  },
+  {
+    "tool_name": "MapFool",
+    "tool_description": "Aids in nthe process of converting GoldSrc maps into Source maps",
+    "tool_preview_image": "tl_52",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!1dASUAYS!fNqxI-RE1XXQrqKsKJgFRA"
+  },
+  {
+    "tool_name": "Custom Lightstyle Generator",
+    "tool_description": "Create a custom light style for your goldSrc maps",
+    "tool_preview_image": "tl_53",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!VdRXmJBA!zsa5GtLHucDpEyU0f6uFeA"
+  },
+  {
+    "tool_name": "WorldCraft Color Editor",
+    "tool_description": "Hack the colors in WorldCraft",
+    "tool_preview_image": "tl_54",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!AUAxiCiK!8q_9HY7Zahpmf2zQgU89Fw"
+  },
+  {
+    "tool_name": "Tread3D",
+    "tool_description": "Multi Game Map Editor that supports Half-life",
+    "tool_preview_image": "tl_55",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kAAxlZCR!zXyknivLQ8hjjznmFKwoNw"
+  },
+  {
+    "tool_name": "TCG - Batch Compile GUI",
+    "tool_description": "GUI frontend for Source compiling tools",
+    "tool_preview_image": "tl_56",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xVhxnTKC!twedsJt87QT4vVsMB-cC7g"
+  },
+  {
+    "tool_name": "Half-Life Quake3 Map Converter",
+    "tool_description": "Convert maps between Quake3 and Half-Life",
+    "tool_preview_image": "tl_57",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YdgRiZ7J!hIjYW655bwGsNJ2RuogKjQ"
+  },
+  {
+    "tool_name": "Valve Batch Compile Tool",
+    "tool_description": "Standalone Compiler for Source Maps",
+    "tool_preview_image": "tl_58",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!FVYFzICR!qroYV50kJxmIMKYQpNfpHw"
+  },
+  {
+    "tool_name": "Source Map Generator",
+    "tool_description": "Small tool for generating Random Source Maps",
+    "tool_preview_image": "tl_59",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!JYxBWSKQ!67Rog-7KWcKW4kp5M216JA"
+  },
+  {
+    "tool_name": "Gear Craft",
+    "tool_description": "Editor used for 007 Nightfire map creation",
+    "tool_preview_image": "tl_60",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!0FRCGSaT!qZQ0Q7WHuROQTdEf_PxpHA"
+  },
+  {
+    "tool_name": "Sledge Editor",
+    "tool_description": "Free, Opensource, drop-in editor replacement for Hammer",
+    "tool_preview_image": "tl_61",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!sFhhlCQC!56EQoIgVo0TaakPWeflPsw"
+  },
+  {
+    "tool_name": "Automap",
+    "tool_description": "Random SP map generator for Half-Life",
+    "tool_preview_image": "tl_62",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pYwVwBDL!jm-cpeeGGoOy_WKOVVfMrw"
+  },
+  {
+    "tool_name": "Source Map compiler GUI",
+    "tool_description": "GUI Compiler for Source Maps",
+    "tool_preview_image": "tl_63",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EBgU1ZSB!6Mv32IGZNT8Ea5OSIk4DNA"
+  },
+  {
+    "tool_name": "Source Compile Analyzer",
+    "tool_description": "Analyzes and reports on errors in the map compilation process",
+    "tool_preview_image": "tl_64",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!8AogBZ7Q!O2U5lvQLYzA2w_3SWfjfKg"
+  },
+  {
+    "tool_name": "WorldCraft",
+    "tool_description": "The Original official mapping utility from Valve",
+    "tool_preview_image": "tl_65",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YM4XkATT!YfoEcM-BpBLc2FiRxlhYTg"
+  },
+  {
+    "tool_name": "Forest Generator",
+    "tool_description": "Generate forests within your maps based on surface type",
+    "tool_preview_image": "tl_66",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!hUYjACwS!dZ2vDTMb_7-wp6_1Ki3SWw"
+  },
+  {
+    "tool_name": "Custom FGDs GoldSrc",
+    "tool_description": "A collection of FGD's for GoldSrc",
+    "tool_preview_image": "tl_67",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!gYxQgCyD!iEjH6J80pczjHi4dMRkiMw"
+  },
+  {
+    "tool_name": "Custom FGDs Source",
+    "tool_description": "A small collection of FGD's for Source",
+    "tool_preview_image": "tl_68",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wNhXiCBa!XCsWFTnnjvhtIGUupGQCtQ"
+  },
+  {
+    "tool_name": "Map Analyst (MAN)",
+    "tool_description": "A GUI tool for embedding custom content",
+    "tool_preview_image": "tl_69",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0VpHTLKY!Ns6X0EP8KyK6CaXMwJsWtA"
+  },
+  {
+    "tool_name": "Hammer unit converter",
+    "tool_description": "integrates into Hammer and allows conversion of Source Engine units into metric or imperial units.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!4YIVWYRY!zkzyIx1PaCWrQNUz6h71SQ"
+  },
+  {
+    "tool_name": "JPHL Map Maker",
+    "tool_description": "Alternative Map Editor for GoldSrc games",
+    "tool_preview_image": "tl_70",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!QVoCFJ5T!o9JJyqXJyuynFCm_mNDvrQ"
+  },
+  {
+    "tool_name": "Toolbox Lux RAD Editor",
+    "tool_description": "Edit light values inside a Maps RAD file",
+    "tool_preview_image": "tl_71",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!MQBQQYiZ!8jXqLh9LM3zNoacFIjBJyw"
+  },
+  {
+    "tool_name": "MicroBrush",
+    "tool_description": "Alternative to Hammer Editor for Level design",
+    "tool_preview_image": "tl_72",
+    "tool_homelink": "http://shrinker.seriouszone.com/projects/Microbrush3/",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!4QIG1IYK!JCXSySXsNcpmQOjb2DIhPw"
+  },
+  {
+    "tool_name": "Quake Scene Builder",
+    "tool_description": "Basic Model viewer for GoldSrc",
+    "tool_preview_image": "tl_73",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!dMx1QKLT!k7EyLSu9pv3JEUttOu6hdA"
+  },
+  {
+    "tool_name": "WinBSPzip",
+    "tool_description": "This program adds custom content to a BSP. It is a GUI version of Valve's bspzip.",
+    "tool_preview_image": "tl_74",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EB5RUZZC!Kg4ljr25Su083UUxYfhFEw"
+  },
+  {
+    "tool_name": "ToolBox Editor (Quake Engine Map File Text Editor)",
+    "tool_description": "Modify the entities of a .map file by editing its text",
+    "tool_preview_image": "tl_75",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!JNAlFQyD!EDGUsHHXKag7jbjMS0rXuw"
+  },
+  {
+    "tool_name": "Joiner",
+    "tool_description": "Joiner is a little application that reads in a template .vmf file and produces a new .vmf filled with supports based on your template and customised settings or config.",
+    "tool_preview_image": "tl_76",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!oEZhjLoK!fI0Y3ifai7AjF9ZZapj0_g"
+  },
+  {
+    "tool_name": "Valve Batch Compile Tool",
+    "tool_description": "Valve Batch Compile tool (VBCT) is a source map Compile tool",
+    "tool_preview_image": "tl_77",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!tFgEkbpL!pINUwEkUWIE1Mwy6j4YuNw"
+  },
+  {
+    "tool_name": "Half-Life Level Compilation Controller (HLCC)",
+    "tool_description": "Tool for compiling Maps from hammer",
+    "tool_preview_image": "tl_78",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!UJYHxALL!ilnwx9zp1gEZuFGikFVagg"
+  },
+  {
+    "tool_name": "The Compilator",
+    "tool_description": "GUI Compiler for Half-Life Maps",
+    "tool_preview_image": "tl_79",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!lBYR2ZoQ!zTjrB6_sW80GS0JlcmGECQ"
+  },
+  {
+    "tool_name": "leakmarker",
+    "tool_description": "This is a tool for showing leaks in a map made in WordCraft.",
+    "tool_preview_image": "tl_80",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kJhjHAxL!IR6q10ygt6fjv_zSeSlR_Q"
+  },
+  {
+    "tool_name": "Terragen",
+    "tool_description": "Older free for personal use version of Terragen for sculpting landscapes",
+    "tool_preview_image": "tl_81",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!kIpUTKgB!7tFMpLplbzuT6T6PStGiGg"
+  },
+  {
+    "tool_name": "Nem's Mega 3D Terrain Generator",
+    "tool_description": "Generates Terrain for Games",
+    "tool_preview_image": "tl_82",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!4RQBUbhS!6IOX4aZvN2-A25ou10qcYA"
+  },
+  {
+    "tool_name": "Map Performance Menu",
+    "tool_description": "Simple bindings for debugging maps",
+    "tool_preview_image": "tl_83",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!UVwCCTLR!_4HAdvvcpb46vFX3510x4g"
+  },
+  {
+    "tool_name": "GTK Radiant",
+    "tool_description": "The open source, cross platform level editor for id Tech games.",
+    "tool_preview_image": "tl_84",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YBZTCQST!kjG63egA9i9ew0mbK96rsQ"
+  },
+  {
+    "tool_name": "Nightfire BSP Decompiler",
+    "tool_description": "Decompiles some BSP maps with most support for Nightfire 007",
+    "tool_preview_image": "tl_85",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!cJpgFCia!T_dZ0MpVp4JxWGN2Pqielg"
+  },
+  {
+    "tool_name": "Hazard Team Compile Tool",
+    "tool_description": "A tool for compiling maps from VMF to BSP format",
+    "tool_preview_image": "tl_86",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IdJmXA4I!d6Yop4-Sid6ysJW7ok9ghA"
+  },
+  {
+    "tool_name": "Orbital Studio Batch Compiler",
+    "tool_description": "Batch map compiler for GoldSrc",
+    "tool_preview_image": "tl_87",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!NdR0HSJI!hDaX8DSM-OeIOCqHHyiS1w"
+  },
+  {
+    "tool_name": "QE Radiant",
+    "tool_description": "Alternative Map Editor mainly used for Quake 2 but compatible with GoldSrc",
+    "tool_preview_image": "tl_88",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kYADkRRQ!YFRjgjpYJ8cdgt5c0D0EOQ"
+  },
+  {
+    "tool_name": "Valve Hammer Editor Compiler",
+    "tool_description": "Standalone Compiler for GoldSrc Maps",
+    "tool_preview_image": "tl_89",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!AIgVgSRS!5ayNaepu4Wp70JrvW2322g"
+  },
+  {
+    "tool_name": "Sky Viewer",
+    "tool_description": "Great little application for viewing skys used in game",
+    "tool_preview_image": "tl_90",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!xcQQ3QaZ!Zc8xutS6XSyAITc7Mc2Uhw"
+  },
+  {
+    "tool_name": "Map Protections",
+    "tool_description": "Small collection of obfuscation techniques for maps",
+    "tool_preview_image": "tl_91",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!AIhSBDAL!Gr9EPbTGxm1cC7vTkWdJyA"
+  },
+  {
+    "tool_name": "EntSpy",
+    "tool_description": "Entspy is program for viewing and editing the entities of compiled map",
+    "tool_preview_image": "tl_92",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!oI4WjZhD!cobTlA9PTAhDhGHD-lhyMg"
+  },
+  {
+    "tool_name": "Overview Description Generator",
+    "tool_description": "makes textfiles to go with your overview pictures from Half-Life maps.",
+    "tool_preview_image": "tl_93",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!UEhl1SBY!W0bwBuodwS29ooOR32MGTg"
+  },
+  {
+    "tool_name": "BSP2MAP",
+    "tool_description": "Decompile GoldSrc .bsp files into Hammer .map files.",
+    "tool_preview_image": "tl_94",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.co.nz/#F!RIw2GarB!SErCmOoxxoW-YygMjiViLw"
+  },
+  {
+    "tool_name": "Custom Batch File Manager",
+    "tool_description": "This program will help you to manage all your customs files, for your maps , texture, models or mods ",
+    "tool_preview_image": "tl_95",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!xcxBlJDY!ztoHARutN0Ad--oO9dfkAQ"
+  },
+  {
+    "tool_name": "BSP Unprotect",
+    "tool_description": "Decrypt files that have been protected with BSPProtect (commandline)",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ldhi2ILQ!Ezi7U_Rg3wcJ8V898PYxEA"
+  },
+  {
+    "tool_name": "Custom Source Tools",
+    "tool_description": "Similar to ZHLT for Goldsrc, it speeds up compilation for Source",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gEgnDLzY!KDLJGhlN5iVAINE9I0yLqQ"
+  },
+  {
+    "tool_name": "Auto Compiler",
+    "tool_description": "automatically finds mapfiles to compile in the directory it is run",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!pIIm3YaC!8rJLSxHQE8IeXuA0huFx6g"
+  },
+  {
+    "tool_name": "Custom ZHLT by vluzacn (VHLT)",
+    "tool_description": "ZHLT rebuilt and up to date with latest engine build",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!5VgxgBwR!7uoW7k8u6pwgkPRJrBkAtg"
+  },
+  {
+    "tool_name": "Textract",
+    "tool_description": "Small Tool for extracting Textures from BSPs and into WADs. Includes GUI Versions WinTextract &amp; Textract Suite",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xcoW2ChJ!E7Tm0pFNMc6odga4bN775A"
+  },
+  {
+    "tool_name": "DrawMap",
+    "tool_description": "Create a Map using color information through 2D",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gZpWFYTb!fIuh4Au-FaXZHXprGC95Pw"
+  },
+  {
+    "tool_name": "HDR Targa Tools",
+    "tool_description": "Tools to aid in creation of HDR Targa files (command line)",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!xV5w1CyS!SnTY1T2RqIkOfgTXaUPw0Q"
+  },
+  {
+    "tool_name": "Cancel Compile",
+    "tool_description": "Batch files for killing the compile processes",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!oUhQ0Rra!TCSnENRfdXgmxugc6My8SA"
+  },
+  {
+    "tool_name": "FGD Wikifier",
+    "tool_description": "Create an easily readable version of an FGD (commandline)",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!dBBCTaBQ!vXueyuGonhbt_2ZcOLJD6w"
+  },
+  {
+    "tool_name": "Zoners Half-Life Tools (ZHLT)",
+    "tool_description": "Modified versions of the tools used in the Map compilation process",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xU5wyAQZ!wkXcNe9DzAHkeaUlpY1Tnw"
+  },
+  {
+    "tool_name": "Mapster",
+    "tool_description": "Frontend wrapper for netvis",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!lNQRhS6a!Z4ISsciRPLrFFCLMbxDOEQ"
+  },
+  {
+    "tool_name": "ZPackager",
+    "tool_description": "this will pack every custom item into your map up to and including map over views",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!kJZw1JiA!0fNcZqQCrpRqXMTMIqQLWg"
+  },
+  {
+    "tool_name": "Vert Alert",
+    "tool_description": "Find, display, and optionally round floating point plane coordinates in Source engine .vmf files.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xAYDhRgR!UZcQJtPLViOXXdlVs0DGVA"
+  },
+  {
+    "tool_name": "wc33mapconv",
+    "tool_description": "Convert Worldcraft 3.3 Maps into the Radiant Format",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!5JQmEISJ!3iSSZVsGwOwdzBIXOf1Aug"
+  },
+  {
+    "tool_name": "opt_entdata",
+    "tool_description": "Optimizes the entities in compiled maps, allowing you to include more entities and also reduce network traffic.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!9ApDRR4L!yxQRfei_pihCwglN32McNA"
+  },
+  {
+    "tool_name": "OGLE the OpenGLExtractor",
+    "tool_description": "OGLE is a rather amazing 3d tool that can extract shapes from 3d scenes being rendered on a computer screen",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!EBp2wIiI!NIGC_FpRzw0oGAX4WRaarQ"
+  },
+  {
+    "tool_name": "Nav Fixer",
+    "tool_description": "fixes the annoying Navigation Mesh was built using a different version of this map",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!8ZQBjJpZ!TOSyufNmWZuvlkeCSCLi4Q"
+  },
+  {
+    "tool_name": "SourceCraft",
+    "tool_description": "converts Minecraft files into vmf files",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!4Y43zCrK!QnND_-5nnwAoJNbSJ0KwqQ"
+  },
+  {
+    "tool_name": "MazeGenTool",
+    "tool_description": "Generate mazes for your level in GoldSrc",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!sdYVQLgA!u97HE-0g5PKnhIujYyIlWA"
+  },
+  {
+    "tool_name": "Random Map Creator",
+    "tool_description": "RandMap is a random map generator for Half-Life",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xMRCAarQ!kperx7YF3YMxesma_abDXw"
+  },
+  {
+    "tool_name": "Super Half-Life Tools",
+    "tool_description": "Update to ZHLT",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YAImGTbY!MAIK53xWeVxh0KlZSh7Gbw"
+  },
+  {
+    "tool_name": "VIS2VCD",
+    "tool_description": "VSIF2VCD is a command line scenes.image extractor/decompiler.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cchEgJBa!AlsKHu37qauAjNQSGKDr0A"
+  },
+  {
+    "tool_name": "Map Backup",
+    "tool_description": "Great little command line tool for creating a backup of your map during the compile process",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!FIQnVKbT!SVEH_kf-Z9NF2_uJ5PWiig"
+  },
+  {
+    "tool_name": "Vgroup (Auto VisGroup'er)",
+    "tool_description": "This tool can help you by grouping the map into VisGroups based on a grid.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!VERwnZgZ!OH_V8F6EKlkSvzgDrtWbSA"
+  },
+  {
+    "tool_name": "Quake Tools Legacy",
+    "tool_description": "Legacy compilation tools for quake",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!sVQ0mI7B!0jPQHHKLcwQhj-k31fXSkQ"
+  },
+  {
+    "tool_name": "HLFix",
+    "tool_description": "hlfix is a tool that converts Worldcraft/VHE format files (.rmf) to standard .map files",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!MJxz0ILR!sYv6EF0_EcaDNqkJgQkjhQ"
+  },
+  {
+    "tool_name": "Xash studiomdl",
+    "tool_description": "Modified Compiler with support for large models and textures",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!wUJTUJxT!A1HsMTLcwKQXqnCOkUmWmA"
+  },
+  {
+    "tool_name": "HDRVTF",
+    "tool_description": "Tools supporting the creation of HDR Images for the Engine",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xV5w1CyS!SnTY1T2RqIkOfgTXaUPw0Q"
+  },
+  {
+    "tool_name": "Hammer",
+    "tool_description": "The Official Editor for Valve Games",
+    "tool_preview_image": "tl_96",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!ZEQHDDYA!cEP5GlyUy4zfd5dQeXUMEg"
+  },
+  {
+    "tool_name": "BSP View",
+    "tool_description": "Preview a map contained in a BSP file.",
+    "tool_preview_image": "tl_97",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kRQGmKpb!v2jP5Zq0mxp-iwuuwMpW3w"
+  },
+  {
+    "tool_name": "BSP Tools",
+    "tool_description": "Contains 3 Tools, BSP_View, BSP_Tool and BSP_Slicer all of which perform useful tasks on Half-Life Maps",
+    "tool_preview_image": "tl_98",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pIgiyRLI!FhXuGnwY9lBeB4pltloj9g"
+  }
+]

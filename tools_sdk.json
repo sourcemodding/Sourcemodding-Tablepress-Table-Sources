@@ -1,0 +1,786 @@
+[
+  {
+    "tool_name": "Zombie Master Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!kVhRWKCC!euvkBqi7ss4JMS2upWTzog"
+  },
+  {
+    "tool_name": "Zeno Clash SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IE4SVDpK!O5c4dgs0BeXKTNu0vosIEg"
+  },
+  {
+    "tool_name": "Weapon Jetpack Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!AIo1DbQZ!v5iO1L9P8ARAMhHCxLkfUg"
+  },
+  {
+    "tool_name": "Tyrian Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IYpgGDZA!Ne9zEWVY60uzreJCuoHSBg"
+  },
+  {
+    "tool_name": "Trinity Render",
+    "tool_description": "Alternate render engine for GoldSrc",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!8UZXAaLA!v2qW1pJgaWwqyEXeZexYqQ"
+  },
+  {
+    "tool_name": "They Hunger Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!wZoSjZTT!7ONQrLOMv281nAz-KmIhKw"
+  },
+  {
+    "tool_name": "The Ship SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gRhDwBwb!nkdwlBpEmBiJSOxRtGcYxw"
+  },
+  {
+    "tool_name": "Spirit of Half-Life Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!0VhG1KLa!ErxFmPXAN1ZDGzwum8tqmQ"
+  },
+  {
+    "tool_name": "Source Towers SDK &amp; Source Code",
+    "tool_description": "SDK &amp; Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IBAkkILQ!4-4hRxS0n9Fu5mCeXwMoHA"
+  },
+  {
+    "tool_name": "Situation Outbreak Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!RdZSySAR!9zFT5mdrp2mUxKAFLdyuDg"
+  },
+  {
+    "tool_name": "Shotgun Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gJAxmLJD!Wlklx5SigUrK_bWJHR2xeA"
+  },
+  {
+    "tool_name": "Quick and dirty Bloodlines Tools",
+    "tool_description": "SDK Tools for Vampire - The Masquerade: Bloodlines",
+    "tool_preview_image": "tsd_0",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!RAJWSZaY!DjIM8SEY8b2FsYrLcj1i0Q"
+  },
+  {
+    "tool_name": "Python for Source SDK",
+    "tool_description": "Integrate Python support into the Source Engine",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EE5jzLyY!XSUtN3ZbgMLZvjG4uxTbJg"
+  },
+  {
+    "tool_name": "Prototype 98 RMFs",
+    "tool_description": "Small collection of maps",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!BcpXRDjI!jLzyCgWVnTzJcv5AdgeUhA"
+  },
+  {
+    "tool_name": "Pilotable Strider Mod",
+    "tool_description": "Code source for a pilot-able Strider Mod",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!VYR1nZzL!jqW2wzuP0rVe_Njk0tN7gQ"
+  },
+  {
+    "tool_name": "Paranoia SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kZonXbRC!btLmWPCLGvc-UDMW89UQNA"
+  },
+  {
+    "tool_name": "Orion Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!pYwyUZBT!T-dhI5SzeFb-hM9m9XKDBA"
+  },
+  {
+    "tool_name": "omfgzombieslol Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lB5XDQpS!YhpB25NfvSboDwfjPkCqDQ"
+  },
+  {
+    "tool_name": "Notes Source SDK &amp; Code",
+    "tool_description": "SDK &amp; Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ddxSDSSI!v8Cnku4topZYjD1KogoMeA"
+  },
+  {
+    "tool_name": "NimMod Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!1NJQwDZC!uNJ8gy7T_T4S3Y2UKqqdgA"
+  },
+  {
+    "tool_name": "Neotokyo SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!VZBX0J6K!q2duOF9qDTBGtt3hjj0tPw"
+  },
+  {
+    "tool_name": "Multiplayer AI Source Code",
+    "tool_description": "Source code for Multiplayer bots from fistful of Frags",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!JV5HhCjS!zr9RBbWgqx4tYbzOb0Cgcg"
+  },
+  {
+    "tool_name": "Mario Kart Source Code",
+    "tool_description": "Source code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xUo1nSAR!DD3lF-dVxIvkzKCaXoWE_g"
+  },
+  {
+    "tool_name": "Luminous Forts Source Code",
+    "tool_description": "Source code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!tRQSHSKY!1OCYjWN-ag7Jk3KsoG1F3Q"
+  },
+  {
+    "tool_name": "JailBreak Source SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!FI4HzDRL!E67xK5sIbSKanIvsf1yuxw"
+  },
+  {
+    "tool_name": "Human Error Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!5EZxQKBL!v8wE3EOeMxe-qb7g2ZQoOA"
+  },
+  {
+    "tool_name": "Half-Life SDK (HLSDK)",
+    "tool_description": "Source Code &amp; SDK for the Original Half-Life",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!RJZ2ERRJ!ghYAXC93Bf25juGE-H_ltQ"
+  },
+  {
+    "tool_name": "Half-Life 2 SDK (HL2SDK)",
+    "tool_description": "Source Code &amp; SDK for Half-Life 2",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IJQyQbiY!_d4cR1q6A5Ps_HLSPxHb7Q"
+  },
+  {
+    "tool_name": "HL2 Wars Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!oR4XlaQZ!GHpG_9LqACLdzxx3aVremA"
+  },
+  {
+    "tool_name": "HL1 Lasthope Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!EAwRhCYQ!_wcY1LMHJw0rEAv2Ta3qBg"
+  },
+  {
+    "tool_name": "HL Induction SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!RcZVGSLA!oYYLOvHIMfYWve-IfUMPeQ"
+  },
+  {
+    "tool_name": "Heart of Evil Napalm Edition SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xRxxHYbC!5Ovb2pUot0e4z6Fp3mtnbA"
+  },
+  {
+    "tool_name": "Headcrab Frenzy Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!UIR0URpJ!eVrUKVMeXLy0U2UrKLeWJA"
+  },
+  {
+    "tool_name": "Hazardous-Course 2 SDK",
+    "tool_description": "Sample map files",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FVh2mA6A!xgc2fjcjEIIHWQ3gJy4p4w"
+  },
+  {
+    "tool_name": "Hauntings SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!BcoiCBBD!QnR2KhFuq1FFjsWF8CuH4g"
+  },
+  {
+    "tool_name": "Hammer Deluxe Source Code",
+    "tool_description": "I dont even know....",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xZYSFLxA!B6AQq1nlfCwc0y5y7warNg"
+  },
+  {
+    "tool_name": "HalfLife Tactics SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ZRowSThI!26kf4XkniAMwCMOZHmcuSg"
+  },
+  {
+    "tool_name": "Half-Life Beta Death Match SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lZ43BSYD!6EtcW2FLQSnnHD1R8K_n-A"
+  },
+  {
+    "tool_name": "Half-Life 2 Return To Xen - RTX Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!pdZVlKDT!rZRH12SqfO9vCII2a1djbg"
+  },
+  {
+    "tool_name": "Half Screwed Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!5QR3GIzT!DBy9s5rbxvfttWxSOG-5pg"
+  },
+  {
+    "tool_name": "Forsaken Source code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!sVgXXKRZ!_yTaV2umPC1WC1wIwXutBw"
+  },
+  {
+    "tool_name": "ETC2 Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!ABxQTZyR!-vXVhvoiWOqdvlXPvb6tMQ"
+  },
+  {
+    "tool_name": "ETC1 Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!ANogQBCL!RLzzbcsHh9lJMuvNu6Tnzg"
+  },
+  {
+    "tool_name": "Estranged Act 1 Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wZZXDIqY!3APGbAnj1xaEwHWgZVyM9g"
+  },
+  {
+    "tool_name": "Enterprise - TCW Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!kQIzWazB!t1jv2Q3pvGfcsjRBAXXGgA"
+  },
+  {
+    "tool_name": "Dreamball Dev Kit",
+    "tool_description": "Dev Kit",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!5NJgRRII!8F9tveoNVCkVJPlk1q2cjg"
+  },
+  {
+    "tool_name": "Dark Messiah SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gEY0XSiY!0-wnWXC9Z8uC94V6_MAKWg"
+  },
+  {
+    "tool_name": "CSSRPG Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!kURgzbZb!9vWWo-QJGx771vPK1PYnSw"
+  },
+  {
+    "tool_name": "Cry of Fear SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!BFRm3BqT!74Aq1hn8v3vpPK9BLAOAVg"
+  },
+  {
+    "tool_name": "Cortex Cluster SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!4c4TRBbR!_wY2ja-2S0sDT3lnxuuxIw"
+  },
+  {
+    "tool_name": "Castle Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EBJHRTLa!i4f7D8yh0j_FmM6gQMrspA"
+  },
+  {
+    "tool_name": "Bunker 66 VMFs",
+    "tool_description": "Valve Map source for the Bunker 66 Mod",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lcxGTCrB!C5Uw4dfknbmrG9jOZD1Z6A"
+  },
+  {
+    "tool_name": "Blue Portals SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!UQIwBTwb!4jJsUA10P7nVFEJ2auYaZg"
+  },
+  {
+    "tool_name": "Bloodlines SDK",
+    "tool_description": "SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xRxTyToY!cmB1zjAcFVrQrX4JjcQxtQ"
+  },
+  {
+    "tool_name": "Black Guard RMFs",
+    "tool_description": "Source Map files for Black Guard",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!AYQgiLwR!bi2SBsnd6BW7LvLuFXOXqQ"
+  },
+  {
+    "tool_name": "Bisounours Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!tcgwBC6R!kwDwNRSevAm4MejxH7QvZw"
+  },
+  {
+    "tool_name": "Arrangement Rebirth Source Code",
+    "tool_description": "Source Code",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!ocQEGKAB!45-Ck4mVbJ47qlyzjty0Cw"
+  },
+  {
+    "tool_name": "Amnesia Sound Engine For Half-Life",
+    "tool_description": "Add an alternative sound engine to half-life",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FNgW0aZB!azl9TGYuNdVwKUpq5cpRIw"
+  },
+  {
+    "tool_name": "Alien Swarm SDK Templates",
+    "tool_description": "Templates to make the Alienswarm SDK more like the Source SDK 2013",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!5FZzhBxJ!FvQyta3ke-k9K8zhwJck8w"
+  },
+  {
+    "tool_name": "Golden Eye - Source (Source Code)",
+    "tool_description": "Collection of Source code and libraries for Golden Eye Source",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!RZxXzRYS!CNRceJqdVpoysMGP6ulWSg"
+  },
+  {
+    "tool_name": "Double Action Source Code",
+    "tool_description": "Source code for the stylish game Double Action",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lYZQnTrS!5QRVXzhrhHJWU8y5ooCVcw"
+  },
+  {
+    "tool_name": "Battle Grounds Source Code",
+    "tool_description": "Source code for the Battle grounds mod",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gNRHgboL!7b3bwBb2scwd197dp1VVfQ"
+  },
+  {
+    "tool_name": "Garrys Mod LUA source",
+    "tool_description": "LUA source code for Garrys Mod",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!BcpywSDB!_uFJv9d9DTTAlIK-EaShGw"
+  },
+  {
+    "tool_name": "Compiled Vanilla HL2EP2 Binaries (23.08.2015)",
+    "tool_description": "Wazanator compiled a vanillia version of the EP2 binaries that come with the Source SDK 2013",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lMhASCpb!rSwIzx6YtR_IsQ23n6x_3Q"
+  },
+  {
+    "tool_name": "The Wastes FGD &amp; WAD",
+    "tool_description": "Mini SDK for the Wastes",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YA5FlJqQ!jCIliU8fXI-03DowP85hUQ"
+  },
+  {
+    "tool_name": "HL Invasion SDK with Source Code",
+    "tool_description": "Source code for HL Invasion",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!IYBFkLgC!DJVAmTrH5YvP9PNdX9sR6Q"
+  },
+  {
+    "tool_name": "Chicken Fortress 3 SDK",
+    "tool_description": "Source code for Chicken Fortress 3 Pre Alpha",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!1QABBIwZ!-iceIhWnhoNdVNrkyK2yzw"
+  },
+  {
+    "tool_name": "Cold Ice SDK",
+    "tool_description": "Source code for Cold Ice MP",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!sYZX0boI!nIruMdNtBXb-rjQD7UVMoQ"
+  },
+  {
+    "tool_name": "Base Defense Mini SDK",
+    "tool_description": "no source code just rmfs",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!BE4ljJhQ!CWB51u8IcQT1a3W3eBTy-w"
+  },
+  {
+    "tool_name": "HL Enhanced",
+    "tool_description": "Half-Life Enhanced. Vanilla SDK with improvements.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!oBIm0TDI!fmg1gKIlv_Gd-Y5JG_wrfw"
+  },
+  {
+    "tool_name": "Basis - Source Code",
+    "tool_description": "Something like Spirit of Half-Life. The intent is to add more features to the Half-Life SDK while better documenting the engine\\'s features and maintaining the same style.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/tschumann/basis",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!JUoVmALD!D27iWPKFMRaFcOyInIE1Qw"
+  },
+  {
+    "tool_name": "Natural Selection Source Code",
+    "tool_description": "An attempt at getting Natural Selection to compile for Windows and Linux.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/tschumann/naturalselection",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FcJWDYhL!WmV3bw2L4UPqTS1Zt4SFNA"
+  },
+  {
+    "tool_name": "Sandbot",
+    "tool_description": "Sandbot is based on HPB Bot by Jeffrey Broome",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/tschumann/sandbot",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pEJn3LbS!_awBPyzXd4IWl-BkVrJKlQ"
+  },
+  {
+    "tool_name": "Half-Nuked Source Code",
+    "tool_description": "Here\\'s the source code of Half-Nuked, I just don\\'t have a lot of time to dedicate to this mod and I don\\'t think I\\'ll work further on it, feel free to toy around with it, or even continuing it\\'s development, that\\'s up to you.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!hVoQAaoD!QSFCBRCnOh3AiYrphpjAhw"
+  },
+  {
+    "tool_name": "Gunman WC Mappack",
+    "tool_description": "Around 300 maps from the development of Gunman Chronicles. This is nowhere near the full map sources of the game, it is just what I\\'ve been able to gather.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!EMZUHYgT!RD4tfiDu3Dw2-mViE8MPHA"
+  },
+  {
+    "tool_name": "Autonomy Lost map source files",
+    "tool_description": "These are all the map source files for Autonomy Lost. Please note that they\\'re in the JMF file format which requires the J.A.C.K. editor in order for them to work. Read the readme.txt for more info.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xFwEFQba!6dCVv61LWaPb5OSVRnQ35Q"
+  },
+  {
+    "tool_name": "Half-Life Modding Kit - Code",
+    "tool_description": "Just for the people who are only interested in the coding aspect of Half-Life Modding Kit. Includes summon sdk.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://s5.postimg.cc/6bugq7qtj/no_preview.png",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!ZIQiCbQT!uQRPj2GyzvrZnghW5Ta3xg"
+  },
+  {
+    "tool_name": "Half-Life Modding Kit - Mapping",
+    "tool_description": "This version only contains the tools used for mapping such as Hammer Editor and compile tools, and a large collection of map and prefab sources.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!cRIFETSD!Q1MUzeVck7RP_3Wc2kcJ5A"
+  },
+  {
+    "tool_name": "Digital Paintball Field Development Kit",
+    "tool_description": "Including every basic tool necessity a new or seasoned map developer will need to get started creating fields for DPB/Redux!",
+    "tool_preview_image": "tsd_1",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!5YpxBBxa!4dyuLM6iXSjD4Lw9S9W-8Q"
+  },
+  {
+    "tool_name": "Fman SDK",
+    "tool_description": "Fman tools SDK",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!sUpHjAKS!RW48VNyiLNnmAjvv4gOBCg"
+  },
+  {
+    "tool_name": "Half-Life: Absolute Zero - Absolutely Abandoned",
+    "tool_description": "Previously scrapped content uploaded for people to use. Also includes 2 Absolute Zero pre-release builds",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!hRxEQIpb!FZI9GM9ikvoJIL71oKl9zA"
+  },
+  {
+    "tool_name": "X-Half-Life Deathmatch Source Code",
+    "tool_description": "X-Half-Life Deathmatch 3.0.3.8 Software Development Kit (SDK)",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!sB4w0BwL!dgJmRkNwHtYBOb1Rnf5BxQ"
+  },
+  {
+    "tool_name": "An unknown game Source Code",
+    "tool_description": "I only added 1 NPC, tried to add a weapon, but failed, and I modified some things, like the weapon bobbing, and I made the RPG slow down the player if they carry it.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!NFZ1ADjK!Mva8k0IQ2JQNZ_khWhXIrA"
+  },
+  {
+    "tool_name": "Half-Life Reborn SDK",
+    "tool_description": "Developer tools for Half-Life Reborn",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!sARlGKyQ!AX6C192786VDK10pVWj2-A"
+  },
+  {
+    "tool_name": "ARGG - Adnans Rotational Gravity Gun",
+    "tool_description": "This is the source code for Adnan\\'s Rotational Gravity Gun, v1.0.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://web.archive.org/web/20150222194420/http://skew.telefragged.com/mods/hl2/ARGG/",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!YU4WzawK!OpYPX7szZgVUOXc86xX6kQ"
+  },
+  {
+    "tool_name": "ICE - A Half-Life 2 Expansion Pack",
+    "tool_description": "This is the ICE HL2 Expansion source code ported to 2013 single player by Marc-Antoine Lortie.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/malortie/hl2-icemod",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IJxklBxR!1qw8yHGh5ah7A1LfOMXLIA"
+  },
+  {
+    "tool_name": "HL2DM Beta Source Code",
+    "tool_description": "The source code for the Source SDK 2007 version of Half-Life 2 Beta Deathmatch.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!4IoTWD6Q!4d8rkdq5chBD2TAeknbE-A"
+  },
+  {
+    "tool_name": "Situation Outbreak 2",
+    "tool_description": "This Is a SDK conten From SO2 you are able to create custom conten to mod.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lNBiUZrC!CKxBBfLohJQ1V2wVQztA_w"
+  },
+  {
+    "tool_name": "HL2-Base",
+    "tool_description": "This file contains the HL2 Source Code, (It\\'s basically HL2 stripped of everything and left with just the basic files needed to run it)",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xUQxiKpB!vAQejRuUk1qqSzAFPxckBw"
+  },
+  {
+    "tool_name": "Half-Life: Source 2007 ported to Source 2013",
+    "tool_description": "This is the Half-Life: Source code ported to Source SDK Base 2013 Singleplayer. For those who want make a Half-Life: Source mod.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!BdJEkQhJ!7cHbTw8scWido7KSIGNasw"
+  },
+  {
+    "tool_name": "momentum mod source code",
+    "tool_description": "Momentum Mod - Free and Open-Source Surf & Bunnyhop",
+    "tool_preview_image": "",
+    "tool_homelink": "https://momentum-mod.org/",
+    "tool_engine": "source",
+    "tool_mega": "https://s5.postimg.cc/6bugq7qtj/no_preview.png"
+  },
+  {
+    "tool_name": "HL Cam Mod",
+    "tool_description": "Camera mod for Half-Life. Includes in game editing and external editing program that connects to the game. ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/crashfort/HL-Cam-Mod",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!gJRxUA7B!6ujxJCq3JBf4FlEI9bIgLw"
+  },
+  {
+    "tool_name": "fortress forever Source Code",
+    "tool_description": "A Team Fortress mod on the Source Engine",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/fortressforever/fortressforever",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cNYFDS4C!SJVifV2yVaPr6NGhPNixtQ"
+  },
+  {
+    "tool_name": "Uncertainty Principle Source Code",
+    "tool_description": "Source and game files for the Half-Life 2: Episode Two mod Uncertainty Principle. ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/atoft/uncertaintyprinciple",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cZJnWAqD!3RC_JKiNUl45Uc9F6D4idg"
+  },
+  {
+    "tool_name": "Medal of Honor: Allied Assault: Source",
+    "tool_description": "Source code for Medal of Honor: Allied Assault: Source ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/GamerDude27/MOHAA-Source",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!sVAD0AwR!qYx1hZfbfTYBQ961O9thyg"
+  },
+  {
+    "tool_name": "The Forgotten Ones Source Code",
+    "tool_description": "This was initially a total conversion mod for Half-Life 2, when Greenlight came around I decided to give it a try",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/BerntA/tfo-code",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!AcZ3kQ5Y!GwmYBgaiI52M-okI7kY9Vw"
+  },
+  {
+    "tool_name": "Above the Catacombs Source Code",
+    "tool_description": "This repository contains the source code and map format files used in the development of Above the Catacombs, a Half-Life 2: Episode Two modification",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/Freedom4Gamers/Above-the-Catacombs",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0BAHiYRC!mWE8oe0YoS9FYjNW0AiSSQ"
+  },
+  {
+    "tool_name": "G String Source Code",
+    "tool_description": "Repository for the Source engine modification G String",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/Biohazard90/g-string_2013",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!AcBXSQyQ!4kaYGtIR9-0WiZw2wKW1CQ"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "tool_name": "Half-Life Model Viewer (original HLMV)",
+    "tool_description": "View and Adjust Models before taking into the Engine",
+    "tool_preview_image": "tmo_0",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.co.nz/#F!BERETAKJ!OCxmwXERaHlftOiPBK85yQ"
+  },
+  {
+    "tool_name": "Fragmotion",
+    "tool_description": "3D modelling interface for working with Half-Life Models",
+    "tool_preview_image": "tmo_1",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.co.nz/#F!1IhSmKQA!AJpnT9SYWqT680i9RnRhWw"
+  },
+  {
+    "tool_name": "3D Exploration",
+    "tool_description": "3D model viewer compatible with Half-Life Models",
+    "tool_preview_image": "tmo_2",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.co.nz/#F!1RJnXbob!mB3nxoR5VrkUD2kXlfV2wA"
+  },
+  {
+    "tool_name": "3dsmax Plugins &amp; Tools",
+    "tool_description": "Collection of Importers &amp; exporters for 3dsmax",
+    "tool_preview_image": "tmo_3",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.co.nz/#F!ZRh0CaRb!T5RVDLjurWoUMcKgJiXNaw"
+  },
+  {
+    "tool_name": "Blender Source Tools",
+    "tool_description": "Import &amp; Export tools for Blender",
+    "tool_preview_image": "tmo_4",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!dNIm1R6A!0P33kuYv1-ITCQZB6XfuSA"
+  },
+  {
+    "tool_name": "Blender3D SMD Exporter",
+    "tool_description": "Export tools for Blender",
+    "tool_preview_image": "tmo_5",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cFAx2DQC!35GdAF_fSXMI6I69SIyu3w"
+  },
+  {
+    "tool_name": "Crowbar",
+    "tool_description": "Decompile, Compile, and View Source-Engine &amp; GoldSrc Models in a Convenient Interface",
+    "tool_preview_image": "tmo_6",
+    "tool_homelink": "http://steamcommunity.com/groups/CrowbarTool",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!9M52mLAZ!FawvsXgAO29zjS_4PGysJA"
+  },
+  {
+    "tool_name": "Doggs MDL Compiler",
+    "tool_description": "GUI frontend for studiomdl",
+    "tool_preview_image": "tmo_7",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wBwGRKxS!tNwvwTWwg2RVaS865P0Wkg"
+  },
+  {
+    "tool_name": "Dvondrake's SMD exporter for Blender",
+    "tool_description": "Export SMDs from blender",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!0JQFhQiT!Xl8xw1k0tvwzejXN4nSn6A"
+  },
+  {
+    "tool_name": "Gmax",
+    "tool_description": "Watered down free version of 3dsmax",
+    "tool_preview_image": "tmo_8",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!UJRjzQxQ!a2hLluqFNPXk3FYfkfLdvQ"
+  },
+  {
+    "tool_name": "GUI Studio MDL",
+    "tool_description": "GUI frontend for studiomdl",
+    "tool_preview_image": "tmo_9",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!YQByiCoK!uCbvY1fMgqs_PYsLLyP8Ww"
+  },
+  {
+    "tool_name": "Half-Life EZ Weapon Creator",
+    "tool_description": "Creates almost all of the code required to add new weapons into Half-Life",
+    "tool_preview_image": "tmo_10",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YQJSzRxD!cdwrsFW3wNc1ovugANPjnA"
+  },
+  {
+    "tool_name": "Hl2 compile toolkit",
+    "tool_description": "Toolkit to aid in the compilation of models for Source games",
+    "tool_preview_image": "tmo_11",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!RJwnBSoZ!z3cfpPRBcncRzc5O2beXNA"
+  },
+  {
+    "tool_name": "IOgre Cinema4d to Source",
+    "tool_description": "Cinema4D Source plugins",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!oIwQDKya!Y2uyrRwp0s2Qh5bn8QD8xw"
+  },
+  {
+    "tool_name": "Jeds Half-Life Model Viewer (JHLMV)",
+    "tool_description": "Improved model viewer for goldsrc",
+    "tool_preview_image": "tmo_12",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!gEYz0KAJ!8MeVyu1_Go0ZJ4zXjs4yDA"
+  },
+  {
+    "tool_name": "kHED",
+    "tool_description": "Modeling program, easy for beginners",
+    "tool_preview_image": "tmo_13",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!oMR0RAwS!Jd1nP2ldDGfqvvqXIejnfg"
+  },
+  {
+    "tool_name": "Kratisto's MDL Decompilier",
+    "tool_description": "Decompile game models",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!BQhEDYQR!heW8aFdqfqWbrPmQuu5fvQ"
+  },
+  {
+    "tool_name": "Left4Life StudioMDL",
+    "tool_description": "modified studimdl, compiles very large models",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!VEoinYCA!AMcjerdno17lCx1jHTwkMA"
+  },
+  {
+    "tool_name": "Lightwave Source Plugins",
+    "tool_description": "Lightwave Source engines plugins for import and export",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!QcwADALS!qrpj1U3NVqz_6VEKf04M4w"
+  },
+  {
+    "tool_name": "LithUnwrap",
+    "tool_description": "Free UV Unwrapping tool",
+    "tool_preview_image": "tmo_14",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!YBQSjAzS!ac_Os-da5tXZ19QTzwftUg"
+  },
+  {
+    "tool_name": "Maya Export Tools by Prall",
+    "tool_description": "Export tools for Maya to Source",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!xJYmWbxS!RrXCNVhxfeMj2myjCtlJkw"
+  },
+  {
+    "tool_name": "MDL Decompiler",
+    "tool_description": "Decompile MDL files back into SMD files",
+    "tool_preview_image": "tmo_15",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!5cxnwbAL!qujTNeFQxyy1PcFm3IeNLQ"
+  },
+  {
+    "tool_name": "MDL Texture Info",
+    "tool_description": "Display the material information associated with a model",
+    "tool_preview_image": "tmo_16",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!9QAhBBIb!9I-AFrTgKvL-RrujXMYJlg"
+  },
+  {
+    "tool_name": "MDL Viewer",
+    "tool_description": "View model files for goldsrc",
+    "tool_preview_image": "tmo_17",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!lRJ2XRZA!qqHPm2eSfBBb45nGYdXGhA"
+  },
+  {
+    "tool_name": "MESA",
+    "tool_description": "Maya SMD Importer/Exporter",
+    "tool_preview_image": "tmo_18",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EMpjHQ5S!VVSoiwrzgzIevdTVBCfxLw"
+  },
+  {
+    "tool_name": "Milkshape3D",
+    "tool_description": "3D modeling package with inbuilt support for Valves Engines",
+    "tool_preview_image": "tmo_19",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!NBIlyQwD!E_l6vNly5iIJsYU7bgsbFQ"
+  },
+  {
+    "tool_name": "Half-Life Model Validator",
+    "tool_description": "C++ code to help those interested in learning how to export a valid Half-Life mesh",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!AM5WUKTa!Uxq3TU0ozienfACDdgrd1g"
+  },
+  {
+    "tool_name": "Modo to SMD",
+    "tool_description": "Export Modo files as SMD",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!8MwhBQzZ!h4XDVrObzRpIZe0VMdQYEA"
+  },
+  {
+    "tool_name": "Model Generator (MOG)",
+    "tool_description": "Convert OBJ, BSP &amp; VMF to OBJ or SMD",
+    "tool_preview_image": "tmo_20",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!pUZAHYqZ!U3nVPUdPCl0VcOKisCA8eQ"
+  },
+  {
+    "tool_name": "Model Modifier (MOM)",
+    "tool_description": "Modify select parts of a model such as texture references",
+    "tool_preview_image": "tmo_21",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EUIhmaLQ!N0SUBvC2z9AYxDqKvL6r8Q"
+  },
+  {
+    "tool_name": "NightFire Model Compiler",
+    "tool_description": "Model compiler &amp; decompiler specifically made for nightfire",
+    "tool_preview_image": "tmo_22",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pVYnCBxT!r0DyDi2kM4M_9iwQKoyFPg"
+  },
+  {
+    "tool_name": "Ninja Ripper",
+    "tool_description": "Rip DirectX geometry from Games into 3dsMax",
+    "tool_preview_image": "tmo_23",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!4ZYA3QgD!DKHCso3UgAHFe9Y_G_3c5g"
+  },
+  {
+    "tool_name": "Noesis Model Viewer",
+    "tool_description": "Universal Model viewer",
+    "tool_preview_image": "tmo_24",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!sBh2RLKZ!FIc4SW6d4AWoH5p9avrCTw"
+  },
+  {
+    "tool_name": "OBJ2SMD Converter",
+    "tool_description": "simple converter that makes an OBJ an SMD",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wBwDQJCA!XIMmN2eI_zUtWsddd2cYWA"
+  },
+  {
+    "tool_name": "Polygon Cruncher",
+    "tool_description": "3D plugin tool that decimates the poly count on Meshs",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!xBZ1DSRb!tZ9EBg-iqo93436ettEiyQ"
+  },
+  {
+    "tool_name": "Pretador's Model Compiler - QC Editor",
+    "tool_description": "View useful information in QC files",
+    "tool_preview_image": "tmo_25",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ZNZE3JjI!jO-xoN4DxuUztoTgBv3qdQ"
+  },
+  {
+    "tool_name": "Propper",
+    "tool_description": "This tool takes a Source map file (vmf) and creates a .mdl file",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0AY1TJYK!x9Rm05IyHliOTzt-B4D1jw"
+  },
+  {
+    "tool_name": "QC Editor - Compiler Advanced Edition",
+    "tool_description": "QC compiler and editor",
+    "tool_preview_image": "tmo_26",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!MZZVDRQD!oohPIOtZToYWVslw2fmdrA"
+  },
+  {
+    "tool_name": "QC Mann",
+    "tool_description": "helps automate the creation of QC files",
+    "tool_preview_image": "tmo_27",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!AIAGyKSa!uH-7Byiw9YcWp0M4Hnb9bA"
+  },
+  {
+    "tool_name": "QME",
+    "tool_description": "This is a model viewer for Quake 1. Once a paid program, it became freeware in 2006.",
+    "tool_preview_image": "tmo_28",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!lMRVib6B!ded_pmO7rLHnQbuI_HpXxQ"
+  },
+  {
+    "tool_name": "Softimage/XSI Mod Tool",
+    "tool_description": "Now a discontinued tool Softimage was once at the forefront of 3D Content creation, The modtool was provided for free.",
+    "tool_preview_image": "tmo_29",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!wcBTjAqQ!xPLYzqS3OYV7ie1xv6D7BQ"
+  },
+  {
+    "tool_name": "Source Model Finder",
+    "tool_description": "This program helps find models for Source mappers.",
+    "tool_preview_image": "tmo_30",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!FYYHSCDQ!MN-JvolNJpezkAOpiRRfcQ"
+  },
+  {
+    "tool_name": "Source Studio",
+    "tool_description": "Cannonfodders decompiler and compiler for source",
+    "tool_preview_image": "tmo_31",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cYRw0KhI!HfhjGHQLQtBim-vp-e19NQ"
+  },
+  {
+    "tool_name": "SourceEyeCalc",
+    "tool_description": "Nifty tool to help calculate the position of eyes for a model",
+    "tool_preview_image": "tmo_32",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!tNIHTASI!X1R3l3_jpU8ld2cpYVjlbw"
+  },
+  {
+    "tool_name": "Studio Model Tool - Nightfire",
+    "tool_description": "Plugin for NightFire Workshop",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!AJAEzBpL!pHIHIPZRGJO1nrorY86_CA"
+  },
+  {
+    "tool_name": "Valve Source Addon for XSI",
+    "tool_description": "Official Addon for Softimage",
+    "tool_preview_image": "tmo_33",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!UBIAzJyA!vSJ4aDDkFryrsNICq3sphQ"
+  },
+  {
+    "tool_name": "Valve Tools",
+    "tool_description": "Small collection of model tools for use with the Valve Engines",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!VFInnDgC!HTLbPdcBAUOgbR2vRaEAUg"
+  },
+  {
+    "tool_name": "VMFtoSMD",
+    "tool_description": "convert VMF map files to SMD geometry files",
+    "tool_preview_image": "tmo_34",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gdAmQJxL!42425opXm3kXsUx-lliH9Q"
+  },
+  {
+    "tool_name": "WallWorm Tools",
+    "tool_description": "Wallworm Tools for exporting and importing for 3dsmax",
+    "tool_preview_image": "tmo_35",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!QZYxAbBQ!PDWccGdVW_bGkYqcg42Kyg"
+  },
+  {
+    "tool_name": "zModeler",
+    "tool_description": "3d modeling application",
+    "tool_preview_image": "tmo_36",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!hUBGjaLA!7yxNI6koHNOLZgxyN1PD6g"
+  },
+  {
+    "tool_name": "e_desc name=Rantis Extended Valve Tools",
+    "tool_description": "A Maya based sequence extractor",
+    "tool_preview_image": "tmo_37",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!cJp1kaIK!gyZgUJG3S8eE7qLW41Ghnw"
+  },
+  {
+    "tool_name": "Otis' Half-life Modelviewer",
+    "tool_description": "A model viewer that can open any HL model and view animations, zoom, etc.",
+    "tool_preview_image": "tmo_38",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!1Vhj2DKI!NssdwfnYqvazs7GIR_p01g"
+  },
+  {
+    "tool_name": "MDLFlip",
+    "tool_description": "and allows you to flip individual animation smd's",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0Yg21LiQ!hm88APG7QO5funHZ4dsE4A"
+  },
+  {
+    "tool_name": "gFlip",
+    "tool_description": "and allows you to flip individual animation smd's",
+    "tool_preview_image": "tmo_39",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!5AJTnJAb!7QNcSlF_XRMcry8i59sOwQ"
+  },
+  {
+    "tool_name": "Treed",
+    "tool_description": "an easy to use tree generator!",
+    "tool_preview_image": "tmo_40",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!ZQgD1QYZ!uAavFcD6Oc2PCdmkr16WzA"
+  },
+  {
+    "tool_name": "Source to GoldSrc SMD Converter",
+    "tool_description": "This is designed as a substitute for Milkshape in the process of bringing a model from Blender (with the SMD Tools plugin) into Half-Life 1 and Goldsrc based mods. It should also be useful for Source .smds exported from other tools, and is by no means Blender specific.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pYQDRbxR!CnxKNnJIiHVzJfig_T841w"
+  },
+  {
+    "tool_name": "MDL Gui",
+    "tool_description": "A GUI for Goldsrc MDL compilation and decompilation.",
+    "tool_preview_image": "tmo_41",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pYhGVYKJ!_Ei3nrGP14UF8GCbtw63lA"
+  },
+  {
+    "tool_name": "Community Updated HLMV",
+    "tool_description": "Half-Life Model Viewer is a brand new tool based on HLMV 1.25 and Jed's Model Viewer 1.36 that provides an entirely rebuilt model viewer.",
+    "tool_preview_image": "tmo_42",
+    "tool_homelink": "https://github.com/SamVanheer/HL_Tools/wiki/Half-Life-Model-Viewer",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!RRIzlRzY!L4UXhQqqm8pR1BQZDvoSMg"
+  },
+  {
+    "tool_name": "Jigglebone QCGen",
+    "tool_description": "Helps in the model decompile process.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!pE5ThA6R!0_AQ8u0Vii56q4SyLd-fnA"
+  },
+  {
+    "tool_name": "VTA Apply",
+    "tool_description": "This application allows you to apply VTA animations to SMD model files.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!NEBWxD6a!2anhbFdgbeWmuF0OycIWIw"
+  },
+  {
+    "tool_name": "Sven Coop StudioMdl",
+    "tool_description": "modernized studiomdl.exe",
+    "tool_preview_image": "",
+    "tool_homelink": "https://forums.svencoop.com/showthread.php/45003-StudioMDL-with-Texture-Shifting-fix",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xMoSybKb!Ny5dL7JDv6wGrDGXhDtnYg"
+  },
+  {
+    "tool_name": "P2MV",
+    "tool_description": "Xash3D Model Viewer",
+    "tool_preview_image": "tmo_43",
+    "tool_homelink": "http://www.hlfx.ru/forum/showthread.php?s=&threadid=2615",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!hVwHBIxb!nKW6xr9kL6Q0bfIQQ45bjw"
+  },
+  {
+    "tool_name": "DoomMusics StudioMdl",
+    "tool_description": "improved StudioMdl",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!4IxmmRID!ACLcgIukTpkE8CKhsFoKhw"
+  },
+  {
+    "tool_name": "3DS Max SMD and DMX Plugins",
+    "tool_description": "Collection of up to date plugins for 3dsmax and Valve\\'s engines",
+    "tool_preview_image": "tmo_44",
+    "tool_homelink": "https://forum.facepunch.com/f/fbx/qxgb/3DS-Max-SMD-Plugins/1/",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!IQAwwCqK!RW-mt-M3eF6pq9o-sq8taw"
+  },
+  {
+    "tool_name": "gssmt",
+    "tool_description": "A GoldSource and Source multitool (formerly known as vmmt) with the following features",
+    "tool_preview_image": "",
+    "tool_homelink": "http://www.teamsandpit.com/#gssmt",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!0ZJnTQCB!C3woGyERo-2j-sIMYZkrIQ"
+  },
+  {
+    "tool_name": "Xash studioMDL Goldsrc Large Model Compiler",
+    "tool_description": "Large Model compiler for Half-Life mods by Xash-Team",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!oIhmzbKJ!2QL6ByfAQBfp2cReXW829w"
+  },
+  {
+    "tool_name": "QCScript",
+    "tool_description": "Reduce your daily modelling struggles by being able to organize your models properly, be in total control! \r\n",
+    "tool_preview_image": "tmo_45",
+    "tool_homelink": "https://github.com/BerntA/QCScript",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IMgXDBwK!CcsLQBk_nvcGfwEmpKPNfg"
+  },
+  {
+    "tool_name": "MDLstudio",
+    "tool_description": "This is an expansion of the mdl viewer code from the half-life SDK",
+    "tool_preview_image": "tmo_46",
+    "tool_homelink": "https://github.com/wtrsltnk/MDLstudio",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!hJxTzRxA!9mv7B393zrh3iwwUhgu3_A"
+  },
+  {
+    "tool_name": "Valve Sketchup Tools",
+    "tool_description": "Suite of tools for Sketchup",
+    "tool_preview_image": "",
+    "tool_homelink": "https://developer.valvesoftware.com/wiki/SketchUp_Source_Tools",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0BAzgCaT!8sxpCGLThjYR6HfMVeplSA"
+  }
+]

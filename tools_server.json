@@ -1,0 +1,170 @@
+[
+  {
+    "tool_name": "half-life proxy",
+    "tool_description": "With Half-Life Proxy you can play Half-LIfe via internet over a network-computer. Deprecated",
+    "tool_preview_image": "tse_0",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!VAJHCCYZ!iCPnfr93KznpBkOYxCZ45A"
+  },
+  {
+    "tool_name": "HLDS",
+    "tool_description": "Half-Life Dedicated Server, A Tool required for running Goldsrc based servers. Deprecated, use Steam CMD instead",
+    "tool_preview_image": "tse_1",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!lUBBzZhI!AlPp2MiFTkk08Qtquy5XEQ"
+  },
+  {
+    "tool_name": "KHL",
+    "tool_description": "Map Cycle Generator and Launcher",
+    "tool_preview_image": "tse_2",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!4UZA3Bob!V569Ka78qk3n7nKmCNEf3A"
+  },
+  {
+    "tool_name": "Map Cycler",
+    "tool_description": "A tool to setup a mapcycle for your server",
+    "tool_preview_image": "tse_3",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!RYQkgBSI!23T6Nv8jnYY9whwbmtAzqg"
+  },
+  {
+    "tool_name": "Source Mod Dedicated Server Tool",
+    "tool_description": "Eases the process of setting up a stand alone dedicated server for Source mods",
+    "tool_preview_image": "tse_4",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lZIlTSyI!uKlq4C7z-zKcIXE3xK-oZg"
+  },
+  {
+    "tool_name": "Steam Game Server Query",
+    "tool_description": "Queries the steam master server for running game servers [no longer seems to work",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!NJpV2LSR!zP1BCpjGXv3wFc5HpllGZA"
+  },
+  {
+    "tool_name": "SRCDS",
+    "tool_description": "Source Dedicated Server, A Tool required for running Source based servers. Deprecated, Use SteamCMD instead",
+    "tool_preview_image": "tse_5",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!VA4wSLKb!7jvVAdPYAWebKsYD1GHA6A"
+  },
+  {
+    "tool_name": "Condenser",
+    "tool_description": "condenser is a bootstrapper for installing, configuring, &amp; launching Steam dedicated server apps",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!gIwVjDSD!LcXmyiSlwpkc1YyQZExoqg"
+  },
+  {
+    "tool_name": "Linux Game Server Manager",
+    "tool_description": "These are command line tools for quick, simple deployment of various dedicated game servers using SteamCMD.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!EYJhmKbI!hO_bKs_XR6YM6vGYwqPMCQ"
+  },
+  {
+    "tool_name": "Steam CMD",
+    "tool_description": "The Official tool and Successor to HLDS and SRCDS. use this to create your Dedicated servers for Valve Games",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!RZ5SgLTa!ASIJ7G_4rA68f3zPPXW9zQ"
+  },
+  {
+    "tool_name": "AutoUpdate",
+    "tool_description": "Install and automaticly update any game server",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!MQomRIyS!7jdM2PmcCF_KR9xri9vtwA"
+  },
+  {
+    "tool_name": "SteamCMD Guardian",
+    "tool_description": "A script to run with Steam CMD that makes the process easier for setting up dedicated servers",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!0YwCzI7A!2srVvsG8Rq9w5SYHUZrv4A"
+  },
+  {
+    "tool_name": "SteamCMD GUI",
+    "tool_description": "Graphical interface for SteamCMD",
+    "tool_preview_image": "tse_6",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!dVoGgaYI!98v-jTJAoKw21VUr2f926Q"
+  },
+  {
+    "tool_name": "ListIP Manager",
+    "tool_description": "With this tool you can simply manage your listip.cfg files, such as sort, add, change or delete records.",
+    "tool_preview_image": "tse_7",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!JYAUCZKa!Zv1Porf5iKiahp8Qzv8OXA"
+  },
+  {
+    "tool_name": "HLSW",
+    "tool_description": "HLSW is a game server administration and server browsing tool that allows gamers to not only search for game servers and connect to them easily, but also allows administrators the ability to remotely monitor their server.",
+    "tool_preview_image": "tse_8",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!IcpUWDYK!TG1cNHUCxmCkezjuiBeZtQ"
+  },
+  {
+    "tool_name": "HLDS Launcher",
+    "tool_description": "Goldsource dedicated server (HLDS) launcher. This launcher is aimed to make running a dedicated server easier and at the best performance possible.",
+    "tool_preview_image": "tse_9",
+    "tool_homelink": "https://github.com/curdh/HLDS-Launcher",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!oVp0CAzZ!4NY4b0szh0tqdVSK3QtsFg"
+  },
+  {
+    "tool_name": "Source Dedicated Server Installer",
+    "tool_description": "Install Source Dedicated Server with a single click",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/RadCraftplay/Source-Dedicated-Server-Installer",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!NQQlhIKY!cHpyTQuLGBR6WDXXDNlOVg"
+  },
+  {
+    "tool_name": "SourceRadio",
+    "tool_description": "SourceRadio makes it possible for players on a server to build a playlist together and listen to music as they play—even on public servers.",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/joelamos/SourceRadio",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EQYQwIBL!vI-hWLUyZ3IrYCP-cdsQGA"
+  },
+  {
+    "tool_name": "Remote Compile System (RCS)",
+    "tool_description": "Remote Compile System",
+    "tool_preview_image": "",
+    "tool_homelink": "https://web.archive.org/web/20030724064220/http://rcs.valve-erc.com:80/",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!JIZRDKpQ!Xr-54XQIRCx0ZFQg8rjisg"
+  },
+  {
+    "tool_name": "Metamod",
+    "tool_description": "Metamod is a plugin/DLL manager that sits between the Half-Life Engine and an HL Game mod",
+    "tool_preview_image": "",
+    "tool_homelink": "http://metamod.org/",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!dQBT1ApS!aYdZwxUo7sx-Xt4XzlwIFw"
+  },
+  {
+    "tool_name": "Metamod Source",
+    "tool_description": "Metamod:Source is a C++ plugin environment for Half-Life 2",
+    "tool_preview_image": "",
+    "tool_homelink": "http://www.sourcemm.net/",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!dNRjyaZS!yIuj2pmExdVJhWccv0DWbg"
+  }
+]

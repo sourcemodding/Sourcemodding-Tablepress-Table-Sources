@@ -1,0 +1,642 @@
+[
+  {
+    "tool_name": "Sprite Fixer",
+    "tool_description": "Make some simple changes to Sprites",
+    "tool_preview_image": "tma_0",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.co.nz/#F!FNwXSD6b!BSDWYE6XFV8E-jdCI2yHmQ"
+  },
+  {
+    "tool_name": "HL TagConverter",
+    "tool_description": "Convert an Image to a Spray",
+    "tool_preview_image": "tma_1",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.co.nz/#F!4dwF3RDY!7CO9JCAB3wUnu0lm4fF5vw"
+  },
+  {
+    "tool_name": "Auto Seamer",
+    "tool_description": "Create a seamless tileable texture from an input image",
+    "tool_preview_image": "tma_2",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.co.nz/#F!ME41iYrZ!NyLL0VDEcyij8zxjQ_sm-Q"
+  },
+  {
+    "tool_name": "VMT Batch Creator",
+    "tool_description": "Create Material definitions for textures using this tool",
+    "tool_preview_image": "tma_3",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.co.nz/#F!EVAwFTwK!kVOl_ASiqJlW0kogLD3bDA"
+  },
+  {
+    "tool_name": "3T Previewer",
+    "tool_description": "Check if your textures tile correctly",
+    "tool_preview_image": "tma_4",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!BFh0HJKS!1CP-VK3gSWIiaaa1YguWaw"
+  },
+  {
+    "tool_name": "360",
+    "tool_description": "View and edit VMT files for Source",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!4A4D2RwJ!A31G0AJnuuOKhP4xp1EJpQ"
+  },
+  {
+    "tool_name": "Color Logo Maker",
+    "tool_description": "Create colored logos for Half-Life",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!NMJEUKJB!8fIeAQ5RP53atvROu2sfoA"
+  },
+  {
+    "tool_name": "dDo",
+    "tool_description": "dDo Legacy, free for commercial Use, pre PBR, great texturing tool plugin for Photoshop",
+    "tool_preview_image": "tma_5",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!cVxywDAZ!NYz2a5nC88mboWsK5V5RUQ"
+  },
+  {
+    "tool_name": "Decal converter",
+    "tool_description": "Turn images into Decal files (WAD format)",
+    "tool_preview_image": "tma_6",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!BYIknbjL!1H5lBKU6xjZ-HpT98ZwHRw"
+  },
+  {
+    "tool_name": "easyspritemaker",
+    "tool_description": "View sprites and play them back",
+    "tool_preview_image": "tma_7",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!ZN5S0LRA!BtGeGD6PFDNfeqGy4qMg_w"
+  },
+  {
+    "tool_name": "Gimp tools",
+    "tool_description": "Small collection of GIMP plugins for Valves Engines",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!0BBngSKC!XLuFSP_p-lrQzTp-T7YO9Q"
+  },
+  {
+    "tool_name": "Crosshair Factory",
+    "tool_description": "This is the \"All_you'll_ever_need_for_Sprite_generation_Pack\" for: HalfLife.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xEJ2kSba!PGdC78yhQhbsq4ReeZWUzA"
+  },
+  {
+    "tool_name": "HLC: Half-Life Logo Creator",
+    "tool_description": "This is a cool logo creator for in-game logos for Half-Life.",
+    "tool_preview_image": "tma_8",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!VEBWBKaT!D7NhigcjL7HgO47JOzIQpg"
+  },
+  {
+    "tool_name": "Crazy bump",
+    "tool_description": "Create normals, bumps, AO and other maps from the diffuse for use in games",
+    "tool_preview_image": "tma_9",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!BAhAlLBD!cKmvIDa28kw-vJLTi_GIQA"
+  },
+  {
+    "tool_name": "Half-Life: 2 - Texture Tool (HL2TEX)",
+    "tool_description": "Simplifies the transformation of TARGA images to VTF files, creates the VMT file that Hammer uses",
+    "tool_preview_image": "tma_10",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EBRWTYJJ!OXoyG7sqitjinaYHkvBNVg"
+  },
+  {
+    "tool_name": "Material Enumerator",
+    "tool_description": "This programm lists all materials wich are used in your selected vmf.",
+    "tool_preview_image": "tma_11",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!IdBmzBCQ!X3Kc8G-Eb31nfZB2r2iKvw"
+  },
+  {
+    "tool_name": "nDo (nDo1)",
+    "tool_description": "The original photoshop action/script that started it all for Quixel.",
+    "tool_preview_image": "tma_12",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!sBhhwDAT!Wp95fJ6q08ZTudBubW27VA"
+  },
+  {
+    "tool_name": "NVidia Photoshop Normals Plugin",
+    "tool_description": "Photoshop plugins for normal map creation",
+    "tool_preview_image": "tma_13",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!MFgl0SQR!9Ro6hKd9lQDqtyVx2hSaBg"
+  },
+  {
+    "tool_name": "Paint.NET VTF Plugin",
+    "tool_description": "Paint.NET plugin for creating VTF files",
+    "tool_preview_image": "tma_14",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!dJoC1R5K!SYXn7bNopjm9aVE0tgY9dQ"
+  },
+  {
+    "tool_name": "Photoshop VTF Plugin",
+    "tool_description": "Photoshop plugin for creating VTF files",
+    "tool_preview_image": "tma_15",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ZdRwSBxa!CimHExKg8u8CH91HwlJslw"
+  },
+  {
+    "tool_name": "Pretador's VMT Generator",
+    "tool_description": "makes one .vmt out of every .vtf file in the folder selected.",
+    "tool_preview_image": "tma_16",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wUI1wQpZ!Zv2WlVsVx41YzcXYBpVoIw"
+  },
+  {
+    "tool_name": "Quick Tiler",
+    "tool_description": "Photoshop plugin that creates tiled images for game",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!RcwQDT5a!WLvR5iHVub3aJI3U-HJ_0w"
+  },
+  {
+    "tool_name": "Redfield plugins",
+    "tool_description": "Photoshop plugins for simplifying the creation of textures for games",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!pAAXjIIB!T1fOVIYl8TJO4wY9YgtGag"
+  },
+  {
+    "tool_name": "Custom Shaders",
+    "tool_description": "Small collection of custom shaders for Source",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!8F52GJ6R!9rwLK7Ct1R-mNsFftqhFGQ"
+  },
+  {
+    "tool_name": "ENBSeries HL2Mod",
+    "tool_description": "Modified DirectX libraries for a better experience in Half-life 2",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!0VgAVL6T!3mooBevmO01s4HeiTLXvjQ"
+  },
+  {
+    "tool_name": "Spray Maker",
+    "tool_description": "Create animated Sprays for use in Source Games",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!1dRGEBpb!oIK3JFguUYYuOFv1SwrQ4A"
+  },
+  {
+    "tool_name": "Color Tile Generator",
+    "tool_description": "Generates images based on a color",
+    "tool_preview_image": "tma_17",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!FJBC3TJa!NAq2B-0PLMHRLoDIrSBd8A"
+  },
+  {
+    "tool_name": "Spraygen",
+    "tool_description": "Create sprays for use in games such as CS:S",
+    "tool_preview_image": "tma_18",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wc5QEYga!lrOL_uy9Ssg6_NnSZYg7Kg"
+  },
+  {
+    "tool_name": "Sprayr",
+    "tool_description": "Create logos/Sprays for Source Games",
+    "tool_preview_image": "tma_19",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!JURmBKBb!LCCJYbyBqtMPgpQBhmCH7Q"
+  },
+  {
+    "tool_name": "Sprite Fixer",
+    "tool_description": "Useful for locking sprites to Z-axis rotations.",
+    "tool_preview_image": "tma_20",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FNwXSD6b!BSDWYE6XFV8E-jdCI2yHmQ"
+  },
+  {
+    "tool_name": "Sprite Mage",
+    "tool_description": "Used to lock the z, x and y axis of a sprite.",
+    "tool_preview_image": "tma_21",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!xVJDHJIK!Hq-Bao-McosNni_udmovYg"
+  },
+  {
+    "tool_name": "Sprite Maker",
+    "tool_description": "Create sprites for GoldSrc",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!RE5CnYIJ!ddpc6HdiWAx7LPbRe2pe-g"
+  },
+  {
+    "tool_name": "Sprite Tool Pack",
+    "tool_description": "Includes, SprWiz, SprView &amp; Sprite Explorer",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!VNxSXZwR!lSILpKSZ2BhxX1wAP_-4EA"
+  },
+  {
+    "tool_name": "Sprite Explorer",
+    "tool_description": "Explore the contents of .spr files",
+    "tool_preview_image": "tma_22",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!Ic4j1Ija!SveiasVsssOh-9TLL2md1A"
+  },
+  {
+    "tool_name": "Sprview",
+    "tool_description": "View .spr files",
+    "tool_preview_image": "tma_23",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!4JhFRZJb!XEPCt31q72X_fWGjhl7Epw"
+  },
+  {
+    "tool_name": "Sprwiz",
+    "tool_description": "Put together a sprite from a series of .bmp files",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!UNgRzQrQ!mkvxLCFdiaTxJWA0Sem81Q"
+  },
+  {
+    "tool_name": "Alphaconv",
+    "tool_description": "Convert images between TGA, BMP and PNG",
+    "tool_preview_image": "tma_24",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!1FJXWBYS!XeVMIDrVv3EjYCyuMjLntQ"
+  },
+  {
+    "tool_name": "Targa Tool",
+    "tool_description": "A modified version of the Trainsim utility TgaTool2",
+    "tool_preview_image": "tma_25",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!oQBiEISJ!JhEjKKzAam5Ss9a8xt1enQ"
+  },
+  {
+    "tool_name": "Texture Tool",
+    "tool_description": "Auto generate large flag script files for Trinity Render",
+    "tool_preview_image": "tma_26",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!lU4DWZxS!pmgMCt4FEuNN7THEdBzYYg"
+  },
+  {
+    "tool_name": "TexturEd",
+    "tool_description": "GUI for the vTex",
+    "tool_preview_image": "tma_27",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!cdwlCKiL!nS4Dqc63T9IjQ4jdnYLgCA"
+  },
+  {
+    "tool_name": "textureSDK",
+    "tool_description": "Toolset and tutorials for creating good GoldSrc materials",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!Ac5ggKRb!RzAlYfeC_emqYd6d3C_26w"
+  },
+  {
+    "tool_name": "TGAtoDUDV",
+    "tool_description": "Convert TGA's into a DuDv format, without the need of having Steam to be running",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!JRgWyYJA!BCNYA1LMaySt_hcSQGKiJw"
+  },
+  {
+    "tool_name": "VMT Compiler",
+    "tool_description": "Automate the process of creating VMTs for VTFs",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wAgCwJAB!zNjLiMLAEvqYq_baoy9RPg"
+  },
+  {
+    "tool_name": "VMTCreate",
+    "tool_description": "Ease the creation of .vmt files as wells as convert Targa files to Valve's Texture Format.",
+    "tool_preview_image": "tma_28",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!wM5EDZqL!F91jl6MTjz2nR4juKcI8Cw"
+  },
+  {
+    "tool_name": "VMTMaker (phatsams)",
+    "tool_description": "VMT Creation Tool",
+    "tool_preview_image": "tma_29",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gJoVXYoB!x74dFUnhKt3A8zFWBbngKw"
+  },
+  {
+    "tool_name": "VMTMaker (sonicsight)",
+    "tool_description": "VMT Creation Tool",
+    "tool_preview_image": "tma_30",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!kUpAzaZD!5f4hl2ndA6CDEee-9jQyeQ"
+  },
+  {
+    "tool_name": "VMTMaker (TN Skoop)",
+    "tool_description": "VMT Creation Tool",
+    "tool_preview_image": "tma_31",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!YQQX2ZqZ!vajz3fyVUVzF3h2kwGjVWQ"
+  },
+  {
+    "tool_name": "Vtex Modified",
+    "tool_description": "new working version of vtex",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ZdIhzCyB!UE5SfFynftPjKK4EuCRdLw"
+  },
+  {
+    "tool_name": "VTF Creator &amp; VMT Generator",
+    "tool_description": "Quick way to convert mass amounts of image files to VTF/VMT",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!tNIy0BZL!SERmyWVr2fuQRLNzUW-gAw"
+  },
+  {
+    "tool_name": "VTF Explorer",
+    "tool_description": "A tool for viewing, converting and extracting from GCF files Source materials.",
+    "tool_preview_image": "tma_32",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!gcRklARa!2wYi46ZSPJ-vSC_Zt-FSNA"
+  },
+  {
+    "tool_name": "VTF Reader",
+    "tool_description": "Open and View VTFs",
+    "tool_preview_image": "tma_33",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!lVpWiCRB!OMjQM1XinZwjgLCalk0qdw"
+  },
+  {
+    "tool_name": "VTF Version Changer",
+    "tool_description": "Change the version of vtfs without having to hex",
+    "tool_preview_image": "tma_34",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!VYojgQLQ!zqQ9r16XjA71E1HvfbURwA"
+  },
+  {
+    "tool_name": "VTF Edit",
+    "tool_description": "Widely used VTF editing tool",
+    "tool_preview_image": "tma_35",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!QYQEFJZL!aueoyIpQFVD5hKiw3BglPg"
+  },
+  {
+    "tool_name": "VTF Lib",
+    "tool_description": "Library for adding VTF support to your own apps",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!hRJlBCBR!HVKc0x6WeLXNZIFBhv8p3w"
+  },
+  {
+    "tool_name": "VTFTool",
+    "tool_description": "GUI replacement for the VTF2TGA and VTEX applications",
+    "tool_preview_image": "tma_36",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ZJg2ELyK!DXIQ_4G528CZLY2bwSIi_A"
+  },
+  {
+    "tool_name": "Easy WAD Maker",
+    "tool_description": "GUI application to help simplify the WAD creation process",
+    "tool_preview_image": "tma_37",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!AVZXwQ7K!O-Vz-ajlnQ1hw6MQfdXXqw"
+  },
+  {
+    "tool_name": "WAD2BMP",
+    "tool_description": "Converts the contents of WADs into BMPs",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pUREhLCJ!P7A46rWvoc_zWRN7IFe7gQ"
+  },
+  {
+    "tool_name": "Wally",
+    "tool_description": "Defacto tool for texture management in GoldSrc",
+    "tool_preview_image": "tma_38",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!kE4FzCaK!WrXI40jGwAxmT_2TvOdg9Q"
+  },
+  {
+    "tool_name": "Wood Workshop",
+    "tool_description": "A free seamless texture editor",
+    "tool_preview_image": "tma_39",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!BBYFyYIT!mra41SVtVgsXnEqvckbCkA"
+  },
+  {
+    "tool_name": "Half-Life Weapon Sprite Definition Generator",
+    "tool_description": "Well, actually an editor for weapon sprites",
+    "tool_preview_image": "",
+    "tool_homelink": "http://articles.thewavelength.net/407/",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!FAIFka6B!WcjIJScWvknFNgjCX7cJ1Q"
+  },
+  {
+    "tool_name": "Wavelength PalMerge",
+    "tool_description": "Paletted images merger for half life",
+    "tool_preview_image": "tma_40",
+    "tool_homelink": "http://articles.thewavelength.net/417/",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!NN4DFTQa!1_5LgUXzF1SoKxO0LF3faw"
+  },
+  {
+    "tool_name": "Wavelength PalMerge",
+    "tool_description": "GFX Wad compiler taken from nextwish.org",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!0NolWB7T!l3R7Dj424lzHPEW20qNpDA"
+  },
+  {
+    "tool_name": "Wad Viewer",
+    "tool_description": "Viewer for previewing WAD files (source code only)",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pZx0wZzJ!YCzchEn_tG3YoBD9H5Hz-w"
+  },
+  {
+    "tool_name": "Detail Tool",
+    "tool_description": "It auto generates 'detailtextures.txt' for the detail file generator the Trinity\\Abyss engine use.",
+    "tool_preview_image": "tma_41",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!JJgGnQBD!bA03mEd03-YFIyHTibjmVA"
+  },
+  {
+    "tool_name": "Half-Life Texture Tools",
+    "tool_description": "Half-Life Texture Tools - create and view wad and spr files",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!YABi3Cga!niSHQ3lNhHIUHwLXoh99CQ"
+  },
+  {
+    "tool_name": "Wad Configuration Manager",
+    "tool_description": "a tool to help manage WAD configurations.",
+    "tool_preview_image": "tma_42",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!QF5HhZhR!c4kUGUA79mUCfCK86VGNEg"
+  },
+  {
+    "tool_name": "Lump Tool",
+    "tool_description": "Edits and creates WAD files for the game Doom. It\\'s 9 years too late, but better late than never! \r\n",
+    "tool_preview_image": "tma_43",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!QN4yBbjY!FDt6K4hJHGE05WUutd_UTQ"
+  },
+  {
+    "tool_name": "Sprite generator",
+    "tool_description": "Sprite generator for HL ",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!ZZQBhC6J!xcBZo018fD0kV8TZErpc9A"
+  },
+  {
+    "tool_name": "Terrain Texture Generator",
+    "tool_description": "Here\\'s a little toy that synthesizes a unique terrain texture\r\nby blending a set of base texture layers",
+    "tool_preview_image": "tma_44",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!9RAFiDTA!NX83WJROiYNNkfp1st5YEg"
+  },
+  {
+    "tool_name": "SkyGen",
+    "tool_description": "This is a simple seamless skybox bitmap generator. It generates\r\nsix bitmaps which can be used as the textures on a skybox within\r\na game engine",
+    "tool_preview_image": "tma_45",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!VBpyCZgT!FAT5eUs_ti75cq2u-JvgXg"
+  },
+  {
+    "tool_name": "TGA Tool",
+    "tool_description": "Simple Interface program to allow the easy editing of the 24 bit Bmp & 32 bit Targas",
+    "tool_preview_image": "tma_46",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc_and_source",
+    "tool_mega": "https://mega.nz/#F!lQIViAjQ!dWeEY9umzLP80Y7gMB1YOg"
+  },
+  {
+    "tool_name": "SkyPaint",
+    "tool_description": "Skypaint is a legacy program that can view and create skyboxes as well as doing direct edits to them.",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "all_engines",
+    "tool_mega": "https://mega.nz/#F!QcpmABgZ!LnpO93ix-_IVgsFwUHk2IA"
+  },
+  {
+    "tool_name": "VMT Creator",
+    "tool_description": "Simple vmt creator",
+    "tool_preview_image": "tma_47",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!MZRGVaIA!cip_9YlUCHUlNpeVj0GXOg"
+  },
+  {
+    "tool_name": "Source Material Manager",
+    "tool_description": "Source Material Manager is an application to manage VTF and VMT files. SMM makes your texture and material editing faster!",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/RadCraftplay/Source-Material-Manager",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!ENImQQJJ!_E7fHAn7A7qNalQnYsPjQA"
+  },
+  {
+    "tool_name": "VMT Editor",
+    "tool_description": "a visual editor for Source Engine material files.",
+    "tool_preview_image": "tma_48",
+    "tool_homelink": "https://gortnar.com/vmt.html",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!8FwA2AbQ!KfLlcJiasyKRMGN9FkJ78g"
+  },
+  {
+    "tool_name": "Fast VMT Generator",
+    "tool_description": "Fast VMT Generator is tool that generates VMT file for multiple textures AT ONCE!",
+    "tool_preview_image": "tma_49",
+    "tool_homelink": "",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!QI5VRRJa!Y_e4dW1nH4BzjMmtQrbVQA"
+  },
+  {
+    "tool_name": "VMTGen",
+    "tool_description": "Valve Material Type file generator ",
+    "tool_preview_image": "tma_50",
+    "tool_homelink": "https://github.com/Xyphos/VMTGen",
+    "tool_engine": "source",
+    "tool_mega": "https://mega.nz/#F!EdhzFBqY!LP6pZwMfrDMwvPgF85Cuyw"
+  },
+  {
+    "tool_name": "Goldsrc Texture Viewer",
+    "tool_description": "Texture viewer for Valve\\'s GoldSrc engine (Requires Compilation)",
+    "tool_preview_image": "tma_51",
+    "tool_homelink": "https://github.com/wtrsltnk/goldsrc-textures",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!NcJGkYDC!ha133Z1sk79vbkaMAQyn2w"
+  },
+  {
+    "tool_name": "XWAD",
+    "tool_description": "utility that converts Wads to TGA\\'s",
+    "tool_preview_image": "",
+    "tool_homelink": "https://developer.valvesoftware.com/wiki/Xwad",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!4ZIWFIII!c7NB-FLGtnsWzGPWu3NSvA"
+  },
+  {
+    "tool_name": "JamDonut",
+    "tool_description": "Older tool for creating textures in Quake & HL",
+    "tool_preview_image": "",
+    "tool_homelink": "",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!VQZiQCwJ!YsWJqik_yBDkv7NpOSm2dQ"
+  }
+]

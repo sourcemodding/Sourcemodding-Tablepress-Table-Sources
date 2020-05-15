@@ -1,0 +1,1514 @@
+[
+  {
+    "tut_name": "Introduction to Jeds Half-Life Model Viewer",
+    "tut_description": "A detailed tutorial covering the features and uses of Jed's HLMV for GoldSrc",
+    "tut_link": "http://www.sourcemodding.com/tutorials/goldsrc/modeling/intro-to-hlmv-goldsrc/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "sourcemodding",
+    "tut_author_alt": "sourcemodding"
+  },
+  {
+    "tut_name": "How to export models from Blender and compile them for GoldSrc",
+    "tut_description": "Detailed tutorial on the model creation pipeline from blender to GoldSrc",
+    "tut_link": "http://www.isolated-design.de/tutorials/how-to-get-models-from-blender-to-goldsrc/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "ToTac",
+    "tut_author_alt": "isolated"
+  },
+  {
+    "tut_name": "Editing Half-Life Models.",
+    "tut_description": "The body swap shop.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Editing_Half-Life_Models.",
+    "tut_download": "https://mega.nz/#F!dQBDGATI!868fFoZLPedD0n-mE8Te_Q",
+    "tut_game": "HL",
+    "tut_author_name": "Vassy",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Half-Life Weapon Model Profiles",
+    "tut_description": "This article details the two weapon models that were released with the Software Developer's Kit. It will give you an idea of polygon limits, texture limits, the skeletons and animations.",
+    "tut_link": "http://articles.thewavelength.net/171/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": ".QC Scripts",
+    "tut_description": ".qc scripts are simple text files, edited in Notepad, and are needed to compile a model. They tell studiomdl.exe where the mesh, textures and animations are but more importantly sets up parameters that Half-Life will need.",
+    "tut_link": "http://articles.thewavelength.net/170/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Half-Life Deathmatch Model Profiles",
+    "tut_description": "This article details the four deathmatch player models that were released with Half-Life. It will give you an idea of polygon limits, how skins are set up, the skeleton, animations and multiplayer bitmap.",
+    "tut_link": "http://articles.thewavelength.net/164/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Model-Related Console Commands",
+    "tut_description": "Model-Related Console Commands",
+    "tut_link": "http://articles.thewavelength.net/163/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "The Making of Dukowski",
+    "tut_description": "This article will explain how Pred and I created Dukowski, a multiplayer model for Half-Life.",
+    "tut_link": "http://articles.thewavelength.net/161/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Extra Models in Half-Life",
+    "tut_description": "These are extra models found in the Half-Life .pak file that were not used in the game.",
+    "tut_link": "http://web.archive.org/web/20040516155401/http://articles.thewavelength.net/156/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Modelling For Half-Life",
+    "tut_description": "In this article I will address what it will take to create models for Half-Life.",
+    "tut_link": "http://articles.thewavelength.net/155/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Skeletal Animation: An Introduction",
+    "tut_description": "An Introduction to skeletal Animation",
+    "tut_link": "http://articles.thewavelength.net/154/",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Modelling for Goldsource",
+    "tut_description": "A tutorial from start to finish on how to make models for Goldsource (HL1) which provides all of the beginning modelling knowledge needed, even if you have never modelled before.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Modelling_for_Goldsource",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Rimrook",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Re-texturing Models",
+    "tut_description": "Want your grunts to have new clothes? Try this.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Re-texturing_Models",
+    "tut_download": "https://mega.nz/#F!QYQGQbLa!FlSp4bK7wSBRq09lSe5rbg",
+    "tut_game": "HL",
+    "tut_author_name": "Vassy",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Half-Life Model Animations",
+    "tut_description": "This is a complete list of all the original models and their animation sequence names.",
+    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/animations.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HERC",
+    "tut_author_alt": "herc"
+  },
+  {
+    "tut_name": "Making a 3rd Person Model for Half-Life",
+    "tut_description": "Making a 3rd Person Model for Half-Life",
+    "tut_link": "http://web.archive.org/web/20001206065100/http://www.hlcenter.com/tutorials/modeling.phtml?id=27855&amp;language=en",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HLCenter",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Making a World model for Half-Life",
+    "tut_description": "Making a World model for Half-Life",
+    "tut_link": "http://web.archive.org/web/20001206062000/http://www.hlcenter.com/tutorials/modeling.phtml?id=27853&amp;language=en",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HLCenter",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "G-max, Things you need to know",
+    "tut_description": "G-max, Things you need to know",
+    "tut_link": "http://web.archive.org/web/20071105020140/http://www.gamedesign.net/node/1050",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Pepper",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "How To: Prepare for your first model (Point Modeling)",
+    "tut_description": "How To: Prepare for your first model (Point Modeling)",
+    "tut_link": "http://web.archive.org/web/20071128132700/http://www.gamedesign.net/node/534",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Pepper",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "All scripted sequences for all models.",
+    "tut_description": " In this document I'll describe all scripted secuences of all models in the pak0.pak file in the half-life directory.",
+    "tut_link": "http://web.archive.org/web/20010825111224/http://www.planethalflife.com/workshop/models/ssec_docs.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Otis",
+    "tut_author_alt": "hlws"
+  },
+  {
+    "tut_name": "Modeling for Half-Life - Part 1",
+    "tut_description": "Part 1 of a series of tutorials that will teach you how to model for Half-Life, using the program MilkShape 3D. ",
+    "tut_link": "http://web.archive.org/web/20081003012805/http://www.vlatitude.com/tutorials.php?tutID=54",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BB",
+    "tut_author_alt": "vlatitude"
+  },
+  {
+    "tut_name": "Modeling for Half-Life - Part 2",
+    "tut_description": "Part 2 of the modeling series. This tutorial covers grouping. You've read the first, now read the next.",
+    "tut_link": "http://web.archive.org/web/20081003012810/http://www.vlatitude.com/tutorials.php?tutID=55",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BB",
+    "tut_author_alt": "vlatitude"
+  },
+  {
+    "tut_name": "Modeling for Half-Life - Part 3",
+    "tut_description": "Part 3 of the modeling series. This tutorial will bring you up to speed on the process of texturing.",
+    "tut_link": "http://web.archive.org/web/20081003012815/http://www.vlatitude.com/tutorials.php?tutID=57",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BB",
+    "tut_author_alt": "vlatitude"
+  },
+  {
+    "tut_name": "Modeling for Half-Life - Part 4",
+    "tut_description": "The fourth and final part of the first series of modeling tutorials. This one wraps up everything that has been learned",
+    "tut_link": "http://web.archive.org/web/20081003012821/http://www.vlatitude.com/tutorials.php?tutID=58",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "BB",
+    "tut_author_alt": "vlatitude"
+  },
+  {
+    "tut_name": "GoldSrc Model Tutorial - Basics",
+    "tut_description": "Hello, and welcome to the GoldSrc model exporting video tutorial. This tutorial covers exporting models using 3DStudio Max and MilkShape 3D",
+    "tut_link": "http://www.the303.org/tutorials/gold_mdl.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSrc Mouth Procedural Animation Tutorial",
+    "tut_description": "GoldSrc uses a bone controller to turn audio waveforms into bone rotations. This is how all the scientists and barneys 'talk'",
+    "tut_link": "http://www.the303.org/tutorials/gold_flappyjaws.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Sven-Coop Playermodel Color Remap Tutorial",
+    "tut_description": "Sven-Coop Playermodel Color Remap Tutorial",
+    "tut_link": "http://www.the303.org/tutorials/gold_remap.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Converting Source models to Goldsource",
+    "tut_description": "In this tutorial, we will learn how to convert models from the source engine (Half-life 2) to the goldsource engine with minimal quality loss.",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/185/Converting_Source_models_to_Goldsource",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Le Chief",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Adding blood trails to gibs using P2 Model Viewer",
+    "tut_description": "Probably easiest tutorial ever, you can add Quake 1 blood trails to gibs without any coding at all",
+    "tut_link": "https://gamebanana.com/tuts/12551",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Chyvachok",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to swap Valve or Gearbox Hands (Easy and Fast)",
+    "tut_description": "How to swap Valve or Gearbox Hands (Easy and Fast)",
+    "tut_link": "https://gamebanana.com/tuts/12056",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Mr. Crowbar",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Some Tips in making models using Trinity Render",
+    "tut_description": "Useful Tips when Compiling a Vee Model on a Trinity Render Engine",
+    "tut_link": "https://gamebanana.com/tuts/11401",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "bobito pawner",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Switching hands (right-left)",
+    "tut_description": "Switching hands (right-left)",
+    "tut_link": "https://gamebanana.com/tuts/7571",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Soviet Inc.",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Skinning Basics",
+    "tut_description": "Welcome to my tutorial on the basics for learning to skin for a HL1 game.",
+    "tut_link": "https://gamebanana.com/tuts/6647",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Dynamic Customs Inc.",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Reflection effect for Half-Life 1",
+    "tut_description": "This trick can either be very hard or very easy, depending the model.",
+    "tut_link": "https://gamebanana.com/tuts/4253",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "DR_FUZZY",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "some QC scripting",
+    "tut_description": "many peaple know about the qc file but does not know how to edit a model through it.",
+    "tut_link": "https://gamebanana.com/tuts/12638",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "man_s_our",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to port weapons models from cs:go to cs 1.6",
+    "tut_description": "How to port weapons models from cs:go to cs 1.6",
+    "tut_link": "https://gamebanana.com/tuts/12628",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Sowa Games",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Fixing \\'flat shade\\' bug",
+    "tut_description": "Fixing \\'flat shade\\' bug",
+    "tut_link": "https://gamebanana.com/tuts/12559",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Classy",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Decompile a Goldsrc .MDL file without UV shifts",
+    "tut_description": " finally discovered the way to decompile any goldsrc model while keeping the UVs 100% stable!",
+    "tut_link": "https://gamebanana.com/tuts/12475",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "CS Pro",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to easily optimize your model with a blender",
+    "tut_description": "How to easily optimize your model with a blender",
+    "tut_link": "https://youtu.be/emMPEb4zVa8",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "How to easily optimize your model with a blender",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "Fix freeze ported animations with fragMOTION",
+    "tut_description": "Fix freeze ported animations with fragMOTION",
+    "tut_link": "https://gamebanana.com/tuts/12314",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Captiva",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Port arms models from cs:go to cs 1.6",
+    "tut_description": "Port arms models from cs:go to cs 1.6",
+    "tut_link": "https://gamebanana.com/tuts/12303",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Sowa Games",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Rigging player models for cs 1.6 in blender",
+    "tut_description": "Rigging player models for cs 1.6 in blender",
+    "tut_link": "https://gamebanana.com/tuts/12289",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Sowa Games",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Porting prop models from cs:go map to map cs 1.6",
+    "tut_description": "Porting prop models from cs:go map to map cs 1.6",
+    "tut_link": "https://gamebanana.com/tuts/12288",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Sowa Games",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Mirror a weapon with Milkshape3D",
+    "tut_description": "Mirror a weapon with Milkshape3D",
+    "tut_link": "https://gamebanana.com/tuts/12217",
+    "tut_download": "http://files.gamebanana.com/bitpit/flip_with_ms3d.rar",
+    "tut_game": "CS",
+    "tut_author_name": "Captiva",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Dead Frames Removal",
+    "tut_description": "Dead Frames Removal",
+    "tut_link": "https://gamebanana.com/tuts/12209",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "CS PRO",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Creating models of skins from cs go in quality HD",
+    "tut_description": "Creating models of skins from cs go in quality HD",
+    "tut_link": "https://gamebanana.com/tuts/12193",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Sowa Games",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Back to Idle | How to Fix",
+    "tut_description": "Back to Idle | How to Fix",
+    "tut_link": "https://gamebanana.com/tuts/12119",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Viper1337",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Weapons Chrome Effect | How to",
+    "tut_description": "Weapons Chrome Effect | How to",
+    "tut_link": "https://gamebanana.com/tuts/12069",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Viper1337",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Weapons Screen Bug | How to Fix",
+    "tut_description": "Weapons Screen Bug | How to Fix",
+    "tut_link": "https://gamebanana.com/tuts/12067",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Viper1337",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Setting up 3Ds Max 9",
+    "tut_description": "This tutorial will show beginner modelers how to set up 3Ds Max 9 for essentially any GoldSRC game.",
+    "tut_link": "https://gamebanana.com/tuts/12062",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Admer456",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Rig Weapons On CS 1.6 hands (Portuguese)",
+    "tut_description": "Sorry ... but it\\'s in portuguese .. but follow the steps you should be fine ..",
+    "tut_link": "https://gamebanana.com/tuts/11914",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "CS PRO",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Animating in Milkshape 3D",
+    "tut_description": "I\\'ve decided to release some tips for some of you who still animate using Milkshape 3D. ",
+    "tut_link": "https://gamebanana.com/tuts/11910",
+    "tut_download": "http://files.gamebanana.com/bitpit/sample_animations.zip",
+    "tut_game": "CS",
+    "tut_author_name": "Bobito Pawner",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Making the most out of models in GoldSrc",
+    "tut_description": "Getting the most out of models in GoldSrc",
+    "tut_link": "https://gamebanana.com/tuts/11886",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Glock18",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Milkshape UV Mapping tutorial",
+    "tut_description": "Milkshape UV Mapping tutorial",
+    "tut_link": "https://gamebanana.com/tuts/11798",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "schiff.",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to split a mesh up to ease compiling",
+    "tut_description": "How to split a mesh up to ease compiling",
+    "tut_link": "https://gamebanana.com/tuts/11185",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to compile static models made in Blender",
+    "tut_description": "In this tutorial you will ONLY learn how to compile your models made in Blender and AND NOT HOW TO MAKE THEM.",
+    "tut_link": "https://gamebanana.com/tuts/11133",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Takatalvi",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make p_, w_ models + other stuff",
+    "tut_description": "How to make p_, w_ models + other stuff",
+    "tut_link": "https://gamebanana.com/tuts/11066",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Thrashstalker",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to convert CS:S skins to CS 1.6",
+    "tut_description": "People, I recommend you stick with 1.6/CZ skins as it will eat up your FPS if you have CS:S skins replacing all your weapons.",
+    "tut_link": "https://gamebanana.com/tuts/11065",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to rig sleeves on hands",
+    "tut_description": "How to rig sleeves on hands",
+    "tut_link": "https://gamebanana.com/tuts/11048",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Making P Models with MS3D",
+    "tut_description": "Making P Models with MS3D",
+    "tut_link": "https://gamebanana.com/tuts/11024",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Animating Walk",
+    "tut_description": "Here is a new tutorial for MilkShape 3D! This time, animating a model so it will reproduce the walk animation. ",
+    "tut_link": "https://gamebanana.com/tuts/11022",
+    "tut_download": "http://files.gamebanana.com/bitpit/walk_by_kfu.rar",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Easiest Way in the World to Reorigin Models",
+    "tut_description": "Easiest Way in the World to Reorigin Models",
+    "tut_link": "https://web.archive.org/web/20050310062513/http://homepage.ntlworld.com:80/scitzo/hlmvtut.htm",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "MaRzY",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Creating a working CS model using Milkshape 3D",
+    "tut_description": "Creating a working CS model using Milkshape 3D",
+    "tut_link": "https://gamebanana.com/tuts/11015",
+    "tut_download": "http://files.gamebanana.com/gamefiles/csgirl_tutorial_2.zip",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Milkshape 3D: Make phong",
+    "tut_description": "Screenshot say it all, sorry doesn\\'t have video",
+    "tut_link": "https://gamebanana.com/tuts/10823",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Morkolt",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Edit qc attachments: muzzleflash, shell eject",
+    "tut_description": "Edit qc attachments: muzzleflash, shell eject",
+    "tut_link": "https://gamebanana.com/tuts/10657",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Tatwaffe",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Counter-strike 1.6 how to edit animations.",
+    "tut_description": "This is the best tutorial for learning animations, in 9 simple steps.",
+    "tut_link": "https://gamebanana.com/tuts/10642",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "SerGio",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How To Decompile on GoldSCR",
+    "tut_description": "Hello, This is my tutorial for decompile a model in cs 1.6.. You See Help in Pictures.",
+    "tut_link": "https://gamebanana.com/tuts/10547",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "Mak3ttaja",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Counter-Strike: 1.6 Glove Installation",
+    "tut_description": "Counter-Strike: 1.6 Glove Installation",
+    "tut_link": "https://gamebanana.com/tuts/10514",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "CS/CZ Skin Installing!",
+    "tut_description": "CS/CZ Skin Installing!",
+    "tut_link": "https://gamebanana.com/tuts/10511",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to port GTA mods to CS",
+    "tut_description": "How to port GTA mods to CS",
+    "tut_link": "https://gamebanana.com/tuts/10420",
+    "tut_download": "",
+    "tut_game": "CS",
+    "tut_author_name": "NuNz",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make player models for any goldsource game",
+    "tut_description": "How to make player models for any goldsource game",
+    "tut_link": "https://gamebanana.com/tuts/10444",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Crash",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make world models for any goldsource game",
+    "tut_description": "How to make world models for any goldsource game",
+    "tut_link": "https://gamebanana.com/tuts/10428",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Crash",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "vertices problems",
+    "tut_description": "vertices problems",
+    "tut_link": "https://gamebanana.com/tuts/10111",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "NoobandEasy",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to easily change a weapon\\'s origin in Cz/Cs",
+    "tut_description": "How to easily change a weapon\\'s origin in Cz/Cs",
+    "tut_link": "https://gamebanana.com/tuts/9929",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "NormanShaqir",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Changing Origins",
+    "tut_description": "Changing Origins",
+    "tut_link": "https://gamebanana.com/tuts/5416",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Pr0ph3cy",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Easy way to install skins",
+    "tut_description": "Easy way to install skins",
+    "tut_link": "https://gamebanana.com/tuts/4456",
+    "tut_download": "",
+    "tut_game": "CSCZ",
+    "tut_author_name": "Zoe101",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "303 - 3D Studio Max",
+    "tut_description": "3D Studio Max",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_3ds.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "303 - Blender",
+    "tut_description": "Blender",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_blend.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "303 - kHED",
+    "tut_description": "kHED",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_khed.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "303 - fragMOTION",
+    "tut_description": "fragMOTION",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_frag.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "303 - Maya",
+    "tut_description": "Maya",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_maya.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "303 - MilkShape3D",
+    "tut_description": "MilkShape3D",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_milk.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Sven Co-op Fullbright Model Textures Tutorial",
+    "tut_description": "Sven Co-op models supports a texture QC flag called 'fullbright' which basically means the texture will be drawn at full brightness at all times.",
+    "tut_link": "http://the303.org/tutorials/sven_fullbright.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSource Model Compile Command Glossary",
+    "tut_description": "This is the GoldSrc QC compile commands glossary. It is important to note that any of the commands must not be capitalized or you will get compile errors. ",
+    "tut_link": "http://the303.org/tutorials/gold_qc.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "GoldSource Model Compile/Decompile Flowchart",
+    "tut_description": "A quick reference for GoldSource model compiling and decompiling. Includes links. ",
+    "tut_link": "http://the303.org/goldsrc/gmdlflowchart.html",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": " (Milkshape) Hand Changing Tutorial",
+    "tut_description": "One of the most common requests is for people to change the hands on a weapon. ",
+    "tut_link": "http://www.half-lifecreations.com/forums/index.php?topic=1632.0",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jake",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Deathbog\\'s Model Replacement Tutorial ",
+    "tut_description": "Model Replacement Tutorial by Deathbog",
+    "tut_link": "https://forums.svencoop.com/showthread.php/42011-Deathbog-s-Model-Replacement-Tutorial",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Nih",
+    "tut_author_alt": "sven"
+  },
+  {
+    "tut_name": "NPC Model - Rescale, Size and Hull Tutorial ",
+    "tut_description": "NPC Model - Rescale, Size and Hull Tutorial ",
+    "tut_link": "https://forums.svencoop.com/showthread.php/41530-NPC-Model-Rescale-Size-and-Hull-Tutorial",
+    "tut_download": "https://web.archive.org/web/20180622171143/https://forums.svencoop.com/attachment.php?attachmentid=15839&d=1399225412",
+    "tut_game": "unknown",
+    "tut_author_name": "wolf-3d",
+    "tut_author_alt": "sven"
+  },
+  {
+    "tut_name": "All scripted sequences for all models.",
+    "tut_description": "for half-life 1",
+    "tut_link": "https://web.archive.org/web/20061110203118/http://qoole.gamedesign.net:80/hl/tutorials/scriptseq/ssec_docs.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "qoole",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Converting Models from Quake 2 to Half-Life",
+    "tut_description": "Converting Models from Quake 2 to Half-Life",
+    "tut_link": "https://web.archive.org/web/20010820083859fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/q2tohl.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Pug",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Modeling Tutorial",
+    "tut_description": "Valve\\'s Modeling Tutorial",
+    "tut_link": "https://web.archive.org/web/20011205162304fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/ModelingTutorial.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "valve",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Basic Modeling Techniques",
+    "tut_description": "Here are some modeling techniques to prepare you for my upcoming tutorials.",
+    "tut_link": "https://web.archive.org/web/20020124170349fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/techniques.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Character Modeling",
+    "tut_description": "This tutorial will be the first of a series, taking you through the process of creating a model, it\\'s skin, skeleton and animation, then getting it into Half-Life.",
+    "tut_link": "https://web.archive.org/web/20011101005821fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/model.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Smoothing Groups / Skin Textures",
+    "tut_description": "This tutorial is the second in a series, taking you through the process of creating a model, it\\'s skin, skeleton and animation, then getting it into Half-Life.",
+    "tut_link": "https://web.archive.org/web/20011006131427fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/skin.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Making the Skeleton",
+    "tut_description": "This tutorial is the third in a series, taking you through the process of creating a model, it\\'s skin, skeleton and animation, then getting it into Half-Life.",
+    "tut_link": "https://web.archive.org/web/20011031230012fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/skeleton.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "valve"
+  },
+  {
+    "tut_name": "HALF-LIFE MODEL ANIMATIONS LIST",
+    "tut_description": "HALF-LIFE MODEL ANIMATIONS LIST",
+    "tut_link": "https://web.archive.org/web/20011101001719/http://www.planethalflife.com:80/wavelength/levels/resources/animations.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Otis\\' Scripted Sequence Reference",
+    "tut_description": "Otis\\' Scripted Sequence Reference",
+    "tut_link": "https://web.archive.org/web/20011205160901fw_/http://www.planethalflife.com:80/wavelength/models/reference/sequence/index.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Otis",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Model-Related Console Commands",
+    "tut_description": "Model-Related Console Commands",
+    "tut_link": "https://web.archive.org/web/20011219233856fw_/http://www.planethalflife.com:80/wavelength/models/reference/console.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Modeling / 2D Art Frequently Asked Questions",
+    "tut_description": "Modeling / 2D Art Frequently Asked Questions",
+    "tut_link": "https://web.archive.org/web/20011221063135fw_/http://www.planethalflife.com:80/wavelength/models/reference/faq.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Half-Life Weapon Model Profiles",
+    "tut_description": "This article details the two weapon models that were released with the Software Developer\\'s Kit.",
+    "tut_link": "https://web.archive.org/web/20011221063836fw_/http://www.planethalflife.com:80/wavelength/models/reference/weapons.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "HALF-LIFE MODELS LIST",
+    "tut_description": "HALF-LIFE MODELS LIST",
+    "tut_link": "https://web.archive.org/web/20020614002337/http://www.planethalflife.com:80/wavelength/levels/resources/models.html",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "HellBringer, Spider",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Introduction to modelling using Milkshape 3D",
+    "tut_description": "Ben Moss introduces us to the arcane world of model editing",
+    "tut_link": "https://web.archive.org/web/20020811120202/http://www.machinima.com:80/articles/modelling_intro_1/",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Ben Moss",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "ColdFusion\\'s FAQ",
+    "tut_description": "Frequently Asked Questions from the old site ColdFusion",
+    "tut_link": "https://web.archive.org/web/20000603212704fw_/http://planethalflife.com:80/coldfusion/faq.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Bamphalas",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Milkshape: Creating a new model in Milkshape and adding it to Half-Life",
+    "tut_description": "How to create a new monster model in Milkshape, create an .MDL file, and add it as a new entity into your MOD using the monster_generic and scripted_sequence entities.",
+    "tut_link": "https://web.archive.org/web/20031213041707/http://planethalflife.com:80/hlsdk2/sdk/MS3d_to_HL.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "hlsdk2",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Setting Up 3D Studio Max",
+    "tut_description": "Setting Up 3D Studio Max",
+    "tut_link": "https://web.archive.org/web/20021019233736/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax1.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Meshediting",
+    "tut_description": "BASIC MESH CREATION AND EDITING",
+    "tut_link": "https://web.archive.org/web/20020820111346/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax2.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Digital Scultping - A Tutorial",
+    "tut_description": "Digital Scultping",
+    "tut_link": "https://web.archive.org/web/20021217013532/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax3.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Skinmeshing in Studio Max",
+    "tut_description": "Skinmeshing in Studio Max",
+    "tut_link": "https://web.archive.org/web/20020820102506/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax4.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "A Brief Explanation of Bipeds and Physique",
+    "tut_description": "A Brief Explanation of Bipeds and Physique",
+    "tut_link": "https://web.archive.org/web/20021019235112/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax5.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Figure Mode",
+    "tut_description": "Figure Mode ",
+    "tut_link": "https://web.archive.org/web/20021019232231/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax6.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Half-Life Animation... An Overview",
+    "tut_description": "Half-Life Animation... An Overview",
+    "tut_link": "https://web.archive.org/web/20021019232725/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax7.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Compiling Your Model",
+    "tut_description": "A brief explanantion of how a HalfLife model compiles",
+    "tut_link": "https://web.archive.org/web/20031021005119/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax8.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Hit Boxes",
+    "tut_description": "Hit Boxes",
+    "tut_link": "https://web.archive.org/web/20031021010545/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax9.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Setting Up Your Milkshape Workspace",
+    "tut_description": "Setting Up Your Milkshape Workspace",
+    "tut_link": "https://web.archive.org/web/20041222040042/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape1.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Digital Sculpting - A Tutorial",
+    "tut_description": "Digital Sculpting - A Tutorial",
+    "tut_link": "https://web.archive.org/web/20031021010410/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape2.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Milkshape Skinmeshing",
+    "tut_description": "Milkshape Skinmeshing",
+    "tut_link": "https://web.archive.org/web/20040823125642/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape3.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Milkshape Skeleton Application: Bipeds",
+    "tut_description": "SKELETONS IN HALF-LIFE ...a brief overview",
+    "tut_link": "https://web.archive.org/web/20041216075241/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape5.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Half-Life Animation: An Overview",
+    "tut_description": "Half-Life Animation: An Overview",
+    "tut_link": "https://web.archive.org/web/20041222040046/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape6.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Weapons Modelling Tutorial ",
+    "tut_description": "Weapons Modelling Tutorial",
+    "tut_link": "https://web.archive.org/web/20031222201124/http://www.planetquake.com/polycount/resources/halflife/tutorials/scarecrows_tutorials/weapons/weapons.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Making a World model for Half-Life",
+    "tut_description": "Making a World model for Half-Life",
+    "tut_link": "https://web.archive.org/web/20031021012917/http://www.planetquake.com/polycount/resources/halflife/tutorials/rats_tutorials/HL-MS3D-w1.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Rat",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Making a 3rd Person Model for Half-Life",
+    "tut_description": "Making a 3rd Person Model for Half-Life",
+    "tut_link": "https://web.archive.org/web/20031222200148/http://www.planetquake.com/polycount/resources/halflife/tutorials/rats_tutorials/p-model/HL-MS3D-p1.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Rat",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Tips for adjusting a v_ Model for Half-Life",
+    "tut_description": "Tips for adjusting a v_ Model for Half-Life",
+    "tut_link": "https://web.archive.org/web/20031219213748/http://www.planetquake.com/polycount/resources/halflife/tutorials/rats_tutorials/adjust/adjust.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Rat",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "VIEWING YOUR MODEL",
+    "tut_description": "To view it in the game, do the following. ",
+    "tut_link": "https://web.archive.org/web/20010203164700/http://www.planethalflife.com:80/coldfusion/tutorials/viewing/viewing.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Milkshape Skeleton Application",
+    "tut_description": "Milkshape Skeleton Application",
+    "tut_link": "https://web.archive.org/web/20031222231625/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape4.shtml",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "scarecrow",
+    "tut_author_alt": "polycount"
+  },
+  {
+    "tut_name": "Making a World model for Half-Life",
+    "tut_description": "Making a World model for Half-Life",
+    "tut_link": "https://web.archive.org/web/20010501215502/http://hlcenter.com:80/tutorials/modeling.phtml?id=27853&language=en&page=1",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Rat",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Setting up 3D Studio Max",
+    "tut_description": "Setting up 3D Studio Max",
+    "tut_link": "https://web.archive.org/web/20040810195010/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc1.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": " \tBasics in Meshediting",
+    "tut_description": "BASIC MESH CREATION AND EDITING",
+    "tut_link": "https://web.archive.org/web/20100915165753/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc2.htm",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Making your first Model",
+    "tut_description": "DIGITAL SCULPTING - A TUTORIAL",
+    "tut_link": "https://web.archive.org/web/20081215014033/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc3a.htm",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "SKINMESHING IN STUDIO MAX",
+    "tut_description": "SKINMESHING IN STUDIO MAX",
+    "tut_link": "https://web.archive.org/web/20050518084412/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc4.htm",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Skinmeshing Tutorial",
+    "tut_description": "Skinmeshing Tutorial",
+    "tut_link": "https://web.archive.org/web/20041103154111/http://www.planetfortress.com:80/tf2models/tuto/tuto_Skinmeshing.htm",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": "Tinyfly",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "MAKING A MAC-10",
+    "tut_description": "This tutorial is intended for people with a basic knowledge of 3d studio max r3 or 2.5.",
+    "tut_link": "https://web.archive.org/web/20030802230443/http://www.planetfortress.com:80/tf2models/tuto/tuto_MAC10.htm",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": "Tinyfly",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "MAKING A HK MSG-90",
+    "tut_description": "MAKING A HK MSG-90",
+    "tut_link": "https://web.archive.org/web/20070815080536/http://www.planetfortress.com:80/tf2models/tuto/tuto_HK_MSG-90.htm",
+    "tut_download": "",
+    "tut_game": "TFC",
+    "tut_author_name": "Tinyfly",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "How to bring .mdl files into Milkshape and 3DSMax",
+    "tut_description": "How to bring .mdl files into Milkshape and 3DSMax",
+    "tut_link": "https://web.archive.org/web/20090308091123/http://www.planetfortress.com:80/tf2models/tuto/tuto_3DSImp.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "FoxTrotNiner",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "How to start with Milkshape 3D",
+    "tut_description": "Setting up Milkshape 3D",
+    "tut_link": "https://web.archive.org/web/20090808083742/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc1.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Creating and Editing Bipeds",
+    "tut_description": "DIGITAL SCULPTING - A TUTORIAL",
+    "tut_link": "https://web.archive.org/web/20080206180809/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc2a.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "MILKSHAPE SKINMESHING",
+    "tut_description": "MILKSHAPE SKINMESHING",
+    "tut_link": "https://web.archive.org/web/20070919100442/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc3.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "MILKSHAPE SKELETON APPLICATION",
+    "tut_description": "MILKSHAPE SKELETON APPLICATION",
+    "tut_link": "https://web.archive.org/web/20090722021328/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc4.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Bipeds in HL",
+    "tut_description": "SELETONS IN HALF-LIFE ...a brief overview",
+    "tut_link": "https://web.archive.org/web/20080430100513/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "HL Animating",
+    "tut_description": "HALF-LIFE ANIMATION ...an overview",
+    "tut_link": "https://web.archive.org/web/20081201113825/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc6a.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Bipeds in HL",
+    "tut_description": "Explanation of bipeds",
+    "tut_link": "https://web.archive.org/web/20080201055203/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc5.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Bipedediting",
+    "tut_description": "Creating and Editing Bipeds",
+    "tut_link": "https://web.archive.org/web/20080412105913/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc6a.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "HALF-LIFE ANIMATION (Max)",
+    "tut_description": "HALF-LIFE ANIMATION\r\n...an overview",
+    "tut_link": "https://web.archive.org/web/20080918041725/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc7a.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Compiling (HL)",
+    "tut_description": "COMPILING YOUR MODEL...",
+    "tut_link": "https://web.archive.org/web/20080430034245/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc8.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "Hitboxes in HL",
+    "tut_description": "Generating Htiboxes",
+    "tut_link": "https://web.archive.org/web/20080416171303/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc9.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Scarecrow",
+    "tut_author_alt": "tf2models"
+  },
+  {
+    "tut_name": "How to Change weapons textures",
+    "tut_description": "On this tutorial, we will teach you how to change weapon textures.",
+    "tut_link": "https://www.moddb.com/mods/half-life-modding-tutorials/tutorials/how-to-change-weapons-textures",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Rafaxis",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Milkshape 3D Basics & Fundamentals",
+    "tut_description": "A tutorial on the fundamentals and basic use of Milkshape 3D",
+    "tut_link": "https://www.moddb.com/engines/goldsource/tutorials/milkshape-3d-basics-fundamentals",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "therealzomb",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Create a Draw animation (MS3D)",
+    "tut_description": "I am just showing how I do my draw animations",
+    "tut_link": "https://www.youtube.com/watch?v=HMYJMq2vYGw",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Bobito_Pawner",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Rigging Characters for Half-Life (3ds MAX)",
+    "tut_description": "This tutorial will get yourself familiarized with the process of \\'rigging\\' a character for Half-Life.",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/rigging-characters-for-half-life-3ds-max",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Con_Artist",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "How To Simply Rig A Counter Strike 1.6 Player Model For Half Life",
+    "tut_description": "In This Tutorial I Will Show You How To Rig Any Player Model From Counter Strike 1.6 Or Condition Zero To Work As A Human Grunt In Half Life",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-simply-rig-a-counter-strike-16-player-model-for-half-life",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "SLeNd3rMaN23",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Too many vertices in model - Tutorial Fix",
+    "tut_description": "This is a tutorial of how to fix the problem in milk shape of \\'too many vertices in model\\' and others possible errors",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/too-many-vertices-in-model-tutorial-fix",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "LastLifeOfficial",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "How to build your first prop for half life - Tutorial",
+    "tut_description": "In this tutorial i will teach you how to build a crate box model for Half Life and then how to add some textures to it",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-build-your-first-prop-for-half-life-tutorial",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "LastLifeOfficial",
+    "tut_author_alt": "moddb"
+  },
+  {
+    "tut_name": "Chrome\\\" in GoldSrc is a special texture mode that allows for a simple environment-like texture",
+    "tut_description": "GoldSrc Model Troubleshooting List",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_fix.htm",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Model Baked Physics Tutorial - Introduction",
+    "tut_description": "Model Baked Physics Tutorial",
+    "tut_link": "the303.org/tutorials/gold_mdl_phys.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Model Baked Physics Tutorial - Blender",
+    "tut_description": "Baked Physics in Blender",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_phys_blend.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Model Baked Physics Tutorial - 3DSMax",
+    "tut_description": "aked Physics in 3DSMax with \\'MassFX\\'",
+    "tut_link": "http://the303.org/tutorials/gold_mdl_phys_3ds.htm",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "Sven Co-op Playermodel Compile-O-Matic",
+    "tut_description": "Create your own Sven Co-op playermodels",
+    "tut_link": "http://the303.org/tutorials/gold_player_sven_comp.htm",
+    "tut_download": "",
+    "tut_game": "SVEN",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "sven"
+  },
+  {
+    "tut_name": "Source → GoldSource",
+    "tut_description": "For this example, I\\'m porting the shotgun from Half-Life 2",
+    "tut_link": "https://gamebanana.com/tuts/12269",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "James Luke",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Fix smoothing errors with Blender",
+    "tut_description": "Because smoothing errors make it awful.",
+    "tut_link": "https://gamebanana.com/tuts/12538",
+    "tut_download": "https://files.gamebanana.com/bitpit/smoothing.7z",
+    "tut_game": "HL",
+    "tut_author_name": "Captiva",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to port Source Models into GoldSource",
+    "tut_description": "A Simple tutorial on how to port non moving models from source into goldsrc",
+    "tut_link": "https://gamebanana.com/tuts/12503",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "guest3444307 ",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to use Sequence .SMDs decompiled by Crowbar",
+    "tut_description": "Problems compiling Source sequence files decompiled by crowbar? ",
+    "tut_link": "https://gamebanana.com/tuts/12474",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": " CS PRO",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to import Crowbar dump files to MilkShape 3D",
+    "tut_description": "How to import Crowbar dump files to MilkShape 3D",
+    "tut_link": "https://www.youtube.com/watch?v=q9XeFashBsk",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "IvIr Why",
+    "tut_author_alt": "yt"
+  },
+  {
+    "tut_name": "How to chop UV Mesh",
+    "tut_description": "Today I\\'ll show you how to chopping UV mesh on your model.",
+    "tut_link": "https://gamebanana.com/tuts/12384",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Captiva",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "GoldSource Model Texture UV Shift Fix",
+    "tut_description": "An unfortunate side effect of compiling & recompiling GoldSrc models is that the model UVs get slightly shifted out of scale when compiled with studiomdl.exe",
+    "tut_link": "https://gamebanana.com/tuts/12234",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "The303",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Editing vertex normals for better foliage (3dsmax)",
+    "tut_description": "Editing vertex normals for better foliage (3dsmax)",
+    "tut_link": "https://gamebanana.com/tuts/12231",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "The303",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": " Goldsource Engine > Tutorials > Other/Misc\t Rigging, Animating and Compiling a .MDL file",
+    "tut_description": "\r\nGoldsource Engine > Tutorials > Other/Misc\t\r\nRigging, Animating and Compiling a .MDL file",
+    "tut_link": "https://gamebanana.com/tuts/11789",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Glock18",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make a model Killable - Breakable",
+    "tut_description": "This tutorial teaches how to make a model vanish when you shoot at it, like chickens of Italy.",
+    "tut_link": "https://gamebanana.com/tuts/11599",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Akshit Saklani",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Want To Make Models, Skins, Or Sprites?",
+    "tut_description": "Want To Make Models, Skins, Or Sprites?",
+    "tut_link": "https://forums.unknownworlds.com/discussion/20223/want-to-make-models-skins-or-sprites",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Maus",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Model Transparency Tutorial",
+    "tut_description": "This tutorial describes the process of creating models with masked and additive textures.",
+    "tut_link": "https://web.archive.org/web/20070815212256/http://collective.valve-erc.com/index.php?doc=1043360861-70912800",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Jakob Jungels",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "How to change your weapon models",
+    "tut_description": "This will show you how to change your weapon models.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122968239",
+    "tut_download": "",
+    "tut_game": "HL",
+    "tut_author_name": "Stu Pidaso",
+    "tut_author_alt": "steam"
+  }
+]

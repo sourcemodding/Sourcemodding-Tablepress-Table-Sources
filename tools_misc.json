@@ -1,0 +1,10 @@
+[
+  {
+    "tool_name": "Goldsrc Asset loaders ",
+    "tool_description": "Collection of loaders for game engine asset types. Currently supported: Half-Life BSP, MDL and SPR. (requires compilation) ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/wtrsltnk/game-assets",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pZQGXIqA!XkQLpqZl97mOYljgHRsoOg"
+  }
+]
