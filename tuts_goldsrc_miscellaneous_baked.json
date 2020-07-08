@@ -1,0 +1,944 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/how-to-make-windwos-installer-for-your-mod-automatically-determines-steam-folder\" target=\"_blank\"><div class=\"table_tut_title\">How to make Windows installer for your mod automatically determines Steam folder</div><div class=\"table_tut_desc\">How to make Windows installer for your mod automatically determines Steam folder</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: Cybermax \"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20061027221645/http://collective.valve-erc.com/index.php?doc=1044694065-93758500\" target=\"_blank\"><div class=\"table_tut_title\">Scripting vs. Entities</div><div class=\"table_tut_desc\">Scripting vs. Entities</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Merl\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1605242936\" target=\"_blank\"><div class=\"table_tut_title\">How to increase FOV in any GoldSrc engine game</div><div class=\"table_tut_desc\">How to increase FOV in any GoldSrc engine game</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: iriyap\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20061027225332/http://collective.valve-erc.com/index.php?doc=1042230580-65380800\" target=\"_blank\"><div class=\"table_tut_title\">Real-Time Photorealism</div><div class=\"table_tut_desc\">Real-Time Photorealism</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: DeathWish\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=276991683\" target=\"_blank\"><div class=\"table_tut_title\">Making and applying Icons and Grid Images to steam for Half-Life mods</div><div class=\"table_tut_desc\">Making and applying Icons and Grid Images to steam for Half-Life mods</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Cyber_DemiGod\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/category%3AError_Guides%2BGoldsource_Errors\" target=\"_blank\"><div class=\"table_tut_title\">Error Guide</div><div class=\"table_tut_desc\">Goldsrc Error Guide</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: twhl\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/category:Definitions\" target=\"_blank\"><div class=\"table_tut_title\">Definitions for common Mapping Terms</div><div class=\"table_tut_desc\">definitions for some common terms used when mapping and modding</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: twhl\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1105780255\" target=\"_blank\"><div class=\"table_tut_title\">Binds and aliases</div><div class=\"table_tut_desc\">Excellent, someone who knows how to use bind and alias.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: SubWoofer\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021219134401/http://valve-erc.com/resources/?page=33mapformat\" target=\"_blank\"><div class=\"table_tut_title\">Worldcraft 3.3 MAP File Format</div><div class=\"table_tut_desc\">a brief explanation of all the various parts of the Worldcraft 3.3 map format</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=123390533\" target=\"_blank\"><div class=\"table_tut_title\">Client Side Commands (Fun/Misc)</div><div class=\"table_tut_desc\">My guide is simply a series of images and text that describe some of the client-side commands </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Chuck Bronson\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.svencoop.com/showthread.php/35533-Custom-Hull-Size-Tutorial\" target=\"_blank\"><div class=\"table_tut_title\">Custom Hull Size Tutorial </div><div class=\"table_tut_desc\">Custom Hull Size Tutorial (sven co-op only)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_sven\" alt=\"sven\" title=\"SVEN Co-op\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: A1win\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.svencoop.com/showthread.php/45224-Global-Custom-Sentences\" target=\"_blank\"><div class=\"table_tut_title\">Global Custom Sentences</div><div class=\"table_tut_desc\">Sentence replacement has been possible for many long years through Global Sound Replacement</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_sven\" alt=\"sven\" title=\"SVEN Co-op\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: Hezus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_1_Custom_Game_feature\" target=\"_blank\"><div class=\"table_tut_title\">Setting up a Mod: Part 1, Custom Game feature</div><div class=\"table_tut_desc\">Make use of the Custom Game Feature</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Vassy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.jwchong.com/hl/\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Physics Reference</div><div class=\"table_tut_desc\">This is an unofficial documentation for the physics governing the Half-Life universe. </div></a>",
+    "Col2": "<a href=\"https://github.com/Matherunner/hldoc\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Matherunner\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20070112203228/http://www.gamedesign.net/node/33#guide\" target=\"_blank\"><div class=\"table_tut_title\">Rust Entity Guide</div><div class=\"table_tut_desc\">Rust Entity Guide</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: Andy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20070418000556/http://www.resourcecode.de/index.php?section=19\" target=\"_blank\"><div class=\"table_tut_title\">Mod FAQ (German) </div><div class=\"table_tut_desc\">FAQ on the MOD SDK written in German</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_resourcecode\" alt=\"resourcecode\" data-title=\"Author: resource code\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20040804040300/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=63\" target=\"_blank\"><div class=\"table_tut_title\">Making your MOD name show up on Team Play games</div><div class=\"table_tut_desc\">Making your MOD name show up on Team Play games</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_hlp\" alt=\"hlp\" data-title=\"Author: BIGman10in\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://halflife.gamedesign.net/resources/renderproperties.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Rendering Properties</div><div class=\"table_tut_desc\">Most brush-based and model-based (monsters, etc) point entities allow you to set their rendering properties. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: HERC\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://halflife.gamedesign.net/resources/fpschart.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Framerates And R_Speeds</div><div class=\"table_tut_desc\">an indepth look at the issue of r_speeds and framerate, using two popular multiplayer maps as testing grounds. This is a must read for new level designers.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: Phil Daniels\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012635/http://www.vlatitude.com/tutorials.php?tutID=38\" target=\"_blank\"><div class=\"table_tut_title\">Editing skill.cfg</div><div class=\"table_tut_desc\">The skill.cfg file defines the amount of health, the weapon strength of a monster, and the player's weapon strengths.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: Brian\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Half-Life_directories\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life directories</div><div class=\"table_tut_desc\">What is in the Pak0.pak file?</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: paulkennedy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://halflife.gamedesign.net/resources/faq.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Frequently Asked Questions</div><div class=\"table_tut_desc\">The majority of email received by Worldcraft support is from people experiencing many of the same problems. The most common problems are listed here.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: Dave Johnson\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_3_Game_Strings\" target=\"_blank\"><div class=\"table_tut_title\">Setting up a Mod: Part 3, Game Strings</div><div class=\"table_tut_desc\">Modifying Game Strings</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!QA4n1Y5a!1GDJH_kCQy82ym2-gopTcg\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Steinin\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_4_Customised_HUD_colour\" target=\"_blank\"><div class=\"table_tut_title\">Setting up a Mod: Part 4, Customised HUD colour</div><div class=\"table_tut_desc\">Change the colour of your HUD.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: m0p\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_2_Splash_Screens\" target=\"_blank\"><div class=\"table_tut_title\">Setting up a Mod: Part 2, Splash Screens</div><div class=\"table_tut_desc\">Adding splash screens to your custom Mod</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!xBIwGQQB!hPlT-wAsyyjWAIGjhp6JFQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Steinin\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.game-edit.org/tutorials/general/map_zip/map_zip.html\" target=\"_blank\"><div class=\"table_tut_title\">HOW TO PREPARE A MAP FOR DISTRIBUTION</div><div class=\"table_tut_desc\">This tutorial will explain how to prepare a .zip file for your map for distribution or testing. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_doe\" alt=\"doe\" data-title=\"Author: snowdog\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/266/\" target=\"_blank\"><div class=\"table_tut_title\">How to Make a Half-Life Modification</div><div class=\"table_tut_desc\">An extensive guide everyone will enjoy!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: EarthQuake\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20150316130846/http://halflifezone.com/forums/viewtopic.php?f=39&t=57\" target=\"_blank\"><div class=\"table_tut_title\">Files and folders required to make a Mod</div><div class=\"table_tut_desc\">This setup is based on the basis of a simple working mod</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: hl_freak\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040811102757/http://snarfevs.gamedesign.net:80/lights.htm\" target=\"_blank\"><div class=\"table_tut_title\">Lights.rad source</div><div class=\"table_tut_desc\">Lights.rad source</div></a>",
+    "Col2": "<a href=\"https://web.archive.org/web/20040811132610/http://snarfevs.gamedesign.net:80/Downloads/lights.rad\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: snarfevs\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010511175437/http://www.gameditors.co.uk:80/wc/entities.htm\" target=\"_blank\"><div class=\"table_tut_title\">Entity list</div><div class=\"table_tut_desc\">has some explanations</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010523180755/http://planethalf-life.com:80/snarkpit/mods/mod_types.htm\" target=\"_blank\"><div class=\"table_tut_title\">Mod editing</div><div class=\"table_tut_desc\">Mod editing</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010527025843/http://planethalf-life.com:80/snarkpit/editing/advanced_compile.htm\" target=\"_blank\"><div class=\"table_tut_title\">Advanced compile</div><div class=\"table_tut_desc\">Advanced compile</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010527030105/http://planethalf-life.com:80/snarkpit/editing/compiler_setup.htm\" target=\"_blank\"><div class=\"table_tut_title\">Setting up your compilers</div><div class=\"table_tut_desc\">Setting up your compilers</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010512081321/http://planethalf-life.com:80/snarkpit/editing/compiling.htm\" target=\"_blank\"><div class=\"table_tut_title\">Compiling Errors from the old Snarkpit</div><div class=\"table_tut_desc\">Compiling Errors from the old Snarkpit</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20030219023548/http://www.megaone.com/nem/resources.html\" target=\"_blank\"><div class=\"table_tut_title\">Tips on Mapping</div><div class=\"table_tut_desc\">Scroll down to uncover a list of useful tips on Half-Life Mapping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Ryan Greg\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010527030511/http://planethalf-life.com:80/snarkpit/editing/huh.htm\" target=\"_blank\"><div class=\"table_tut_title\">FAQ from the old Snarkpit</div><div class=\"table_tut_desc\">This page has a whole bunch of problems you probably will encounter at some time, and how to fix them.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020214085250/http://halflife.qeradiant.com:80/misc/misc00.htm\" target=\"_blank\"><div class=\"table_tut_title\">QERadiant Misc Tips & Tricks</div><div class=\"table_tut_desc\">Misc Tips & Tricks for QERadiant</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Rage\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020219173723fw_/http://halflife.qeradiant.com:80/entities.htm\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Entitylist</div><div class=\"table_tut_desc\">Half-Life Entitylist from QERadiant</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Tiger\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021219134015/http://valve-erc.com/resources/?page=console\" target=\"_blank\"><div class=\"table_tut_title\">Accessing the Half-Life Console</div><div class=\"table_tut_desc\">Accessing the Half-Life Console</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040422023632/http://planethalflife.com:80/vision/tutorials/Ingame01_01.htm\" target=\"_blank\"><div class=\"table_tut_title\">In Game Scripted Movie - Placing and Viewing Simple Cameras</div><div class=\"table_tut_desc\">Placing and Viewing Simple Cameras</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: pov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1415459571\" target=\"_blank\"><div class=\"table_tut_title\">All commands for half life</div><div class=\"table_tut_desc\">All commands half life 1</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: ホαקкус\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.halflife.gamedesign.net/resources/hltips.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Editing Tips</div><div class=\"table_tut_desc\"> Read it! Whether you've been mapping 'forever' or just starting out, there's probably something for you here.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: Dave Johnson\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010527025138/http://planethalf-life.com:80/snarkpit/newbies/glossary.htm\" target=\"_blank\"><div class=\"table_tut_title\">Editing Glossary</div><div class=\"table_tut_desc\">This pages lists commonly used editing terms and tells you what the heck they mean.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://halflife.gamedesign.net/resources/console.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Accessing the Half-Life Console</div><div class=\"table_tut_desc\">Accessing the Half-Life Console</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: HERC\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://hpb-bot.bots-united.com/building.html\" target=\"_blank\"><div class=\"table_tut_title\">Building the SDK</div><div class=\"table_tut_desc\">botmans article on Building the SDK</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: botman\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.halflife.gamedesign.net/tutorials.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Overview of Half-Life Entities on Half-Life Editing Resource Center</div><div class=\"table_tut_desc\">Overview of Half-Life Entities on Half-Life Editing Resource Center</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: HERC\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Steam\" target=\"_blank\"><div class=\"table_tut_title\">Steam</div><div class=\"table_tut_desc\">Mapping with Steam</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Seventh-Monkey\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/24/Overviews\" target=\"_blank\"><div class=\"table_tut_title\">Overviews</div><div class=\"table_tut_desc\">How to make map overviews</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Adam Hawkins\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20031204164427/http://www.planethalflife.com/chaincraft/resources/explanations2.htm\" target=\"_blank\"><div class=\"table_tut_title\">Terms and tips for more successful mapping - Part 2</div><div class=\"table_tut_desc\">Terms and tips for more successful mapping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Chaincraft\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20031204165304/http://www.planethalflife.com/chaincraft/resources/explanations3.htm\" target=\"_blank\"><div class=\"table_tut_title\">Terms and tips for more successful mapping - Part 3</div><div class=\"table_tut_desc\">Terms and tips for more successful mapping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Chaincraft\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20031204171331/http://www.planethalflife.com/chaincraft/resources/explanations4.htm\" target=\"_blank\"><div class=\"table_tut_title\">Terms and tips for more successful mapping - Part 4</div><div class=\"table_tut_desc\">Terms and tips for more successful mapping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Chaincraft\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20151029143322/http://www.slackiller.com/tutorials/tutorials/hotkeys.htm\" target=\"_blank\"><div class=\"table_tut_title\">Hotkeys For Worldcraft(VHE)</div><div class=\"table_tut_desc\">Hotkeys For Worldcraft(VHE)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_eyeronik\" alt=\"eyeronik\" data-title=\"Author: Eyeronik\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20151029143602/http://www.slackiller.com/tutorials/tutorials/maptips.htm\" target=\"_blank\"><div class=\"table_tut_title\">Mapping Tips</div><div class=\"table_tut_desc\">Mapping Tips from Eyeronik</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_eyeronik\" alt=\"eyeronik\" data-title=\"Author: Eyeronik\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20010505231645/http://vibrants.dk/jchq/faq/errors.htm\" target=\"_blank\"><div class=\"table_tut_title\">Advanced Half-Life editing FAQ</div><div class=\"table_tut_desc\">Advanced Half-Life editing FAQ</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: jch\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20021216211327/http://server.counter-strike.net/gencmd.html\" target=\"_blank\"><div class=\"table_tut_title\">General Half-Life Cmds &amp; Cvars</div><div class=\"table_tut_desc\">General Half-Life Cmds &amp; Cvars</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: counter-server\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.sourcemodding.com/tutorials/goldsrc/projects/where-is-poppy/setting-up-a-goldsrc-mod/\" target=\"_blank\"><div class=\"table_tut_title\">Where is Poppy – Setting up a GoldSrc Mod</div><div class=\"table_tut_desc\">In this, the first part in the 'Where is Poppy' modding tutorial series i highlight the steps required for setting up your GoldSrc Mod for its first run.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_sourcemodding\" alt=\"sourcemodding\" data-title=\"Author: sourcemodding\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_research.htm\" target=\"_blank\"><div class=\"table_tut_title\">the303.org GoldSrc Research Page</div><div class=\"table_tut_desc\">The 303.org's GoldSrc Research page</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/84/HL_Movies\" target=\"_blank\"><div class=\"table_tut_title\">HL Movies</div><div class=\"table_tut_desc\">Impress your fans with a video</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Forceflow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12530\" target=\"_blank\"><div class=\"table_tut_title\">Launch Parameters with description</div><div class=\"table_tut_desc\">Launch Parameters with description</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: theNurky\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012733/http://www.vlatitude.com/tutorials.php?tutID=48\" target=\"_blank\"><div class=\"table_tut_title\">Custom Menu Art for your MOD</div><div class=\"table_tut_desc\">A complete tutorial on creating a custom menu for your MOD. This one covers every aspect of creating and integrating custom graphics into your own custom menu. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: ArchVile\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://halflife.gamedesign.net/resources/cheat.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Cheats</div><div class=\"table_tut_desc\">Half-Life Cheats</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: HERC\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12397\" target=\"_blank\"><div class=\"table_tut_title\"> Change In-game FOV</div><div class=\"table_tut_desc\">I'm gonna show you how you can change Field of View (FOV) in Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: theNurky\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11540\" target=\"_blank\"><div class=\"table_tut_title\">Steam/Tools/Half-Life Dedicated Server</div><div class=\"table_tut_desc\">Steam/Tools/Half-Life Dedicated Server</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Bacardi\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20150316130858/http://halflifezone.com/forums/viewtopic.php?f=39&t=56\" target=\"_blank\"><div class=\"table_tut_title\">File Structure For Mods (PAK file)</div><div class=\"table_tut_desc\">A typical .PAK file structure that shows you where your mod files should go within your mod's custom .PAK file.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: hl_freak\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20090430203412/http://hl.gamegate2k.com:80/halflife/generalconsolecommands\" target=\"_blank\"><div class=\"table_tut_title\">Basic Console Commands</div><div class=\"table_tut_desc\">Basic Console Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: gamegate2k\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20090524060945/http://hl.gamegate2k.com:80/halflife/hlcheats\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Cheats</div><div class=\"table_tut_desc\">Half-Life Cheats</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: gamegate2k\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20090612011427/http://hl.gamegate2k.com:80/halflife/mjv\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Mouse & Joystick Variables</div><div class=\"table_tut_desc\">Half-Life Mouse & Joystick Variables</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: gamegate2k\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20081210065305/http://hl.gamegate2k.com:80/halflife/avv\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Audio & Video Variables</div><div class=\"table_tut_desc\">Half-Life Audio & Video Variables</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: gamegate2k\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20081210065318/http://hl.gamegate2k.com:80/halflife/mv\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Movie Variables</div><div class=\"table_tut_desc\">Half-Life Movie Variables</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: gamegate2k\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/546/\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Movies</div><div class=\"table_tut_desc\">Impressive movies made easy.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Forceflow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20031018034541/http://www.planethalflife.com/chaincraft/resources/explanations1.htm\" target=\"_blank\"><div class=\"table_tut_title\">Terms and tips for more successful mapping - Part 1</div><div class=\"table_tut_desc\">Terms and tips for more successful mapping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Chaincraft\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012707/http://www.vlatitude.com/tutorials.php?tutID=43\" target=\"_blank\"><div class=\"table_tut_title\">Exploiting the Custom Game menu</div><div class=\"table_tut_desc\">This tutorial teaches how to add your MOD to the \"Custom Game\" menu in Half-Life. This is a must for releasing any serious package.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: ArchVile\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://hpb-bot.bots-united.com/sdk.html\" target=\"_blank\"><div class=\"table_tut_title\">The Valve Half-Life SDK</div><div class=\"table_tut_desc\">botmans introduction to The Valve Half-Life SDK</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: botman\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20000606061321fw_/http://www.planethalflife.com:80/thebind/alias.htm\" target=\"_blank\"><div class=\"table_tut_title\">Alias list</div><div class=\"table_tut_desc\">nice list of aliases</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: va\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Splash_Screens_for_Steam\" target=\"_blank\"><div class=\"table_tut_title\">Splash Screens for Steam</div><div class=\"table_tut_desc\">How to get your mod splash screens to work in Steam HL.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: ChickenFist\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://hpb-bot.bots-united.com/mod_faq.html\" target=\"_blank\"><div class=\"table_tut_title\">The unofficial Half-Life MOD FAQ</div><div class=\"table_tut_desc\">botmans unofficial Half-Life MOD FAQ</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: botman\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12266\" target=\"_blank\"><div class=\"table_tut_title\">Playing HL in first-person with player model</div><div class=\"table_tut_desc\">Playing HL in first-person with player model</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: CS Pro\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://halflife.gamedesign.net/resources/glossary.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Glossary of Editing Terms</div><div class=\"table_tut_desc\">Confused by an editing term that you've seen? Check here for its meaning.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: HERC\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20050409190318/http://www.tdcom.net:80/lacos/?section=2&subsection=5\" target=\"_blank\"><div class=\"table_tut_title\">Useful console commands </div><div class=\"table_tut_desc\">This tutorial explains the use of some specific console commands mostly used for mapping and debugging.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: lacos\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040408051146/http://planethalflife.com:80/vision/tutorials/movie_types.htm\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Movies : An Introduction</div><div class=\"table_tut_desc\">A Brief History of Machinima</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: pov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=125519186\" target=\"_blank\"><div class=\"table_tut_title\">How to return to the Old Models</div><div class=\"table_tut_desc\">How to return to the Old Models</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Chuma \"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=340995480\" target=\"_blank\"><div class=\"table_tut_title\">How To Fix The Screen Zoom-In Problem</div><div class=\"table_tut_desc\">This guide will help you fix the problem some people have when the screen gets zoomed in too much.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Olde\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020317080815/http://www.planethalflife.com:80/wavelengtH/levels/resources/comp_faq.html\" target=\"_blank\"><div class=\"table_tut_title\">WorldCraft v2.0 Compile-Setup FAQ</div><div class=\"table_tut_desc\">This FAQ is designed to help you get WorldCraft setup so that it will compile correctly.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: HellBringer\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1172439308\" target=\"_blank\"><div class=\"table_tut_title\">Cinematography in GoldSrc</div><div class=\"table_tut_desc\">Cinematography in GoldSrc</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: oxcjae\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=843700257\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life FPS UNLOCK</div><div class=\"table_tut_desc\">FPS UNLOCK</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Elf LVL 99\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=123119241\" target=\"_blank\"><div class=\"table_tut_title\">List of console commands</div><div class=\"table_tut_desc\">The following is a list of commands that can be performed in your console or be added to your userconfig file</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Stu Pidaso\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=122966843\" target=\"_blank\"><div class=\"table_tut_title\">How to change your crosshairs</div><div class=\"table_tut_desc\">This will show you how to change your crosshairs</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Stu Pidaso\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=244861148\" target=\"_blank\"><div class=\"table_tut_title\">How to remove texture filtering in OpenGL</div><div class=\"table_tut_desc\">Here's how to remove that cursed smoothening effect from your textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Aublak\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=425444115\" target=\"_blank\"><div class=\"table_tut_title\"> Realism for Half-Life</div><div class=\"table_tut_desc\">This Guide will teach you how to make your Half-Life experience as realistic as possible</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: lp-SORLλG\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20061028235357/http://collective.valve-erc.com/index.php?doc=1046121871-81619100\" target=\"_blank\"><div class=\"table_tut_title\">The Inner Workings of RAD</div><div class=\"table_tut_desc\">The Inner Workings of RAD</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: DeathWish\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20061028231008/http://collective.valve-erc.com/index.php?doc=1046114255-88212900\" target=\"_blank\"><div class=\"table_tut_title\">Making Half-Life Mods - Part 2</div><div class=\"table_tut_desc\">In this segment, he goes over every aspect of his five week plan from the build process to playtesting to actually finishing and releasing the mod</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Robin Walker\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20061028231012/http://collective.valve-erc.com/index.php?doc=1046114231-73292000\" target=\"_blank\"><div class=\"table_tut_title\">Making Half-Life Mods - Part 1</div><div class=\"table_tut_desc\">This article is designed to help you make </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Robin Walker\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040408045559/http://planethalflife.com:80/vision/tutorials/Record01_01.htm\" target=\"_blank\"><div class=\"table_tut_title\">Recorded Freestyle Movies: Simple Recording and Editing</div><div class=\"table_tut_desc\">Recorded Freestyle Movies:\r\nSimple Recording and Editing</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: pov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020816171439/http://ai-depot.com:80/GameAI/Bot-Introduction.html\" target=\"_blank\"><div class=\"table_tut_title\">First Steps in Game AI: Your Own Bot</div><div class=\"table_tut_desc\">First Steps in Game AI: Your Own Bot</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Alex J. Champandard\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=658280150\" target=\"_blank\"><div class=\"table_tut_title\">List of Codes - Cheats</div><div class=\"table_tut_desc\">This guide is a list for most of the important codes and cheats in Half Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Kinotechnick\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=191368694\" target=\"_blank\"><div class=\"table_tut_title\">Demo Recording</div><div class=\"table_tut_desc\">Demo recording is a game feature which allows the player to record in-game footage into lightweight .dem fi</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: executλble\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=367024352\" target=\"_blank\"><div class=\"table_tut_title\">Solving Lag Problems in Half Life (and most Gold Source games)</div><div class=\"table_tut_desc\">Solving Lag Problems in Half Life (and most Gold Source games)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: meikkon_\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011204052449fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/00.htm\" target=\"_blank\"><div class=\"table_tut_title\">Getting Started with the Half-Life SDK</div><div class=\"table_tut_desc\">This tutorial should teach you how to set up a mod to code.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Drywall\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020825113008/http://www.gamedesign.net:80/?file=rust/content/half-life/faq/general\" target=\"_blank\"><div class=\"table_tut_title\">Rust FAQ</div><div class=\"table_tut_desc\">Half-Life Editing FAQ</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: merl\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040408050643/http://planethalflife.com:80/vision/tutorials/flash.htm\" target=\"_blank\"><div class=\"table_tut_title\">Getting Rid of Flash Frames</div><div class=\"table_tut_desc\">Getting Rid of Flash Frames</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: pov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040408050243/http://planethalflife.com:80/vision/tutorials/finishing.htm\" target=\"_blank\"><div class=\"table_tut_title\">paks, batch files, and liblists</div><div class=\"table_tut_desc\">paks, batch files, and liblists</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: pov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20071123145234/http://www.frankclan.ca:80/maps/map_resources/mirrored/errors.shtml#leafface\" target=\"_blank\"><div class=\"table_tut_title\">Mapping and Compiling Error List For Half-Life and Counter-Strike</div><div class=\"table_tut_desc\">Mapping and Compiling Error List\r\nFor Half-Life and Counter-Strike</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Tommy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=122886751\" target=\"_blank\"><div class=\"table_tut_title\">Writing a Custom Userconfig File</div><div class=\"table_tut_desc\">Writing a custom userconfig file to change variables.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Stu Pidaso\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040408045905/http://planethalflife.com:80/vision/tutorials/begining.htm\" target=\"_blank\"><div class=\"table_tut_title\">Beginner Movie Tutorial</div><div class=\"table_tut_desc\">Beginner Movie Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: pov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021205144930/http://www.valve-erc.com/resources/?page=ideals\" target=\"_blank\"><div class=\"table_tut_title\">Ideals of Design</div><div class=\"table_tut_desc\">Ideals of Design</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: autolycus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040408051054/http://planethalflife.com:80/vision/tutorials/middle.htm\" target=\"_blank\"><div class=\"table_tut_title\">Moving Camera, Stationary Focus / Moving Focus, Stationary Camera Tutorials</div><div class=\"table_tut_desc\">Moving Camera, Stationary Focus / Moving Focus, Stationary Camera Tutorials</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: pov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20070808152932/http://collective.valve-erc.com/index.php?go=howto_mod\" target=\"_blank\"><div class=\"table_tut_title\">How To Make A Mod</div><div class=\"table_tut_desc\">How To Make A Mod</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Valve\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=318695295\" target=\"_blank\"><div class=\"table_tut_title\">Solutions to Resolution Bug and More</div><div class=\"table_tut_desc\">Every GoldSrc game seems to have this bug-- change your resolution from native, and you're screwed</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Comradicale\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021127203013/http://www.gamedesign.net:80/?file=rust/content/half-life/tutorials/conback\" target=\"_blank\"><div class=\"table_tut_title\">Making a custom console background</div><div class=\"table_tut_desc\">This tutorial will show you how to make your own console background and loading images for your mod.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: Merl\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20000614220223/http://planethalflife.com:80/wavelength/levels/entities/index.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Entity List</div><div class=\"table_tut_desc\">Half-Life Entity List</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: HellBringer\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011220124140fw_/http://www.planethalflife.com:80/wavelength/design/iguide/01.htm\" target=\"_blank\"><div class=\"table_tut_title\">The Introductory Guide to Half-Life Modding</div><div class=\"table_tut_desc\">Welcome to Wavelength's Introductory Guide to Half-Life editing!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Red Knight\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20150309215721/http://halflifezone.com/forums/viewtopic.php?f=39&t=55\" target=\"_blank\"><div class=\"table_tut_title\">File Structure For Mods (no PAK file)</div><div class=\"table_tut_desc\">An example file structure that shows you where your mod files should go within your mods folder.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: hl_freak\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021219133439/http://valve-erc.com/resources/?page=pakfiles\" target=\"_blank\"><div class=\"table_tut_title\">Pak Files and the Directory Folders</div><div class=\"table_tut_desc\">The .pak files are places that store sounds, models, maps, etc</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Delete_Me\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041210111242/http://www.planethalflife.com/tuxportal/index.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Porting GoldSrc to Linux</div><div class=\"table_tut_desc\">Collection of tutorials on getting your mod working on Linux</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: TuxPortal\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20000226062428/http://halflife.pcgame.com/multi.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Multiplayer Help and Tweaking</div><div class=\"table_tut_desc\">Half-Life Multiplayer Help and Tweaking</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: I am Half-Life\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11410\" target=\"_blank\"><div class=\"table_tut_title\">Personal VHE start splash</div><div class=\"table_tut_desc\">Personal VHE start splash</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: fa7bardh\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11335\" target=\"_blank\"><div class=\"table_tut_title\">How to Green Screen</div><div class=\"table_tut_desc\">How to Green Screen</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: DustStriker\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041205201924/http://www.tdcom.net/lacos/?section=2&amp;subsection=10\" target=\"_blank\"><div class=\"table_tut_title\">Common errors and problems in HL mapping</div><div class=\"table_tut_desc\">Common errors and problems in HL mapping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: lacos\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20050307090906/http://www.tdcom.net/lacos/?section=2&amp;subsection=6\" target=\"_blank\"><div class=\"table_tut_title\">Long compile times and tips to improve them</div><div class=\"table_tut_desc\">This tutorial is made to give a starting mapper some information about compile times and ideas how to improve them.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: lacos\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20050409190318/http://www.tdcom.net/lacos/?section=2&amp;subsection=5\" target=\"_blank\"><div class=\"table_tut_title\">Useful console commands</div><div class=\"table_tut_desc\">This tutorial explains the use of some specific console commands mostly used for mapping and debugging.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: lacos\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20010813050131/http://halflife.pcgame.com/console/alias.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Aliases and Scripts</div><div class=\"table_tut_desc\">Half-Life Aliases and Scripts</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: I am Half-Life\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20000818043034/http://planethalflife.com/commands/howto.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Server How-To @ Command Center</div><div class=\"table_tut_desc\">Tips and Tricks for setting up a half-life server</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Command Center\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20000301050414/http://halflife.pcgame.com/console/tweaks.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Console Commands and Variables</div><div class=\"table_tut_desc\">Half-Life Console Commands and Variables</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: I am Half-Life\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20090429031937/http://hl.gamegate2k.com:80/halflife/steamconsolecommands\" target=\"_blank\"><div class=\"table_tut_title\">Steam Console Commands</div><div class=\"table_tut_desc\">Steam Console Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: gamegate2k\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20030302191438/http://www.planethalflife.com/yak/articles/index.htm\" target=\"_blank\"><div class=\"table_tut_title\">General Worldcraft/Hammer Tips</div><div class=\"table_tut_desc\">General Worldcraft/Hammer Tips</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: yak\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041223173940/http://www.planethalflife.com/half-life/console/\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Console Commands: In-Game Controls</div><div class=\"table_tut_desc\">Half-Life Console Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Planet Half-Life\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20000818202120/http://www.planethalflife.com/commands/commands/index.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Commands @ Command Center</div><div class=\"table_tut_desc\">Half-Life Console Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Command Center\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20040804040300/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=63\" target=\"_blank\"><div class=\"table_tut_title\">How to use GCFScape </div><div class=\"table_tut_desc\">In this tutorial I will tell you how to extract the .wad file from the .gcf files used by Steam.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_egirdk\" alt=\"egirdk\" data-title=\"Author: Naigel\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20050310202011/http://www.planethalflife.com/davej/detail_versus_design.htm\" target=\"_blank\"><div class=\"table_tut_title\">Detail versus Design</div><div class=\"table_tut_desc\">2 part theory explaining detail versus design in map making</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: David Johnston\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20000229203416/http://halflife.pcgame.com/console/index.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Console Help Index</div><div class=\"table_tut_desc\">Half-Life Console Help Index</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: I am Half-Life\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/2910\" target=\"_blank\"><div class=\"table_tut_title\">Creating a Overview Description File</div><div class=\"table_tut_desc\">Creating a Overview Description File</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: manoj\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/3291\" target=\"_blank\"><div class=\"table_tut_title\">Scripting Basics</div><div class=\"table_tut_desc\">Scripting Basics</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Shellhead\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10353\" target=\"_blank\"><div class=\"table_tut_title\">Change Languange Script</div><div class=\"table_tut_desc\">Change Languange Script</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: jamaika\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/4458\" target=\"_blank\"><div class=\"table_tut_title\">Hud Installation (EASY!)</div><div class=\"table_tut_desc\">Hud Installation (EASY!)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Zoe101\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/1785\" target=\"_blank\"><div class=\"table_tut_title\">Changing the server start text</div><div class=\"table_tut_desc\">Changing the server start text</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: s1nk0\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12043\" target=\"_blank\"><div class=\"table_tut_title\">How to make your console transparent</div><div class=\"table_tut_desc\">How to make your console transparent</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: TAGAMTAM\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20151029160214/http://www.slackiller.com/New%20Tuts/how_to_install.html\" target=\"_blank\"><div class=\"table_tut_title\">How To Install Maps</div><div class=\"table_tut_desc\">How To Install Maps</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_eyeronik\" alt=\"eyeronik\" data-title=\"Author: Eyeronik\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041009205732/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=41\" target=\"_blank\"><div class=\"table_tut_title\">Using RESGEN to make a .RES file for your map</div><div class=\"table_tut_desc\">Res files are a very useful extra you can build for your map. They contain a list of all the 'extras' your map contains, like sounds, maps, wads, etc</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: Waldo\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041119023338/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=40\" target=\"_blank\"><div class=\"table_tut_title\">Introduction to Notepad for mappers</div><div class=\"table_tut_desc\">Have you ever seen l33t mappers say they only map with Notepad?</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: MaryBeth\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12458\" target=\"_blank\"><div class=\"table_tut_title\">CS 1.6 VGUI Editing Tutorial</div><div class=\"table_tut_desc\">So i got some requests telling me how i do these custom GUIs for CS 1.6 and i decided to make a tutorial, enjoy!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: CS:GO Ports\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12387\" target=\"_blank\"><div class=\"table_tut_title\">How to set diffrent scope each weapon</div><div class=\"table_tut_desc\">How to set diffrent scope each weapon</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Spys Cr3ed\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12386\" target=\"_blank\"><div class=\"table_tut_title\">How to add content without replace cstrike folder</div><div class=\"table_tut_desc\">How to add content without replace cstrike folder</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Spys Cr3ed\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11830\" target=\"_blank\"><div class=\"table_tut_title\">Add Custom Bot Profiles</div><div class=\"table_tut_desc\">Add Custom Bot Profiles</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: ~Mc3\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021205143635/http://www.valve-erc.com/resources/?page=cs_design\" target=\"_blank\"><div class=\"table_tut_title\">Counter-Strike: Theories of Design</div><div class=\"table_tut_desc\">Counter-Strike: Theories of Design</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Gonnas\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://cstrikemapping.blogspot.com/2014/01/different-versions-of-counter-strike-16.html\" target=\"_blank\"><div class=\"table_tut_title\">Different versions of counter strike 1.6 </div><div class=\"table_tut_desc\">Different versions of counter strike 1.6 </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shash7\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11548\" target=\"_blank\"><div class=\"table_tut_title\">How to Make Simple Render</div><div class=\"table_tut_desc\">How to Make Simple Render</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: KnightSeander\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11273\" target=\"_blank\"><div class=\"table_tut_title\">How to customize Counter-Strike MOTD</div><div class=\"table_tut_desc\">You can set up an image MOTD (the picture that shows before connecting to a server) using one of the following methods:</div></a>",
+    "Col2": "<a href=\"https://web.archive.org/web/20140522021716/http://pastebin.com:80/ypEv2w5d\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Dexter\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11592\" target=\"_blank\"><div class=\"table_tut_title\">How to create optimized overview [Detailed]</div><div class=\"table_tut_desc\">How to create optimized overview [Detailed]</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: KaranMohadkar\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11018\" target=\"_blank\"><div class=\"table_tut_title\">Moviemaking Tutorial 1.0</div><div class=\"table_tut_desc\">I've created this guide for you who want to create a Counter Strike movie.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Loggan08\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://cstrikemapping.blogspot.com/2014/01/correctly-taking-screenshots-in-cs-16.html\" target=\"_blank\"><div class=\"table_tut_title\">Correctly taking screenshots in cs 1.6 </div><div class=\"table_tut_desc\">Screenshots are useful when publishing your map.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shash7\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10832\" target=\"_blank\"><div class=\"table_tut_title\">Basic rendering for GoldSrc using Free Programs</div><div class=\"table_tut_desc\">Basic Rendering for GoldSrc Using Free Programs</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Tobbit\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11098\" target=\"_blank\"><div class=\"table_tut_title\">Make A Render Just Use HL Model Viewer</div><div class=\"table_tut_desc\">Make A Render Just Use HL Model Viewer</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  X-HaN\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10513\" target=\"_blank\"><div class=\"table_tut_title\">Installing Maps</div><div class=\"table_tut_desc\">Installing Maps</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10469\" target=\"_blank\"><div class=\"table_tut_title\">Counter-Strike 1.6 Movie Tutorial</div><div class=\"table_tut_desc\">Counter-Strike 1.6 Movie Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  Arman Ossi Loko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11962\" target=\"_blank\"><div class=\"table_tut_title\">How to make Overview for your maps</div><div class=\"table_tut_desc\">How to make Overview for your maps</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Rammsteiner\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/6880\" target=\"_blank\"><div class=\"table_tut_title\">How to make a GUI</div><div class=\"table_tut_desc\">How to make a GUI</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: SevenZero\"></div>"
+  }
+]

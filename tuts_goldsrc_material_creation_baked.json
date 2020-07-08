@@ -1,0 +1,1082 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"http://www.isolated-design.de/tutorials/how-to-get-perfect-texture-rotations-in-hammer/\" target=\"_blank\"><div class=\"table_tut_title\">How to get perfect texture rotations in Hammer</div><div class=\"table_tut_desc\">Tutorial covering how to calculate the perfect texture rotations in hammer</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_isolated\" alt=\"isolated\" data-title=\"Author: isolated-design\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Custom_Textures\" target=\"_blank\"><div class=\"table_tut_title\">Custom Textures</div><div class=\"table_tut_desc\">Learn how to incorporate your own custom textures into maps.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!NdQCHDIJ!IX7iiY5rtR48o2dhGyweEQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: atom\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/548/\" target=\"_blank\"><div class=\"table_tut_title\">Adding startup movies to your Steam mods</div><div class=\"table_tut_desc\">So you want a movie to play, right before your Steam mod loads? Did you know that you can actually do it very simply with Steam?</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Doofus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/395/\" target=\"_blank\"><div class=\"table_tut_title\">Creating Custom Splash Screens for Your mod in Steam</div><div class=\"table_tut_desc\">Just as the title says, this tutorial will explain how to create a Splash Screen for your Mod.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: omega\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/384/\" target=\"_blank\"><div class=\"table_tut_title\">Animated sprites &amp; fixing palette issues in Photoshop</div><div class=\"table_tut_desc\">How to make animated sprites in Photoshop, and how to fix the frames of your sprites so they share the same palette.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!gJZyDJoL!HqM3hAR3SGqTgUKDo5MGxw\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: imaculata2000\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/254/\" target=\"_blank\"><div class=\"table_tut_title\">Animated textures</div><div class=\"table_tut_desc\">Making them, and getting them to work</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: NOmad\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/199/\" target=\"_blank\"><div class=\"table_tut_title\">Making a Half-Life Decal in Paint Shop Pro</div><div class=\"table_tut_desc\">Decals are as easy as drawing in black &amp; white and saving it into the right directory.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/198/\" target=\"_blank\"><div class=\"table_tut_title\">Making a Half-Life Decal in Photoshop</div><div class=\"table_tut_desc\">Decals are as easy as drawing in black &amp; white and saving it into the right directory.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Materials.txt\" target=\"_blank\"><div class=\"table_tut_title\">Materials.txt</div><div class=\"table_tut_desc\">Change the sound of your textures!</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!MM5ATIgK!7iIKtuDMGNLJ8NQr_KxEQg\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: paulkennedy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Detailed_Textures_in_Half-Life\" target=\"_blank\"><div class=\"table_tut_title\">Detailed Textures in Half-Life</div><div class=\"table_tut_desc\">Improve the look of your maps using Valve's powerful 'Detail Texture' upgrade.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!4VZ2wQDa!peK-NNerqgHTBhS0OplIqA\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: hlife_hotdog\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Modifying_the_HUD\" target=\"_blank\"><div class=\"table_tut_title\">Modifying the HUD</div><div class=\"table_tut_desc\">Changing the look of your HUD in Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Daubster\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Custom_Skyboxes_for_Goldsource\" target=\"_blank\"><div class=\"table_tut_title\">Custom Skyboxes for Goldsource</div><div class=\"table_tut_desc\">Using Terragen to render and put together a custom skybox.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: JeffMOD\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20070906103113/http://www.egir.dk/index.php?page=wal_tiling/wal_tiling.htm\" target=\"_blank\"><div class=\"table_tut_title\">The easiest way to make tileable textures with PhotoShop7 or above</div><div class=\"table_tut_desc\">The easiest way to make tileable textures with PhotoShop7 or above</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_egirdk\" alt=\"egirdk\" data-title=\"Author: DaddyCool\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20071022085534/http://www.freewebs.com/naigel/tutorials.htm\" target=\"_blank\"><div class=\"table_tut_title\">Textured lightning.</div><div class=\"table_tut_desc\">Textured lightning.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_egirdk\" alt=\"egirdk\" data-title=\"Author: Naigel\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.freewebs.com/naigel/seethrough.htm\" target=\"_blank\"><div class=\"table_tut_title\">The see through texture.</div><div class=\"table_tut_desc\">The see through texture.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Naigel\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20071022085534/http://www.freewebs.com/naigel/tutorials.htm\" target=\"_blank\"><div class=\"table_tut_title\">Adding .bmp in .wad</div><div class=\"table_tut_desc\">OK, this tutorial is about how to make a .wad. I'm only showing how to import a .bmp into a .wad with Wally </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Naigel\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.freewebs.com/naigel/glass.htm\" target=\"_blank\"><div class=\"table_tut_title\">The glass(es) texture(s)</div><div class=\"table_tut_desc\">The glass(es) texture(s) </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Naigel\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20071011030116/http://egir.dk/index.php?page=wal_transparent/wal_transparent.html\" target=\"_blank\"><div class=\"table_tut_title\">How to Make Transparent Textures with Wally</div><div class=\"table_tut_desc\">How to Make Transparent Textures with Wally</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_egirdk\" alt=\"egirdk\" data-title=\"Author: Robert Olesen\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041023120526/http://www.game-edit.org/tutorials/general/texture_reduction.html\" target=\"_blank\"><div class=\"table_tut_title\">TEXTURE REDUCTION TUTORIAL</div><div class=\"table_tut_desc\">TEXTURE REDUCTION TUTORIAL</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_doe\" alt=\"doe\" data-title=\"Author: Evile\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.game-edit.org/tutorials/general/blast_marks/blast_marks.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Blast Marks using Painter</div><div class=\"table_tut_desc\">Blast Marks using Painter</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_doe\" alt=\"doe\" data-title=\"Author: Evile\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041010142218/http://www.slackiller.com/tommy14/hltexture.htm\" target=\"_blank\"><div class=\"table_tut_title\">Texture Types Info</div><div class=\"table_tut_desc\">Texture Types Info</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: tommy14\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041010151405/http://www.slackiller.com/tommy14/tex-dimensions.htm\" target=\"_blank\"><div class=\"table_tut_title\">Texture dimensions vs. appearance, memory, and r_speeds</div><div class=\"table_tut_desc\">Texture dimensions have a significant effect on the appearance of the texture, the memory used by textures, and in a minor way on r_speeds.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: tommy14\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012539/http://www.vlatitude.com/tutorials.php?tutID=28\" target=\"_blank\"><div class=\"table_tut_title\">Making Decals</div><div class=\"table_tut_desc\">Decals are images that you can 'spray-paint' on walls to...um make a statement. Making decals is extremely easy, so let's get to it.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: Vlad\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20151029151351/http://www.slackiller.com/tutorials/tutorials/makingtextures.htm\" target=\"_blank\"><div class=\"table_tut_title\">Making Textures and Wads</div><div class=\"table_tut_desc\">Im no texture making expert, but ill give you what I believe to me the way to make textures and wads, wait keep reading!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_eyeronik\" alt=\"eyeronik\" data-title=\"Author: Eyeronik\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041212012204/http://www.planethalflife.com/cc/800/tutors/xhairs3.htm\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Full Crosshair Tutorial.</div><div class=\"table_tut_desc\">Half-Life Full Crosshair Tutorial.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Crosshair Central\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.planethalflife.com/cc/800/tutors/con2real.htm\" target=\"_blank\"><div class=\"table_tut_title\">HalfLife Crosshair Tutorial. From concept to reality. </div><div class=\"table_tut_desc\">HalfLife Crosshair Tutorial. From concept to reality. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Crosshair Central\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041010035134/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=55\" target=\"_blank\"><div class=\"table_tut_title\">Developing Photo Textures Using PanoTools</div><div class=\"table_tut_desc\">A small little tutorial on how to turn an object from a digital photo into a reasonable texture.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: ginsengavenger\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041010035134/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=53\" target=\"_blank\"><div class=\"table_tut_title\">Info tutorial on texture types</div><div class=\"table_tut_desc\">This is NOT a tutorial on how to make textures. Instead, here are all the texture types I know of, the symbols their names should start with, roughly what they do, and some of the potential problems.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: Tommy14 \"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041119022353/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=38\" target=\"_blank\"><div class=\"table_tut_title\">Texturing Techniques (PS Filters, And Features)</div><div class=\"table_tut_desc\">jOeSmOe gives us a tutorial on advanced texturing using PhotoShop.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: jOeSmOe\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041119022111/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=37\" target=\"_blank\"><div class=\"table_tut_title\">The key to making good tileable textures</div><div class=\"table_tut_desc\">Relic explains the techniques on how to make textures that tile seamlessly.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: Relic25\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20041119021101/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=33\" target=\"_blank\"><div class=\"table_tut_title\">Making good WADS for distribution</div><div class=\"table_tut_desc\">A few notes on what seems to \"help\" with making wads easy to distribute and use.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: Waldo\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/goldsrcspraylogo.html\" target=\"_blank\"><div class=\"table_tut_title\">The GoldSrc Spraylogo Introduction</div><div class=\"table_tut_desc\">What are spraylogos? Spraylogos are images you can place on most surfaces multiplayer games, with the exception of models.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/goldspray01.html\" target=\"_blank\"><div class=\"table_tut_title\">The GoldSrc Spraylogo Tutorial 1 - Creating a Spray</div><div class=\"table_tut_desc\">Our first tutorial is creating a Simple spray</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/goldspray01.html\" target=\"_blank\"><div class=\"table_tut_title\">The GoldSrc Spraylogo Tutorial 2 - Creating a Spray With Transparency</div><div class=\"table_tut_desc\">Create a Simple Spray with Transparency</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_texture.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Introduction</div><div class=\"table_tut_desc\">Creating Textures for GoldSrc Mapping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_texture_p1.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 1</div><div class=\"table_tut_desc\">PART1 SIMPLE TEXTURES AND WAD PACKING</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_texture_p2.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 2</div><div class=\"table_tut_desc\">PART 2 Masked Transparent textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_texture_p3.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 3</div><div class=\"table_tut_desc\">PART3 ADDITIVE TRANSPARENT Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_texture_p4.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 4</div><div class=\"table_tut_desc\">Part4 ANIMATED Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_texture_p5.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 5</div><div class=\"table_tut_desc\">PART 5 TOGGLED AND TOGGLED ANIMATED TEXTURES</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_texture_p6.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 6</div><div class=\"table_tut_desc\">PART 6 WATER Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/46/Sky_boxes_for_Newbies\" target=\"_blank\"><div class=\"table_tut_title\">Half Life Sprite List</div><div class=\"table_tut_desc\">A definitive list of all worthy Sprites in HL</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Ferret\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/66/Making_textures\" target=\"_blank\"><div class=\"table_tut_title\">Making textures</div><div class=\"table_tut_desc\">using Wally and PhotoShop</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: matt\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/9/NS-type_Metal_Textures\" target=\"_blank\"><div class=\"table_tut_title\">NS-type Metal Textures</div><div class=\"table_tut_desc\">How to make amazing metal textures like in Natural Selection</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Campaignjunkie\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12595\" target=\"_blank\"><div class=\"table_tut_title\">How to make 'Transparent Textures' the easy way.</div><div class=\"table_tut_desc\">In this tutorial I hope to demonstrate an easier way of making those pesky transparent textures that have R:G:B: blue areas that disappear when used in the Half-Life 1 engine.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: DiscountKiller\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11852\" target=\"_blank\"><div class=\"table_tut_title\">How to use detailtextures in a professional manner</div><div class=\"table_tut_desc\">Pro Detail Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: trempler\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10816\" target=\"_blank\"><div class=\"table_tut_title\">Half Life Logo Creator</div><div class=\"table_tut_desc\">An intoduction to logos in Halflife What are logos and how can I use them?</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Robster \"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12435\" target=\"_blank\"><div class=\"table_tut_title\">Super easy Counter Strike 1.6 Guns skin creating !</div><div class=\"table_tut_desc\">Before we can begin note taht that i didnt created program ! this program isn't for skining but i founded super easy way to do it with this program ! So lets start !</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: FagOut\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11597\" target=\"_blank\"><div class=\"table_tut_title\">Creating and Editing WAD Files</div><div class=\"table_tut_desc\">Ever wanted to know how to add your own textures into VHE? Here you can find out!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Glock18\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12219\" target=\"_blank\"><div class=\"table_tut_title\">Excluding and embedding custom textures with ZHLT</div><div class=\"table_tut_desc\">Excluding and embedding custom textures with ZHLT</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: cd5ssmffan\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12140\" target=\"_blank\"><div class=\"table_tut_title\">How to Add Custom Texture on a Model in CS1.6</div><div class=\"table_tut_desc\">How to Add Custom Texture on a Model in CS1.6</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Sharma\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12055\" target=\"_blank\"><div class=\"table_tut_title\">How to make your texture HD (Highpass increase)</div><div class=\"table_tut_desc\">So, there are some people complain about my texture, I'll make it up to you by writing this tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Mr.Headshot\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11770\" target=\"_blank\"><div class=\"table_tut_title\">Preserving Details (Blending Modes)</div><div class=\"table_tut_desc\">AKA Blending Mode</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Ankh\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11679\" target=\"_blank\"><div class=\"table_tut_title\">Creating your own decals</div><div class=\"table_tut_desc\">Something useful I learned over the months of mapping with VHE.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Glock18\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11661\" target=\"_blank\"><div class=\"table_tut_title\">Making (SEMI-)Transparent Textures</div><div class=\"table_tut_desc\">Making (SEMI-)Transparent Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: ...\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11542\" target=\"_blank\"><div class=\"table_tut_title\">Transparent textures for Counterstrike 1.6 Maps</div><div class=\"table_tut_desc\">Transparent textures for Counterstrike 1.6 Maps</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Akshit Saklani\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11499\" target=\"_blank\"><div class=\"table_tut_title\">Making Textile textures for skinning</div><div class=\"table_tut_desc\">Making Textile textures for skinning</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Klint\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11496\" target=\"_blank\"><div class=\"table_tut_title\">How To Make Sprite For A Skin.</div><div class=\"table_tut_desc\">How To Make Sprite For A Skin.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Kokorov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11318\" target=\"_blank\"><div class=\"table_tut_title\">How to make a muzzleflash in Gimp.</div><div class=\"table_tut_desc\">How to make a muzzleflash in Gimp.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  Kokorov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11301\" target=\"_blank\"><div class=\"table_tut_title\">How to use Texlights</div><div class=\"table_tut_desc\">How to use Texlights</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Rageline\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11195\" target=\"_blank\"><div class=\"table_tut_title\">How To Make A Transparent Radar</div><div class=\"table_tut_desc\">Hello, in this tutorial I will teach you, how to make your own transparent radar. There is a tutorial for solid radars, but it explains only the basics and it doesn't cover the transparent radars.\r\n</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Kokorov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11169\" target=\"_blank\"><div class=\"table_tut_title\">Create your very own menu background</div><div class=\"table_tut_desc\">Create your very own menu background</div></a>",
+    "Col2": "<a href=\"https://files.gamebanana.com/tools/cake_v01_2.zip\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11168\" target=\"_blank\"><div class=\"table_tut_title\">Making a custom crosshair in CS and HL</div><div class=\"table_tut_desc\">Making a custom crosshair in CS and HL</div></a>",
+    "Col2": "<a href=\"http://files.gamebanana.com/bitpit/redesign.zip\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11167\" target=\"_blank\"><div class=\"table_tut_title\">How to do Realistic Shine</div><div class=\"table_tut_desc\">Hey, today I'm going to show you a easy to use but not well known technique using chrome that gives a realistic shine and reflection.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: DoomMarine23\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11063\" target=\"_blank\"><div class=\"table_tut_title\">How to Retexture in Photoshop for CS (CS Rn'RG)</div><div class=\"table_tut_desc\">This is a HIGH DETAILED tutorial. The first one of two about texturing and rendering using Photoshop and HLMV for Counter-Strike and Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11049\" target=\"_blank\"><div class=\"table_tut_title\">Changing weapon textures</div><div class=\"table_tut_desc\">This tutorial is for BEGINNERS, yes BEGINNERS and for those who don't know how to change the extra textures between weapons if the extra texture is provided.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20081011054448/http://homepage.ntlworld.com/scitzo/guidealign.html\" target=\"_blank\"><div class=\"table_tut_title\">Brief guide about realigning textures</div><div class=\"table_tut_desc\">Brief guide about realigning textures\r\nBrief guide about realigning textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: MaRzY\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11016\" target=\"_blank\"><div class=\"table_tut_title\">Camouflage/Cloth Skinning Tutorial</div><div class=\"table_tut_desc\">Camouflage/Cloth Skinning Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10963\" target=\"_blank\"><div class=\"table_tut_title\">How to make a custom spray for CS 1.6</div><div class=\"table_tut_desc\">How to make a custom spray for CS 1.6</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Akshit Saklani\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10764\" target=\"_blank\"><div class=\"table_tut_title\">How To Make Transparent Thingy Work</div><div class=\"table_tut_desc\">How To Make Transparent Thingy Work</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: (Tikus Kali)\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10738\" target=\"_blank\"><div class=\"table_tut_title\">How to create overview for CS 1.6 map</div><div class=\"table_tut_desc\">Steps to creation overview</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  SickiX\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10723\" target=\"_blank\"><div class=\"table_tut_title\">How to make a solid radar</div><div class=\"table_tut_desc\">In this Tutorial I will attempt to learn you how to make a solid radar with transparent areas. It's not really hard when you understand what we're doing.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: -bastard-\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10515\" target=\"_blank\"><div class=\"table_tut_title\"> Installing GUIs/Sprites</div><div class=\"table_tut_desc\">Installing GUIs/Sprites</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10512\" target=\"_blank\"><div class=\"table_tut_title\">Adding Custom Sprays</div><div class=\"table_tut_desc\">Adding Custom Sprays</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10438\" target=\"_blank\"><div class=\"table_tut_title\">How to make skys for cs 1.6</div><div class=\"table_tut_desc\">In this tutorial i will show you how to make a sky texture for cs 1.6 </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Mr.Rampage\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10299\" target=\"_blank\"><div class=\"table_tut_title\">Light Environment</div><div class=\"table_tut_desc\">Light Environment</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  Tatu Eugen\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10264\" target=\"_blank\"><div class=\"table_tut_title\">Wadinclude in bsp</div><div class=\"table_tut_desc\">Wadinclude in bsp</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  Tatu Eugen\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10260\" target=\"_blank\"><div class=\"table_tut_title\">Lights Textures</div><div class=\"table_tut_desc\">Lights Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  Tatu Eugen\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11862\" target=\"_blank\"><div class=\"table_tut_title\">How to create team colored</div><div class=\"table_tut_desc\">How to create team colored</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  Ezequiel-TM\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10767\" target=\"_blank\"><div class=\"table_tut_title\">How To Recolor Texture</div><div class=\"table_tut_desc\">How To Recolor Texture</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: MakarovVR\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10384\" target=\"_blank\"><div class=\"table_tut_title\">How to fix texture missaligments</div><div class=\"table_tut_desc\">A simple tutorial for fixing texture missaligments</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Crash\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/9670\" target=\"_blank\"><div class=\"table_tut_title\">How to make a model transparent</div><div class=\"table_tut_desc\">How to make a model transparent</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Neytiri\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/3888\" target=\"_blank\"><div class=\"table_tut_title\">Hands/Recoloring</div><div class=\"table_tut_desc\">Hands/Recoloring</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Y3TTER\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/2908\" target=\"_blank\"><div class=\"table_tut_title\">Overview Image</div><div class=\"table_tut_desc\">Overview Image</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: manoj\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://cstrikemapping.blogspot.com/2011/11/entity-system-in-goldsrc.html\" target=\"_blank\"><div class=\"table_tut_title\">Entity system in goldsrc</div><div class=\"table_tut_desc\">In this tutorial, I will show you how do entities in cs 1.6</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shash7\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/goldspray03.html\" target=\"_blank\"><div class=\"table_tut_title\">The GoldSrc Spraylogo Tutorial 4 - Slightly higher resolution Sven Co-Op spray using wally</div><div class=\"table_tut_desc\">Slightly higher resolution Sven Co-Op spray using wally</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_sprite_p1.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Sprite Tutorial - PART1: Normal Sprites</div><div class=\"table_tut_desc\">PART1: Normal Sprites</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_sprite.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Sprite Tutorial - Introduction</div><div class=\"table_tut_desc\">Introduction</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_sprite_p4.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Sprite Tutorial - PART4: Masked Sprites</div><div class=\"table_tut_desc\">PART4: Masked Sprites</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_sprite_p5.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Sprite Tutorial - PART5: Animated Sprites</div><div class=\"table_tut_desc\">PART5: Animated Sprites</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_texture_p8.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 8</div><div class=\"table_tut_desc\">Custom Skies</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_texture_p9.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 9</div><div class=\"table_tut_desc\">DETAIL Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_texture_p10.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 10</div><div class=\"table_tut_desc\">Batch Conversion</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.svencoop.com/showthread.php/43322-Batch-image-processing-transparency-method\" target=\"_blank\"><div class=\"table_tut_title\">Batch image processing transparency method </div><div class=\"table_tut_desc\">Batch image processing transparency method </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: The303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.svencoop.com/showthread.php/43462-makels-and-qlumpy-explaination-but-Half-Life-SDK-from-Steam-is-missunderstanding\" target=\"_blank\"><div class=\"table_tut_title\">makels and qlumpy explination</div><div class=\"table_tut_desc\">makels and qlumpy explination</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: SourceSkyBoxer\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.svencoop.com/showthread.php/41389-Tutorial-1-Making-Simple-Lifts-(using-func_plat-func_door-or-func_train-)\" target=\"_blank\"><div class=\"table_tut_title\"> Lifts, Moving Platform and Elevators.</div><div class=\"table_tut_desc\"> Lifts, Moving Platform and Elevators.</div></a>",
+    "Col2": "<a href=\"https://web.archive.org/web/20180622171541/https://forums.svencoop.com/attachment.php?attachmentid=15627&d=1388869550\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: wolf-3d\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010417035421/http://www.planethalflife.com:80/wavelength/2dart/tutorials/SpriteTutorial.html\" target=\"_blank\"><div class=\"table_tut_title\">Creating Sprites for Half-Life</div><div class=\"table_tut_desc\">Making sprites for Half-Life is an easy way to add visual appeal to any new map or add-on that you create.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: valve\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011023034037/http://www.planethalflife.com:80/wavelength/2dart/tutorials/mdlskins.html\" target=\"_blank\"><div class=\"table_tut_title\">Editing .mdl Skins</div><div class=\"table_tut_desc\">This tutorial covers how to use the Model Viewer from the Half-Life Workshop to edit skins for .mdl files using the Recon Grunt as an example.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011106131750/http://www.planethalflife.com:80/wavelength/2Dart/tutorials/MenuTutorial.html\" target=\"_blank\"><div class=\"table_tut_title\">Creating Custom Menu Art for the Half-Life Launcher</div><div class=\"table_tut_desc\">This tutorial will explain how to create and implement custom graphics for the Half-life menu system. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: dr. angryman\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011006043240/http://www.planethalflife.com:80/wavelength/2dart/tutorials/sprites.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Sprite Tutorial</div><div class=\"table_tut_desc\">Half-Life Sprite Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011006105149/http://www.planethalflife.com:80/wavelength/2dart/tutorials/TextureTutorial.html\" target=\"_blank\"><div class=\"table_tut_title\">Creating Textures and Texture WADs for Half-Life</div><div class=\"table_tut_desc\">Creating Textures and Texture WADs for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: valve\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011102235359/http://www.planethalflife.com:80/wavelength/2Dart/tutorials/texturetutorial01.html\" target=\"_blank\"><div class=\"table_tut_title\">Creating a 24 Bit Texture From Scratch</div><div class=\"table_tut_desc\">Creating a 24 Bit Texture From Scratch</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: ApocX\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011106132150/http://www.planethalflife.com:80/wavelength/2Dart/tutorials/SkinTutorial.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Deathmatch Skin files</div><div class=\"table_tut_desc\">Half-Life Deathmatch Skin files</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20000309214305/http://www.mirar.org:80/half-life/sprites/sprites.html\" target=\"_blank\"><div class=\"table_tut_title\">Mirar's sprite guide.</div><div class=\"table_tut_desc\">mostly broken sprite guide</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Mirar\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010521145121/http://www.loonygames.com:80/content/1.11/gc/\" target=\"_blank\"><div class=\"table_tut_title\">Making a texture start to finish</div><div class=\"table_tut_desc\">Making a texture start to finish</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shaithis\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010617132730/http://www.loonygames.com:80/content/1.17/gc/\" target=\"_blank\"><div class=\"table_tut_title\">General Texture Tips</div><div class=\"table_tut_desc\">General Texture Tips</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shaithis\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010617133321/http://www.loonygames.com:80/content/1.19/gc/\" target=\"_blank\"><div class=\"table_tut_title\">Creating a Hand Drawn Texture</div><div class=\"table_tut_desc\">Creating a Hand Drawn Texture</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shaithis\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010502060808/http://www.loonygames.com:80/content/1.23/gc/\" target=\"_blank\"><div class=\"table_tut_title\">Creating a Hand Drawn Texture (part two)</div><div class=\"table_tut_desc\">Creating a Hand Drawn Texture (part two)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shaithis\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010417012755/http://www.gamedesign.net:80/quake2/tutorials/bryce2/bryce2.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Making ENV. Maps with Bryce 2</div><div class=\"table_tut_desc\">Making ENV. Maps with Bryce 2</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: rust\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010417014411/http://www.gamedesign.net:80/quake2/tutorials/env_maps/env_maps.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Environmental Maps</div><div class=\"table_tut_desc\">Environmental Maps</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: rust\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010427211531/http://www.telefragged.com:80/soup/terra_tut/terra_tut.htm\" target=\"_blank\"><div class=\"table_tut_title\">Creating Skies With Terragen</div><div class=\"table_tut_desc\">Creating Skies With Terragen</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: soup\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010418212258/http://www.telefragged.com:80/soup/envmapusage.htm\" target=\"_blank\"><div class=\"table_tut_title\">How To Use Environment Maps</div><div class=\"table_tut_desc\">How To Use Environment Maps</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: soup\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010424094835/http://wadfather.game-edit.com:80/spraypaint/wadfather_createbmp.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wadfather Colour Spray Tutorials</div><div class=\"table_tut_desc\">Wadfather Colour Spray Tutorials</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Un_ethical\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010424095515/http://wadfather.game-edit.com:80/spraypaint/wadfather_palette.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wadfather Colour Spray Tutorials</div><div class=\"table_tut_desc\">Wadfather Colour Spray Tutorials</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Un_ethical\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010629075023/http://wadfather.game-edit.com:80/spraypaint/wadfather_pldecal.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wadfather Colour Spray Tutorials</div><div class=\"table_tut_desc\">Wadfather Colour Spray Tutorials</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Un_ethical\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011221063135fw_/http://www.planethalflife.com:80/wavelength/models/reference/faq.html\" target=\"_blank\"><div class=\"table_tut_title\">Modeling / 2D Art Frequently Asked Questions</div><div class=\"table_tut_desc\">Modeling / 2D Art Frequently Asked Questions</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020418052600/http://www.planethalflife.com:80/wavelength/levels/resources/sprites.html\" target=\"_blank\"><div class=\"table_tut_title\">HALF-LIFE SPRITES LIST</div><div class=\"table_tut_desc\">HALF-LIFE SPRITES LIST</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: HellBringer, Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010220153540/http://www.gameditors.co.uk:80/wc/tut/outside.htm\" target=\"_blank\"><div class=\"table_tut_title\">The great outdoors</div><div class=\"table_tut_desc\">tips on making hl levels</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010223215651/http://www.planethalflife.com:80/tormentus/tutorial1.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Skinning by Tormentus</div><div class=\"table_tut_desc\">This is a tutorial for skinning set out to be as easy as possible.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Tormentus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010203162800/http://www.planethalflife.com:80/coldfusion/tutorials/skinmaking/skinmaking.htm\" target=\"_blank\"><div class=\"table_tut_title\">SKINMAKING</div><div class=\"table_tut_desc\">SKINMAKING</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20050313220718/http://www.cs-maps.jolt.co.uk:80/index.php?page=spray_tutorial.html\" target=\"_blank\"><div class=\"table_tut_title\">Spray Tutorial</div><div class=\"table_tut_desc\">Spray Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: cs-maps\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020214082628fw_/http://halflife.qeradiant.com:80/misc/misc03.htm\" target=\"_blank\"><div class=\"table_tut_title\">How to make your own *.wad file</div><div class=\"table_tut_desc\">How to make your own *.wad file</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Tiger\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040502144406/http://www.telefragged.com:80/wally/tutorials/tutorial1.htm\" target=\"_blank\"><div class=\"table_tut_title\">Creating New Textures Using Wally</div><div class=\"table_tut_desc\">Creating New Textures Using Wally</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20170525043751/http://www.atomicwarrior.com:80/logos/tutorialregular.html\" target=\"_blank\"><div class=\"table_tut_title\">How to make a REGULAR HL logo</div><div class=\"table_tut_desc\">How to make a REGULAR HL logo</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: atomicwarrior\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20001212002000/http://www.hardwarepub.com:80/articles/logos/logos.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Logos/Decals for Half-Life</div><div class=\"table_tut_desc\">Logos/Decals for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Val\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20170521182229/http://www.atomicwarrior.com:80/logos/tutorialcolor.html\" target=\"_blank\"><div class=\"table_tut_title\">The Color Logo Bible</div><div class=\"table_tut_desc\">The Color Logo Bible</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: atomicwarrior\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010223201425/http://www.hardwarepub.com:80/articles/colorlogos/\" target=\"_blank\"><div class=\"table_tut_title\">Color Logos/Decals for Half-Life</div><div class=\"table_tut_desc\">Color Logos/Decals for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Val\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040502130412/http://www.telefragged.com:80/wally/tutorials/tutorial2.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wally - Using the Rivet tool</div><div class=\"table_tut_desc\">Using the Rivet tool</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040502131924/http://www.telefragged.com:80/wally/tutorials/tutorial3.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wally - Using the Bullet Hole tool</div><div class=\"table_tut_desc\">Using the Bullet Hole tool</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040502132247/http://www.telefragged.com:80/wally/tutorials/tutorial4.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wally - Using the Patterned Paint tool</div><div class=\"table_tut_desc\">Using the Patterned Paint tool</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040502133907/http://www.telefragged.com:80/wally/tutorials/tutorial5.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wally - Using the Patterned Paint tool</div><div class=\"table_tut_desc\">Using the Patterned Paint tool</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040502134039/http://www.telefragged.com:80/wally/tutorials/tutorial6.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wally - Using the Decal tool</div><div class=\"table_tut_desc\">Using the Decal tool</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040502135756/http://www.telefragged.com:80/wally/tutorials/tutorial7.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wally - Creating a custom decal texture</div><div class=\"table_tut_desc\">Creating a custom decal texture</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080814163741/http://www.telefragged.com:80/wally/tutorials/wad_files.html\" target=\"_blank\"><div class=\"table_tut_title\">Wally - Editing WAD Files</div><div class=\"table_tut_desc\">Editing WAD Files</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040401200952/http://www.telefragged.com:80/wally/tutorials/hl_color_decals.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Color Decals</div><div class=\"table_tut_desc\">Half-Life Color Decals</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040314025922/http://www.telefragged.com:80/wally/tutorials/wad_merge.html\" target=\"_blank\"><div class=\"table_tut_title\">Wally - WAD Merge Tool</div><div class=\"table_tut_desc\">WAD Merge Tool</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040314020907/http://www.telefragged.com:80/wally/tutorials/res_files.html\" target=\"_blank\"><div class=\"table_tut_title\">Wally - working with RES files</div><div class=\"table_tut_desc\">working with RES files</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Neal White III\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080724171415/http://www.telefragged.com/wally/faq.htm\" target=\"_blank\"><div class=\"table_tut_title\">Wally FAQ</div><div class=\"table_tut_desc\">Wally FAQ</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Ty Matthews\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020120121401/http://mapmakers.bizland.com:80/tutorials/textures/index.htm\" target=\"_blank\"><div class=\"table_tut_title\">How to include custom texture files (.wad files) into your finished .BSP</div><div class=\"table_tut_desc\">How to include custom texture files (.wad files) into your finished .BSP</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: mapmakers\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021019150428/http://members.bellatlantic.net:80/~stepjack/editing3.htm\" target=\"_blank\"><div class=\"table_tut_title\">DESIGN CONSIDERATIONS FOR DEATHMATCH MAPPING - Part 3</div><div class=\"table_tut_desc\">DESIGN CONSIDERATIONS FOR DEATHMATCH MAPPING\r\nPart 3</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: sulsa\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/mods/goldsource-data-base/tutorials/how-to-use-detailtextures-in-a-professional-manner\" target=\"_blank\"><div class=\"table_tut_title\">How to use detailtextures in a professional manner</div><div class=\"table_tut_desc\"> If you don't know what a detail texture is, I shall explain</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: Trempler\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/reskinning-a-model\" target=\"_blank\"><div class=\"table_tut_title\">Reskinning A Model</div><div class=\"table_tut_desc\">So, you want to know how to edit your 'Half-Life 1' model and have them show um in your mod?</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: bobby0415 \"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/how-to-change-the-textures-on-a-model\" target=\"_blank\"><div class=\"table_tut_title\">How to change the Textures on a model</div><div class=\"table_tut_desc\">A simple guide on how to export the textures from models and modify them to your liking, and then importing it back into the model.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: nmb24 \"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/mods/goldsource-data-base/tutorials/how-to-use-detailtextures-in-a-professional-manner\" target=\"_blank\"><div class=\"table_tut_title\">How to use detailtextures in a professional manner</div><div class=\"table_tut_desc\">How to use detailtextures in a professional manner</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: Trempler\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/counter-strike-condition-zero/tutorials/textures-too-dark-here-the-solution\" target=\"_blank\"><div class=\"table_tut_title\">textures too dark? here the solution</div><div class=\"table_tut_desc\">in this tutorial will teach you to create brilliant textures and polished like a champion </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: ezequiel-TM \"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_chrome.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc 'Chrome' Guide</div><div class=\"table_tut_desc\">'Chrome' in GoldSrc is a special texture mode that allows for a simple environment-like texture</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/goldspray02.html\" target=\"_blank\"><div class=\"table_tut_title\">Spraylogo Tutorial Tutorial 3 - Spray with Hltagconverter With Transparency</div><div class=\"table_tut_desc\">Spray with Hltagconverter With Transparency</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/goldspray04.html\" target=\"_blank\"><div class=\"table_tut_title\">The GoldSrc Spraylogo Tutorial 5 - Creating A Fixed IndexAlpha Spray</div><div class=\"table_tut_desc\">Creating A Fixed IndexAlpha Spray</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_texture_p7.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Map Texture Tutorial - Part 7</div><div class=\"table_tut_desc\">SCROLLING Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_sprite_p2.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Sprite Tutorial - PART2: ADDITIVE Sprites</div><div class=\"table_tut_desc\">PART2: ADDITIVE Sprites</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_sprite_p3.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Sprite Tutorial - PART3: IndexAlpha Sprites</div><div class=\"table_tut_desc\">PART3: IndexAlpha Sprites</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_sprite_p6.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Sprite Tutorial - PART6: BEAM Sprites</div><div class=\"table_tut_desc\">PART6: BEAM Sprites</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_tex_links.htm\" target=\"_blank\"><div class=\"table_tut_title\">Model Texturing Oldstyle Methods</div><div class=\"table_tut_desc\">Model Texturing Oldstyle Methods</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.tripwireinteractive.com/forum/killing-floor/killing-floor-modifications/3d-and-animation-aa/55519-texturing-tutorial-thread\" target=\"_blank\"><div class=\"table_tut_title\">Texturing Tutorial Thread</div><div class=\"table_tut_desc\">a bunch of tutorials compiled over the years to give people a head start on texturing weapons, props and such</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Z3RO\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=AcpKPuBeKE8\" target=\"_blank\"><div class=\"table_tut_title\">Texturing weapons - part 1</div><div class=\"table_tut_desc\">Texturing weapons - part 1</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: Millenia\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=nC3CBzaUyRI&feature=related\" target=\"_blank\"><div class=\"table_tut_title\">Texturing weapons - part 2</div><div class=\"table_tut_desc\">Texturing weapons - part 2</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: Millenia\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=E_DIoRIAI2o&feature=related\" target=\"_blank\"><div class=\"table_tut_title\">Texturing weapons - part 3</div><div class=\"table_tut_desc\">Texturing weapons - part 3</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: Millenia\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=s2JoGtJ7yCo&feature=related\" target=\"_blank\"><div class=\"table_tut_title\">Texturing weapons - part 4</div><div class=\"table_tut_desc\">Texturing weapons - part 4</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: Millenia\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12860\" target=\"_blank\"><div class=\"table_tut_title\">How to create transparent sprays</div><div class=\"table_tut_desc\">How to create transparent sprays</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: vodka kmfdm\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12310\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Custom Map Texture & Sprite Tutorial</div><div class=\"table_tut_desc\">This is a massive 16-part tutorial series on custom Map texture and Sprites</div></a>",
+    "Col2": "<a href=\"http://files.gamebanana.com/bitpit/texandsprite_tut.rar\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: The303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12256\" target=\"_blank\"><div class=\"table_tut_title\">Converting real life photos into HL textures</div><div class=\"table_tut_desc\">Making custom textures can be annoying at first, I'm here to help that process.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Admer456\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021219134545/http://valve-erc.com/resources/?page=rad\" target=\"_blank\"><div class=\"table_tut_title\">QRAD Textures and the .RAD file</div><div class=\"table_tut_desc\">QRAD Textures and the .RAD file</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021210055612/http://www.valve-erc.com/resources/?page=makingskies\" target=\"_blank\"><div class=\"table_tut_title\">Creating Skies With Terragen</div><div class=\"table_tut_desc\">Creating Skies With Terragen</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: ADarcJedi \"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20070622132238/http://collective.valve-erc.com/index.php?doc=1026191087-63290200\" target=\"_blank\"><div class=\"table_tut_title\">Making a Territory Control Map</div><div class=\"table_tut_desc\">This tutorial explains how to make a basic map where there are flags to capture</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dod\" alt=\"dod\" title=\"Day of Defeat\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Tim Holt\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061027230501/http://collective.valve-erc.com/index.php?doc=1050100356-00706300\" target=\"_blank\"><div class=\"table_tut_title\">Controllable Looping.</div><div class=\"table_tut_desc\">Controllable Looping.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: ComCray\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061027230715/http://collective.valve-erc.com/index.php?doc=1032668728-00841800\" target=\"_blank\"><div class=\"table_tut_title\">Custom Decals</div><div class=\"table_tut_desc\">This beginner's tutorial will discuss how to make your own custom decals for inclusion in your maps</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Luke Haywas\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061027234321/http://collective.valve-erc.com/index.php?doc=1063191790-06027400\" target=\"_blank\"><div class=\"table_tut_title\">Stand Still, You Sprite! (or: How to Fix Sprites' Axes)</div><div class=\"table_tut_desc\">This tutorial explains how to fix sprites' axes. Normally, a sprite will aways face the player, but using this method, the sprite can be prevented from moving on some or all axes.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: hazardous!\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061029164753/http://collective.valve-erc.com/index.php?doc=1059416746-92484100\" target=\"_blank\"><div class=\"table_tut_title\">Animated buttons in Half-Life</div><div class=\"table_tut_desc\">This is a short guide on how to do animated buttons in Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Mike\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061029164753/http://collective.valve-erc.com/index.php?doc=1037470021-37580600\" target=\"_blank\"><div class=\"table_tut_title\">QRAD Textures and the RAD File</div><div class=\"table_tut_desc\">This article explains the concept of QRAD (light emitting) Textures and their relation to the lights.rad file.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: autolycus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/VERC%3A_Creating_Skys_with_Terragen\" target=\"_blank\"><div class=\"table_tut_title\">https://twhl.info/wiki/page/VERC%3A_Creating_Skys_with_Terragen</div><div class=\"table_tut_desc\">VERC: Creating Skys with Terragen </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: ADarcJedi\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=122828021\" target=\"_blank\"><div class=\"table_tut_title\">Custom Sprays - Decals</div><div class=\"table_tut_desc\">How to Create a Custom Spray - Decal</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Stu Pidaso\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://pastebin.com/f3kG6B6m\" target=\"_blank\"><div class=\"table_tut_title\"> dod texture list</div><div class=\"table_tut_desc\"> dod texture list</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dod\" alt=\"dod\" title=\"Day of Defeat\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://pastebin.com/XmyfmuJX\" target=\"_blank\"><div class=\"table_tut_title\">Hal-Life Wad Texture Contents List</div><div class=\"table_tut_desc\">Hal-Life Wad Texture Contents List</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20031102113237/http://home.att.net/~firebinder/hl/textures1.htm\" target=\"_blank\"><div class=\"table_tut_title\">Textures from Plastic Models</div><div class=\"table_tut_desc\">Textures from Plastic Models</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: firebinder\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=923018602\" target=\"_blank\"><div class=\"table_tut_title\">How to re-skin model to cs 1.6</div><div class=\"table_tut_desc\">How to re-skin model to cs 1.6</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: unknown\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=JqnW7XeElLk\" target=\"_blank\"><div class=\"table_tut_title\">How to install Custom Crosshair in Day of Defeat</div><div class=\"table_tut_desc\">A Fast and Easy way to install Custom Crosshair's in Day of Defeat !</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dod\" alt=\"dod\" title=\"Day of Defeat\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Mr.Cypher!\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=605834480\" target=\"_blank\"><div class=\"table_tut_title\">Creating overviews for maps</div><div class=\"table_tut_desc\">his tutorial will show how to make quick and easy overviews for maps.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dod\" alt=\"dod\" title=\"Day of Defeat\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: LiveWire\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20181120145016/http://www.halflifezone.com/tutorials/loading-tgas-into-trinity\" target=\"_blank\"><div class=\"table_tut_title\">Loading Hi-Res TGA files into Trinity</div><div class=\"table_tut_desc\">One of Trinity's big features is its external texture loader</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Matthew\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20181126210707/http://www.halflifezone.com/tutorials/create-realistic-shadows\" target=\"_blank\"><div class=\"table_tut_title\">How to Create Realistic Looking Shadows</div><div class=\"table_tut_desc\">The way it's done is by using decals</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Matthew\"></div>"
+  }
+]

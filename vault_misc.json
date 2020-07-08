@@ -3,70 +3,70 @@
     "vault_name": "How to Compile Static or Dynamic models into Half-Life 2",
     "vault_description": "This is a small and concise collection of tutorials in PDF form that cover the creation of models in half-Life 2.",
     "vault_homelink": "http://xenoaisam.com/tutorial/",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#F!fosFGLQC!gCM3jkY5el_VWugiOxiuag"
   },
   {
     "vault_name": "Half-Life 2: Quick Reference card.",
     "vault_description": "This is a small PDF that includes common shortcuts, installation and system requirements for Half-Life 2",
     "vault_homelink": "",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#!rtcjjQ6Z!VUncxEglemLvSTtvljVcE7DqcWUCiH6EeMveMHJwcfk"
   },
   {
     "vault_name": ".MAP files, file format description, algorithms, and code",
     "vault_description": "This useful Paper goes into detail about the GoldSrc .MAP file format, providing a useful insight on how it works",
     "vault_homelink": "",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "https://mega.nz/#!z5kX1QoC!NcHmRw4eHRtMmSLYDCrrSyRwNJQkLYgU42ER1A9Qjc8"
   },
   {
     "vault_name": "Modeling and Animating for Half-Life",
     "vault_description": "This Paper goes into detail about the the creation of models and basic animation for the GoldSrc Engine.",
     "vault_homelink": "",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "https://mega.nz/#!X413BB4R!qoHDWjHQoIH9Ni5drkaYWBxxmju8ccslgKUdgxcP7ZI"
   },
   {
     "vault_name": "Replace a Face Texture in Half-Life 2 DeathMatch",
     "vault_description": "This short PDF covers the basic steps required when replacing a face texture on a Source Model.",
     "vault_homelink": "",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#!2ksDkSIC!jleLPkzKx4h5G3PuKh1iT6n7Ddt9gbeAWNgELEZJuG4"
   },
   {
     "vault_name": "Source InfoSheet",
     "vault_description": "This PDF from Valve was an advertisement providing information on the features of the Source Engine.",
     "vault_homelink": "",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#!qllRVaBb!NCFvpE1PeFJO4U9h9KmZGAATQLTf5kicXO_1fnsFdm8"
   },
   {
     "vault_name": "Practical Guide to Facial Animation for the Source Engine",
     "vault_description": "This PDF covers the overall process in creating a believable facial animation in Source.",
     "vault_homelink": "",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#!eh1j0BDQ!LymdzZkBRucR4aRMnoK6poyVM67CNnwaPkjGP0-DeGU"
   },
   {
     "vault_name": "Source for serious games",
     "vault_description": "This Academic Paper covers the idea of using the Source Engine to create Serious games or simulations for real life to aid in training.",
     "vault_homelink": "",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#!e11VVIrI!CrHVenWNnRzzuTkuEFwzOJs0DF48ZRnE3kslbuQwsYo"
   },
   {
     "vault_name": "Introduction to Hammer (German)",
     "vault_description": "This PDF introduces you to hammer. Written in german by isolated-design.de, original Title(Einführung in den Hammer Editor 3.5)",
     "vault_homelink": "",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "https://mega.nz/#!a801lDoQ!dsMhRKqKNP3jNLMiEPmEKUx1rlF0HmfsmRrLe_qvIII"
   },
   {
     "vault_name": "German Translation of Half-Life.doc from the SDK",
     "vault_description": "This PDF is a german translation for the documentation that comes with the Half-Life SDK. Author: isolated-design.de, original Title (Übersetzung der Modelling for Half-Life.doc aus dem HL-SDK 2.2)",
     "vault_homelink": "",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "https://mega.nz/#!mx0mRKjb!_L5wksQLU1AMJidPzUADYAz07DZ7jtu-jWkf6JcZ6xo"
   },
   {
@@ -80,49 +80,49 @@
     "vault_name": "Halfwit-2 Workshop Resources",
     "vault_description": "Thanks to wazanator for providing the offline backup of the workshop, when the official site was down",
     "vault_homelink": "",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#F!0ERVFADQ!8w1ueBlFkwhg3ag9hLG1HQ"
   },
   {
     "vault_name": "Halfwit-2 Tutorial Collection",
     "vault_description": "Kudos to wazanator for providing the offline backup of Halfwit-2, when the official site was down",
     "vault_homelink": "",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "https://mega.nz/#F!UcRljIIQ!0f17N_Z5HAaqu5G2rrIhSQ"
   },
   {
     "vault_name": "Unofficial Half-Life WAD3 and SPRITE file format Specification",
     "vault_description": "PDF describing the WAD3 and Sprite formats for Half-Life",
     "vault_homelink": "",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "https://mega.nz/#!zx0WUChD!x172vhBQFO8Z-v6XPtLgGK2QAEFz56DcjsyPcXbc5Vg"
   },
   {
     "vault_name": "Half-Life CVAR (console variable/command) List",
     "vault_description": "Word Doc listing the console commands for Half-Life",
     "vault_homelink": "",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "https://mega.nz/#F!C1EAhA7B!yr_tWQK_JKMw0fhTo2ikzg"
   },
   {
     "vault_name": "Goldsrc Model Compiling Flowchart",
     "vault_description": "Really neat flow chart from 303.org on how the compilation process for GoldSrc models",
     "vault_homelink": "http://www.the303.org/goldsrc/gmdlflowchart.html",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "n / a"
   },
   {
     "vault_name": "Source Model Compiling Flowchart",
     "vault_description": "Really neat flow chart from 303.org on how the compilation process for Source models",
     "vault_homelink": "http://www.the303.org/source/mdlflowchart.html",
-    "vault_engine": "[source]",
+    "vault_engine": "source",
     "vault_mega": "n / a"
   },
   {
     "vault_name": "Plaguefest Little Map making Thread",
     "vault_description": "Really useful collection of resources for those interested in modding",
     "vault_homelink": "http://plaguefest.com/threads/the-little-mapmaking-thread.17423/",
-    "vault_engine": "[goldsrc_and_source]",
+    "vault_engine": "goldsrc_and_source",
     "vault_mega": "n / a"
   },
   {
@@ -136,28 +136,28 @@
     "vault_name": "Half-Life Console Commands CVARS",
     "vault_description": "Comprehensive list of Console Commands for Half-Life",
     "vault_homelink": "http://sr-team.clan.su/K_stat/hlcommandsfull.html",
-    "vault_engine": "[goldsrc]",
+    "vault_engine": "goldsrc",
     "vault_mega": "n / a"
   },
   {
     "vault_name": "Wallworm: Hammered to the Max",
     "vault_description": "A Hammer user's guide to Max",
     "vault_homelink": "http://hammeredtothemax.com/",
-    "vault_engine": "[goldsrc_and_source]",
+    "vault_engine": "goldsrc_and_source",
     "vault_mega": "https://mega.nz/#!bgVjBJYA!MrxclxnAK-YHHugE57VuEVd16zsgcS0ZJ9aHA9qpwL4"
   },
   {
     "vault_name": "Wallworm: Anatomy of a Design Team",
     "vault_description": "The Wall Worm Source Engine Pipeline",
     "vault_homelink": "https://wallworm.com/store/index.php?route=common/home",
-    "vault_engine": "[goldsrc_and_source]",
+    "vault_engine": "goldsrc_and_source",
     "vault_mega": "https://mega.nz/#!rlEiiabC!GEKriuHZ3TLRY-SsogKrmhkMddmq-I6Etvq9y8fbUKk"
   },
   {
     "vault_name": "Low Poly Character Creation",
     "vault_description": "This tutorial is for the creation of Low-Poly 'Portable Game Res' real-time characters.",
     "vault_homelink": "http://orig09.deviantart.net/5ef4/f/2007/122/0/4/3d_tutorial___lowpoly_characte_by_athey.pdf",
-    "vault_engine": "[goldsrc_and_source]",
+    "vault_engine": "goldsrc_and_source",
     "vault_mega": "https://mega.nz/#!64slDSqY!ASECAx_FI14ixIttuTSUJuASSBheBKJ1NYMCqtaoULI"
   }
 ]

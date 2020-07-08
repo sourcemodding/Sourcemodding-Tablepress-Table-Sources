@@ -1,0 +1,26 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Basic_Voice_Acting\" target=\"_blank\"><div class=\"table_tut_title\">Basic Voice Acting</div><div class=\"table_tut_desc\">How to get custom voices working, from start to finish.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Playbus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/voicerecord.html\" target=\"_blank\"><div class=\"table_tut_title\">Recording Voice into Separate Channels</div><div class=\"table_tut_desc\">Recording Voice into Separate Channels</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/121/Using_Custom_Sounds_in_HL2\" target=\"_blank\"><div class=\"table_tut_title\">Using Custom Sounds in HL2</div><div class=\"table_tut_desc\">Inserting them into your map.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Nickelplate\"></div>"
+  }
+]

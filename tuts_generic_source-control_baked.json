@@ -1,0 +1,52 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"http://www.sourcemodding.com/tutorials/generic/source-control/Introduction-to-perforce/\" target=\"_blank\"><div class=\"table_tut_title\">Introduction to Perforce</div><div class=\"table_tut_desc\">Detailed Tutorial covering how to use Perforce to control your Source Code and Assets.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_sourcemodding\" alt=\"sourcemodding\" data-title=\"Author: sourcemodding\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://code.tutsplus.com/tutorials/git-on-windows-for-newbs--net-25847\" target=\"_blank\"><div class=\"table_tut_title\">Git on Windows for Newbs</div><div class=\"table_tut_desc\">Concise Tutorial covering the basics of using GIT in a windows environment with a GUI.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: David D'hont\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://nathanj.github.io/gitguide/tour.html\" target=\"_blank\"><div class=\"table_tut_title\">An Illustrated Guide to Git on Windows</div><div class=\"table_tut_desc\">Illustrated Tutorial on how to use GIT through msysgit on windows.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: nathanj\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.scribd.com/doc/4570622/Perforce-P4V-Client-Tutorial\" target=\"_blank\"><div class=\"table_tut_title\">Perforce P4V Client Tutorial</div><div class=\"table_tut_desc\">An old but indepth tutorial on using P4V.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: shrivastav.ajay\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://wiki.alliedmods.net/Mercurial_Tutorial\" target=\"_blank\"><div class=\"table_tut_title\">Mercurial Tutorial</div><div class=\"table_tut_desc\">A tutorial covering the basic usage of mercurial for version control.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: alliedmodders\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://hgbook.red-bean.com/read/\" target=\"_blank\"><div class=\"table_tut_title\">Mercurial: The Definitive Guide</div><div class=\"table_tut_desc\">An online book that goes in deep with mercurial for source control.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Bryan O'Sullivan\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.shokhirev.com/nikolai/programs/SVN/svn.html\" target=\"_blank\"><div class=\"table_tut_title\">Practical guide to subversion on Windows with TortoiseSVN</div><div class=\"table_tut_desc\">Introductory tutorial on how to use Tortoise SVN for versioning files.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Nikolai Shokhirev\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://blog.surfulater.com/2007/02/28/get-up-and-running-with-tortoisesvn-and-subversion-in-15-minutes/\" target=\"_blank\"><div class=\"table_tut_title\">Get up and running with tortoisesvn and Subversion in 15 mins</div><div class=\"table_tut_desc\">Older tutorial on how to get up and running with Subversion through tortoiseSVN.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: nevf\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=415620774\" target=\"_blank\"><div class=\"table_tut_title\">Using Git for Source Control</div><div class=\"table_tut_desc\">Tutorial on how to use GIT for Version control with the Source SDK</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Wazanator\"></div>"
+  }
+]

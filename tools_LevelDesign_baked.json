@@ -1,0 +1,1129 @@
+[
+  {
+    "Col1": "Name / Purpose",
+    "Col2": "<div class=\"table_header_weblink\"></div>",
+    "Col3": "<div class=\"table_header_preview\"></div>",
+    "Col4": "Engine",
+    "Col5": "<div class=\"table_header_dl\"></div>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ToeTag</div><div class=\"table_desc\">The only native Mac OS X level editor for Quake 1</div>",
+    "Col2": "<a href=\"http://oliveratgithub.github.io/ToeTag/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lZgWzACA!vUPlgRKfTb9ziFkZCEnIZg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Library</div><div class=\"table_desc\">C# Library for working with BSP files (and other similar file formats). </div>",
+    "Col2": "<a href=\"https://github.com/AbitTheGray/BspLib\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FYphAJ4K!iChx0RsPPxCFeuaaOaeKQQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP-Slicer</div><div class=\"table_desc\">A tool to generate cl_leveloverview from BSP files </div>",
+    "Col2": "<a href=\"https://github.com/Traderain/BSP-Slicer\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9d4zTaQD!_vkQahHy-KW-Wi-gGdNUxg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Lib</div><div class=\"table_desc\">Open-source library for reading and editing BSP files</div>",
+    "Col2": "<a href=\"https://github.com/RadCraftplay/Distroir.BSP\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dIoyEK4R!77B3BviK074_Jnrw3z-7Tw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life SpawnPointEditor</div><div class=\"table_desc\">This is the barebones program that GFlip uses as it's base</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_0.webp\" data-caption=\"Half-Life SpawnPointEditor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_0\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FNxjVC7a!UJsKN1h7nUWG1tx1v9ccnQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Calliper</div><div class=\"table_desc\">The Calliper editor (formerly Crowbar) is designed to be a cross-platform, extensible level editor that accelerates the creation of computer game maps, and is targeted specifically at Source engine games.</div>",
+    "Col2": "<a href=\"https://github.com/x6herbius/calliper-osg\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_1.webp\" data-caption=\"Calliper\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_1\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oNxSGICS!CVzMXRaTfq5hsDaJEGs6Hg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Net Radiant</div><div class=\"table_desc\">The open source, cross platform level editor for idtech games (GTKRadiant fork)</div>",
+    "Col2": "<a href=\"https://gitlab.com/xonotic/netradiant\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_2.webp\" data-caption=\"Net Radiant\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_2\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9UxSwQYC!b6jX0uUyONGrXmaMNA8KWQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Badger</div><div class=\"table_desc\">This is Badger. It's a tool to generate levels for Half-Life 2, Black Mesa.</div>",
+    "Col2": "<a href=\"http://shrinker.seriouszone.com/projects/Badger/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_3.webp\" data-caption=\"Badger\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_3\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hQZSTYrb!wKVi0ByryNcpMYYEab8faw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Pak Extractor</div><div class=\"table_desc\">Simplest Pak extractor ever. Just pick a map and click the button</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_4.webp\" data-caption=\"BSP Pak Extractor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_4\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5JZgQYiD!DhC_Y4NM2IsbNTJies8_LQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF Version Changer</div><div class=\"table_desc\">Simple tool to change VTF versions from 7.5 to 7.4</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kZICgYAS!32JBriEZTL8psvaUr8cJiA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Uncle Mike's VHLT</div><div class=\"table_desc\">This is an modified version of VHLT v34 by Uncle Mike designed for the Xash3D engine (bsp v31)</div>",
+    "Col2": "<a href=\"https://forums.svencoop.com/showthread.php/44536-Modified-version-of-VHLT-34\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZBoTha6b!JAXnJ1feO3e0c-zptfGnTA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Mapping Dev Texture Guides</div><div class=\"table_desc\">Some Dev Texture guides to aid with level creation</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AFQ2iKhS!r9zDJTXXJPC4UsQKYLZejw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GoldSrc Map Viewer</div><div class=\"table_desc\">Map viewer for Valve's GoldSrc engine (needs to be compiled)</div>",
+    "Col2": "<a href=\"https://github.com/wtrsltnk/goldsrc-maps\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dUxjQbKY!CQqVEwLLE_VCgAsgyazMYA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hammer Launcher</div><div class=\"table_desc\">A tool for tweaking hammer settings and using multiple texture profiles</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wZ41DbzB!XpPG4WO-hGHUhnr3ORSDzg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hammer Floating Point Tool</div><div class=\"table_desc\">This tool blocks Hammer from converting plane coordinates to integers when exporting .map file and thus enables Hammer to output the original floating point coordinates.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JZxTjTYQ!AA-wVZkCpEnRy6eQHivnKw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sledge JS</div><div class=\"table_desc\">A collection of JavaScript functions to load Goldsource and Source map files and render them. Not an editor.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YcwkHSQA!jiPtrqvxro-VEUwpq5ab4A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSPConv</div><div class=\"table_desc\">Collection of various bspconv exes i have found around the net</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4JBQhaAC!w1n5SmXLunX31UVfO8VQBQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Viewer - Solokiller</div><div class=\"table_desc\">This project is a prototype map renderer for Half-Life BSP files.</div>",
+    "Col2": "<a href=\"https://github.com/SamVanheer/BSPViewer\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EBRlSRIY!ueYUDiVJ9-XuDgvC4XqZjQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">bsparchive</div><div class=\"table_desc\">Identifies and archives all dependencies for bsp files. </div>",
+    "Col2": "<a href=\"https://github.com/clintonbale/bsparchive\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YFgVVLZY!SLnDqD75xHQMv8NjEV7FKg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VBSP - prop_static Fix</div><div class=\"table_desc\">This is a modified VBSP that does not delete prop_static entities using models with propdata</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!RRgADYDS!PmPfuY9FCNjJNLPHWIqYrg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">lumpystuff</div><div class=\"table_desc\">Simple tool to dump raw data from Valve's map files. </div>",
+    "Col2": "<a href=\"https://github.com/mikesmiffy128/lumpystuff\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0UIXRIRC!oxLz_HPedyt9y6pJslH2zw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SlimBSP</div><div class=\"table_desc\">A slimmed down copy of the Source SDK 2013 map compile tools</div>",
+    "Col2": "<a href=\"https://github.com/Revenge282/SlimBSP\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JJZFBabD!_9K8YuGFu8eN2lG6xE2ABA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Parse</div><div class=\"table_desc\">C# library that will parse Quake/Half-Life MAP files</div>",
+    "Col2": "<a href=\"https://github.com/Figglewatts/MapParse\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MdhVDJKD!rnCt7AzdH70EMnLhrPDTZA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hammer Patch</div><div class=\"table_desc\">Modification of Source Valve Hammer Editor to fix some issues. Fixes brush vertex precision loss.</div>",
+    "Col2": "<a href=\"https://github.com/crashfort/HammerPatch\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YRIH3IxI!j_wDMfjNyR22YTLGtckNvg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">vmf parser</div><div class=\"table_desc\">A small VMF to JSON parser</div>",
+    "Col2": "<a href=\"https://github.com/leops/vmfparser\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QMBDSIwQ!-5zdGcEgjHrWw3j9A-Q53A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Make VMF</div><div class=\"table_desc\">Q3 .map to HL2 .vmf converter </div>",
+    "Col2": "<a href=\"https://github.com/ntrf/makevmf\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xUYzzY7a!gLKU5rwVJY6zQGY9u8Z2pQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL Compiled</div><div class=\"table_desc\">Batch compiler for automating Map Compilation</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_5.webp\" data-caption=\"HL Compiled\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_5\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!tVRDiZrK!ojyFU6FA5c82W51R9W5m5A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life BSP Tools</div><div class=\"table_desc\">A nice tool made in 2015 which can come in handy sometimes when a bsp file is too large and wont work in BSPtoMAP.exe</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_6.webp\" data-caption=\"Half-Life BSP Tools\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_6\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BQYyFapA!ZIJphJ_KJbB4ffQj9Ajqxw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Plan Shape</div><div class=\"table_desc\">a 3D Shape Generator for the Quake & Half-Life Map Format</div>",
+    "Col2": "<a href=\"http://gibshooter.com/planshape/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_7.webp\" data-caption=\"Plan Shape\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_7\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sdBXTYrJ!Hgul3u0QKRL7nottNcAHRw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Dispgen</div><div class=\"table_desc\">This program will create a half-life2 displacement map from a heightmap image.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_8.webp\" data-caption=\"Dispgen\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_8\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YEpQWByB!9Bl8icLpys3uAE7uH0Cumg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Lister</div><div class=\"table_desc\">Lists maps for easy maplist.txt</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_9.webp\" data-caption=\"Map Lister\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_9\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cJI03KjA!NLKYuC0W7BlmXV2MxMMjCA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Extractor</div><div class=\"table_desc\">Useful tool for extracting the contents of BSP files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_10.webp\" data-caption=\"Map Extractor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_10\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1JBTDKYD!2QMvP7a-SJDe6iTU54cTTQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">DispEd</div><div class=\"table_desc\">Create Displacements for your maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_11.webp\" data-caption=\"DispEd\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_11\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EZpjzRTA!4l-QZtwB5P3iH1zoifTFTQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Compile Pal</div><div class=\"table_desc\">A tool to assist in the compiling of source engine maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_12.webp\" data-caption=\"Compile Pal\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_12\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oEJ1WQzB!oTugepo8goM3m_JskZF5wQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Tree Planter</div><div class=\"table_desc\">This is a tool I made to create huge forests in Source maps (It should work with any source game!)</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_13.webp\" data-caption=\"Tree Planter\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_13\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lMhzkIgJ!Y_JMC0Ih3J1wKNrmLqN2aw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HammerMate</div><div class=\"table_desc\">HammerMate is a tool I use to save and load the wad texture list for Hammer 3.4 / 3.5.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_14.webp\" data-caption=\"HammerMate\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_14\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VVw2jTZZ!VJ9fycnoDfVE-kInbYLcXQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hammer VMF Helper</div><div class=\"table_desc\">Used to take source-css console commands and convert them into .vmf-compatible commands.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_15.webp\" data-caption=\"Hammer VMF Helper\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_15\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sY4xFajQ!8uLTcKQ5xJpZnuhIX7W64Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Trimesh</div><div class=\"table_desc\">It is another type of solid which is perfect for creating terrain. A plugin for Hammer</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_16.webp\" data-caption=\"Trimesh\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_16\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!RV5VFZbI!24HUJqq27noBMTY3Cskrcw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Instant Lammer Editor</div><div class=\"table_desc\">Well made Russian Level Editor for GoldSrc</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_17.webp\" data-caption=\"Instant Lammer Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_17\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hdBg2AKS!4aQGAx1i0KPwYICbBpv-dg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Resource Extractor</div><div class=\"table_desc\">Map Resource Extractor (MRE) is a small program that reads the VMF, and only copies the content that has been used in the map.</div>",
+    "Col2": "<a href=\"https://developer.valvesoftware.com/wiki/Map_Resource_Extractor\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_18.webp\" data-caption=\"Map Resource Extractor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_18\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IAYRzaha!y8Q2ptGFjsUHrWNf5L7Evg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Level Editor</div><div class=\"table_desc\">Alternative to Hammer</div>",
+    "Col2": "<a href=\"http://bspquakeeditor.com/index.php\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_19.webp\" data-caption=\"BSP Level Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_19\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kZZR0AQZ!dY2ZQGKdCWvq_z_vqSf4Ow\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Maplist Generator</div><div class=\"table_desc\">List Maker automatically generates your maplist.txt and mapcycle.txt, it can be further used for making lists outside of Maplist making.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_20.webp\" data-caption=\"Maplist Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_20\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pJonCbpS!ebVGTpCJimxSAzoC_hq5RQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Worldcraft Hammer Editor Map Compiler</div><div class=\"table_desc\">Worldcraft Hammer Editor Map Compiler is a set of .bat files that make the process of compiling and developing .bsp maps from .vmf files an easy and fun task.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_21.webp\" data-caption=\"Worldcraft Hammer Editor Map Compiler\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_21\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FRI3HT4D!FmtKP1CGp4w9TkRpMigZNw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Obfuscator (IID)</div><div class=\"table_desc\">Removes entity names from your map and helps prevent people from stealing your work</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_22.webp\" data-caption=\"Map Obfuscator (IID)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_22\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cYBHzAbC!VBkfmg27y2mxK8eQJIudGA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL Labyrinth generator</div><div class=\"table_desc\">This program is a little tool for those that like the Half-Life game, with \r\nits amazing kind of enemies and weapons.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_23.webp\" data-caption=\"HL Labyrinth generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_23\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gUAlUDjZ!sCl7KRe2Lg_B_OuNB91lsw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP2OBJ</div><div class=\"table_desc\">BSP2OBJ is a command-line utility capable of converting Quake, Quake 2 and Half-Life map files into OBJ meshes </div>",
+    "Col2": "<a href=\"https://github.com/measuredweighed/BSP2OBJ\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_24.webp\" data-caption=\"BSP2OBJ\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_24\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kR5FhZYT!gSLsP03Kj0yUBCFMc1uf7A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BrushGen</div><div class=\"table_desc\">This tool is used to create the smallest convex brush containing all points in the input file. Input file can be .smd (use its vertexes), .map (brushes and point entities) or .pts file.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gd5SDQha!VRY3s26V6yHo6_TIURKmMA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMF Instance Inserter</div><div class=\"table_desc\">Inserts instances into a map</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9QpXwYIJ!UJJ20yljVsX4Iudm6LeqIA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Color Correct</div><div class=\"table_desc\">Color Correct is a 3DS Max texture plug-in which alters the colors of any texture</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VUAxkYxB!y2zDpdj9INDFsDjG3NDubw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">JackHammer</div><div class=\"table_desc\">Alternative Map Editor for GoldSrc games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_25.webp\" data-caption=\"JackHammer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_25\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dYIBGIJJ!zlqClHBEiiVNnwnifKHsNA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Q2 Beaver</div><div class=\"table_desc\">Windows interface that frontends the compiling utilities</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_26.webp\" data-caption=\"Q2 Beaver\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_26\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cRwzRBQJ!FQd-fLDUoDTAQnZVVNVOmw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Crafty</div><div class=\"table_desc\">Crafty is a 3D object, material, model and file browsing utility for Source &amp; GoldSrc Maps.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_27.webp\" data-caption=\"Crafty\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_27\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hYoATbZD!t3OQXx20c9eLV7-oVixP7g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Prop Rotate</div><div class=\"table_desc\">Rotates selected entity types in a map</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_28.webp\" data-caption=\"Prop Rotate\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_28\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8VwH2STJ!n3HtPVWSO5z43gOzdWcyJA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half Life Automap</div><div class=\"table_desc\">Generate a random map for Half-Life based on criteria you set in the application</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_29.webp\" data-caption=\"Half Life Automap\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_29\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!pYwVwBDL!jm-cpeeGGoOy_WKOVVfMrw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">RES File Maker</div><div class=\"table_desc\">Creates .Res files for Source games running on a server</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_30.webp\" data-caption=\"RES File Maker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_30\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YJIVHDqC!zFQASM9hsDLuupPEADr2wg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">U Need A Unit</div><div class=\"table_desc\">Simple tool for converting world units into Hammer Units</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_31.webp\" data-caption=\"U Need A Unit\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_31\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YFJwTLDY!6q1InWhZAIrL3qKYl3w7Eg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Source</div><div class=\"table_desc\">Decompile Source .bsp files into Hammer .vmf files. Successor to VMEX</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_32.webp\" data-caption=\"BSP Source\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_32\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!8YhiXDaQ!3bg91hvTDLcC9Zsh85nIBw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VNIX Map Protector</div><div class=\"table_desc\">Small utility for helping protect bsp maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_33.webp\" data-caption=\"VNIX Map Protector\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_33\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cUoRmQpB!gyHm3AVlJJzKijvfra2KOg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Viewer</div><div class=\"table_desc\">Preview a map contained in a BSP file.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_34.webp\" data-caption=\"BSP Viewer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_34\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cNh0gb5b!xUzG4qvF-tcQ5bIIlPkZHA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Batch Compiler</div><div class=\"table_desc\">Batch compile Source and GoldSrc Maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_35.webp\" data-caption=\"Batch Compiler\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_35\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!lMpwFB6S!x9Vy0CtieqbdS73cPUOq_w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">RipEnt</div><div class=\"table_desc\">Older program used for editing entities within bsp maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_36.webp\" data-caption=\"RipEnt\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_36\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YUxnibzZ!Egzjnm-sjMdYZZy7b7ikuQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Twister</div><div class=\"table_desc\">Generates displacements that would usually take an extremely long time, or just be impossible to do in Hammer.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_37.webp\" data-caption=\"Twister\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_37\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QIBnhAZJ!xrXzxjLkbdPabTWMg2hRGQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">UComplier</div><div class=\"table_desc\">Compiler and Decompiler rolled into one tool</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_38.webp\" data-caption=\"UComplier\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_38\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8JgShTwR!KuoeJf7dyVwKCK-WHmVc8w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Compile Tracker</div><div class=\"table_desc\">Another great tool from RedMser which tracks Hammers compilation progress even when it seems to hang</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_39.webp\" data-caption=\"Compile Tracker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_39\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wNAHzAwS!FRiRcLJ06YWgtMs41YoLhg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Vmex</div><div class=\"table_desc\">Valve Map Extractor, Decompile BSP maps for source (original version)</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_40.webp\" data-caption=\"Vmex\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_40\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!Yd4jyS4L!bXYHaLdqh95Uv3EbpY-bWw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Vmex Mod</div><div class=\"table_desc\">Valve Map Extractor modified version (Successor to VMEX)</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_41.webp\" data-caption=\"Vmex Mod\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_41\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZE4R3TCb!yzUGTmV2CnIT8Ehx-_rJdQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half Life Game Level Viewer</div><div class=\"table_desc\">DirectX based application to open and view Half Life 1 game files (Source Code)</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UYwxSIya!FpxFvBhXYcyuGtsVHHJA5Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Transparency DLL for WON Half-Life</div><div class=\"table_desc\">Custom DLL that supports transparency in Half-Life for pre Steam WON</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hMZmGaRT!XYiccedYD_zQHNx4wDx6bA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Compiler Plugin - Nightfire</div><div class=\"table_desc\">Displays all options for, and facilitates, compiling maps for Nightfire</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QVpklIrL!b_pk50ISBIUeV5ErMYOg9A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VBSP h4xed</div><div class=\"table_desc\">A modified version of VBSP designed to greatly increase the maximum width and length of visleaves.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0EgzmAKa!ajktQHfHgoKSB-c8tvhR7w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Protector</div><div class=\"table_desc\">Small prefab to help protect your map</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!REJw1C6A!xMWET-aqsYc0PW2r7VXjKg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Mappers Pack</div><div class=\"table_desc\">Collection of the main tools required for mapping with GoldSrc</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AEZX1JoI!uTAFrW874u_o_7XYegzrrQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Mapping Tools</div><div class=\"table_desc\">Collection of tools useful for mapping with GoldSrc</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FJwHXKrI!gyp1m-5aMID6qal5F3_sIQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Transparency DLL for STEAM Half-Life</div><div class=\"table_desc\">Custom DLL that supports transparency in Half-Life for Steam</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8E5Wga7A!kOWYeiS3-r5Ss2S9JBzFwA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">QUARK</div><div class=\"table_desc\">Quake Army Knife, multi-purpose tool for games based on or similar to the Quake engine</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_42.webp\" data-caption=\"QUARK\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_42\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AUJmDYQD!vcroK-1OOw0Gc1IesRhzAA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Revolver</div><div class=\"table_desc\">Allows you to create interesting 3D shapes without going through all the hassle of vertex manipulation</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_43.webp\" data-caption=\"Revolver\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_43\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FV5WjJqQ!7cDdr0O07VgDYKDSSZ3fEQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WinBSPc</div><div class=\"table_desc\">Convert .BSP files to .MAP files &amp; Extract files from .PAK or .SIN files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_44.webp\" data-caption=\"WinBSPc\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_44\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hchlgZiL!RhHCCc9WslXGRc3zncqDEA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Enigmas FGD Creator</div><div class=\"table_desc\">A graphical interface for creating and editing Half-Life FGD Files.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_45.webp\" data-caption=\"Enigmas FGD Creator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_45\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0EpkkYZI!N9wdByw6Asll5Qt1ICuZKw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hammer Units Converter (HUC)</div><div class=\"table_desc\">Standalone units converter</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_46.webp\" data-caption=\"Hammer Units Converter (HUC)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_46\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!Zdx3WTTb!wsjs9cCTpodNDJ_Z-ge9YQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Edit</div><div class=\"table_desc\">View and Edit the Entity information of a compiled BSP Map</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_47.webp\" data-caption=\"BSP Edit\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_47\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!hd5VTBSJ!6EPiMZBCdKcvIWWtsDCOog\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">EntEd</div><div class=\"table_desc\">Edit the entities of Source and GoldSrc games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_48.webp\" data-caption=\"EntEd\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_48\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xF4xBSqT!56DYBupq7DYThfMxXRLxSw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Viewer</div><div class=\"table_desc\">Small application for viewing map files, Superseded by crafty</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_49.webp\" data-caption=\"Map Viewer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_49\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1JBWAAaJ!L6y_m0vYd2kuA4nO1WRmXw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GenSurf</div><div class=\"table_desc\">Quake2/3 map surface generator</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_50.webp\" data-caption=\"GenSurf\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_50\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UQ5XFCoZ!AufL7lsGUAilYx-fz9KWHg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Darkulator</div><div class=\"table_desc\">Adjust the light levels in a map</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_51.webp\" data-caption=\"Darkulator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_51\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!wdRiwaRS!ka3FKbKti_tR9VpAsOhNrQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">MapFool</div><div class=\"table_desc\">Aids in nthe process of converting GoldSrc maps into Source maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_52.webp\" data-caption=\"MapFool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_52\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1dASUAYS!fNqxI-RE1XXQrqKsKJgFRA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom Lightstyle Generator</div><div class=\"table_desc\">Create a custom light style for your goldSrc maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_53.webp\" data-caption=\"Custom Lightstyle Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_53\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VdRXmJBA!zsa5GtLHucDpEyU0f6uFeA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WorldCraft Color Editor</div><div class=\"table_desc\">Hack the colors in WorldCraft</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_54.webp\" data-caption=\"WorldCraft Color Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_54\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AUAxiCiK!8q_9HY7Zahpmf2zQgU89Fw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Tread3D</div><div class=\"table_desc\">Multi Game Map Editor that supports Half-life</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_55.webp\" data-caption=\"Tread3D\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_55\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kAAxlZCR!zXyknivLQ8hjjznmFKwoNw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">TCG - Batch Compile GUI</div><div class=\"table_desc\">GUI frontend for Source compiling tools</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_56.webp\" data-caption=\"TCG - Batch Compile GUI\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_56\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xVhxnTKC!twedsJt87QT4vVsMB-cC7g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life Quake3 Map Converter</div><div class=\"table_desc\">Convert maps between Quake3 and Half-Life</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_57.webp\" data-caption=\"Half-Life Quake3 Map Converter\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_57\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YdgRiZ7J!hIjYW655bwGsNJ2RuogKjQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Valve Batch Compile Tool</div><div class=\"table_desc\">Standalone Compiler for Source Maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_58.webp\" data-caption=\"Valve Batch Compile Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_58\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FVYFzICR!qroYV50kJxmIMKYQpNfpHw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Map Generator</div><div class=\"table_desc\">Small tool for generating Random Source Maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_59.webp\" data-caption=\"Source Map Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_59\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JYxBWSKQ!67Rog-7KWcKW4kp5M216JA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Gear Craft</div><div class=\"table_desc\">Editor used for 007 Nightfire map creation</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_60.webp\" data-caption=\"Gear Craft\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_60\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0FRCGSaT!qZQ0Q7WHuROQTdEf_PxpHA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sledge Editor</div><div class=\"table_desc\">Free, Opensource, drop-in editor replacement for Hammer</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_61.webp\" data-caption=\"Sledge Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_61\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sFhhlCQC!56EQoIgVo0TaakPWeflPsw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Automap</div><div class=\"table_desc\">Random SP map generator for Half-Life</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_62.webp\" data-caption=\"Automap\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_62\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pYwVwBDL!jm-cpeeGGoOy_WKOVVfMrw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Map compiler GUI</div><div class=\"table_desc\">GUI Compiler for Source Maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_63.webp\" data-caption=\"Source Map compiler GUI\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_63\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EBgU1ZSB!6Mv32IGZNT8Ea5OSIk4DNA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Compile Analyzer</div><div class=\"table_desc\">Analyzes and reports on errors in the map compilation process</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_64.webp\" data-caption=\"Source Compile Analyzer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_64\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8AogBZ7Q!O2U5lvQLYzA2w_3SWfjfKg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WorldCraft</div><div class=\"table_desc\">The Original official mapping utility from Valve</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_65.webp\" data-caption=\"WorldCraft\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_65\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YM4XkATT!YfoEcM-BpBLc2FiRxlhYTg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Forest Generator</div><div class=\"table_desc\">Generate forests within your maps based on surface type</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_66.webp\" data-caption=\"Forest Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_66\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hUYjACwS!dZ2vDTMb_7-wp6_1Ki3SWw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom FGDs GoldSrc</div><div class=\"table_desc\">A collection of FGD's for GoldSrc</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_67.webp\" data-caption=\"Custom FGDs GoldSrc\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_67\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gYxQgCyD!iEjH6J80pczjHi4dMRkiMw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom FGDs Source</div><div class=\"table_desc\">A small collection of FGD's for Source</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_68.webp\" data-caption=\"Custom FGDs Source\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_68\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wNhXiCBa!XCsWFTnnjvhtIGUupGQCtQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Analyst (MAN)</div><div class=\"table_desc\">A GUI tool for embedding custom content</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_69.webp\" data-caption=\"Map Analyst (MAN)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_69\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0VpHTLKY!Ns6X0EP8KyK6CaXMwJsWtA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hammer unit converter</div><div class=\"table_desc\">integrates into Hammer and allows conversion of Source Engine units into metric or imperial units.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4YIVWYRY!zkzyIx1PaCWrQNUz6h71SQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">JPHL Map Maker</div><div class=\"table_desc\">Alternative Map Editor for GoldSrc games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_70.webp\" data-caption=\"JPHL Map Maker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_70\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QVoCFJ5T!o9JJyqXJyuynFCm_mNDvrQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Toolbox Lux RAD Editor</div><div class=\"table_desc\">Edit light values inside a Maps RAD file</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_71.webp\" data-caption=\"Toolbox Lux RAD Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_71\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MQBQQYiZ!8jXqLh9LM3zNoacFIjBJyw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">MicroBrush</div><div class=\"table_desc\">Alternative to Hammer Editor for Level design</div>",
+    "Col2": "<a href=\"http://shrinker.seriouszone.com/projects/Microbrush3/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_72.webp\" data-caption=\"MicroBrush\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_72\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4QIG1IYK!JCXSySXsNcpmQOjb2DIhPw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Quake Scene Builder</div><div class=\"table_desc\">Basic Model viewer for GoldSrc</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_73.webp\" data-caption=\"Quake Scene Builder\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_73\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dMx1QKLT!k7EyLSu9pv3JEUttOu6hdA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WinBSPzip</div><div class=\"table_desc\">This program adds custom content to a BSP. It is a GUI version of Valve's bspzip.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_74.webp\" data-caption=\"WinBSPzip\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_74\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EB5RUZZC!Kg4ljr25Su083UUxYfhFEw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ToolBox Editor (Quake Engine Map File Text Editor)</div><div class=\"table_desc\">Modify the entities of a .map file by editing its text</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_75.webp\" data-caption=\"ToolBox Editor (Quake Engine Map File Text Editor)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_75\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JNAlFQyD!EDGUsHHXKag7jbjMS0rXuw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Joiner</div><div class=\"table_desc\">Joiner is a little application that reads in a template .vmf file and produces a new .vmf filled with supports based on your template and customised settings or config.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_76.webp\" data-caption=\"Joiner\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_76\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oEZhjLoK!fI0Y3ifai7AjF9ZZapj0_g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Valve Batch Compile Tool</div><div class=\"table_desc\">Valve Batch Compile tool (VBCT) is a source map Compile tool</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_77.webp\" data-caption=\"Valve Batch Compile Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_77\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!tFgEkbpL!pINUwEkUWIE1Mwy6j4YuNw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life Level Compilation Controller (HLCC)</div><div class=\"table_desc\">Tool for compiling Maps from hammer</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_78.webp\" data-caption=\"Half-Life Level Compilation Controller (HLCC)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_78\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UJYHxALL!ilnwx9zp1gEZuFGikFVagg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">The Compilator</div><div class=\"table_desc\">GUI Compiler for Half-Life Maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_79.webp\" data-caption=\"The Compilator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_79\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lBYR2ZoQ!zTjrB6_sW80GS0JlcmGECQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">leakmarker</div><div class=\"table_desc\">This is a tool for showing leaks in a map made in WordCraft.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_80.webp\" data-caption=\"leakmarker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_80\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kJhjHAxL!IR6q10ygt6fjv_zSeSlR_Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Terragen</div><div class=\"table_desc\">Older free for personal use version of Terragen for sculpting landscapes</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_81.webp\" data-caption=\"Terragen\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_81\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kIpUTKgB!7tFMpLplbzuT6T6PStGiGg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Nem's Mega 3D Terrain Generator</div><div class=\"table_desc\">Generates Terrain for Games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_82.webp\" data-caption=\"Nem's Mega 3D Terrain Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_82\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4RQBUbhS!6IOX4aZvN2-A25ou10qcYA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Performance Menu</div><div class=\"table_desc\">Simple bindings for debugging maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_83.webp\" data-caption=\"Map Performance Menu\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_83\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UVwCCTLR!_4HAdvvcpb46vFX3510x4g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GTK Radiant</div><div class=\"table_desc\">The open source, cross platform level editor for id Tech games.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_84.webp\" data-caption=\"GTK Radiant\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_84\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YBZTCQST!kjG63egA9i9ew0mbK96rsQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Nightfire BSP Decompiler</div><div class=\"table_desc\">Decompiles some BSP maps with most support for Nightfire 007</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_85.webp\" data-caption=\"Nightfire BSP Decompiler\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_85\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cJpgFCia!T_dZ0MpVp4JxWGN2Pqielg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hazard Team Compile Tool</div><div class=\"table_desc\">A tool for compiling maps from VMF to BSP format</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_86.webp\" data-caption=\"Hazard Team Compile Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_86\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IdJmXA4I!d6Yop4-Sid6ysJW7ok9ghA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Orbital Studio Batch Compiler</div><div class=\"table_desc\">Batch map compiler for GoldSrc</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_87.webp\" data-caption=\"Orbital Studio Batch Compiler\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_87\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NdR0HSJI!hDaX8DSM-OeIOCqHHyiS1w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">QE Radiant</div><div class=\"table_desc\">Alternative Map Editor mainly used for Quake 2 but compatible with GoldSrc</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_88.webp\" data-caption=\"QE Radiant\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_88\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kYADkRRQ!YFRjgjpYJ8cdgt5c0D0EOQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Valve Hammer Editor Compiler</div><div class=\"table_desc\">Standalone Compiler for GoldSrc Maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_89.webp\" data-caption=\"Valve Hammer Editor Compiler\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_89\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AIgVgSRS!5ayNaepu4Wp70JrvW2322g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sky Viewer</div><div class=\"table_desc\">Great little application for viewing skys used in game</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_90.webp\" data-caption=\"Sky Viewer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_90\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xcQQ3QaZ!Zc8xutS6XSyAITc7Mc2Uhw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Protections</div><div class=\"table_desc\">Small collection of obfuscation techniques for maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_91.webp\" data-caption=\"Map Protections\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_91\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AIhSBDAL!Gr9EPbTGxm1cC7vTkWdJyA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">EntSpy</div><div class=\"table_desc\">Entspy is program for viewing and editing the entities of compiled map</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_92.webp\" data-caption=\"EntSpy\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_92\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oI4WjZhD!cobTlA9PTAhDhGHD-lhyMg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Overview Description Generator</div><div class=\"table_desc\">makes textfiles to go with your overview pictures from Half-Life maps.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_93.webp\" data-caption=\"Overview Description Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_93\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UEhl1SBY!W0bwBuodwS29ooOR32MGTg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP2MAP</div><div class=\"table_desc\">Decompile GoldSrc .bsp files into Hammer .map files.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_94.webp\" data-caption=\"BSP2MAP\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_94\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!RIw2GarB!SErCmOoxxoW-YygMjiViLw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom Batch File Manager</div><div class=\"table_desc\">This program will help you to manage all your customs files, for your maps , texture, models or mods </div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_95.webp\" data-caption=\"Custom Batch File Manager\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_95\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xcxBlJDY!ztoHARutN0Ad--oO9dfkAQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Unprotect</div><div class=\"table_desc\">Decrypt files that have been protected with BSPProtect (commandline)</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ldhi2ILQ!Ezi7U_Rg3wcJ8V898PYxEA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom Source Tools</div><div class=\"table_desc\">Similar to ZHLT for Goldsrc, it speeds up compilation for Source</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gEgnDLzY!KDLJGhlN5iVAINE9I0yLqQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Auto Compiler</div><div class=\"table_desc\">automatically finds mapfiles to compile in the directory it is run</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pIIm3YaC!8rJLSxHQE8IeXuA0huFx6g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom ZHLT by vluzacn (VHLT)</div><div class=\"table_desc\">ZHLT rebuilt and up to date with latest engine build</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5VgxgBwR!7uoW7k8u6pwgkPRJrBkAtg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Textract</div><div class=\"table_desc\">Small Tool for extracting Textures from BSPs and into WADs. Includes GUI Versions WinTextract &amp; Textract Suite</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xcoW2ChJ!E7Tm0pFNMc6odga4bN775A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">DrawMap</div><div class=\"table_desc\">Create a Map using color information through 2D</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gZpWFYTb!fIuh4Au-FaXZHXprGC95Pw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HDR Targa Tools</div><div class=\"table_desc\">Tools to aid in creation of HDR Targa files (command line)</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xV5w1CyS!SnTY1T2RqIkOfgTXaUPw0Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Cancel Compile</div><div class=\"table_desc\">Batch files for killing the compile processes</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oUhQ0Rra!TCSnENRfdXgmxugc6My8SA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">FGD Wikifier</div><div class=\"table_desc\">Create an easily readable version of an FGD (commandline)</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dBBCTaBQ!vXueyuGonhbt_2ZcOLJD6w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Zoners Half-Life Tools (ZHLT)</div><div class=\"table_desc\">Modified versions of the tools used in the Map compilation process</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xU5wyAQZ!wkXcNe9DzAHkeaUlpY1Tnw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Mapster</div><div class=\"table_desc\">Frontend wrapper for netvis</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lNQRhS6a!Z4ISsciRPLrFFCLMbxDOEQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ZPackager</div><div class=\"table_desc\">this will pack every custom item into your map up to and including map over views</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kJZw1JiA!0fNcZqQCrpRqXMTMIqQLWg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Vert Alert</div><div class=\"table_desc\">Find, display, and optionally round floating point plane coordinates in Source engine .vmf files.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xAYDhRgR!UZcQJtPLViOXXdlVs0DGVA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">wc33mapconv</div><div class=\"table_desc\">Convert Worldcraft 3.3 Maps into the Radiant Format</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5JQmEISJ!3iSSZVsGwOwdzBIXOf1Aug\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">opt_entdata</div><div class=\"table_desc\">Optimizes the entities in compiled maps, allowing you to include more entities and also reduce network traffic.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9ApDRR4L!yxQRfei_pihCwglN32McNA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">OGLE the OpenGLExtractor</div><div class=\"table_desc\">OGLE is a rather amazing 3d tool that can extract shapes from 3d scenes being rendered on a computer screen</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EBp2wIiI!NIGC_FpRzw0oGAX4WRaarQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Nav Fixer</div><div class=\"table_desc\">fixes the annoying Navigation Mesh was built using a different version of this map</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8ZQBjJpZ!TOSyufNmWZuvlkeCSCLi4Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SourceCraft</div><div class=\"table_desc\">converts Minecraft files into vmf files</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4Y43zCrK!QnND_-5nnwAoJNbSJ0KwqQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">MazeGenTool</div><div class=\"table_desc\">Generate mazes for your level in GoldSrc</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sdYVQLgA!u97HE-0g5PKnhIujYyIlWA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Random Map Creator</div><div class=\"table_desc\">RandMap is a random map generator for Half-Life</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xMRCAarQ!kperx7YF3YMxesma_abDXw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Super Half-Life Tools</div><div class=\"table_desc\">Update to ZHLT</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YAImGTbY!MAIK53xWeVxh0KlZSh7Gbw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VIS2VCD</div><div class=\"table_desc\">VSIF2VCD is a command line scenes.image extractor/decompiler.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cchEgJBa!AlsKHu37qauAjNQSGKDr0A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Backup</div><div class=\"table_desc\">Great little command line tool for creating a backup of your map during the compile process</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FIQnVKbT!SVEH_kf-Z9NF2_uJ5PWiig\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Vgroup (Auto VisGroup'er)</div><div class=\"table_desc\">This tool can help you by grouping the map into VisGroups based on a grid.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VERwnZgZ!OH_V8F6EKlkSvzgDrtWbSA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Quake Tools Legacy</div><div class=\"table_desc\">Legacy compilation tools for quake</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sVQ0mI7B!0jPQHHKLcwQhj-k31fXSkQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HLFix</div><div class=\"table_desc\">hlfix is a tool that converts Worldcraft/VHE format files (.rmf) to standard .map files</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MJxz0ILR!sYv6EF0_EcaDNqkJgQkjhQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Xash studiomdl</div><div class=\"table_desc\">Modified Compiler with support for large models and textures</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wUJTUJxT!A1HsMTLcwKQXqnCOkUmWmA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HDRVTF</div><div class=\"table_desc\">Tools supporting the creation of HDR Images for the Engine</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xV5w1CyS!SnTY1T2RqIkOfgTXaUPw0Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hammer</div><div class=\"table_desc\">The Official Editor for Valve Games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_96.webp\" data-caption=\"Hammer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_96\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZEQHDDYA!cEP5GlyUy4zfd5dQeXUMEg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP View</div><div class=\"table_desc\">Preview a map contained in a BSP file.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_97.webp\" data-caption=\"BSP View\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_97\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kRQGmKpb!v2jP5Zq0mxp-iwuuwMpW3w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSP Tools</div><div class=\"table_desc\">Contains 3 Tools, BSP_View, BSP_Tool and BSP_Slicer all of which perform useful tasks on Half-Life Maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_level/tl_98.webp\" data-caption=\"BSP Tools\" target=\"_blank\"><div class=\"table_preview\" alt=\"tl_98\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pIgiyRLI!FhXuGnwY9lBeB4pltloj9g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  }
+]

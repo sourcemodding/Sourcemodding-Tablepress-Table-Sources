@@ -529,7 +529,7 @@
   },
   {
     "tool_name": "Lump Tool",
-    "tool_description": "Edits and creates WAD files for the game Doom. It\\'s 9 years too late, but better late than never! \r\n",
+    "tool_description": "Edits and creates WAD files for the game Doom. It's 9 years too late, but better late than never! \r\n",
     "tool_preview_image": "tma_43",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -545,7 +545,7 @@
   },
   {
     "tool_name": "Terrain Texture Generator",
-    "tool_description": "Here\\'s a little toy that synthesizes a unique terrain texture\r\nby blending a set of base texture layers",
+    "tool_description": "Here's a little toy that synthesizes a unique terrain texture\r\nby blending a set of base texture layers",
     "tool_preview_image": "tma_44",
     "tool_homelink": "",
     "tool_engine": "goldsrc_and_source",
@@ -617,7 +617,7 @@
   },
   {
     "tool_name": "Goldsrc Texture Viewer",
-    "tool_description": "Texture viewer for Valve\\'s GoldSrc engine (Requires Compilation)",
+    "tool_description": "Texture viewer for Valve's GoldSrc engine (Requires Compilation)",
     "tool_preview_image": "tma_51",
     "tool_homelink": "https://github.com/wtrsltnk/goldsrc-textures",
     "tool_engine": "goldsrc",
@@ -625,7 +625,7 @@
   },
   {
     "tool_name": "XWAD",
-    "tool_description": "utility that converts Wads to TGA\\'s",
+    "tool_description": "utility that converts Wads to TGA's",
     "tool_preview_image": "",
     "tool_homelink": "https://developer.valvesoftware.com/wiki/Xwad",
     "tool_engine": "goldsrc",

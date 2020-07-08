@@ -1,0 +1,194 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/410/\" target=\"_blank\"><div class=\"table_tut_title\">Menu Music in Steam</div><div class=\"table_tut_desc\">Play an MP3 in your mod's startup screen.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Doofus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/230/\" target=\"_blank\"><div class=\"table_tut_title\">Sentence Scripting</div><div class=\"table_tut_desc\">This is where the file 'sentences.txt' in \\valve\\sounds comes up.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: RaveN\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/229/\" target=\"_blank\"><div class=\"table_tut_title\">Getting Sounds to Loop In-game</div><div class=\"table_tut_desc\"> I explain how to prepare sounds so they loop properly in game.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: RaveN\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/228/\" target=\"_blank\"><div class=\"table_tut_title\">Clear Recording</div><div class=\"table_tut_desc\">Setting up equipment for noiseless recording</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: RaveN\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/227/\" target=\"_blank\"><div class=\"table_tut_title\">Basics Of Sound Design</div><div class=\"table_tut_desc\">To create atmospheric soundeffects, you need to keep several basic rules in mind.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: RaveN\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Making_Custom_Sounds\" target=\"_blank\"><div class=\"table_tut_title\">Making Custom Sounds</div><div class=\"table_tut_desc\">Recording and preparing sounds for use in HL. Some aspects also apply to Source.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!hZR3TTiC!wvW8MNPA6tjUg4TMYOnjMw\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: alexb911\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012831/http://www.vlatitude.com/tutorials.php?tutID=7\" target=\"_blank\"><div class=\"table_tut_title\">Sound Tutorial</div><div class=\"table_tut_desc\">A level just isn't a level without some sort of sound in it, whether it be the sounds of computers in a computer room or a CD audio track.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: Brian\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012408/http://www.vlatitude.com/tutorials.php?tutID=11\" target=\"_blank\"><div class=\"table_tut_title\">Scripted Sentences</div><div class=\"table_tut_desc\">Want to get those NPCs talking? Read on!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: Vlad \"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20050205223600/http://www.planethalflife.com/izuno/sound_tut.htm\" target=\"_blank\"><div class=\"table_tut_title\">Custom Sounds Tutorial</div><div class=\"table_tut_desc\">Custom Sounds Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: izuno\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20060113103731/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=21\" target=\"_blank\"><div class=\"table_tut_title\">Looping Ambient Generic Sounds</div><div class=\"table_tut_desc\">How to loop those ambient_generic sounds.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_countermap\" alt=\"counter-map\" data-title=\"Author: Relic25\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/88/Formatting_Sound_Files_Using_Goldwave\" target=\"_blank\"><div class=\"table_tut_title\">Formatting Sound Files Using Goldwave</div><div class=\"table_tut_desc\">How to convert sounds to proper HL format using Goldwave</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: fokker\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/87/HL_Sound_Files\" target=\"_blank\"><div class=\"table_tut_title\">HL Sound Files</div><div class=\"table_tut_desc\">A perfect mixdown for your ingame sounds.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Forceflow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/51/Mixing_Weapon_Sounds\" target=\"_blank\"><div class=\"table_tut_title\">Mixing Weapon Sounds</div><div class=\"table_tut_desc\">the low tech way...</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Namphibian\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12344\" target=\"_blank\"><div class=\"table_tut_title\">How to add menu music</div><div class=\"table_tut_desc\">How to add menu music</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: VeldroN\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12143\" target=\"_blank\"><div class=\"table_tut_title\">Complete Music Tutorial (CS 1.6)</div><div class=\"table_tut_desc\">A complete music tutorial for GoldSource-based games</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Admer456\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10740\" target=\"_blank\"><div class=\"table_tut_title\">SOUND EDITING TUTORIAL</div><div class=\"table_tut_desc\">SOUND EDITING TUTORIAL</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Tatwaffe\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10265\" target=\"_blank\"><div class=\"table_tut_title\">Sounds on map!</div><div class=\"table_tut_desc\">Sounds on map!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  Tatu Eugen\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/3421\" target=\"_blank\"><div class=\"table_tut_title\">Installing Custom Sound Files</div><div class=\"table_tut_desc\">Installing Custom Sound Files</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Guest\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020222105910/http://www.planethalflife.com:80/wavelength/levels/resources/materials.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Texture Materials Sounds</div><div class=\"table_tut_desc\">determines the sound that each texture makes when walked on, hit, or destroyed.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: HellBringer, Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020614044009/http://www.planethalflife.com:80/wavelength/levels/resources/sounds.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Sounds</div><div class=\"table_tut_desc\">This is a complete list of EVERY .wav file from the pak0.pak file for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: HellBringer, Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020204182144/http://lunaran.fragland.net:80/lsite.php?content=hlsounds\" target=\"_blank\"><div class=\"table_tut_title\">HALF-LIFE'S AMBIENT SOUNDS</div><div class=\"table_tut_desc\">HALF-LIFE'S AMBIENT SOUNDS</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: lunaran\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011226225933fw_/http://halflife.qeradiant.com:80/misc/misc02.htm\" target=\"_blank\"><div class=\"table_tut_title\">Basic QERadiant & Half-Life & Editing Resources</div><div class=\"table_tut_desc\">Basic QERadiant & Half-Life & Editing Resources</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Tiger\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/how-to-easy-make-a-sound-for-goldsource\" target=\"_blank\"><div class=\"table_tut_title\">How to make a sound for gold source</div><div class=\"table_tut_desc\">This tutorial shows you how to make a sound compatible for goldsource engine</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: LastLifeOfficial \"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/how-to-change-sounds-in-half-life\" target=\"_blank\"><div class=\"table_tut_title\">How to change sounds in Half-Life</div><div class=\"table_tut_desc\">A quick tutorial on how to replace the .wav files with your own.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: nmb24\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061017025511/http://collective.valve-erc.com/index.php?doc=1070392493-12550200\" target=\"_blank\"><div class=\"table_tut_title\">Looping custom ambient_generic sounds Half-Life</div><div class=\"table_tut_desc\">A quick guide to looping .wav sound files in Half-life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Veli-Pekka Lehtonen\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020829144302/http://tf.valve-erc.com/kbase.php?id=23\" target=\"_blank\"><div class=\"table_tut_title\">VOX Announcer Word Reference</div><div class=\"table_tut_desc\">Using the words on this list, you can create sentences for the VOX announcer to say. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: aXon\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020827001013/http://www.gamedesign.net/?file=rust/content/half-life/tutorials/speaker\" target=\"_blank\"><div class=\"table_tut_title\">Taming the Speaker Entity</div><div class=\"table_tut_desc\">The 'speaker' entity creates the effect of having a public-address system in your level</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: Mithodiel\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=595080353\" target=\"_blank\"><div class=\"table_tut_title\">Speak And Spk Commands</div><div class=\"table_tut_desc\">Speak And Spk Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Intresless\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1203622509\" target=\"_blank\"><div class=\"table_tut_title\">CD Music Commands</div><div class=\"table_tut_desc\">CD Music Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: snow344\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20031028210322/http://home.att.net/~firebinder/hl/sentences1.htm\" target=\"_blank\"><div class=\"table_tut_title\">Custom Sentences</div><div class=\"table_tut_desc\">Custom Sentences</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: firebinder\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=1339724773\" target=\"_blank\"><div class=\"table_tut_title\">How to have perfect sound.</div><div class=\"table_tut_desc\">How to have perfect sound.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Tesco Express\"></div>"
+  }
+]

@@ -4,7 +4,7 @@
     "tut_description": "Make a simple mini mod without coding",
     "tut_link": "http://web.archive.org/web/20060718214436/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=6&amp;PHPSESSID=58b1d49f30b6096c665ed91fa724da73",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -13,7 +13,7 @@
     "tut_description": "Basically a gathering together of ideas on how to make a map scary to the player.",
     "tut_link": "http://web.archive.org/web/20060721154920/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=11&amp;PHPSESSID=861f5b14fa7400f4e56aa4a55bf12e8a",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -22,7 +22,7 @@
     "tut_description": "A mini tutorial on how to record in game action to produce a movie that will run in most media programmes. ",
     "tut_link": "http://web.archive.org/web/20070616135444/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=13",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -58,7 +58,7 @@
     "tut_description": "This is basically a document that highlights all of the important changes from HL1 to HL2 mapping. ",
     "tut_link": "http://web.archive.org/web/20080921150725/http://www.vlatitude.com/tutorials.php?tutID=61",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Zombie@computer",
     "tut_author_alt": "vlatitude"
   },
@@ -67,7 +67,7 @@
     "tut_description": "A tutorial on how to change the format of the menu. Be advised that this is not a tutorial one how to create graphics or art, but simply how to alter the menu format for your mod.",
     "tut_link": "http://web.archive.org/web/20080921150736/http://www.vlatitude.com/tutorials.php?tutID=63",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Mr. Greenfish",
     "tut_author_alt": "vlatitude"
   },
@@ -76,16 +76,16 @@
     "tut_description": "How to Install Maps",
     "tut_link": "http://web.archive.org/web/20151029160214/http://www.slackiller.com/New%20Tuts/how_to_install.html",
     "tut_download": "",
-    "tut_game": "CSS",
+    "tut_game": "css",
     "tut_author_name": "Eyeronik",
     "tut_author_alt": "eyeronik"
   },
   {
     "tut_name": "Half-Life 2 Command-line Parameters & Cheats",
-    "tut_description": "Here\\'s the list of other command-line parameters.",
+    "tut_description": "Here's the list of other command-line parameters.",
     "tut_link": "https://web.archive.org/web/20090505020158/http://hl2.gamegate2k.com:80/halflife2/halflife2commandline",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "gamegate2k",
     "tut_author_alt": "generic"
   },
@@ -94,7 +94,7 @@
     "tut_description": "The purpose of this page is to answer most of the commonly asked questions about Scripting and problems related to Scripting.",
     "tut_link": "https://web.archive.org/web/20080410142429/http://www.counter-script.net:80/index.php?id=44",
     "tut_download": "",
-    "tut_game": "CSS",
+    "tut_game": "css",
     "tut_author_name": "counter-script",
     "tut_author_alt": "generic"
   },
@@ -112,7 +112,7 @@
     "tut_description": " VERC: Half-Life 2 and Source Mod FAQ",
     "tut_link": "https://twhl.info/wiki/page/VERC%3A_Half-Life_2_and_Source_Mod_FAQ",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "autolycus",
     "tut_author_alt": "twhl"
   }

@@ -1,0 +1,156 @@
+[
+  {
+    "Col1": "Name / Purpose",
+    "Col2": "<div class=\"table_header_weblink\"></div>",
+    "Col3": "<div class=\"table_header_preview\"></div>",
+    "Col4": "Engine",
+    "Col5": "<div class=\"table_header_dl\"></div>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">half-life proxy</div><div class=\"table_desc\">With Half-Life Proxy you can play Half-LIfe via internet over a network-computer. Deprecated</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_0.webp\" data-caption=\"half-life proxy\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_0\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VAJHCCYZ!iCPnfr93KznpBkOYxCZ45A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HLDS</div><div class=\"table_desc\">Half-Life Dedicated Server, A Tool required for running Goldsrc based servers. Deprecated, use Steam CMD instead</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_1.webp\" data-caption=\"HLDS\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_1\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lUBBzZhI!AlPp2MiFTkk08Qtquy5XEQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">KHL</div><div class=\"table_desc\">Map Cycle Generator and Launcher</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_2.webp\" data-caption=\"KHL\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_2\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4UZA3Bob!V569Ka78qk3n7nKmCNEf3A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map Cycler</div><div class=\"table_desc\">A tool to setup a mapcycle for your server</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_3.webp\" data-caption=\"Map Cycler\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_3\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!RYQkgBSI!23T6Nv8jnYY9whwbmtAzqg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Mod Dedicated Server Tool</div><div class=\"table_desc\">Eases the process of setting up a stand alone dedicated server for Source mods</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_4.webp\" data-caption=\"Source Mod Dedicated Server Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_4\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lZIlTSyI!uKlq4C7z-zKcIXE3xK-oZg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Steam Game Server Query</div><div class=\"table_desc\">Queries the steam master server for running game servers [no longer seems to work</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NJpV2LSR!zP1BCpjGXv3wFc5HpllGZA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SRCDS</div><div class=\"table_desc\">Source Dedicated Server, A Tool required for running Source based servers. Deprecated, Use SteamCMD instead</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_5.webp\" data-caption=\"SRCDS\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_5\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VA4wSLKb!7jvVAdPYAWebKsYD1GHA6A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Condenser</div><div class=\"table_desc\">condenser is a bootstrapper for installing, configuring, &amp; launching Steam dedicated server apps</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gIwVjDSD!LcXmyiSlwpkc1YyQZExoqg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Linux Game Server Manager</div><div class=\"table_desc\">These are command line tools for quick, simple deployment of various dedicated game servers using SteamCMD.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EYJhmKbI!hO_bKs_XR6YM6vGYwqPMCQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Steam CMD</div><div class=\"table_desc\">The Official tool and Successor to HLDS and SRCDS. use this to create your Dedicated servers for Valve Games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!RZ5SgLTa!ASIJ7G_4rA68f3zPPXW9zQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">AutoUpdate</div><div class=\"table_desc\">Install and automaticly update any game server</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MQomRIyS!7jdM2PmcCF_KR9xri9vtwA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SteamCMD Guardian</div><div class=\"table_desc\">A script to run with Steam CMD that makes the process easier for setting up dedicated servers</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0YwCzI7A!2srVvsG8Rq9w5SYHUZrv4A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SteamCMD GUI</div><div class=\"table_desc\">Graphical interface for SteamCMD</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_6.webp\" data-caption=\"SteamCMD GUI\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_6\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dVoGgaYI!98v-jTJAoKw21VUr2f926Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ListIP Manager</div><div class=\"table_desc\">With this tool you can simply manage your listip.cfg files, such as sort, add, change or delete records.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_7.webp\" data-caption=\"ListIP Manager\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_7\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JYAUCZKa!Zv1Porf5iKiahp8Qzv8OXA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HLSW</div><div class=\"table_desc\">HLSW is a game server administration and server browsing tool that allows gamers to not only search for game servers and connect to them easily, but also allows administrators the ability to remotely monitor their server.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_8.webp\" data-caption=\"HLSW\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_8\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IcpUWDYK!TG1cNHUCxmCkezjuiBeZtQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HLDS Launcher</div><div class=\"table_desc\">Goldsource dedicated server (HLDS) launcher. This launcher is aimed to make running a dedicated server easier and at the best performance possible.</div>",
+    "Col2": "<a href=\"https://github.com/curdh/HLDS-Launcher\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_server/tse_9.webp\" data-caption=\"HLDS Launcher\" target=\"_blank\"><div class=\"table_preview\" alt=\"tse_9\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oVp0CAzZ!4NY4b0szh0tqdVSK3QtsFg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Dedicated Server Installer</div><div class=\"table_desc\">Install Source Dedicated Server with a single click</div>",
+    "Col2": "<a href=\"https://github.com/RadCraftplay/Source-Dedicated-Server-Installer\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NQQlhIKY!cHpyTQuLGBR6WDXXDNlOVg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SourceRadio</div><div class=\"table_desc\">SourceRadio makes it possible for players on a server to build a playlist together and listen to music as they play—even on public servers.</div>",
+    "Col2": "<a href=\"https://github.com/joelamos/SourceRadio\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EQYQwIBL!vI-hWLUyZ3IrYCP-cdsQGA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Remote Compile System (RCS)</div><div class=\"table_desc\">Remote Compile System</div>",
+    "Col2": "<a href=\"https://web.archive.org/web/20030724064220/http://rcs.valve-erc.com:80/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JIZRDKpQ!Xr-54XQIRCx0ZFQg8rjisg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Metamod</div><div class=\"table_desc\">Metamod is a plugin/DLL manager that sits between the Half-Life Engine and an HL Game mod</div>",
+    "Col2": "<a href=\"http://metamod.org/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dQBT1ApS!aYdZwxUo7sx-Xt4XzlwIFw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Metamod Source</div><div class=\"table_desc\">Metamod:Source is a C++ plugin environment for Half-Life 2</div>",
+    "Col2": "<a href=\"http://www.sourcemm.net/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dNRjyaZS!yIuj2pmExdVJhWccv0DWbg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  }
+]

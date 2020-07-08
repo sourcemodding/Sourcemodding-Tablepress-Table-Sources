@@ -1,0 +1,961 @@
+[
+  {
+    "Col1": "Name / Purpose",
+    "Col2": "<div class=\"table_header_weblink\"></div>",
+    "Col3": "<div class=\"table_header_preview\"></div>",
+    "Col4": "Engine",
+    "Col5": "<div class=\"table_header_dl\"></div>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">3DRipperDX</div><div class=\"table_desc\">Rip DirectX content from games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_0.webp\" data-caption=\"3DRipperDX\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_0\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UZAgwSBa!2l4qsgwi0TRxVv9ZdXOFgA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Alura &amp; Zoe for Nightfire</div><div class=\"table_desc\">Tools which can decompress and compress Nightfire's .007 archives.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oAwR2DhL!ndQUKFPw695k8DLDd3uYQg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Animation timing tools</div><div class=\"table_desc\">Tools for aiding in the creation of animations for view player models</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_1.webp\" data-caption=\"Animation timing tools\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_1\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cNgX2IrA!j6VjXo1BOXvgF7jqp07wZA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ATI hammer fix</div><div class=\"table_desc\">AMD dropped opengl support at one stage for their drivers and this helps rectify the issue</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0Vxl1KIB!ySrWg0ev-4RY35r52Bvl9w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BZIP2</div><div class=\"table_desc\">Compression tool used to create small files that can be transmitted by servers to gamers</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MEIUgTLD!suB_B1bKrrYYhGOSQmcY0w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BZIP2 tool</div><div class=\"table_desc\">GUI frontend for BZIP2</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_2.webp\" data-caption=\"BZIP2 tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_2\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BcJ2yLDZ!Z3vwTpQjDSJDpQmzGTiWJw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Cached.wad and gfx.wad SDK</div><div class=\"table_desc\">WAD Compiler</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_3.webp\" data-caption=\"Cached.wad and gfx.wad SDK\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_3\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oBAkQbra!82inO7WUFfCIxJ85jqAhIw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">cf sdktools</div><div class=\"table_desc\">Here are compiled versions of some of the tools from the source sdk released on 12/1/2004.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pMABgZzR!pRSWgqXC9ug7RX55HOp1bg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Collective Valve ERC Entity Documentation</div><div class=\"table_desc\">Documentation for the goldsrc sdk entities</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"[prev img=\"https://mega.nz/#F!gMBEQYSK!C-AnPjr6ynvb87TajCc96g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Content Installer Multi game</div><div class=\"table_desc\">Content installer for some source games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hIxHgDbZ!KsYGbBZ2M8hHa0IPBwIKuQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">CTX Converter</div><div class=\"table_desc\">Ctx converter removes the hassle of having to type in correct cmd commands to decompile ctx files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_4.webp\" data-caption=\"CTX Converter\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_4\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EdAgyIgZ!VDENJ9QWkqv97-zYPdOf8Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Cue List Tool</div><div class=\"table_desc\">Create cues in WAV sound files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_5.webp\" data-caption=\"Cue List Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_5\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9MojTYgJ!0XKJCrlb8BX5-BUAnFP5GQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom Compiler GUI</div><div class=\"table_desc\">Allows users to change the settings for the compiler(s) they wish to run</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_6.webp\" data-caption=\"Custom Compiler GUI\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_6\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QQZnUbyI!IOE5wzWH8dss0oiDYPMOAA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom Content Manager</div><div class=\"table_desc\">Manages custom content for source engine games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_7.webp\" data-caption=\"Custom Content Manager\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_7\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sQAhgbLT!HZBc1WdnDB5gLHehDoSi1g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Demo freak</div><div class=\"table_desc\">a tool for game replays recorded with Half-Life.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_8.webp\" data-caption=\"Demo freak\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_8\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hYgwHQYA!7JpFjEC0xztYegmpjTjrkg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">DuctTape</div><div class=\"table_desc\">A development integration and project building tool for Source Engine modders.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_9.webp\" data-caption=\"DuctTape\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_9\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!tAQRnZwB!gY0GgetM-qgP8i9c3Arc6w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Error Checker</div><div class=\"table_desc\">Checks for errors in your map</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4NAGwa4T!CXQDRyt_R2ppaGdYVW-4Jw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">FGD SublimeText Highlighter</div><div class=\"table_desc\">FGD highlighting for Sublime Text editor</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xVonBI7A!bAZkaUhw-lrft_3at97c4w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Fixed Steam HD Pack for Half-Life</div><div class=\"table_desc\">High definition pack for Half-Life and Opposing Force</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8JggwaSb!iGRl2t_w525ujHGkimDPMg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Game Extractor</div><div class=\"table_desc\">Extract content from game archive files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_10.webp\" data-caption=\"Game Extractor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_10\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NYoEiaJb!0_dciRzX4coRDUCp-m3tUg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GCF Scape</div><div class=\"table_desc\">Defacto tool for extracting content from steam archives</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_11.webp\" data-caption=\"GCF Scape\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_11\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hNwBTLAZ!tAWjkINk09hXBaGrjNoMsg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Gibbeds VPK Extractor + Fixed Version</div><div class=\"table_desc\">Extract the contents of VPK files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_12.webp\" data-caption=\"Gibbeds VPK Extractor + Fixed Version\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_12\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ABI3iLyQ!DkKDc6yJcN9sXX6gk8wuSA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GMOD LUA IDE</div><div class=\"table_desc\">Development environment for Garrys mod Lua files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_13.webp\" data-caption=\"GMOD LUA IDE\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_13\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kE4EVIpA!MsgRBDWyuu3PAe2gAhrZbg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Gold Wave</div><div class=\"table_desc\">Sound editing tool, useful for looping by adding cues</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_14.webp\" data-caption=\"Gold Wave\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_14\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8ZZjzDhD!SDdCrUDbsKlhchdv0whxnA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GUI Debug options for HL2DM</div><div class=\"table_desc\">Debug options for HL2 Deathmatch</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZJQgRbxJ!lf_9eLWg1DbSnhn-HwSIAA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HardOCP Benchmark</div><div class=\"table_desc\">Demo files to benchmark Half-Life 2</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IBolgLoZ!Q76T-PVp7Aq0JN51bMv9BA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL Mod Launcher</div><div class=\"table_desc\">Launch mods for Half-Life</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_15.webp\" data-caption=\"HL Mod Launcher\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_15\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hMB2HBrT!UpIZpyNEPIjgihOT50JTuQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Hl2 Model List</div><div class=\"table_desc\">Spreadsheet listing HL2 models</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cRpR3IyL!5eifD3iY5OL98zleD-MpBg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-life Advanced Effects (HLAE)</div><div class=\"table_desc\">a collection of tools to enrich GoldSrc</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QMhAALyB!jcKOpuhKMftAbADkchEvCQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">hllib</div><div class=\"table_desc\">HLLib is a package library for Half-Life that abstracts several package formats</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1Z5RRTAY!485JBBel8XNc96ZQrBjdVQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">MAGX's Tools</div><div class=\"table_desc\">A collection of tools to help with modding</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VUAixLQZ!YqX0Shx85lvxGDuS58jskg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Mod Maker</div><div class=\"table_desc\">A collection of tools to help with modding</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_16.webp\" data-caption=\"Mod Maker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_16\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0YRnkBaD!4jgib7VXAI-gzB2RiSKnUA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life Mod Folder Creation Tool (modtool)</div><div class=\"table_desc\">Automatically makes a blank mod!</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_17.webp\" data-caption=\"Half-Life Mod Folder Creation Tool (modtool)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_17\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IVASBSQJ!GnX1L9tVrhZXLNIr73HAYA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Nightfire Workshop</div><div class=\"table_desc\">Workshop tools for creating Nightfire content</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_18.webp\" data-caption=\"Nightfire Workshop\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_18\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QIwXWbyJ!FDO_DVfPoBodfNHgegfh1A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">NPP Valve Definition file</div><div class=\"table_desc\">Notepad++ syntax highlighting for Valve files</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZFo1RaJA!C7lyY6d4iYUa4IxR1XfHZA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">OmniToolz</div><div class=\"table_desc\">OmniToolz is a tweaker made for all games out there!</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pNx2zSDK!mDlyLdKPU6_aVn3D9a7dOA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">OpenVR</div><div class=\"table_desc\">Valves VR toolkit for the HTC Vive</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FRonnJzB!oAc1qCYLYzvrZXvf125MmQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">PackBSP</div><div class=\"table_desc\">PackBSP is a tool to help automatically manage and pack dependencies in custom maps for games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_19.webp\" data-caption=\"PackBSP\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_19\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kV5jCbBb!V2X5jLTNR6bsLcRedJ2A3Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">PAK Explorer</div><div class=\"table_desc\">Pak Explorer is a tool to help view and edit the contents of Qukae II PAK files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_20.webp\" data-caption=\"PAK Explorer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_20\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dUZR0DIb!pEGB3afe9QWgO6VFHXpVsg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Pakrat</div><div class=\"table_desc\">PakRat is a graphical replacement for the BSPZIP program</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_21.webp\" data-caption=\"Pakrat\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_21\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9I4mjCIZ!r3LPdDhGkrD8Ph_4MdjxPQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">PakScape</div><div class=\"table_desc\">PakScape is a PAK and PK3 explorer/creator</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_22.webp\" data-caption=\"PakScape\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_22\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sQ5BAKyb!C5TM9Of58T3TTS9dsXRPJQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Particle benchmark</div><div class=\"table_desc\">Benchmark which introduced some of the new and more advanced features of the Source engine and Valve's hybrid threading technology</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_23.webp\" data-caption=\"Particle benchmark\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_23\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QERRWZiT!yUCusSZDYNp26iUI_dLMJg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Phoneme Extractor</div><div class=\"table_desc\">Very useful tool when working with faceposer and creating dialog</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wNQQzKQI!EWHdWHrEuncwlQMY6RKPUQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">PiLauncher</div><div class=\"table_desc\">PiLauncher lists the mods installed on your favourite games to make them easy to launch</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0E41ka4S!tDp1Z3x4wUc3qcoNie8EIQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Res Generator</div><div class=\"table_desc\">Generate RES files for your maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_24.webp\" data-caption=\"Res Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_24\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hdwBRK7Z!eg2kUONIU8msefPxXbBaRg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ResGen</div><div class=\"table_desc\">RESGen. A tool to create .res files for Half-Life.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gRp0XAgQ!Th8vkw16qMpGVLn_aklEjw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sassilization Inline Patcher</div><div class=\"table_desc\">fixes 'bad inline model number #, worldmodel not yet setup' errors</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_25.webp\" data-caption=\"Sassilization Inline Patcher\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_25\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JNpAlZ7A!3u2kXdqho_TJ4QKgTKrfug\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Search Valve Wiki through Sublime Text</div><div class=\"table_desc\">Sublime Text filter system that searches the Valve wiki for the input text</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4YZUzQLI!OR9NaXyeaN4Gbbp-lDCwPg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Engine Automatic Demo Saver (SEADS)</div><div class=\"table_desc\">Automatically saves demos recored in source engine games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_26.webp\" data-caption=\"Source Engine Automatic Demo Saver (SEADS)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_26\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kEo1TQhI!pz-lACcMxwpVxK66w7IvmQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Game Starter</div><div class=\"table_desc\">Makes starting Source based game server as easy as possible</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_27.webp\" data-caption=\"Source Game Starter\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_27\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5IYQQTDb!-8CdrXoe-CaZPWRykvt2kA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Icon Pack</div><div class=\"table_desc\">selection of icons for Valve filetypes making development on windows easier</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_28.webp\" data-caption=\"Source Icon Pack\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_28\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cAJExSBZ!qUd2gRh07NONbvNiKfvbxg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Multi Tool</div><div class=\"table_desc\">Source Multi-Tool is meant as a replacement to Valves Source SDK Launcher</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_29.webp\" data-caption=\"Source Multi Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_29\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oIxyhB6Z!8490wNXXBzwxd9E5kflz-A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Sauce</div><div class=\"table_desc\">Source Sauce is a replacement out-of-game utility for the in-game options menu of Source Games. </div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_30.webp\" data-caption=\"Source Sauce\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_30\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lUok3b7S!ffMyrNxZErJ-e0xC9RW-qw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source SDK Gadget</div><div class=\"table_desc\">Windows gadget for the source sdk</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_31.webp\" data-caption=\"Source SDK Gadget\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_31\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EAYARZ7Q!u31tYm6bqWM9gqZtaQ3dEw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source SDK Launcher for Portal</div><div class=\"table_desc\">Launches source sdk for Portal</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_32.webp\" data-caption=\"Source SDK Launcher for Portal\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_32\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5JAlwA4J!fF5Mt9Y_hctiow3SpTdwag\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Shader Editor</div><div class=\"table_desc\">Create custom shaders for Source from a node based interface</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_33.webp\" data-caption=\"Source Shader Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_33\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!REB3lZha!4fHTkzWHNuX7AU5Iv-VMHA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SrcDemo2</div><div class=\"table_desc\">Render smoother Source Engine videos, faster.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_34.webp\" data-caption=\"SrcDemo2\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_34\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FUIRwJ5Z!XwBuqZP0AafAPo5yS4Po8g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">STEAM Source Mod Manager</div><div class=\"table_desc\">This tools manages your custom modifications for your Source based Steam games.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_35.webp\" data-caption=\"STEAM Source Mod Manager\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_35\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YAw20SJJ!H7N2NOaT23esyK7_C4HJYQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Steam File Manager</div><div class=\"table_desc\">Manages custom content for steam games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_36.webp\" data-caption=\"Steam File Manager\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_36\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MFAk1ZqK!pNeiDSvolJc_NUeLtirGmA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sublime-VDF-Languages</div><div class=\"table_desc\">Syntax highlighting for Valve formats in Sublime Text</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EVgS1YzR!a_eu73mCbGYetj6CDfzlow\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">TGA Thumbnail Plugin (Thumbplug)</div><div class=\"table_desc\">Adds TGA Thumbnails in windows</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cBQQ0JJJ!BHiZi1TB3RoHH2rb5yP0qg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ToGL</div><div class=\"table_desc\">OpenGL wrapper for Direct3D</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oVhGlaKR!n4f0LCU122WmFIemY2MVxQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Updated Half-Life Dlls</div><div class=\"table_desc\">This new render dll's support transparent models in many new MOD's.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sdg1ETwb!KmAE1Xon4F0GgO6psRcCgA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Valve Icon Pack</div><div class=\"table_desc\">Collection of icons for valve games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_37.webp\" data-caption=\"Valve Icon Pack\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_37\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hFxxhRRD!lC4uJ3zV2VXWJcscKmaPiA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VconsoleLib</div><div class=\"table_desc\">A PoC library for working with the VConsole network protocol.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!tQYmAIrJ!iw-BpEw1fcz-fjuq4c5ErA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VDF Parsing library</div><div class=\"table_desc\">Valve Data File Parsing library.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UIwV1ACB!iTDmhy9SonBnSTwnK_j6WQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VGUI Localization Tool</div><div class=\"table_desc\">Easily recreate your gui elements in other languages</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_38.webp\" data-caption=\"VGUI Localization Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_38\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wFQTQIbS!KnKjLbctpuIkhbuHlJb5Pw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VICE</div><div class=\"table_desc\">Vice is Valve's tool for ICE encryption, a trick used mainly to protect weapon script files from modification by server admins.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8YgjgSRa!Yjj9ZAa64m6wk3T0I4mZNA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VIDE</div><div class=\"table_desc\">Valve Integrated Development Environment</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_39.webp\" data-caption=\"VIDE\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_39\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VIpgmQ5K!xft-IyeYAvsvzvMWan65cQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMPI by TopphattWaffle</div><div class=\"table_desc\">This is a set of scripts that make VMPI workers easier, vmpi is used for network distributed map compiling</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EUwUnDCD!bWwTl1LO-DY2enY-YlUKew\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Vogl</div><div class=\"table_desc\">VOGL is a debugger for the OpenGL rendering API intended to be used in the development of video games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xU4VwbyC!J9NDigMW_z7or9XPKZQWIA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VoglPerf</div><div class=\"table_desc\">benchmarking tool for Linux OpenGL games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NAYH1Aza!SW14CfDhXjolQRBR0w8xzw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VPK Context Menu</div><div class=\"table_desc\">This simple script in batch add a button in the windows context menu for create files in VPK format</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IcpjRTSb!ahabfitMZVJzl1Np720HPQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VPK tool (for OS X)</div><div class=\"table_desc\">Drop items (vpk you want to extract or folders you want to convert to vpk) onto the App Icon</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_40.webp\" data-caption=\"VPK tool (for OS X)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_40\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cV50VR7A!Y4CXi9mzamjC5MEH2AWWvA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF shell extensions</div><div class=\"table_desc\">Add thumbnail support for VTF files in windows</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!tF5UgLya!d0qWz2USlTcofGOD5SI_yg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Wavosaur</div><div class=\"table_desc\">Tool to aid in the creation of WAV files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_41.webp\" data-caption=\"Wavosaur\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_41\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1JJjxKiL!Xd9Zn0UFt-JvxNUu9g1LoQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WC Parser</div><div class=\"table_desc\">Parse Source SDK '.wc' files.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5ZRBDCba!1AmvwWlS5C4_WjeYeAD22w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Worldcraft Color Editor</div><div class=\"table_desc\">Edit the UI colors in Worldcraft</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_42.webp\" data-caption=\"Worldcraft Color Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_42\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BAA0DbSb!HCR4Bq1DJHY45zpuKKR7iw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life Launch Pad</div><div class=\"table_desc\">Half-Life Launch Pad is an application to ease the process of loading mods and maps for Source and GoldSource.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_43.webp\" data-caption=\"Half-Life Launch Pad\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_43\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dYRBiSKb!2HycUHo1lrYBA3kJUTYcSg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMF Picker</div><div class=\"table_desc\">Great little tool for adding VMF associations to specific Hammer Versions</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_44.webp\" data-caption=\"VMF Picker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_44\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sFpCFKJZ!eP7vRnFgjoUnQQAZ76aGOg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">KV File Generator (Online Tool)</div><div class=\"table_desc\">A utility that automatically generates a formatted .kv file based on your selection.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_45.webp\" data-caption=\"KV File Generator (Online Tool)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_45\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"http://kvfilegen.appspot.com/\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GMadConv</div><div class=\"table_desc\">simple command line program that converts v13 packed addons to v12</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sEwTmTqC!Kd9pSQ0xgaWPh8Rd4weuNw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GMad Extractor</div><div class=\"table_desc\">simple command line program that converts v13 packed addons to v12</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_46.webp\" data-caption=\"GMad Extractor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_46\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cdpEHDKK!f8emF6HIqHTjGZjHaHee1g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Icon Set </div><div class=\"table_desc\">Collection of simple icons for Source related content (This version is from Riintouge)</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AU5HxaLC!2Ty1U6TZEr1rzMbL-TtM9Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Rufio's SDK GUI</div><div class=\"table_desc\">A GUI for both VTEX and studiomdl.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9RhxFbDJ!1drsLtC3cLFLMPxLFSVLkw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life CGShader</div><div class=\"table_desc\">This is a pixel shader for bloom-like effects on any Half-Life engine game.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_47.webp\" data-caption=\"Half-Life CGShader\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_47\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0Mh2iCBK!pq7B8ZXPAv_Ibf1PQOKvJA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Demo Cleaner</div><div class=\"table_desc\">Just extract this somewhere and drag your demo file onto it and it'll remove all the scoreboards and command menus from demos.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZcJGwL5C!3qzYwDWlHIIQ5B6LzaVIbg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Ear Defender</div><div class=\"table_desc\">Silence unwanted and annoying game sounds. (Half-life goldscr engine)</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_48.webp\" data-caption=\"Ear Defender\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_48\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wUAihRSS!UaFJm6AN2DPHLvhE3Il5EQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL Tools</div><div class=\"table_desc\">This is a C# library to manage GoldSrc specific files.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lRJRQLhb!geH6HuA8gjgVa5bN7P8WSg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">sharpmod</div><div class=\"table_desc\">A metamod plugin that allows you to write server side plugins with C# on the GoldSrc engine</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UEJRHbDS!hyGlxzBYsgJUimg12WSmzQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">PSI</div><div class=\"table_desc\">hlds (goldsrc) logs parser written in C#</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JNQmlIZY!CaGOJAchVKYAKAudhjQFWQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Steam Condenser</div><div class=\"table_desc\">This Project aims to provide a parser which parses the log output of the goldsrc hlds engine (Counter-Strike, Half-Life, etc.). There is a parser written with ragel and one written by hand.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FVBglLbI!ilWXRFDGULmtl-fJD-1q-Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Gelendra</div><div class=\"table_desc\">A half life dedicated server (goldsrc) management tool written in ruby</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lFgiQJTK!8EFoZdTsDFZW_11P8kcbzw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Blaster</div><div class=\"table_desc\">Source and GoldSrc Query Tool</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wQIS0ZQb!7JHqtlTQgd0MIJIkr0v39w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sourcemod</div><div class=\"table_desc\">Source Engine Scripting and Administration</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9cImiSCa!tSgfmrZMPjCUKLUsfiinsg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">AMXModX</div><div class=\"table_desc\">Half-Life 1 Scripting and Administration</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xAYHBByb!B-8aqyJ48EupoDxdqGrahQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Demo File Renamer</div><div class=\"table_desc\">This tool was manly made to extract out the mapname of GoldSrc- and Source Engine demofiles and place it in the name of the demofile itself.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9YYyBB5B!35siGx62LM0L6Zdq9ZcyLA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Lawena Recording Tool</div><div class=\"table_desc\">Simple movie recording tool for Source Engine games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_49.webp\" data-caption=\"Lawena Recording Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_49\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wB4TAY5A!mPwKfoXYJGCCG9U4ghpk9w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">uSource</div><div class=\"table_desc\">Simple movie recording tool for Source Engine games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cUoRRJYZ!tlukkS8Wf4_mqUs18O6Z2g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source360</div><div class=\"table_desc\">A collection of tools and libraries for the Source Engine on the Xbox 360</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JRxCUCgI!sEQK2G4d52JWoOoeAbMsIg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">CCConverter</div><div class=\"table_desc\">tool for converting closed-captions files for Source engine games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_50.webp\" data-caption=\"CCConverter\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_50\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ccRD2SSL!fRf6BVjozFgbjVYRzA2YyQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL2 Toolkit</div><div class=\"table_desc\">An assortment of java classes for working with the source engine</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UAwiDJSa!BeS8rIEOjyOv2M0Ozy3McA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL2 Utils</div><div class=\"table_desc\">An assortment of java programs for working with the source engine</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cNJlmahA!dsF0dbDW5J-VkDnKvXgZ1Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Steam Utils</div><div class=\"table_desc\">Miscellaneous programs which use Steam data</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cNJlmahA!dsF0dbDW5J-VkDnKvXgZ1Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Steam Toolkit</div><div class=\"table_desc\">For working with the same data Steam relies on</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ccgC2ZgQ!JN2lK2790fyCrG20iMBHSA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL2 Hud Editor</div><div class=\"table_desc\">An ambitious attempt at providing a WYSIWYG HUD editor for Source based games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EZZjmTYC!8p7nWEBOPJl7ELlX19snew\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Demo.JS</div><div class=\"table_desc\">TF2 demo parsing in javascript</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cVRDwBRA!2rWITBHRKnfXn_jFxC0tuw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sourceless</div><div class=\"table_desc\">C# library for reading/parsing &amp; writing demo files produced by GoldSource (HL1) and Source-engine (HL2) based games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YAIR0YAK!nMF5paR0c3iSCRppshDJtw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">netdecode</div><div class=\"table_desc\">netdecode is a utility for parsing and analysing data within demo files produced by Valve's Source engine (only the Orange Box branch for now). This is primarily a tool for testing and reference. Poorly written in C#.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_51.webp\" data-caption=\"netdecode\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_51\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UF4EwJBT!3a44hwhXD7JzbXULEmyECA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VGUI.JS</div><div class=\"table_desc\">Javascript parser for valve gui files -- ported from optf2's vgui.py</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oMQBSYDC!-a4AacrvkR6beyX9ARS3_Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WebGL Source Engine Renderer</div><div class=\"table_desc\">WebGL app that renders levels from the Source Engine, created against Team Fortress 2 resources. The Source Engine and anything related to it is the property of Valve Software, who does not authorize or endorse this project in any way.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UYZ3DIqD!cSsGr4WSenRVXXE_XPkVrw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source VM</div><div class=\"table_desc\">This is a simple interpreter library for the Source Config.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NU4RhI4K!XP8_l25sBWiNyWuJpKamgg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Script</div><div class=\"table_desc\">This is a simple interpreter library for the Source Config.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FEhgxSBB!z5MYWOuTtv_dZ-TrF17cMA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source CMD</div><div class=\"table_desc\">Allows console commands to be sent to source-engine games (hl2.exe). Works with text-mode clients.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sZYU3DDJ!Q8gzmAyCTPUZbssUvN4aVw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">vguilocalizationtool</div><div class=\"table_desc\">Valve Source Engine game language resource file localization tool</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5MoRhAwL!yxpguogUU0RVhsLQbJG9yg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Captioneer</div><div class=\"table_desc\">With Captioneer you can easily create your own Closed Captions for Source-based Games, like for Team Fortress 2.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dUg0VDDS!pOoU4wVX7kx8Qj0f_VqYJg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BSPIN</div><div class=\"table_desc\">Work-in-progress Linux tool for manipulating .bsp files (Used by Valve's Source Engine to store map data)</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kEoS2DwY!XXSQGX_M42mWIlA3HBqG0w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">QWERTY Hammer Kit</div><div class=\"table_desc\">This is an all-in-one kit that comes with both Hammer 3.4 and 3.5, Auto Seamer, Batch Compiler, BSP Viewer, BSP2MAP, Crafty, GCF Scape, Leak Marker, MAP Viewer, Model Viewer, PAK Explorer, Revolver, Sprite Explorer, Sprite Fixer, Sprite Viewer, Sprite Wizard, Terrain Generator, Texture Extractor, Valve Compile Tools, Wally, WinBSPC, and ZHLT.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kRghCKiB!AeU5_NZHWJTX7uhYuAtBMA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">FLRGen</div><div class=\"table_desc\">Alternative to Resgen, Download at own risk</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_52.webp\" data-caption=\"FLRGen\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_52\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BUglQDAT!bZ_cE9cEBXhlvKs59Na0mQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL Editing Lite</div><div class=\"table_desc\">Large collection of all the typical tools used in Modding</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IE4mHJAA!mFP-6BqatRpAPPKxpXoBrw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GCF Extractor</div><div class=\"table_desc\">extract gcfs</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!5YoDmDzT!tlW8hNmf-g_sPCGw_XV1OA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">TM GCF Extractor</div><div class=\"table_desc\">TM GCF Extractor</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1cpxWTxR!fiGmnVzjGLflFeEpOHeAfQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Nightfire Editor Suite 2</div><div class=\"table_desc\">The second release of 007 Nightfire's PC modding tools originally released many years ago including Gearcraft, Model Compiler, Map Decompiler and more.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_53.webp\" data-caption=\"Nightfire Editor Suite 2\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_53\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1ZQmDCiB!PEdOa0AYrVkjAWyd9SgZqg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BRET (Bsp REs Tool)</div><div class=\"table_desc\">Tool (Utility) for generating .res files for GoldSource .bsp engine maps</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_54.webp\" data-caption=\"BRET (Bsp REs Tool)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_54\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"BRET\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ResGuy</div><div class=\"table_desc\">Resguy is similar to RESgen and FLRGen, but can find all content that Sven Co-op maps are allowed to customize and only includes what is required</div>",
+    "Col2": "<a href=\"https://github.com/wootguy/resguy\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BQZxkTaA!6_EYBl8FohqrnVL83nO4ug\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">GOLDSRC2SOURCE - Map Fixer (v1.1.0)</div><div class=\"table_desc\">Tool for porting your GoldSource maps to Source. It features many fixes that will save hours of mindless work.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_55.webp\" data-caption=\"GOLDSRC2SOURCE - Map Fixer (v1.1.0)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_55\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VQImGB4Y!xwkLD6nqAQ6aO7XNOVynGQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Map loader for hl2</div><div class=\"table_desc\">You scan for the maps., Then select the map. There you go. Just right there at your desktop</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_56.webp\" data-caption=\"Map loader for hl2\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_56\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JRZGSYjK!QD-CcgQgEOlVePLPpGmC_g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">hlviewer.js</div><div class=\"table_desc\">HLViewer is a simple to use javascript library for viewing maps and playing replays of GoldSrc engine based games entirely in browser </div>",
+    "Col2": "<a href=\"http://skyrim.github.io/hlviewer.js/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4RpkkawZ!Q6yGcioVyW_xXN9g6ES_jw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SRC Repair</div><div class=\"table_desc\">a free open source tool that can be used for tuning and cleaning up Steam and Source engine games. </div>",
+    "Col2": "<a href=\"https://github.com/xvitaly/srcrepair\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_57.webp\" data-caption=\"SRC Repair\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_57\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cUBWwQAL!-O8KXAx7SzK5txB320aMqQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Let's make a RES</div><div class=\"table_desc\">Make a .res file and populate a dir with all resources</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_58.webp\" data-caption=\"Let's make a RES\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_58\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EY4DRTpD!xBNGhqISo29SOSNFIF5jwQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom SDK Launcher</div><div class=\"table_desc\">Free and open source SDK launcher for Counter-Strike: Global Offensive and other source engine games</div>",
+    "Col2": "<a href=\"https://github.com/RadCraftplay/Custom-CSGO-SDK-Launcher\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_utils/tu_59.webp\" data-caption=\"Custom SDK Launcher\" target=\"_blank\"><div class=\"table_preview\" alt=\"tu_59\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MUwhAJ5L!GXgZ-jUNGsvjDBxPnLQ8ig\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">FGD NPM Tool</div><div class=\"table_desc\">An NPM package for manipulating FGD (Forge Game Data) files. </div>",
+    "Col2": "<a href=\"https://github.com/SpencerTorres/fgd\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UVphEbSB!BcpW02YzJ1mDBRh_igshNA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">vdfplus</div><div class=\"table_desc\">vdfplus is a small library that aims to help with converting Valve's KeyValue format to JSON and vice versa.</div>",
+    "Col2": "<a href=\"https://github.com/RoyalBingBong/vdfplus\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NNZDTABQ!0W2oDIDyZMvxM_ZH7903tA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Project Cleaner</div><div class=\"table_desc\">Source Engine based Project Cleaner - Primarily for SDK 2013 to make certain files more Linux & Mac friendly.</div>",
+    "Col2": "<a href=\"https://github.com/BerntA/SourceProjectCleaner\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hZR3ySQb!Du6CaKjSo7fgsAI7ueE50Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half Life Launcher</div><div class=\"table_desc\">Launcher tool for Half-Life</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9EAFxKwZ!dLCu14glI4gkF6t21dX_jQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Goldsrc Asset loaders </div><div class=\"table_desc\">Collection of loaders for game engine asset types. Currently supported: Half-Life BSP, MDL and SPR. (requires compilation) </div>",
+    "Col2": "<a href=\"https://github.com/wtrsltnk/game-assets\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pZQGXIqA!XkQLpqZl97mOYljgHRsoOg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  }
+]

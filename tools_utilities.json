@@ -69,7 +69,7 @@
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
-    "tool_mega": "https://mega.nz/#F!gMBEQYSK!C-AnPjr6ynvb87TajCc96g"
+    "tool_mega": "[prev img=\"https://mega.nz/#F!gMBEQYSK!C-AnPjr6ynvb87TajCc96g"
   },
   {
     "tool_name": "Content Installer Multi game",
@@ -977,7 +977,7 @@
   },
   {
     "tool_name": "Nightfire Editor Suite 2",
-    "tool_description": "The second release of 007 Nightfire\\'s PC modding tools originally released many years ago including Gearcraft, Model Compiler, Map Decompiler and more.",
+    "tool_description": "The second release of 007 Nightfire's PC modding tools originally released many years ago including Gearcraft, Model Compiler, Map Decompiler and more.",
     "tool_preview_image": "tu_53",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -1032,7 +1032,7 @@
     "tool_mega": "https://mega.nz/#F!cUBWwQAL!-O8KXAx7SzK5txB320aMqQ"
   },
   {
-    "tool_name": "Let\\'s make a RES",
+    "tool_name": "Let's make a RES",
     "tool_description": "Make a .res file and populate a dir with all resources",
     "tool_preview_image": "tu_58",
     "tool_homelink": "",
@@ -1057,7 +1057,7 @@
   },
   {
     "tool_name": "vdfplus",
-    "tool_description": "vdfplus is a small library that aims to help with converting Valve\\'s KeyValue format to JSON and vice versa.",
+    "tool_description": "vdfplus is a small library that aims to help with converting Valve's KeyValue format to JSON and vice versa.",
     "tool_preview_image": "",
     "tool_homelink": "https://github.com/RoyalBingBong/vdfplus",
     "tool_engine": "source",
@@ -1078,5 +1078,13 @@
     "tool_homelink": "",
     "tool_engine": "goldsrc",
     "tool_mega": "https://mega.nz/#F!9EAFxKwZ!dLCu14glI4gkF6t21dX_jQ"
+  },
+  {
+    "tool_name": "Goldsrc Asset loaders ",
+    "tool_description": "Collection of loaders for game engine asset types. Currently supported: Half-Life BSP, MDL and SPR. (requires compilation) ",
+    "tool_preview_image": "",
+    "tool_homelink": "https://github.com/wtrsltnk/game-assets",
+    "tool_engine": "goldsrc",
+    "tool_mega": "https://mega.nz/#F!pZQGXIqA!XkQLpqZl97mOYljgHRsoOg"
   }
 ]

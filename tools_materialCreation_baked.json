@@ -1,0 +1,569 @@
+[
+  {
+    "Col1": "Name / Purpose",
+    "Col2": "<div class=\"table_header_weblink\"></div>",
+    "Col3": "<div class=\"table_header_preview\"></div>",
+    "Col4": "Engine",
+    "Col5": "<div class=\"table_header_dl\"></div>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprite Fixer</div><div class=\"table_desc\">Make some simple changes to Sprites</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_0.webp\" data-caption=\"Sprite Fixer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_0\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!FNwXSD6b!BSDWYE6XFV8E-jdCI2yHmQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HL TagConverter</div><div class=\"table_desc\">Convert an Image to a Spray</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_1.webp\" data-caption=\"HL TagConverter\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_1\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!4dwF3RDY!7CO9JCAB3wUnu0lm4fF5vw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Auto Seamer</div><div class=\"table_desc\">Create a seamless tileable texture from an input image</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_2.webp\" data-caption=\"Auto Seamer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_2\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!ME41iYrZ!NyLL0VDEcyij8zxjQ_sm-Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMT Batch Creator</div><div class=\"table_desc\">Create Material definitions for textures using this tool</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_3.webp\" data-caption=\"VMT Batch Creator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_3\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.co.nz/#F!EVAwFTwK!kVOl_ASiqJlW0kogLD3bDA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">3T Previewer</div><div class=\"table_desc\">Check if your textures tile correctly</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_4.webp\" data-caption=\"3T Previewer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_4\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BFh0HJKS!1CP-VK3gSWIiaaa1YguWaw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">360</div><div class=\"table_desc\">View and edit VMT files for Source</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4A4D2RwJ!A31G0AJnuuOKhP4xp1EJpQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Color Logo Maker</div><div class=\"table_desc\">Create colored logos for Half-Life</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NMJEUKJB!8fIeAQ5RP53atvROu2sfoA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">dDo</div><div class=\"table_desc\">dDo Legacy, free for commercial Use, pre PBR, great texturing tool plugin for Photoshop</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_5.webp\" data-caption=\"dDo\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_5\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cVxywDAZ!NYz2a5nC88mboWsK5V5RUQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Decal converter</div><div class=\"table_desc\">Turn images into Decal files (WAD format)</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_6.webp\" data-caption=\"Decal converter\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_6\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BYIknbjL!1H5lBKU6xjZ-HpT98ZwHRw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">easyspritemaker</div><div class=\"table_desc\">View sprites and play them back</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_7.webp\" data-caption=\"easyspritemaker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_7\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZN5S0LRA!BtGeGD6PFDNfeqGy4qMg_w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Gimp tools</div><div class=\"table_desc\">Small collection of GIMP plugins for Valves Engines</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0BBngSKC!XLuFSP_p-lrQzTp-T7YO9Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Crosshair Factory</div><div class=\"table_desc\">This is the \"All_you'll_ever_need_for_Sprite_generation_Pack\" for: HalfLife.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xEJ2kSba!PGdC78yhQhbsq4ReeZWUzA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">HLC: Half-Life Logo Creator</div><div class=\"table_desc\">This is a cool logo creator for in-game logos for Half-Life.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_8.webp\" data-caption=\"HLC: Half-Life Logo Creator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_8\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VEBWBKaT!D7NhigcjL7HgO47JOzIQpg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Crazy bump</div><div class=\"table_desc\">Create normals, bumps, AO and other maps from the diffuse for use in games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_9.webp\" data-caption=\"Crazy bump\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_9\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BAhAlLBD!cKmvIDa28kw-vJLTi_GIQA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life: 2 - Texture Tool (HL2TEX)</div><div class=\"table_desc\">Simplifies the transformation of TARGA images to VTF files, creates the VMT file that Hammer uses</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_10.webp\" data-caption=\"Half-Life: 2 - Texture Tool (HL2TEX)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_10\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EBRWTYJJ!OXoyG7sqitjinaYHkvBNVg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Material Enumerator</div><div class=\"table_desc\">This programm lists all materials wich are used in your selected vmf.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_11.webp\" data-caption=\"Material Enumerator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_11\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!IdBmzBCQ!X3Kc8G-Eb31nfZB2r2iKvw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">nDo (nDo1)</div><div class=\"table_desc\">The original photoshop action/script that started it all for Quixel.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_12.webp\" data-caption=\"nDo (nDo1)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_12\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!sBhhwDAT!Wp95fJ6q08ZTudBubW27VA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">NVidia Photoshop Normals Plugin</div><div class=\"table_desc\">Photoshop plugins for normal map creation</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_13.webp\" data-caption=\"NVidia Photoshop Normals Plugin\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_13\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MFgl0SQR!9Ro6hKd9lQDqtyVx2hSaBg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Paint.NET VTF Plugin</div><div class=\"table_desc\">Paint.NET plugin for creating VTF files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_14.webp\" data-caption=\"Paint.NET VTF Plugin\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_14\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!dJoC1R5K!SYXn7bNopjm9aVE0tgY9dQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Photoshop VTF Plugin</div><div class=\"table_desc\">Photoshop plugin for creating VTF files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_15.webp\" data-caption=\"Photoshop VTF Plugin\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_15\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZdRwSBxa!CimHExKg8u8CH91HwlJslw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Pretador's VMT Generator</div><div class=\"table_desc\">makes one .vmt out of every .vtf file in the folder selected.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_16.webp\" data-caption=\"Pretador's VMT Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_16\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wUI1wQpZ!Zv2WlVsVx41YzcXYBpVoIw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Quick Tiler</div><div class=\"table_desc\">Photoshop plugin that creates tiled images for game</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!RcwQDT5a!WLvR5iHVub3aJI3U-HJ_0w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Redfield plugins</div><div class=\"table_desc\">Photoshop plugins for simplifying the creation of textures for games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pAAXjIIB!T1fOVIYl8TJO4wY9YgtGag\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Custom Shaders</div><div class=\"table_desc\">Small collection of custom shaders for Source</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8F52GJ6R!9rwLK7Ct1R-mNsFftqhFGQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ENBSeries HL2Mod</div><div class=\"table_desc\">Modified DirectX libraries for a better experience in Half-life 2</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0VgAVL6T!3mooBevmO01s4HeiTLXvjQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Spray Maker</div><div class=\"table_desc\">Create animated Sprays for use in Source Games</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1dRGEBpb!oIK3JFguUYYuOFv1SwrQ4A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Color Tile Generator</div><div class=\"table_desc\">Generates images based on a color</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_17.webp\" data-caption=\"Color Tile Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_17\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FJBC3TJa!NAq2B-0PLMHRLoDIrSBd8A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Spraygen</div><div class=\"table_desc\">Create sprays for use in games such as CS:S</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_18.webp\" data-caption=\"Spraygen\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_18\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wc5QEYga!lrOL_uy9Ssg6_NnSZYg7Kg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprayr</div><div class=\"table_desc\">Create logos/Sprays for Source Games</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_19.webp\" data-caption=\"Sprayr\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_19\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JURmBKBb!LCCJYbyBqtMPgpQBhmCH7Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprite Fixer</div><div class=\"table_desc\">Useful for locking sprites to Z-axis rotations.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_20.webp\" data-caption=\"Sprite Fixer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_20\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FNwXSD6b!BSDWYE6XFV8E-jdCI2yHmQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprite Mage</div><div class=\"table_desc\">Used to lock the z, x and y axis of a sprite.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_21.webp\" data-caption=\"Sprite Mage\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_21\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!xVJDHJIK!Hq-Bao-McosNni_udmovYg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprite Maker</div><div class=\"table_desc\">Create sprites for GoldSrc</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!RE5CnYIJ!ddpc6HdiWAx7LPbRe2pe-g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprite Tool Pack</div><div class=\"table_desc\">Includes, SprWiz, SprView &amp; Sprite Explorer</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VNxSXZwR!lSILpKSZ2BhxX1wAP_-4EA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprite Explorer</div><div class=\"table_desc\">Explore the contents of .spr files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_22.webp\" data-caption=\"Sprite Explorer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_22\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!Ic4j1Ija!SveiasVsssOh-9TLL2md1A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprview</div><div class=\"table_desc\">View .spr files</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_23.webp\" data-caption=\"Sprview\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_23\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4JhFRZJb!XEPCt31q72X_fWGjhl7Epw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprwiz</div><div class=\"table_desc\">Put together a sprite from a series of .bmp files</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!UNgRzQrQ!mkvxLCFdiaTxJWA0Sem81Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Alphaconv</div><div class=\"table_desc\">Convert images between TGA, BMP and PNG</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_24.webp\" data-caption=\"Alphaconv\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_24\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!1FJXWBYS!XeVMIDrVv3EjYCyuMjLntQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Targa Tool</div><div class=\"table_desc\">A modified version of the Trainsim utility TgaTool2</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_25.webp\" data-caption=\"Targa Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_25\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!oQBiEISJ!JhEjKKzAam5Ss9a8xt1enQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Texture Tool</div><div class=\"table_desc\">Auto generate large flag script files for Trinity Render</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_26.webp\" data-caption=\"Texture Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_26\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lU4DWZxS!pmgMCt4FEuNN7THEdBzYYg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">TexturEd</div><div class=\"table_desc\">GUI for the vTex</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_27.webp\" data-caption=\"TexturEd\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_27\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!cdwlCKiL!nS4Dqc63T9IjQ4jdnYLgCA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">textureSDK</div><div class=\"table_desc\">Toolset and tutorials for creating good GoldSrc materials</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!Ac5ggKRb!RzAlYfeC_emqYd6d3C_26w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">TGAtoDUDV</div><div class=\"table_desc\">Convert TGA's into a DuDv format, without the need of having Steam to be running</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JRgWyYJA!BCNYA1LMaySt_hcSQGKiJw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMT Compiler</div><div class=\"table_desc\">Automate the process of creating VMTs for VTFs</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wAgCwJAB!zNjLiMLAEvqYq_baoy9RPg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMTCreate</div><div class=\"table_desc\">Ease the creation of .vmt files as wells as convert Targa files to Valve's Texture Format.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_28.webp\" data-caption=\"VMTCreate\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_28\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!wM5EDZqL!F91jl6MTjz2nR4juKcI8Cw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMTMaker (phatsams)</div><div class=\"table_desc\">VMT Creation Tool</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_29.webp\" data-caption=\"VMTMaker (phatsams)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_29\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gJoVXYoB!x74dFUnhKt3A8zFWBbngKw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMTMaker (sonicsight)</div><div class=\"table_desc\">VMT Creation Tool</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_30.webp\" data-caption=\"VMTMaker (sonicsight)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_30\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kUpAzaZD!5f4hl2ndA6CDEee-9jQyeQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMTMaker (TN Skoop)</div><div class=\"table_desc\">VMT Creation Tool</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_31.webp\" data-caption=\"VMTMaker (TN Skoop)\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_31\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YQQX2ZqZ!vajz3fyVUVzF3h2kwGjVWQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Vtex Modified</div><div class=\"table_desc\">new working version of vtex</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZdIhzCyB!UE5SfFynftPjKK4EuCRdLw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF Creator &amp; VMT Generator</div><div class=\"table_desc\">Quick way to convert mass amounts of image files to VTF/VMT</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!tNIy0BZL!SERmyWVr2fuQRLNzUW-gAw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF Explorer</div><div class=\"table_desc\">A tool for viewing, converting and extracting from GCF files Source materials.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_32.webp\" data-caption=\"VTF Explorer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_32\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!gcRklARa!2wYi46ZSPJ-vSC_Zt-FSNA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF Reader</div><div class=\"table_desc\">Open and View VTFs</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_33.webp\" data-caption=\"VTF Reader\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_33\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lVpWiCRB!OMjQM1XinZwjgLCalk0qdw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF Version Changer</div><div class=\"table_desc\">Change the version of vtfs without having to hex</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_34.webp\" data-caption=\"VTF Version Changer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_34\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VYojgQLQ!zqQ9r16XjA71E1HvfbURwA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF Edit</div><div class=\"table_desc\">Widely used VTF editing tool</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_35.webp\" data-caption=\"VTF Edit\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_35\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QYQEFJZL!aueoyIpQFVD5hKiw3BglPg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTF Lib</div><div class=\"table_desc\">Library for adding VTF support to your own apps</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!hRJlBCBR!HVKc0x6WeLXNZIFBhv8p3w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VTFTool</div><div class=\"table_desc\">GUI replacement for the VTF2TGA and VTEX applications</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_36.webp\" data-caption=\"VTFTool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_36\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZJg2ELyK!DXIQ_4G528CZLY2bwSIi_A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Easy WAD Maker</div><div class=\"table_desc\">GUI application to help simplify the WAD creation process</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_37.webp\" data-caption=\"Easy WAD Maker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_37\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!AVZXwQ7K!O-Vz-ajlnQ1hw6MQfdXXqw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WAD2BMP</div><div class=\"table_desc\">Converts the contents of WADs into BMPs</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pUREhLCJ!P7A46rWvoc_zWRN7IFe7gQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Wally</div><div class=\"table_desc\">Defacto tool for texture management in GoldSrc</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_38.webp\" data-caption=\"Wally\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_38\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!kE4FzCaK!WrXI40jGwAxmT_2TvOdg9Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Wood Workshop</div><div class=\"table_desc\">A free seamless texture editor</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_39.webp\" data-caption=\"Wood Workshop\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_39\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!BBYFyYIT!mra41SVtVgsXnEqvckbCkA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life Weapon Sprite Definition Generator</div><div class=\"table_desc\">Well, actually an editor for weapon sprites</div>",
+    "Col2": "<a href=\"http://articles.thewavelength.net/407/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!FAIFka6B!WcjIJScWvknFNgjCX7cJ1Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Wavelength PalMerge</div><div class=\"table_desc\">Paletted images merger for half life</div>",
+    "Col2": "<a href=\"http://articles.thewavelength.net/417/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_40.webp\" data-caption=\"Wavelength PalMerge\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_40\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NN4DFTQa!1_5LgUXzF1SoKxO0LF3faw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Wavelength PalMerge</div><div class=\"table_desc\">GFX Wad compiler taken from nextwish.org</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!0NolWB7T!l3R7Dj424lzHPEW20qNpDA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Wad Viewer</div><div class=\"table_desc\">Viewer for previewing WAD files (source code only)</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!pZx0wZzJ!YCzchEn_tG3YoBD9H5Hz-w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Detail Tool</div><div class=\"table_desc\">It auto generates 'detailtextures.txt' for the detail file generator the Trinity\\Abyss engine use.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_41.webp\" data-caption=\"Detail Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_41\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!JJgGnQBD!bA03mEd03-YFIyHTibjmVA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Half-Life Texture Tools</div><div class=\"table_desc\">Half-Life Texture Tools - create and view wad and spr files</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!YABi3Cga!niSHQ3lNhHIUHwLXoh99CQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Wad Configuration Manager</div><div class=\"table_desc\">a tool to help manage WAD configurations.</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_42.webp\" data-caption=\"Wad Configuration Manager\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_42\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QF5HhZhR!c4kUGUA79mUCfCK86VGNEg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Lump Tool</div><div class=\"table_desc\">Edits and creates WAD files for the game Doom. It's 9 years too late, but better late than never! \r\n</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_43.webp\" data-caption=\"Lump Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_43\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QN4yBbjY!FDt6K4hJHGE05WUutd_UTQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Sprite generator</div><div class=\"table_desc\">Sprite generator for HL </div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ZZQBhC6J!xcBZo018fD0kV8TZErpc9A\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Terrain Texture Generator</div><div class=\"table_desc\">Here's a little toy that synthesizes a unique terrain texture\r\nby blending a set of base texture layers</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_44.webp\" data-caption=\"Terrain Texture Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_44\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!9RAFiDTA!NX83WJROiYNNkfp1st5YEg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SkyGen</div><div class=\"table_desc\">This is a simple seamless skybox bitmap generator. It generates\r\nsix bitmaps which can be used as the textures on a skybox within\r\na game engine</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_45.webp\" data-caption=\"SkyGen\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_45\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VBpyCZgT!FAT5eUs_ti75cq2u-JvgXg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">TGA Tool</div><div class=\"table_desc\">Simple Interface program to allow the easy editing of the 24 bit Bmp & 32 bit Targas</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_46.webp\" data-caption=\"TGA Tool\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_46\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!lQIViAjQ!dWeEY9umzLP80Y7gMB1YOg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SkyPaint</div><div class=\"table_desc\">Skypaint is a legacy program that can view and create skyboxes as well as doing direct edits to them.</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_all\" alt=\"5\" title=\"All Engines\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QcpmABgZ!LnpO93ix-_IVgsFwUHk2IA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMT Creator</div><div class=\"table_desc\">Simple vmt creator</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_47.webp\" data-caption=\"VMT Creator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_47\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!MZRGVaIA!cip_9YlUCHUlNpeVj0GXOg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source Material Manager</div><div class=\"table_desc\">Source Material Manager is an application to manage VTF and VMT files. SMM makes your texture and material editing faster!</div>",
+    "Col2": "<a href=\"https://github.com/RadCraftplay/Source-Material-Manager\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!ENImQQJJ!_E7fHAn7A7qNalQnYsPjQA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMT Editor</div><div class=\"table_desc\">a visual editor for Source Engine material files.</div>",
+    "Col2": "<a href=\"https://gortnar.com/vmt.html\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_48.webp\" data-caption=\"VMT Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_48\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!8FwA2AbQ!KfLlcJiasyKRMGN9FkJ78g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Fast VMT Generator</div><div class=\"table_desc\">Fast VMT Generator is tool that generates VMT file for multiple textures AT ONCE!</div>",
+    "Col2": "",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_49.webp\" data-caption=\"Fast VMT Generator\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_49\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!QI5VRRJa!Y_e4dW1nH4BzjMmtQrbVQA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VMTGen</div><div class=\"table_desc\">Valve Material Type file generator </div>",
+    "Col2": "<a href=\"https://github.com/Xyphos/VMTGen\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_50.webp\" data-caption=\"VMTGen\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_50\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!EdhzFBqY!LP6pZwMfrDMwvPgF85Cuyw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Goldsrc Texture Viewer</div><div class=\"table_desc\">Texture viewer for Valve's GoldSrc engine (Requires Compilation)</div>",
+    "Col2": "<a href=\"https://github.com/wtrsltnk/goldsrc-textures\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div uk-lightbox><a href=\"/img/tools/tool_mat/tma_51.webp\" data-caption=\"Goldsrc Texture Viewer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tma_51\" title=\"Tool Preview!\"></div></a></div>",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!NcJGkYDC!ha133Z1sk79vbkaMAQyn2w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">XWAD</div><div class=\"table_desc\">utility that converts Wads to TGA's</div>",
+    "Col2": "<a href=\"https://developer.valvesoftware.com/wiki/Xwad\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!4ZIWFIII!c7NB-FLGtnsWzGPWu3NSvA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">JamDonut</div><div class=\"table_desc\">Older tool for creating textures in Quake & HL</div>",
+    "Col2": "",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col5": "<a href=\"https://mega.nz/#F!VQZiQCwJ!YsWJqik_yBDkv7NpOSm2dQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  }
+]

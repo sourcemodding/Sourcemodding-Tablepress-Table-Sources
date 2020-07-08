@@ -1,0 +1,370 @@
+[
+  {
+    "Col1": "Name / Purpose",
+    "Col2": "<div class=\"table_header_weblink\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "<div class=\"table_header_preview\"></div>",
+    "Col5": "Engine",
+    "Col6": "<div class=\"table_header_dl\"></div>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">tfconfig</div><div class=\"table_desc\">Makes your life a little easier when setting up bindings for tfc.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_0.webp\" data-caption=\"tfconfig\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_0\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!kdgxkQ6C!IJ0NW8sXjCUqqihFNrKNfQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Portal 2 Map Launcher</div><div class=\"table_desc\">A simple but effective GUI for loading custom and stock portal 2 maps.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_portal2\" alt=\"portal2\" title=\"Portal 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_1.webp\" data-caption=\"Portal 2 Map Launcher\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_1\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!9IIlgAYb!vc1Sew-h2hBQW40atFiHQw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Portal to Portal 2 Content Porter</div><div class=\"table_desc\">Greatly eases the process of porting content from Portal 1 to Portal 2.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_portal2\" alt=\"portal2\" title=\"Portal 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!gQAw0A5T!hhwL_ryrQgnJ1dhKN57-5w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Barebones</div><div class=\"table_desc\">Barebones sets up the necessary files to create a basic mod .</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!JcR0gSgT!rMx-paF6qePa9AVYERbHDA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">D2 Modkit</div><div class=\"table_desc\">The Dota 2 Modkit provides tools to make your life easier when working with Dota 2 Files for modding.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_2.webp\" data-caption=\"D2 Modkit\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_2\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!VNQiyCLA!bIk90gZ8OYy_i4-VxcbOIQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Dota API snippets for Sublime Text 2/3</div><div class=\"table_desc\">Adds Code snippets for the LUA api if you work with Sublime Text</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!1EQSTaiJ!Tfv5gUjaxyhTR-3VATWW_Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Dota Custom Files Joiner</div><div class=\"table_desc\">Clever tool to help organize your custom file creation to avoid a mess.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_3.webp\" data-caption=\"Dota Custom Files Joiner\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_3\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!tVIFjIKY!hWwh_eW57k06yiHGBI1XmA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">dota2 Builder helper library</div><div class=\"table_desc\">A library to help make RTS-style and Tower Defense custom games in Dota 2</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!wcAkyQZI!fpeOg5HcT1uaHNPnRekUAg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Emacs major mode for editing KeyValue files</div><div class=\"table_desc\">An Emacs major mode for editing files written in the KeyValues format that is used in Valve's Source engine. </div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!gJwGhbqD!AuGhqoyIVo1AzX8sCwUAFQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">KV Files Builder</div><div class=\"table_desc\">splitS the Dota 2 KV files into smaller files to make them easier to read / manage.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!pIBiXJ4J!86XaRvNiC1ncBwVtJmAasw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">KV Syntax highlighting and snippets for Sublime Text 2-3</div><div class=\"table_desc\">Valve's KV Syntax, Snippets, and plugins for Dota 2 Workshop's custom gamemode developers.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!MAIikJCL!mG_YUQlp79RSpJfoIAUqPQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">KVLib A C# Key-Value parser and library</div><div class=\"table_desc\">Key Value Parsing library in C#</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!kZ4CmaBD!spXkTMIMeNGzOIPyLpjxFQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Lua API stub classes</div><div class=\"table_desc\">Publicly available snippets for Dota 2 Workshop Tools</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!gZI2SAbR!0cLg9p7Us95qk_vbt8nodg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Source 2 Resource Decompiler</div><div class=\"table_desc\">Decompiles the various _c formats into the content assets, can be used to decompile dota assets.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!IZAHmBBR!kUttZa8ikPT6f7Sgg5tPdg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Upgradeable Items KV Builder</div><div class=\"table_desc\">This script can be used to generate all the item levels and recipes for your items</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!xJRR1Soa!Hhm4suNh-o4_uNh26wzyKQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">dota2 Sound Editor</div><div class=\"table_desc\">The Dota 2 Sound Editor allows you to modify sounds for items, voices, music and hero spells.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_4.webp\" data-caption=\"dota2 Sound Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_4\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!FNBn0boY!ZQfy-HsoPY17azTFee5QLQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">KVUP</div><div class=\"table_desc\">Warcraft 3 -&gt; Dota 2 KV Parser</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!BNoDHSpD!jA4P5RATxWya0bf2ALagFA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ModDota Lib</div><div class=\"table_desc\">A Flash library for Dota 2 custom gamemodes</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!5B5RjapS!HVLXbJFW5yc9XWsQoViboQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Player Say</div><div class=\"table_desc\">A scaleform UI file for latching and allowing Lua to work with player chat.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!QQhjDYYL!dnrGyZrmSxKQKEJQ9OdDIg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">VConsole 2 Lib</div><div class=\"table_desc\">A PoC library for working with the VConsole2 network protocol.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!5dZzjAYK!JzNNgZ2CT8UW6x0ohcREVQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">WorldSmith</div><div class=\"table_desc\">Open source Dota 2 Mod Editor</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_5.webp\" data-caption=\"WorldSmith\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_5\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source_and_source2\" alt=\"4\" title=\"Source and Source 2\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!wRpRGa7a!wDwWtwtkPAk6D_m-RRt1EA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Left 4 Dead 2 Map Generator</div><div class=\"table_desc\">Abandoned proof of concept algorithm for creating L4D2 maps from random tiles</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_dota2\" alt=\"dota2\" title=\"Dota 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!pEJxzSYD!ym26NwkTr_bvFdf5gqaRBg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">SignMaker</div><div class=\"table_desc\">Easy to use tool for the creation of portal style signs for test chambers</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_portal2\" alt=\"portal2\" title=\"Portal 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_6.webp\" data-caption=\"SignMaker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_6\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!QFYjjCDY!wexw0N6qruYhVWIRwEmvAQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">tf2 Mod Installer</div><div class=\"table_desc\">Simple program used to install .vpk files into the tf2 custom content directory easily.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tf2\" alt=\"tf2\" title=\"Team Fortress 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_7.webp\" data-caption=\"tf2 Mod Installer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_7\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!sYRGlbgQ!eZYLVhGF7iWaK-GFN4reMg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Lyrics to CFG</div><div class=\"table_desc\">When you run the program it will take whatever is in the lyrics.txt and turn into a cfg you can run in game. </div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tf2\" alt=\"tf2\" title=\"Team Fortress 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_8.webp\" data-caption=\"Lyrics to CFG\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_8\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!ZZZhlaBa!cCSHKSN00vj2XvdMmQNifQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">RCBOT FOR svenCOOP 4.7</div><div class=\"table_desc\">This the RCBOTS need for play with the SA13 pack if you running the last version of svenCOOP</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_sven\" alt=\"sven\" title=\"SVEN Co-op\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_9.webp\" data-caption=\"RCBOT FOR svenCOOP 4.7\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_9\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!0AhzRLpT!laOZIs00QhsQy_FfqtBqiA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">ENABLE VIOLENCE CFG</div><div class=\"table_desc\">Enable Half Life 1 gore and blood, pretty much simple.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_10.webp\" data-caption=\"ENABLE VIOLENCE CFG\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_10\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!EdBlRTRR!8h13dY45Aq7Y9sCd2MD1kA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Background Maker</div><div class=\"table_desc\">Put pic file in tool and make own background for tfc,hl,CS</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_11.webp\" data-caption=\"Background Maker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_11\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!ocxCGCQA!q27DUw5prxJeG4ytpSiAfQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">FoxBot 7z for tfc</div><div class=\"table_desc\">FoxBot 7z for tfc</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_12.webp\" data-caption=\"FoxBot 7z for tfc\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_12\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!AQ5T2Z4J!cXAZdmnSN_f6NguRghd37Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Deleted Scenes .fgd</div><div class=\"table_desc\">This is the file you will need to create maps for Condition Zero: Deleted Scenes. This tool was available at Urban Ruins But the site has shut down.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_13.webp\" data-caption=\"Deleted Scenes .fgd\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_13\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!NMYWRAia!0DCaxc6tLJHFLHYqlnNC4g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">cs:cz tweaker</div><div class=\"table_desc\">changes everything in your game including bot profiles of missions,bot profiles of multiplayer game,new mission packs , some things like grenades related challenges in original missions are removed.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_14.webp\" data-caption=\"cs:cz tweaker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_14\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!IcI0ALQK!KlMLBhoNjgw0HIetPvtmLQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">t missionpack v 3.0</div><div class=\"table_desc\">this is a mission pack for condition zero. to use xtract it to ur mission packs folder.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_15.webp\" data-caption=\"t missionpack v 3.0\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_15\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!EAxUgarC!_pDE7tgeBOyNaF27zayV7g\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Fgd for CS Condidtion Zero</div><div class=\"table_desc\">Fgd file for making maps for CS Condidtion Zero.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_16.webp\" data-caption=\"Fgd for CS Condidtion Zero\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_16\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!cEowkQab!GQ_DAmXurKx9ki6mSgAcwg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">CZ Bind Maker</div><div class=\"table_desc\">CZ Bind Maker is a custom buy script and configuration editor for Counter-Strike 1.6 and Condition Zero. It provides point and click, buy scripting and configuration editing capabilities</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_17.webp\" data-caption=\"CZ Bind Maker\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_17\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!FYggyZAD!yDXfhqHuaywN8D7oMvfMeg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Fix Death Model Animation Tools</div><div class=\"table_desc\">Fix Death Model Animation Tools</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_18.webp\" data-caption=\"Fix Death Model Animation Tools\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_18\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!FdhgzToR!iNPhZzWeJJ_8qS-tjxlXMA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Avis Bot Creator/Editor for Counter Strike CZ</div><div class=\"table_desc\">GUI Bot AI Editor!Allows you to create CS Bots (for 1.6-CZ) Easily with a GuI Interface..Also added more helpful tools to increase speed of Mission Pack Development. A Must-Have for every CS Player.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_19.webp\" data-caption=\"Avis Bot Creator/Editor for Counter Strike CZ\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_19\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!cNgkWRJJ!wSaC__mKG8VRPLXXUYVBLw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Avis Bot Creator/Editor for Counter Strike</div><div class=\"table_desc\">GUI Bot AI Editor!Allows you to create CS Bots Easily with a Gui Interface..Also added more helpful tools to increase speed of Mission Pack Development. A Must-Have for every CS Player.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_20.webp\" data-caption=\"Avis Bot Creator/Editor for Counter Strike\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_20\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!lVpADayR!Kejg-5Cncx3DGF9j17WwHA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">UKTbinder7-2</div><div class=\"table_desc\">CS 1.6 key binder</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_21.webp\" data-caption=\"UKTbinder7-2\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_21\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!VFRxiRoL!XxHx-8LkigOecafqCEA2mQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">CS_expert for hammer</div><div class=\"table_desc\">CS_expert FGD for hammer</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_22.webp\" data-caption=\"CS_expert for hammer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_22\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!gRhXEKhS!05Rq3p2UQUk_x58HJ7Il5w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">CsSv Map Loader</div><div class=\"table_desc\">This soft is useful for giving server admins o team members the opportunity to upload/download maps from your server without giving them FTP access.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_23.webp\" data-caption=\"CsSv Map Loader\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_23\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!FAYmUASJ!HIef_Xea1GzsFUX4FxQ1AQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Commandmenu Editor</div><div class=\"table_desc\">Now you can make your custom in game menus, enjoy using your custom scripts with the comfort of a graphical menu. Now its easy, just add/remove/edit menus previewing result immediately!</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_24.webp\" data-caption=\"Commandmenu Editor\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_24\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!FVw2jD7A!vCPfITF3ns4WfZR7zHUmhw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">CS 1.6 Plugin Installer</div><div class=\"table_desc\">Easy CS 1.6 Plugin Installer (amxx plugins only) by Galih Sitopan</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_25.webp\" data-caption=\"CS 1.6 Plugin Installer\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_25\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!tcJy1YSa!Zb6z-yeUJXqGF7vxX5q-6w\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Bot Editor 1.5.1</div><div class=\"table_desc\">This application create, edit, fixes, and save the database for your Counter-Strike 1.6 or any modification that base on 1.6 version.</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_26.webp\" data-caption=\"Bot Editor 1.5.1\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_26\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!1Zp2xD7L!i8GE-HcfIUNjROziGtf6Dw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">4hud</div><div class=\"table_desc\">A tf2 Hud editor for Windows</div>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tf2\" alt=\"tf2\" title=\"Team Fortress 2\"></div>",
+    "Col4": "",
+    "Col5": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!RMJRUAhQ!o4vlZMcjSjKHmg2aOtXSZA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Col1": "<div class=\"table_title\">BEEmod</div><div class=\"table_desc\">Tool to mod Portal 2's Puzzlemaker </div>",
+    "Col2": "<a href=\"https://github.com/BEEmod/BEE2.4\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "<div class=\"game_icon game_portal2\" alt=\"portal2\" title=\"Portal 2\"></div>",
+    "Col4": "<div uk-lightbox><a href=\"/img/tools/tool_game/tgs_27.webp\" data-caption=\"BEEmod\" target=\"_blank\"><div class=\"table_preview\" alt=\"tgs_27\" title=\"Tool Preview!\"></div></a></div>",
+    "Col5": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Col6": "<a href=\"https://mega.nz/#F!tA5TQDSL!t6gI3-wDx7kF6kOXDlDUBA\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  }
+]

@@ -4,7 +4,7 @@
     "tut_description": "Play an MP3 in your mod's startup screen.",
     "tut_link": "http://articles.thewavelength.net/410/",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Doofus",
     "tut_author_alt": "wavelength"
   },
@@ -13,7 +13,7 @@
     "tut_description": "This is where the file 'sentences.txt' in \\valve\\sounds comes up.",
     "tut_link": "http://articles.thewavelength.net/230/",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "RaveN",
     "tut_author_alt": "wavelength"
   },
@@ -22,7 +22,7 @@
     "tut_description": " I explain how to prepare sounds so they loop properly in game.",
     "tut_link": "http://articles.thewavelength.net/229/",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "RaveN",
     "tut_author_alt": "wavelength"
   },
@@ -58,7 +58,7 @@
     "tut_description": "A level just isn't a level without some sort of sound in it, whether it be the sounds of computers in a computer room or a CD audio track.",
     "tut_link": "http://web.archive.org/web/20081003012831/http://www.vlatitude.com/tutorials.php?tutID=7",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Brian",
     "tut_author_alt": "vlatitude"
   },
@@ -67,7 +67,7 @@
     "tut_description": "Want to get those NPCs talking? Read on!",
     "tut_link": "http://web.archive.org/web/20081003012408/http://www.vlatitude.com/tutorials.php?tutID=11",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Vlad ",
     "tut_author_alt": "vlatitude"
   },
@@ -76,7 +76,7 @@
     "tut_description": "Custom Sounds Tutorial",
     "tut_link": "http://web.archive.org/web/20050205223600/http://www.planethalflife.com/izuno/sound_tut.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "izuno",
     "tut_author_alt": "generic"
   },
@@ -85,7 +85,7 @@
     "tut_description": "How to loop those ambient_generic sounds.",
     "tut_link": "http://web.archive.org/web/20060113103731/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=21",
     "tut_download": "",
-    "tut_game": "CS",
+    "tut_game": "cs",
     "tut_author_name": "Relic25",
     "tut_author_alt": "counter-map"
   },
@@ -103,7 +103,7 @@
     "tut_description": "A perfect mixdown for your ingame sounds.",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/87/HL_Sound_Files",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Forceflow",
     "tut_author_alt": "snarkpit"
   },
@@ -112,7 +112,7 @@
     "tut_description": "the low tech way...",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/51/Mixing_Weapon_Sounds",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Namphibian",
     "tut_author_alt": "snarkpit"
   },
@@ -121,7 +121,7 @@
     "tut_description": "How to add menu music",
     "tut_link": "https://gamebanana.com/tuts/12344",
     "tut_download": "",
-    "tut_game": "CS",
+    "tut_game": "cs",
     "tut_author_name": "VeldroN",
     "tut_author_alt": "gamebanana"
   },
@@ -130,7 +130,7 @@
     "tut_description": "A complete music tutorial for GoldSource-based games",
     "tut_link": "https://gamebanana.com/tuts/12143",
     "tut_download": "",
-    "tut_game": "CS",
+    "tut_game": "cs",
     "tut_author_name": "Admer456",
     "tut_author_alt": "gamebanana"
   },
@@ -139,7 +139,7 @@
     "tut_description": "SOUND EDITING TUTORIAL",
     "tut_link": "https://gamebanana.com/tuts/10740",
     "tut_download": "",
-    "tut_game": "CS",
+    "tut_game": "cs",
     "tut_author_name": "Tatwaffe",
     "tut_author_alt": "gamebanana"
   },
@@ -148,7 +148,7 @@
     "tut_description": "Sounds on map!",
     "tut_link": "https://gamebanana.com/tuts/10265",
     "tut_download": "",
-    "tut_game": "CS",
+    "tut_game": "cs",
     "tut_author_name": " Tatu Eugen",
     "tut_author_alt": "gamebanana"
   },
@@ -157,7 +157,7 @@
     "tut_description": "Installing Custom Sound Files",
     "tut_link": "https://gamebanana.com/tuts/3421",
     "tut_download": "",
-    "tut_game": "CSCZ",
+    "tut_game": "cscz",
     "tut_author_name": "Guest",
     "tut_author_alt": "gamebanana"
   },
@@ -166,7 +166,7 @@
     "tut_description": "determines the sound that each texture makes when walked on, hit, or destroyed.",
     "tut_link": "https://web.archive.org/web/20020222105910/http://www.planethalflife.com:80/wavelength/levels/resources/materials.html",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "HellBringer, Spider",
     "tut_author_alt": "wavelength"
   },
@@ -175,16 +175,16 @@
     "tut_description": "This is a complete list of EVERY .wav file from the pak0.pak file for Half-Life",
     "tut_link": "https://web.archive.org/web/20020614044009/http://www.planethalflife.com:80/wavelength/levels/resources/sounds.html",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "HellBringer, Spider",
     "tut_author_alt": "wavelength"
   },
   {
-    "tut_name": "HALF-LIFE\\'S AMBIENT SOUNDS",
-    "tut_description": "HALF-LIFE\\'S AMBIENT SOUNDS",
+    "tut_name": "HALF-LIFE'S AMBIENT SOUNDS",
+    "tut_description": "HALF-LIFE'S AMBIENT SOUNDS",
     "tut_link": "https://web.archive.org/web/20020204182144/http://lunaran.fragland.net:80/lsite.php?content=hlsounds",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "lunaran",
     "tut_author_alt": "generic"
   },
@@ -193,7 +193,7 @@
     "tut_description": "Basic QERadiant & Half-Life & Editing Resources",
     "tut_link": "https://web.archive.org/web/20011226225933fw_/http://halflife.qeradiant.com:80/misc/misc02.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Tiger",
     "tut_author_alt": "generic"
   },
@@ -202,7 +202,7 @@
     "tut_description": "This tutorial shows you how to make a sound compatible for goldsource engine",
     "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-easy-make-a-sound-for-goldsource",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "LastLifeOfficial ",
     "tut_author_alt": "moddb"
   },
@@ -211,7 +211,7 @@
     "tut_description": "A quick tutorial on how to replace the .wav files with your own.",
     "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-change-sounds-in-half-life",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "nmb24",
     "tut_author_alt": "moddb"
   },
@@ -220,7 +220,7 @@
     "tut_description": "A quick guide to looping .wav sound files in Half-life",
     "tut_link": "https://web.archive.org/web/20061017025511/http://collective.valve-erc.com/index.php?doc=1070392493-12550200",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Veli-Pekka Lehtonen",
     "tut_author_alt": "verc"
   },
@@ -229,16 +229,16 @@
     "tut_description": "Using the words on this list, you can create sentences for the VOX announcer to say. ",
     "tut_link": "https://web.archive.org/web/20020829144302/http://tf.valve-erc.com/kbase.php?id=23",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "aXon",
     "tut_author_alt": "verc"
   },
   {
     "tut_name": "Taming the Speaker Entity",
-    "tut_description": "The \\'speaker\\' entity creates the effect of having a public-address system in your level",
+    "tut_description": "The 'speaker' entity creates the effect of having a public-address system in your level",
     "tut_link": "https://web.archive.org/web/20020827001013/http://www.gamedesign.net/?file=rust/content/half-life/tutorials/speaker",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Mithodiel",
     "tut_author_alt": "rust"
   },
@@ -247,7 +247,7 @@
     "tut_description": "Speak And Spk Commands",
     "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=595080353",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Intresless",
     "tut_author_alt": "steam"
   },
@@ -256,7 +256,7 @@
     "tut_description": "CD Music Commands",
     "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1203622509",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "snow344",
     "tut_author_alt": "steam"
   },
@@ -265,7 +265,7 @@
     "tut_description": "Custom Sentences",
     "tut_link": "http://web.archive.org/web/20031028210322/http://home.att.net/~firebinder/hl/sentences1.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "firebinder",
     "tut_author_alt": "generic"
   },
@@ -274,7 +274,7 @@
     "tut_description": "How to have perfect sound.",
     "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1339724773",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Tesco Express",
     "tut_author_alt": "steam"
   }

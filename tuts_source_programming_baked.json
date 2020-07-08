@@ -1,0 +1,200 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/703/\" target=\"_blank\"><div class=\"table_tut_title\">Making Your HL2DM Mod a Perfect Clone of HL2DM</div><div class=\"table_tut_desc\">This article let's you know how to setup your HL2DM mod to be exactly like HL2DM.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: trepid_jon\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/684/\" target=\"_blank\"><div class=\"table_tut_title\">Three Firing Modes for Pistol</div><div class=\"table_tut_desc\">Explains how to create 3 firing modes for the pistol: semi-automatic, burst-fire, and fully-automatic.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: minmaijd\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/675/\" target=\"_blank\"><div class=\"table_tut_title\">Attaching VGUIScreens to viewmodels</div><div class=\"table_tut_desc\">An article explaining how to attach dynamic vguiscreens to a weapons viewmodel</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Crazy01\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/656/\" target=\"_blank\"><div class=\"table_tut_title\">An Exploration Of Weapon_RPG: Part 1B</div><div class=\"table_tut_desc\">A fully documented exploration into the weapon_rpg class, starting with the basecombatweapon class and moving up the inheritance stack. The first part of the article disects basecombatweapon_shared.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Josiwe\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20050217141502/http://articles.thewavelength.net/654/\" target=\"_blank\"><div class=\"table_tut_title\">An Exploration Of Weapon_RPG: Part 1A</div><div class=\"table_tut_desc\">A fully documented exploration into the weapon_rpg class, starting with the basecombatweapon class and moving up the inheritance stack. The first part of the article disects basecombatweapon_shared.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Josiwe\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/678/\" target=\"_blank\"><div class=\"table_tut_title\">Setting up Visual Studio .net 2005 Beta C++ for Source</div><div class=\"table_tut_desc\">This is a quick and painless Artical on how to setup Visual Studio .net 2005 Beta, for use with Source Mods.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: amckern\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/667/\" target=\"_blank\"><div class=\"table_tut_title\">Scoreboard</div><div class=\"table_tut_desc\">Setting up a basic scoreboard (with teams!) in the HL2 FROM SCRATCH MP SDK</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: omega\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/650/\" target=\"_blank\"><div class=\"table_tut_title\">Debugging your half-life 2 mod</div><div class=\"table_tut_desc\">I go through both methods for debugging your modification</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: ibutsu\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/700/\" target=\"_blank\"><div class=\"table_tut_title\">How to add Ammocrates for missing ammo type and/or create new ammo types</div><div class=\"table_tut_desc\">This tutorial will cover the code needed to add Slams and SGM1 Grenades as Ammocrate types, and also fix the graphics for two of the existing ones.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Starbreaker\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/674/\" target=\"_blank\"><div class=\"table_tut_title\">3 State Zoom For Any Weapon</div><div class=\"table_tut_desc\">I missed the zooming feature of the 357 that was in HL1 so I thought as a beginner tutorial I'd write a weapon zooming lesson. I then carried it out to a 3-stage zoom.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: drnelson\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/738/\" target=\"_blank\"><div class=\"table_tut_title\">3rd person View in Multiplayer</div><div class=\"table_tut_desc\">How to enable it in HL2DM</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: cct\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/672/\" target=\"_blank\"><div class=\"table_tut_title\">Add Far Clipping/Fading to Particles</div><div class=\"table_tut_desc\">This will let you optionally set far clipping/fading on particles, so you can fade particles out at a certain distance from you.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: trepid_jon\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/710/\" target=\"_blank\"><div class=\"table_tut_title\">GameUI</div><div class=\"table_tut_desc\">Explanation on handling VGUI without having a connection to a game.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: ts2do\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/682/\" target=\"_blank\"><div class=\"table_tut_title\">Adding Muting to your Scoreboard</div><div class=\"table_tut_desc\">A Small tutorial that explains how to put in simple muting on your scoreboard.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: imperio59\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/702/\" target=\"_blank\"><div class=\"table_tut_title\">Enabling Spectator Mode</div><div class=\"table_tut_desc\">How to get spectator mode working. Based on HL2MP SDK</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: _Ms\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/668/\" target=\"_blank\"><div class=\"table_tut_title\">Game Movement Series #2: Analog Jumping and Floating</div><div class=\"table_tut_desc\">How to set up analog jumping (the longer you hold jump, the higher you go) and floating (pressing jump as you are falling decelerates your fall)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: hopper\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/649/\" target=\"_blank\"><div class=\"table_tut_title\">Game Movement Series #1: Wall jumping</div><div class=\"table_tut_desc\">How to setup wall jumping in half-life 2</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: hopper\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/724/\" target=\"_blank\"><div class=\"table_tut_title\">Storing weapons on ladder</div><div class=\"table_tut_desc\">like Raven Shield or BF2</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: British_Bomber\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/723/\" target=\"_blank\"><div class=\"table_tut_title\">Implementation of a string lookup table</div><div class=\"table_tut_desc\">A string lookup table is a set of functions that is used to convert strings to pre-defined values</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: deathz0rz\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/716/\" target=\"_blank\"><div class=\"table_tut_title\">Smoke Grenade</div><div class=\"table_tut_desc\">Change the frag grenade in MP HL to a smoke grenade</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Mercalli\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/707/\" target=\"_blank\"><div class=\"table_tut_title\">Adding Simple Pick up in Multiplayer</div><div class=\"table_tut_desc\">allows players to pick up objects with +use in multiplayer.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: LunarWolfX\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/699/\" target=\"_blank\"><div class=\"table_tut_title\">More 3rd Person Camera Upgrades</div><div class=\"table_tut_desc\">This is an update to chrono's snippet.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Yates\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/691/\" target=\"_blank\"><div class=\"table_tut_title\">Display player bounding box</div><div class=\"table_tut_desc\">Adds a console command to output the players bounding box mins &amp; maxs to the console, and also draw's the bounding box in the world.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Beamish\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/683/\" target=\"_blank\"><div class=\"table_tut_title\">Adding explosion to the Xbow bolt</div><div class=\"table_tut_desc\">Remember HL1's cross bow bolt exploded when it hit? Get that, in HL2.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Twilight Suzuka\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/679/\" target=\"_blank\"><div class=\"table_tut_title\">Static Ragdolls</div><div class=\"table_tut_desc\">Ragdolls attached to their spawnpoint by a ragdoll constraint</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: ts2do\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/680/\" target=\"_blank\"><div class=\"table_tut_title\">Making Bots Join A Team</div><div class=\"table_tut_desc\">Make the bots join whichever team you wish. So easy, even I can do it!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: DOOManiac\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/671/\" target=\"_blank\"><div class=\"table_tut_title\">Fix MP Grenade Auto-Switching</div><div class=\"table_tut_desc\">A basic fix for stopping the grenade from auto-switching to the next best weapon after you throw one. Also allows more than one grenade to be thrown.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: trepid_jon\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/636/\" target=\"_blank\"><div class=\"table_tut_title\">Super Phys Cannon Impulse</div><div class=\"table_tut_desc\">Get blue phys cannon with impulse 12</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: ts2do\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/645/\" target=\"_blank\"><div class=\"table_tut_title\">Third Person Camera Upgrades</div><div class=\"table_tut_desc\">Collision check, translucency</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Crono\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20150207065829/http://www.halfwit-2.com/?page=tutorials&amp;id=188\" target=\"_blank\"><div class=\"table_tut_title\">Coding a Mod by Lord Ned (188)</div><div class=\"table_tut_desc\">You wanna make a mod? This tutorial focuses on the behind the scenes aspect, and less on the content.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20141007162923/http://www.halfwit-2.com/?page=tutorials&amp;id=189\" target=\"_blank\"><div class=\"table_tut_title\">Coding a flashlight to secondary attack by Lord Ned (189)</div><div class=\"table_tut_desc\">Changing a weapon's secondary fire to toggling the flashlight</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!dYoCzJBJ!BxS4gph7yOLwKoFFOrc3uA\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20071225112423/http://collective.valve-erc.com/index.php?doc=1102638409-05843300\" target=\"_blank\"><div class=\"table_tut_title\">Adding Single-Player Weapons to Half-Life 2</div><div class=\"table_tut_desc\">The purpose of this article is to help you add the code for new weapons to your Half-Life 2 mod.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Skyler 'Zipster' York\"></div>"
+  }
+]

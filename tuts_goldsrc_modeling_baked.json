@@ -1,0 +1,1016 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11914\" target=\"_blank\"><div class=\"table_tut_title\">Rig Weapons On CS 1.6 hands (Portuguese)</div><div class=\"table_tut_desc\">Sorry ... but it\\'s in portuguese .. but follow the steps you should be fine ..</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: CS PRO\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11798\" target=\"_blank\"><div class=\"table_tut_title\">Milkshape UV Mapping tutorial</div><div class=\"table_tut_desc\">Milkshape UV Mapping tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: schiff.\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11886\" target=\"_blank\"><div class=\"table_tut_title\">Making the most out of models in GoldSrc</div><div class=\"table_tut_desc\">Getting the most out of models in GoldSrc</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Glock18\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11910\" target=\"_blank\"><div class=\"table_tut_title\">Animating in Milkshape 3D</div><div class=\"table_tut_desc\">I\\'ve decided to release some tips for some of you who still animate using Milkshape 3D. </div></a>",
+    "Col2": "<a href=\"http://files.gamebanana.com/bitpit/sample_animations.zip\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Bobito Pawner\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12062\" target=\"_blank\"><div class=\"table_tut_title\">Setting up 3Ds Max 9</div><div class=\"table_tut_desc\">This tutorial will show beginner modelers how to set up 3Ds Max 9 for essentially any GoldSRC game.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Admer456\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12067\" target=\"_blank\"><div class=\"table_tut_title\">Weapons Screen Bug | How to Fix</div><div class=\"table_tut_desc\">Weapons Screen Bug | How to Fix</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Viper1337\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12069\" target=\"_blank\"><div class=\"table_tut_title\">Weapons Chrome Effect | How to</div><div class=\"table_tut_desc\">Weapons Chrome Effect | How to</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Viper1337\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12119\" target=\"_blank\"><div class=\"table_tut_title\">Back to Idle | How to Fix</div><div class=\"table_tut_desc\">Back to Idle | How to Fix</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Viper1337\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12193\" target=\"_blank\"><div class=\"table_tut_title\">Creating models of skins from cs go in quality HD</div><div class=\"table_tut_desc\">Creating models of skins from cs go in quality HD</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Sowa Games\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12209\" target=\"_blank\"><div class=\"table_tut_title\">Dead Frames Removal</div><div class=\"table_tut_desc\">Dead Frames Removal</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: CS PRO\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12217\" target=\"_blank\"><div class=\"table_tut_title\">Mirror a weapon with Milkshape3D</div><div class=\"table_tut_desc\">Mirror a weapon with Milkshape3D</div></a>",
+    "Col2": "<a href=\"http://files.gamebanana.com/bitpit/flip_with_ms3d.rar\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Captiva\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12638\" target=\"_blank\"><div class=\"table_tut_title\">some QC scripting</div><div class=\"table_tut_desc\">many peaple know about the qc file but does not know how to edit a model through it.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: man_s_our\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12628\" target=\"_blank\"><div class=\"table_tut_title\">How to port weapons models from cs:go to cs 1.6</div><div class=\"table_tut_desc\">How to port weapons models from cs:go to cs 1.6</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Sowa Games\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12559\" target=\"_blank\"><div class=\"table_tut_title\">Fixing \\'flat shade\\' bug</div><div class=\"table_tut_desc\">Fixing \\'flat shade\\' bug</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Classy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12475\" target=\"_blank\"><div class=\"table_tut_title\">Decompile a Goldsrc .MDL file without UV shifts</div><div class=\"table_tut_desc\"> finally discovered the way to decompile any goldsrc model while keeping the UVs 100% stable!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: CS Pro\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://youtu.be/emMPEb4zVa8\" target=\"_blank\"><div class=\"table_tut_title\">How to easily optimize your model with a blender</div><div class=\"table_tut_desc\">How to easily optimize your model with a blender</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: How to easily optimize your model with a blender\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12314\" target=\"_blank\"><div class=\"table_tut_title\">Fix freeze ported animations with fragMOTION</div><div class=\"table_tut_desc\">Fix freeze ported animations with fragMOTION</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Captiva\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12303\" target=\"_blank\"><div class=\"table_tut_title\">Port arms models from cs:go to cs 1.6</div><div class=\"table_tut_desc\">Port arms models from cs:go to cs 1.6</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Sowa Games\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11133\" target=\"_blank\"><div class=\"table_tut_title\">How to compile static models made in Blender</div><div class=\"table_tut_desc\">In this tutorial you will ONLY learn how to compile your models made in Blender and AND NOT HOW TO MAKE THEM.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Takatalvi\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12289\" target=\"_blank\"><div class=\"table_tut_title\">Rigging player models for cs 1.6 in blender</div><div class=\"table_tut_desc\">Rigging player models for cs 1.6 in blender</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Sowa Games\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11066\" target=\"_blank\"><div class=\"table_tut_title\">How to make p_, w_ models + other stuff</div><div class=\"table_tut_desc\">How to make p_, w_ models + other stuff</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Thrashstalker\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11048\" target=\"_blank\"><div class=\"table_tut_title\">How to rig sleeves on hands</div><div class=\"table_tut_desc\">How to rig sleeves on hands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10420\" target=\"_blank\"><div class=\"table_tut_title\">How to port GTA mods to CS</div><div class=\"table_tut_desc\">How to port GTA mods to CS</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: NuNz\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10511\" target=\"_blank\"><div class=\"table_tut_title\">CS/CZ Skin Installing!</div><div class=\"table_tut_desc\">CS/CZ Skin Installing!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11065\" target=\"_blank\"><div class=\"table_tut_title\">How to convert CS:S skins to CS 1.6</div><div class=\"table_tut_desc\">People, I recommend you stick with 1.6/CZ skins as it will eat up your FPS if you have CS:S skins replacing all your weapons.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10547\" target=\"_blank\"><div class=\"table_tut_title\">How To Decompile on GoldSCR</div><div class=\"table_tut_desc\">Hello, This is my tutorial for decompile a model in cs 1.6.. You See Help in Pictures.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Mak3ttaja\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10642\" target=\"_blank\"><div class=\"table_tut_title\">Counter-strike 1.6 how to edit animations.</div><div class=\"table_tut_desc\">This is the best tutorial for learning animations, in 9 simple steps.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: SerGio\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10657\" target=\"_blank\"><div class=\"table_tut_title\">Edit qc attachments: muzzleflash, shell eject</div><div class=\"table_tut_desc\">Edit qc attachments: muzzleflash, shell eject</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Tatwaffe\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10514\" target=\"_blank\"><div class=\"table_tut_title\">Counter-Strike: 1.6 Glove Installation</div><div class=\"table_tut_desc\">Counter-Strike: 1.6 Glove Installation</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11015\" target=\"_blank\"><div class=\"table_tut_title\">Creating a working CS model using Milkshape 3D</div><div class=\"table_tut_desc\">Creating a working CS model using Milkshape 3D</div></a>",
+    "Col2": "<a href=\"http://files.gamebanana.com/gamefiles/csgirl_tutorial_2.zip\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20050310062513/http://homepage.ntlworld.com:80/scitzo/hlmvtut.htm\" target=\"_blank\"><div class=\"table_tut_title\">Easiest Way in the World to Reorigin Models</div><div class=\"table_tut_desc\">Easiest Way in the World to Reorigin Models</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: MaRzY\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11022\" target=\"_blank\"><div class=\"table_tut_title\">Animating Walk</div><div class=\"table_tut_desc\">Here is a new tutorial for MilkShape 3D! This time, animating a model so it will reproduce the walk animation. </div></a>",
+    "Col2": "<a href=\"http://files.gamebanana.com/bitpit/walk_by_kfu.rar\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11024\" target=\"_blank\"><div class=\"table_tut_title\">Making P Models with MS3D</div><div class=\"table_tut_desc\">Making P Models with MS3D</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10823\" target=\"_blank\"><div class=\"table_tut_title\">Milkshape 3D: Make phong</div><div class=\"table_tut_desc\">Screenshot say it all, sorry doesn\\'t have video</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Morkolt\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12288\" target=\"_blank\"><div class=\"table_tut_title\">Porting prop models from cs:go map to map cs 1.6</div><div class=\"table_tut_desc\">Porting prop models from cs:go map to map cs 1.6</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cs\" alt=\"cs\" title=\"Counter-Strike\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Sowa Games\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10444\" target=\"_blank\"><div class=\"table_tut_title\">How to make player models for any goldsource game</div><div class=\"table_tut_desc\">How to make player models for any goldsource game</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Crash\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10428\" target=\"_blank\"><div class=\"table_tut_title\">How to make world models for any goldsource game</div><div class=\"table_tut_desc\">How to make world models for any goldsource game</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Crash\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/10111\" target=\"_blank\"><div class=\"table_tut_title\">vertices problems</div><div class=\"table_tut_desc\">vertices problems</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: NoobandEasy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/9929\" target=\"_blank\"><div class=\"table_tut_title\">How to easily change a weapon\\'s origin in Cz/Cs</div><div class=\"table_tut_desc\">How to easily change a weapon\\'s origin in Cz/Cs</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: NormanShaqir\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/5416\" target=\"_blank\"><div class=\"table_tut_title\">Changing Origins</div><div class=\"table_tut_desc\">Changing Origins</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Pr0ph3cy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/4456\" target=\"_blank\"><div class=\"table_tut_title\">Easy way to install skins</div><div class=\"table_tut_desc\">Easy way to install skins</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_cscz\" alt=\"cscz\" title=\"Counter-Strike: Condition Zero\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Zoe101\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11185\" target=\"_blank\"><div class=\"table_tut_title\">How to split a mesh up to ease compiling</div><div class=\"table_tut_desc\">How to split a mesh up to ease compiling</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: natko\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/goldsrc/gmdlflowchart.html\" target=\"_blank\"><div class=\"table_tut_title\">GoldSource Model Compile/Decompile Flowchart</div><div class=\"table_tut_desc\">A quick reference for GoldSource model compiling and decompiling. Includes links. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20071105020140/http://www.gamedesign.net/node/1050\" target=\"_blank\"><div class=\"table_tut_title\">G-max, Things you need to know</div><div class=\"table_tut_desc\">G-max, Things you need to know</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: Pepper\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20071128132700/http://www.gamedesign.net/node/534\" target=\"_blank\"><div class=\"table_tut_title\">How To: Prepare for your first model (Point Modeling)</div><div class=\"table_tut_desc\">How To: Prepare for your first model (Point Modeling)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: Pepper\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20070919100442/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc3.htm\" target=\"_blank\"><div class=\"table_tut_title\">MILKSHAPE SKINMESHING</div><div class=\"table_tut_desc\">MILKSHAPE SKINMESHING</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.unknownworlds.com/discussion/20223/want-to-make-models-skins-or-sprites\" target=\"_blank\"><div class=\"table_tut_title\">Want To Make Models, Skins, Or Sprites?</div><div class=\"table_tut_desc\">Want To Make Models, Skins, Or Sprites?</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Maus\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20090808083742/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc1.htm\" target=\"_blank\"><div class=\"table_tut_title\">How to start with Milkshape 3D</div><div class=\"table_tut_desc\">Setting up Milkshape 3D</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20090308091123/http://www.planetfortress.com:80/tf2models/tuto/tuto_3DSImp.htm\" target=\"_blank\"><div class=\"table_tut_title\">How to bring .mdl files into Milkshape and 3DSMax</div><div class=\"table_tut_desc\">How to bring .mdl files into Milkshape and 3DSMax</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: FoxTrotNiner\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010501215502/http://hlcenter.com:80/tutorials/modeling.phtml?id=27853&language=en&page=1\" target=\"_blank\"><div class=\"table_tut_title\">Making a World model for Half-Life</div><div class=\"table_tut_desc\">Making a World model for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Rat\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031222231625/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape4.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Milkshape Skeleton Application</div><div class=\"table_tut_desc\">Milkshape Skeleton Application</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010203164700/http://www.planethalflife.com:80/coldfusion/tutorials/viewing/viewing.htm\" target=\"_blank\"><div class=\"table_tut_title\">VIEWING YOUR MODEL</div><div class=\"table_tut_desc\">To view it in the game, do the following. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031219213748/http://www.planetquake.com/polycount/resources/halflife/tutorials/rats_tutorials/adjust/adjust.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Tips for adjusting a v_ Model for Half-Life</div><div class=\"table_tut_desc\">Tips for adjusting a v_ Model for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: Rat\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031222200148/http://www.planetquake.com/polycount/resources/halflife/tutorials/rats_tutorials/p-model/HL-MS3D-p1.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Making a 3rd Person Model for Half-Life</div><div class=\"table_tut_desc\">Making a 3rd Person Model for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: Rat\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031021012917/http://www.planetquake.com/polycount/resources/halflife/tutorials/rats_tutorials/HL-MS3D-w1.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Making a World model for Half-Life</div><div class=\"table_tut_desc\">Making a World model for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: Rat\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031222201124/http://www.planetquake.com/polycount/resources/halflife/tutorials/scarecrows_tutorials/weapons/weapons.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Weapons Modelling Tutorial </div><div class=\"table_tut_desc\">Weapons Modelling Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11599\" target=\"_blank\"><div class=\"table_tut_title\">How to make a model Killable - Breakable</div><div class=\"table_tut_desc\">This tutorial teaches how to make a model vanish when you shoot at it, like chickens of Italy.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Akshit Saklani\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20041222040046/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape6.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Animation: An Overview</div><div class=\"table_tut_desc\">Half-Life Animation: An Overview</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040823125642/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape3.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Milkshape Skinmeshing</div><div class=\"table_tut_desc\">Milkshape Skinmeshing</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031021010410/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape2.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Digital Sculpting - A Tutorial</div><div class=\"table_tut_desc\">Digital Sculpting - A Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20041222040042/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape1.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Setting Up Your Milkshape Workspace</div><div class=\"table_tut_desc\">Setting Up Your Milkshape Workspace</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031021010545/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax9.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Hit Boxes</div><div class=\"table_tut_desc\">Hit Boxes</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031021005119/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax8.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Compiling Your Model</div><div class=\"table_tut_desc\">A brief explanantion of how a HalfLife model compiles</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021019232725/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax7.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Animation... An Overview</div><div class=\"table_tut_desc\">Half-Life Animation... An Overview</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021019232231/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax6.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Figure Mode</div><div class=\"table_tut_desc\">Figure Mode </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021019235112/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax5.shtml\" target=\"_blank\"><div class=\"table_tut_title\">A Brief Explanation of Bipeds and Physique</div><div class=\"table_tut_desc\">A Brief Explanation of Bipeds and Physique</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020820102506/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax4.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Skinmeshing in Studio Max</div><div class=\"table_tut_desc\">Skinmeshing in Studio Max</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021217013532/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax3.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Digital Scultping - A Tutorial</div><div class=\"table_tut_desc\">Digital Scultping</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020820111346/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax2.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Meshediting</div><div class=\"table_tut_desc\">BASIC MESH CREATION AND EDITING</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20021019233736/http://www.planetquake.com/polycount/resources/halflife/tutorials/3dsmax1.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Setting Up 3D Studio Max</div><div class=\"table_tut_desc\">Setting Up 3D Studio Max</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20041216075241/http://www.planetquake.com/polycount/resources/halflife/tutorials/milkshape5.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Milkshape Skeleton Application: Bipeds</div><div class=\"table_tut_desc\">SKELETONS IN HALF-LIFE ...a brief overview</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_polycount\" alt=\"polycount\" data-title=\"Author: scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11789\" target=\"_blank\"><div class=\"table_tut_title\"> Goldsource Engine > Tutorials > Other/Misc\t Rigging, Animating and Compiling a .MDL file</div><div class=\"table_tut_desc\">\r\nGoldsource Engine > Tutorials > Other/Misc\t\r\nRigging, Animating and Compiling a .MDL file</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Glock18\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12231\" target=\"_blank\"><div class=\"table_tut_title\">Editing vertex normals for better foliage (3dsmax)</div><div class=\"table_tut_desc\">Editing vertex normals for better foliage (3dsmax)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: The303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12234\" target=\"_blank\"><div class=\"table_tut_title\">GoldSource Model Texture UV Shift Fix</div><div class=\"table_tut_desc\">An unfortunate side effect of compiling & recompiling GoldSrc models is that the model UVs get slightly shifted out of scale when compiled with studiomdl.exe</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: The303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20090722021328/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc4.htm\" target=\"_blank\"><div class=\"table_tut_title\">MILKSHAPE SKELETON APPLICATION</div><div class=\"table_tut_desc\">MILKSHAPE SKELETON APPLICATION</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080430100513/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc5.htm\" target=\"_blank\"><div class=\"table_tut_title\">Bipeds in HL</div><div class=\"table_tut_desc\">SELETONS IN HALF-LIFE ...a brief overview</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20081201113825/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc6a.htm\" target=\"_blank\"><div class=\"table_tut_title\">HL Animating</div><div class=\"table_tut_desc\">HALF-LIFE ANIMATION ...an overview</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080201055203/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc5.htm\" target=\"_blank\"><div class=\"table_tut_title\">Bipeds in HL</div><div class=\"table_tut_desc\">Explanation of bipeds</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080412105913/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc6a.htm\" target=\"_blank\"><div class=\"table_tut_title\">Bipedediting</div><div class=\"table_tut_desc\">Creating and Editing Bipeds</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20031213041707/http://planethalflife.com:80/hlsdk2/sdk/MS3d_to_HL.htm\" target=\"_blank\"><div class=\"table_tut_title\">Milkshape: Creating a new model in Milkshape and adding it to Half-Life</div><div class=\"table_tut_desc\">How to create a new monster model in Milkshape, create an .MDL file, and add it as a new entity into your MOD using the monster_generic and scripted_sequence entities.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: hlsdk2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080918041725/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc7a.htm\" target=\"_blank\"><div class=\"table_tut_title\">HALF-LIFE ANIMATION (Max)</div><div class=\"table_tut_desc\">HALF-LIFE ANIMATION\r\n...an overview</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080430034245/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc8.htm\" target=\"_blank\"><div class=\"table_tut_title\">Compiling (HL)</div><div class=\"table_tut_desc\">COMPILING YOUR MODEL...</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080416171303/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc9.htm\" target=\"_blank\"><div class=\"table_tut_title\">Hitboxes in HL</div><div class=\"table_tut_desc\">Generating Htiboxes</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/mods/half-life-modding-tutorials/tutorials/how-to-change-weapons-textures\" target=\"_blank\"><div class=\"table_tut_title\">How to Change weapons textures</div><div class=\"table_tut_desc\">On this tutorial, we will teach you how to change weapon textures.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: Rafaxis\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/engines/goldsource/tutorials/milkshape-3d-basics-fundamentals\" target=\"_blank\"><div class=\"table_tut_title\">Milkshape 3D Basics & Fundamentals</div><div class=\"table_tut_desc\">A tutorial on the fundamentals and basic use of Milkshape 3D</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: therealzomb\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20080206180809/http://www.planetfortress.com:80/tf2models/tuto/ms3d_sc/tuto_ms3d_sc2a.htm\" target=\"_blank\"><div class=\"table_tut_title\">Creating and Editing Bipeds</div><div class=\"table_tut_desc\">DIGITAL SCULPTING - A TUTORIAL</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=HMYJMq2vYGw\" target=\"_blank\"><div class=\"table_tut_title\">Create a Draw animation (MS3D)</div><div class=\"table_tut_desc\">I am just showing how I do my draw animations</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: Bobito_Pawner\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/how-to-simply-rig-a-counter-strike-16-player-model-for-half-life\" target=\"_blank\"><div class=\"table_tut_title\">How To Simply Rig A Counter Strike 1.6 Player Model For Half Life</div><div class=\"table_tut_desc\">In This Tutorial I Will Show You How To Rig Any Player Model From Counter Strike 1.6 Or Condition Zero To Work As A Human Grunt In Half Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: SLeNd3rMaN23\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/too-many-vertices-in-model-tutorial-fix\" target=\"_blank\"><div class=\"table_tut_title\">Too many vertices in model - Tutorial Fix</div><div class=\"table_tut_desc\">This is a tutorial of how to fix the problem in milk shape of \\'too many vertices in model\\' and others possible errors</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: LastLifeOfficial\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/how-to-build-your-first-prop-for-half-life-tutorial\" target=\"_blank\"><div class=\"table_tut_title\">How to build your first prop for half life - Tutorial</div><div class=\"table_tut_desc\">In this tutorial i will teach you how to build a crate box model for Half Life and then how to add some textures to it</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: LastLifeOfficial\"></div>"
+  },
+  {
+    "Col1": "<a href=\"the303.org/tutorials/gold_mdl_phys.htm\" target=\"_blank\"><div class=\"table_tut_title\">Model Baked Physics Tutorial - Introduction</div><div class=\"table_tut_desc\">Model Baked Physics Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_phys_blend.htm\" target=\"_blank\"><div class=\"table_tut_title\">Model Baked Physics Tutorial - Blender</div><div class=\"table_tut_desc\">Baked Physics in Blender</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_phys_3ds.htm\" target=\"_blank\"><div class=\"table_tut_title\">Model Baked Physics Tutorial - 3DSMax</div><div class=\"table_tut_desc\">aked Physics in 3DSMax with \\'MassFX\\'</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12269\" target=\"_blank\"><div class=\"table_tut_title\">Source → GoldSource</div><div class=\"table_tut_desc\">For this example, I\\'m porting the shotgun from Half-Life 2</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: James Luke\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12538\" target=\"_blank\"><div class=\"table_tut_title\">Fix smoothing errors with Blender</div><div class=\"table_tut_desc\">Because smoothing errors make it awful.</div></a>",
+    "Col2": "<a href=\"https://files.gamebanana.com/bitpit/smoothing.7z\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Captiva\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12503\" target=\"_blank\"><div class=\"table_tut_title\">How to port Source Models into GoldSource</div><div class=\"table_tut_desc\">A Simple tutorial on how to port non moving models from source into goldsrc</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: guest3444307 \"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12474\" target=\"_blank\"><div class=\"table_tut_title\">How to use Sequence .SMDs decompiled by Crowbar</div><div class=\"table_tut_desc\">Problems compiling Source sequence files decompiled by crowbar? </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author:  CS PRO\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12384\" target=\"_blank\"><div class=\"table_tut_title\">How to chop UV Mesh</div><div class=\"table_tut_desc\">Today I\\'ll show you how to chopping UV mesh on your model.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Captiva\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/rigging-characters-for-half-life-3ds-max\" target=\"_blank\"><div class=\"table_tut_title\">Rigging Characters for Half-Life (3ds MAX)</div><div class=\"table_tut_desc\">This tutorial will get yourself familiarized with the process of \\'rigging\\' a character for Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: Con_Artist\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20000603212704fw_/http://planethalflife.com:80/coldfusion/faq.htm\" target=\"_blank\"><div class=\"table_tut_title\">ColdFusion\\'s FAQ</div><div class=\"table_tut_desc\">Frequently Asked Questions from the old site ColdFusion</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Bamphalas\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.sourcemodding.com/tutorials/goldsrc/modeling/intro-to-hlmv-goldsrc/\" target=\"_blank\"><div class=\"table_tut_title\">Introduction to Jeds Half-Life Model Viewer</div><div class=\"table_tut_desc\">A detailed tutorial covering the features and uses of Jed's HLMV for GoldSrc</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_sourcemodding\" alt=\"sourcemodding\" data-title=\"Author: sourcemodding\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020614002337/http://www.planethalflife.com:80/wavelength/levels/resources/models.html\" target=\"_blank\"><div class=\"table_tut_title\">HALF-LIFE MODELS LIST</div><div class=\"table_tut_desc\">HALF-LIFE MODELS LIST</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: HellBringer, Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/7571\" target=\"_blank\"><div class=\"table_tut_title\">Switching hands (right-left)</div><div class=\"table_tut_desc\">Switching hands (right-left)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Soviet Inc.\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/11401\" target=\"_blank\"><div class=\"table_tut_title\">Some Tips in making models using Trinity Render</div><div class=\"table_tut_desc\">Useful Tips when Compiling a Vee Model on a Trinity Render Engine</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: bobito pawner\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12056\" target=\"_blank\"><div class=\"table_tut_title\">How to swap Valve or Gearbox Hands (Easy and Fast)</div><div class=\"table_tut_desc\">How to swap Valve or Gearbox Hands (Easy and Fast)</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Mr. Crowbar\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/12551\" target=\"_blank\"><div class=\"table_tut_title\">Adding blood trails to gibs using P2 Model Viewer</div><div class=\"table_tut_desc\">Probably easiest tutorial ever, you can add Quake 1 blood trails to gibs without any coding at all</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Chyvachok\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/185/Converting_Source_models_to_Goldsource\" target=\"_blank\"><div class=\"table_tut_title\">Converting Source models to Goldsource</div><div class=\"table_tut_desc\">In this tutorial, we will learn how to convert models from the source engine (Half-life 2) to the goldsource engine with minimal quality loss.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Le Chief\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_remap.htm\" target=\"_blank\"><div class=\"table_tut_title\">Sven-Coop Playermodel Color Remap Tutorial</div><div class=\"table_tut_desc\">Sven-Coop Playermodel Color Remap Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_flappyjaws.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Mouth Procedural Animation Tutorial</div><div class=\"table_tut_desc\">GoldSrc uses a bone controller to turn audio waveforms into bone rotations. This is how all the scientists and barneys 'talk'</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/gold_mdl.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSrc Model Tutorial - Basics</div><div class=\"table_tut_desc\">Hello, and welcome to the GoldSrc model exporting video tutorial. This tutorial covers exporting models using 3DStudio Max and MilkShape 3D</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012821/http://www.vlatitude.com/tutorials.php?tutID=58\" target=\"_blank\"><div class=\"table_tut_title\">Modeling for Half-Life - Part 4</div><div class=\"table_tut_desc\">The fourth and final part of the first series of modeling tutorials. This one wraps up everything that has been learned</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: BB\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012815/http://www.vlatitude.com/tutorials.php?tutID=57\" target=\"_blank\"><div class=\"table_tut_title\">Modeling for Half-Life - Part 3</div><div class=\"table_tut_desc\">Part 3 of the modeling series. This tutorial will bring you up to speed on the process of texturing.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: BB\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012810/http://www.vlatitude.com/tutorials.php?tutID=55\" target=\"_blank\"><div class=\"table_tut_title\">Modeling for Half-Life - Part 2</div><div class=\"table_tut_desc\">Part 2 of the modeling series. This tutorial covers grouping. You've read the first, now read the next.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: BB\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20081003012805/http://www.vlatitude.com/tutorials.php?tutID=54\" target=\"_blank\"><div class=\"table_tut_title\">Modeling for Half-Life - Part 1</div><div class=\"table_tut_desc\">Part 1 of a series of tutorials that will teach you how to model for Half-Life, using the program MilkShape 3D. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_vlatitude\" alt=\"vlatitude\" data-title=\"Author: BB\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20010825111224/http://www.planethalflife.com/workshop/models/ssec_docs.htm\" target=\"_blank\"><div class=\"table_tut_title\">All scripted sequences for all models.</div><div class=\"table_tut_desc\"> In this document I'll describe all scripted secuences of all models in the pak0.pak file in the half-life directory.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_hlws\" alt=\"hlws\" data-title=\"Author: Otis\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/4253\" target=\"_blank\"><div class=\"table_tut_title\">Reflection effect for Half-Life 1</div><div class=\"table_tut_desc\">This trick can either be very hard or very easy, depending the model.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: DR_FUZZY\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20001206062000/http://www.hlcenter.com/tutorials/modeling.phtml?id=27853&amp;language=en\" target=\"_blank\"><div class=\"table_tut_title\">Making a World model for Half-Life</div><div class=\"table_tut_desc\">Making a World model for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: HLCenter\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://halflife.gamedesign.net/resources/animations.shtml\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Model Animations</div><div class=\"table_tut_desc\">This is a complete list of all the original models and their animation sequence names.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_herc\" alt=\"herc\" data-title=\"Author: HERC\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Re-texturing_Models\" target=\"_blank\"><div class=\"table_tut_title\">Re-texturing Models</div><div class=\"table_tut_desc\">Want your grunts to have new clothes? Try this.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!QYQGQbLa!FlSp4bK7wSBRq09lSe5rbg\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Vassy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Modelling_for_Goldsource\" target=\"_blank\"><div class=\"table_tut_title\">Modelling for Goldsource</div><div class=\"table_tut_desc\">A tutorial from start to finish on how to make models for Goldsource (HL1) which provides all of the beginning modelling knowledge needed, even if you have never modelled before.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Rimrook\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/154/\" target=\"_blank\"><div class=\"table_tut_title\">Skeletal Animation: An Introduction</div><div class=\"table_tut_desc\">An Introduction to skeletal Animation</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/155/\" target=\"_blank\"><div class=\"table_tut_title\">Modelling For Half-Life</div><div class=\"table_tut_desc\">In this article I will address what it will take to create models for Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20040516155401/http://articles.thewavelength.net/156/\" target=\"_blank\"><div class=\"table_tut_title\">Extra Models in Half-Life</div><div class=\"table_tut_desc\">These are extra models found in the Half-Life .pak file that were not used in the game.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/161/\" target=\"_blank\"><div class=\"table_tut_title\">The Making of Dukowski</div><div class=\"table_tut_desc\">This article will explain how Pred and I created Dukowski, a multiplayer model for Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/163/\" target=\"_blank\"><div class=\"table_tut_title\">Model-Related Console Commands</div><div class=\"table_tut_desc\">Model-Related Console Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/164/\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Deathmatch Model Profiles</div><div class=\"table_tut_desc\">This article details the four deathmatch player models that were released with Half-Life. It will give you an idea of polygon limits, how skins are set up, the skeleton, animations and multiplayer bitmap.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/170/\" target=\"_blank\"><div class=\"table_tut_title\">.QC Scripts</div><div class=\"table_tut_desc\">.qc scripts are simple text files, edited in Notepad, and are needed to compile a model. They tell studiomdl.exe where the mesh, textures and animations are but more importantly sets up parameters that Half-Life will need.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/171/\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Weapon Model Profiles</div><div class=\"table_tut_desc\">This article details the two weapon models that were released with the Software Developer's Kit. It will give you an idea of polygon limits, texture limits, the skeletons and animations.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Editing_Half-Life_Models.\" target=\"_blank\"><div class=\"table_tut_title\">Editing Half-Life Models.</div><div class=\"table_tut_desc\">The body swap shop.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!dQBDGATI!868fFoZLPedD0n-mE8Te_Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Vassy\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.isolated-design.de/tutorials/how-to-get-models-from-blender-to-goldsrc/\" target=\"_blank\"><div class=\"table_tut_title\">How to export models from Blender and compile them for GoldSrc</div><div class=\"table_tut_desc\">Detailed tutorial on the model creation pipeline from blender to GoldSrc</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_isolated\" alt=\"isolated\" data-title=\"Author: ToTac\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20001206065100/http://www.hlcenter.com/tutorials/modeling.phtml?id=27855&amp;language=en\" target=\"_blank\"><div class=\"table_tut_title\">Making a 3rd Person Model for Half-Life</div><div class=\"table_tut_desc\">Making a 3rd Person Model for Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: HLCenter\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_3ds.htm\" target=\"_blank\"><div class=\"table_tut_title\">303 - 3D Studio Max</div><div class=\"table_tut_desc\">3D Studio Max</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://gamebanana.com/tuts/6647\" target=\"_blank\"><div class=\"table_tut_title\">Skinning Basics</div><div class=\"table_tut_desc\">Welcome to my tutorial on the basics for learning to skin for a HL1 game.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_gamebanana\" alt=\"gamebanana\" data-title=\"Author: Dynamic Customs Inc.\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://steamcommunity.com/sharedfiles/filedetails/?id=122968239\" target=\"_blank\"><div class=\"table_tut_title\">How to change your weapon models</div><div class=\"table_tut_desc\">This will show you how to change your weapon models.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Stu Pidaso\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061110203118/http://qoole.gamedesign.net:80/hl/tutorials/scriptseq/ssec_docs.shtml\" target=\"_blank\"><div class=\"table_tut_title\">All scripted sequences for all models.</div><div class=\"table_tut_desc\">for half-life 1</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: qoole\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011205162304fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/ModelingTutorial.html\" target=\"_blank\"><div class=\"table_tut_title\">Modeling Tutorial</div><div class=\"table_tut_desc\">Valve\\'s Modeling Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: valve\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_blend.htm\" target=\"_blank\"><div class=\"table_tut_title\">303 - Blender</div><div class=\"table_tut_desc\">Blender</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020124170349fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/techniques.html\" target=\"_blank\"><div class=\"table_tut_title\">Basic Modeling Techniques</div><div class=\"table_tut_desc\">Here are some modeling techniques to prepare you for my upcoming tutorials.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.half-lifecreations.com/forums/index.php?topic=1632.0\" target=\"_blank\"><div class=\"table_tut_title\"> (Milkshape) Hand Changing Tutorial</div><div class=\"table_tut_desc\">One of the most common requests is for people to change the hands on a weapon. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Jake\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20070815212256/http://collective.valve-erc.com/index.php?doc=1043360861-70912800\" target=\"_blank\"><div class=\"table_tut_title\">Model Transparency Tutorial</div><div class=\"table_tut_desc\">This tutorial describes the process of creating models with masked and additive textures.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Jakob Jungels\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_qc.htm\" target=\"_blank\"><div class=\"table_tut_title\">GoldSource Model Compile Command Glossary</div><div class=\"table_tut_desc\">This is the GoldSrc QC compile commands glossary. It is important to note that any of the commands must not be capitalized or you will get compile errors. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011101005821fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/model.html\" target=\"_blank\"><div class=\"table_tut_title\">Character Modeling</div><div class=\"table_tut_desc\">This tutorial will be the first of a series, taking you through the process of creating a model, it\\'s skin, skeleton and animation, then getting it into Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_milk.htm\" target=\"_blank\"><div class=\"table_tut_title\">303 - MilkShape3D</div><div class=\"table_tut_desc\">MilkShape3D</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_maya.htm\" target=\"_blank\"><div class=\"table_tut_title\">303 - Maya</div><div class=\"table_tut_desc\">Maya</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_frag.htm\" target=\"_blank\"><div class=\"table_tut_title\">303 - fragMOTION</div><div class=\"table_tut_desc\">fragMOTION</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_khed.htm\" target=\"_blank\"><div class=\"table_tut_title\">303 - kHED</div><div class=\"table_tut_desc\">kHED</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011006131427fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/skin.html\" target=\"_blank\"><div class=\"table_tut_title\">Smoothing Groups / Skin Textures</div><div class=\"table_tut_desc\">This tutorial is the second in a series, taking you through the process of creating a model, it\\'s skin, skeleton and animation, then getting it into Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011031230012fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/skeleton.html\" target=\"_blank\"><div class=\"table_tut_title\">Making the Skeleton</div><div class=\"table_tut_desc\">This tutorial is the third in a series, taking you through the process of creating a model, it\\'s skin, skeleton and animation, then getting it into Half-Life.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_valve\" alt=\"valve\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011101001719/http://www.planethalflife.com:80/wavelength/levels/resources/animations.html\" target=\"_blank\"><div class=\"table_tut_title\">HALF-LIFE MODEL ANIMATIONS LIST</div><div class=\"table_tut_desc\">HALF-LIFE MODEL ANIMATIONS LIST</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011205160901fw_/http://www.planethalflife.com:80/wavelength/models/reference/sequence/index.html\" target=\"_blank\"><div class=\"table_tut_title\">Otis\\' Scripted Sequence Reference</div><div class=\"table_tut_desc\">Otis\\' Scripted Sequence Reference</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Otis\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011219233856fw_/http://www.planethalflife.com:80/wavelength/models/reference/console.html\" target=\"_blank\"><div class=\"table_tut_title\">Model-Related Console Commands</div><div class=\"table_tut_desc\">Model-Related Console Commands</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011221063135fw_/http://www.planethalflife.com:80/wavelength/models/reference/faq.html\" target=\"_blank\"><div class=\"table_tut_title\">Modeling / 2D Art Frequently Asked Questions</div><div class=\"table_tut_desc\">Modeling / 2D Art Frequently Asked Questions</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20011221063836fw_/http://www.planethalflife.com:80/wavelength/models/reference/weapons.html\" target=\"_blank\"><div class=\"table_tut_title\">Half-Life Weapon Model Profiles</div><div class=\"table_tut_desc\">This article details the two weapon models that were released with the Software Developer\\'s Kit.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Spider\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20010820083859fw_/http://www.planethalflife.com:80/wavelength/models/tutorials/q2tohl.html\" target=\"_blank\"><div class=\"table_tut_title\">Converting Models from Quake 2 to Half-Life</div><div class=\"table_tut_desc\">Converting Models from Quake 2 to Half-Life</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl\" alt=\"hl\" title=\"Half-Life\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Pug\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_player_sven_comp.htm\" target=\"_blank\"><div class=\"table_tut_title\">Sven Co-op Playermodel Compile-O-Matic</div><div class=\"table_tut_desc\">Create your own Sven Co-op playermodels</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_sven\" alt=\"sven\" title=\"SVEN Co-op\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20070815080536/http://www.planetfortress.com:80/tf2models/tuto/tuto_HK_MSG-90.htm\" target=\"_blank\"><div class=\"table_tut_title\">MAKING A HK MSG-90</div><div class=\"table_tut_desc\">MAKING A HK MSG-90</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Tinyfly\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20100915165753/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc2.htm\" target=\"_blank\"><div class=\"table_tut_title\"> \tBasics in Meshediting</div><div class=\"table_tut_desc\">BASIC MESH CREATION AND EDITING</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20081215014033/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc3a.htm\" target=\"_blank\"><div class=\"table_tut_title\">Making your first Model</div><div class=\"table_tut_desc\">DIGITAL SCULPTING - A TUTORIAL</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20050518084412/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc4.htm\" target=\"_blank\"><div class=\"table_tut_title\">SKINMESHING IN STUDIO MAX</div><div class=\"table_tut_desc\">SKINMESHING IN STUDIO MAX</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20041103154111/http://www.planetfortress.com:80/tf2models/tuto/tuto_Skinmeshing.htm\" target=\"_blank\"><div class=\"table_tut_title\">Skinmeshing Tutorial</div><div class=\"table_tut_desc\">Skinmeshing Tutorial</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Tinyfly\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20030802230443/http://www.planetfortress.com:80/tf2models/tuto/tuto_MAC10.htm\" target=\"_blank\"><div class=\"table_tut_title\">MAKING A MAC-10</div><div class=\"table_tut_desc\">This tutorial is intended for people with a basic knowledge of 3d studio max r3 or 2.5.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_tfc\" alt=\"tfc\" title=\"Team Fortress Classic\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Tinyfly\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.svencoop.com/showthread.php/42011-Deathbog-s-Model-Replacement-Tutorial\" target=\"_blank\"><div class=\"table_tut_title\">Deathbog\\'s Model Replacement Tutorial </div><div class=\"table_tut_desc\">Model Replacement Tutorial by Deathbog</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: Nih\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/sven_fullbright.htm\" target=\"_blank\"><div class=\"table_tut_title\">Sven Co-op Fullbright Model Textures Tutorial</div><div class=\"table_tut_desc\">Sven Co-op models supports a texture QC flag called 'fullbright' which basically means the texture will be drawn at full brightness at all times.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20040810195010/http://www.planetfortress.com:80/tf2models/tuto/3dsmax_sc/tuto_3dsmax_sc1.htm\" target=\"_blank\"><div class=\"table_tut_title\">Setting up 3D Studio Max</div><div class=\"table_tut_desc\">Setting up 3D Studio Max</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_tf2models\" alt=\"tf2models\" data-title=\"Author: Scarecrow\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=q9XeFashBsk\" target=\"_blank\"><div class=\"table_tut_title\">How to import Crowbar dump files to MilkShape 3D</div><div class=\"table_tut_desc\">How to import Crowbar dump files to MilkShape 3D</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: IvIr Why\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20020811120202/http://www.machinima.com:80/articles/modelling_intro_1/\" target=\"_blank\"><div class=\"table_tut_title\">Introduction to modelling using Milkshape 3D</div><div class=\"table_tut_desc\">Ben Moss introduces us to the arcane world of model editing</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_generic\" alt=\"generic\" data-title=\"Author: Ben Moss\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://forums.svencoop.com/showthread.php/41530-NPC-Model-Rescale-Size-and-Hull-Tutorial\" target=\"_blank\"><div class=\"table_tut_title\">NPC Model - Rescale, Size and Hull Tutorial </div><div class=\"table_tut_desc\">NPC Model - Rescale, Size and Hull Tutorial </div></a>",
+    "Col2": "<a href=\"https://web.archive.org/web/20180622171143/https://forums.svencoop.com/attachment.php?attachmentid=15839&d=1399225412\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_sven\" alt=\"sven\" data-title=\"Author: wolf-3d\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/gold_mdl_fix.htm\" target=\"_blank\"><div class=\"table_tut_title\">Chrome\\\" in GoldSrc is a special texture mode that allows for a simple environment-like texture</div><div class=\"table_tut_desc\">GoldSrc Model Troubleshooting List</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_unknown\" alt=\"unknown\" title=\"Unknown\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  }
+]

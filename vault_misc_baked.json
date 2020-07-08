@@ -1,0 +1,146 @@
+[
+  {
+    "Title": "Name / Purpose",
+    "HomeLink": "<div class=\"table_header_weblink\"></div>",
+    "Engine": "Engine",
+    "Mega": "<div class=\"table_header_dl\"></div>"
+  },
+  {
+    "Title": "<div class=\"table_title\">How to Compile Static or Dynamic models into Half-Life 2</div><div class=\"table_desc\">This is a small and concise collection of tutorials in PDF form that cover the creation of models in half-Life 2.</div>",
+    "HomeLink": "<a href=\"http://xenoaisam.com/tutorial/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#F!fosFGLQC!gCM3jkY5el_VWugiOxiuag\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Half-Life 2: Quick Reference card.</div><div class=\"table_desc\">This is a small PDF that includes common shortcuts, installation and system requirements for Half-Life 2</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!rtcjjQ6Z!VUncxEglemLvSTtvljVcE7DqcWUCiH6EeMveMHJwcfk\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">.MAP files, file format description, algorithms, and code</div><div class=\"table_desc\">This useful Paper goes into detail about the GoldSrc .MAP file format, providing a useful insight on how it works</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!z5kX1QoC!NcHmRw4eHRtMmSLYDCrrSyRwNJQkLYgU42ER1A9Qjc8\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Modeling and Animating for Half-Life</div><div class=\"table_desc\">This Paper goes into detail about the the creation of models and basic animation for the GoldSrc Engine.</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!X413BB4R!qoHDWjHQoIH9Ni5drkaYWBxxmju8ccslgKUdgxcP7ZI\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Replace a Face Texture in Half-Life 2 DeathMatch</div><div class=\"table_desc\">This short PDF covers the basic steps required when replacing a face texture on a Source Model.</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!2ksDkSIC!jleLPkzKx4h5G3PuKh1iT6n7Ddt9gbeAWNgELEZJuG4\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Source InfoSheet</div><div class=\"table_desc\">This PDF from Valve was an advertisement providing information on the features of the Source Engine.</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!qllRVaBb!NCFvpE1PeFJO4U9h9KmZGAATQLTf5kicXO_1fnsFdm8\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Practical Guide to Facial Animation for the Source Engine</div><div class=\"table_desc\">This PDF covers the overall process in creating a believable facial animation in Source.</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!eh1j0BDQ!LymdzZkBRucR4aRMnoK6poyVM67CNnwaPkjGP0-DeGU\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Source for serious games</div><div class=\"table_desc\">This Academic Paper covers the idea of using the Source Engine to create Serious games or simulations for real life to aid in training.</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!e11VVIrI!CrHVenWNnRzzuTkuEFwzOJs0DF48ZRnE3kslbuQwsYo\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Introduction to Hammer (German)</div><div class=\"table_desc\">This PDF introduces you to hammer. Written in german by isolated-design.de, original Title(Einführung in den Hammer Editor 3.5)</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!a801lDoQ!dsMhRKqKNP3jNLMiEPmEKUx1rlF0HmfsmRrLe_qvIII\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">German Translation of Half-Life.doc from the SDK</div><div class=\"table_desc\">This PDF is a german translation for the documentation that comes with the Half-Life SDK. Author: isolated-design.de, original Title (Übersetzung der Modelling for Half-Life.doc aus dem HL-SDK 2.2)</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!mx0mRKjb!_L5wksQLU1AMJidPzUADYAz07DZ7jtu-jWkf6JcZ6xo\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Valve – New Empolyee Handbook</div><div class=\"table_desc\">A fearless adventure in knowing what to do when no one’s there telling you what to do</div>",
+    "HomeLink": "",
+    "Engine": "n / a",
+    "Mega": "<a href=\"https://mega.nz/#!ClVygJjK!2l-Ho-hA6M7MkgaKXHpcOZv6ZeCZ7yNImD0qc1jGmQw\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Halfwit-2 Workshop Resources</div><div class=\"table_desc\">Thanks to wazanator for providing the offline backup of the workshop, when the official site was down</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#F!0ERVFADQ!8w1ueBlFkwhg3ag9hLG1HQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Halfwit-2 Tutorial Collection</div><div class=\"table_desc\">Kudos to wazanator for providing the offline backup of Halfwit-2, when the official site was down</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#F!UcRljIIQ!0f17N_Z5HAaqu5G2rrIhSQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Unofficial Half-Life WAD3 and SPRITE file format Specification</div><div class=\"table_desc\">PDF describing the WAD3 and Sprite formats for Half-Life</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!zx0WUChD!x172vhBQFO8Z-v6XPtLgGK2QAEFz56DcjsyPcXbc5Vg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Half-Life CVAR (console variable/command) List</div><div class=\"table_desc\">Word Doc listing the console commands for Half-Life</div>",
+    "HomeLink": "",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#F!C1EAhA7B!yr_tWQK_JKMw0fhTo2ikzg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Goldsrc Model Compiling Flowchart</div><div class=\"table_desc\">Really neat flow chart from 303.org on how the compilation process for GoldSrc models</div>",
+    "HomeLink": "<a href=\"http://www.the303.org/goldsrc/gmdlflowchart.html\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "n / a"
+  },
+  {
+    "Title": "<div class=\"table_title\">Source Model Compiling Flowchart</div><div class=\"table_desc\">Really neat flow chart from 303.org on how the compilation process for Source models</div>",
+    "HomeLink": "<a href=\"http://www.the303.org/source/mdlflowchart.html\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_source\" alt=\"3\" title=\"Source\"></div>",
+    "Mega": "n / a"
+  },
+  {
+    "Title": "<div class=\"table_title\">Plaguefest Little Map making Thread</div><div class=\"table_desc\">Really useful collection of resources for those interested in modding</div>",
+    "HomeLink": "<a href=\"http://plaguefest.com/threads/the-little-mapmaking-thread.17423/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Mega": "n / a"
+  },
+  {
+    "Title": "<div class=\"table_title\">Valve's Steam Controller 3D CAD Source</div><div class=\"table_desc\">The Source CAD files for Valves Steam Controller</div>",
+    "HomeLink": "<a href=\"http://steamed.kotaku.com/valve-wants-users-to-mod-the-steam-controller-1766948302\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "n / a",
+    "Mega": "<a href=\"https://mega.nz/#F!n9MkVQ6a!d0TNebgIPrc5JaTLmaHI8Q\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Half-Life Console Commands CVARS</div><div class=\"table_desc\">Comprehensive list of Console Commands for Half-Life</div>",
+    "HomeLink": "<a href=\"http://sr-team.clan.su/K_stat/hlcommandsfull.html\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\"></div>",
+    "Mega": "n / a"
+  },
+  {
+    "Title": "<div class=\"table_title\">Wallworm: Hammered to the Max</div><div class=\"table_desc\">A Hammer user's guide to Max</div>",
+    "HomeLink": "<a href=\"http://hammeredtothemax.com/\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!bgVjBJYA!MrxclxnAK-YHHugE57VuEVd16zsgcS0ZJ9aHA9qpwL4\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Wallworm: Anatomy of a Design Team</div><div class=\"table_desc\">The Wall Worm Source Engine Pipeline</div>",
+    "HomeLink": "<a href=\"https://wallworm.com/store/index.php?route=common/home\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!rlEiiabC!GEKriuHZ3TLRY-SsogKrmhkMddmq-I6Etvq9y8fbUKk\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  },
+  {
+    "Title": "<div class=\"table_title\">Low Poly Character Creation</div><div class=\"table_desc\">This tutorial is for the creation of Low-Poly 'Portable Game Res' real-time characters.</div>",
+    "HomeLink": "<a href=\"http://orig09.deviantart.net/5ef4/f/2007/122/0/4/3d_tutorial___lowpoly_characte_by_athey.pdf\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Engine": "<div class=\"eng_icon eng_goldsrc_and_source\" alt=\"2\" title=\"Goldsrc and Source\"></div>",
+    "Mega": "<a href=\"https://mega.nz/#!64slDSqY!ASECAx_FI14ixIttuTSUJuASSBheBKJ1NYMCqtaoULI\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  }
+]

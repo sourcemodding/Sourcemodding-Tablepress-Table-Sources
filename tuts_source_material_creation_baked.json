@@ -1,0 +1,248 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"http://lambdageneration.com/modding/source/how-to-create-custom-textures-for-the-source-engine/\" target=\"_blank\"><div class=\"table_tut_title\">How to Create Custom Textures for the Source Engine</div><div class=\"table_tut_desc\">This tutorial will show you how to create custom textures for use in creating maps for the Source engine</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_lambda\" alt=\"lambda\" data-title=\"Author: Dooglz\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20060620102748/http://halfwit-2.com/?page=tutorials&amp;id=62&amp;PHPSESSID=d50bbc8e15612551d0eb10d5f6efb683\" target=\"_blank\"><div class=\"table_tut_title\">Basic Re-Skin (62)</div><div class=\"table_tut_desc\">This tutorial will cover the basics of reskinning a model for Hammer and HalfLife2.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!hAAjFQ5K!xxiI3X46kVMU21GWleKxGg\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20060620102800/http://halfwit-2.com/?page=tutorials&amp;id=64&amp;PHPSESSID=d50bbc8e15612551d0eb10d5f6efb683\" target=\"_blank\"><div class=\"table_tut_title\">Texture Basics (64)</div><div class=\"table_tut_desc\">This is the first of a series of texturing tutorials from Gronblad, and covers making a texture, and converting it for use in Hammer and HalfLife 2</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!oUwCHYCS!10-Q695R0P3DMDC8XP2iuA\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/662/\" target=\"_blank\"><div class=\"table_tut_title\">Placing Custom Images into a VGUI Menu</div><div class=\"table_tut_desc\">This tutorial walks you through creating a material with transparency and then placing it into VGUI menu.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: hopper\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/648/\" target=\"_blank\"><div class=\"table_tut_title\">Creating alpha blending textures.</div><div class=\"table_tut_desc\">How to create an alpha blending texture.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Bill\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20060624201145/http://www.halfwit-2.com/?page=tutorials&amp;id=75&amp;PHPSESSID=09c34bedeea9a306d3cf8e9d75122665\" target=\"_blank\"><div class=\"table_tut_title\">Drax's Photoshop Tutorial - User Bars (75)</div><div class=\"table_tut_desc\">how to make those User Bars often seen on Forums. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20060624201145/http://www.halfwit-2.com/?page=tutorials&amp;id=76&amp;PHPSESSID=09c34bedeea9a306d3cf8e9d75122665\" target=\"_blank\"><div class=\"table_tut_title\">Drax's Photoshop Tutorial - Pixel Stretch Signatures (76)</div><div class=\"table_tut_desc\">how to make a signature for a forum, using pixel stretch technique to give a blurred matching background.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20060909070319/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=7&amp;PHPSESSID=6807d82da4f7e0ae156f0e88c4864e5f\" target=\"_blank\"><div class=\"table_tut_title\">Model Skins - MiniTut</div><div class=\"table_tut_desc\">This tutorial is a small introduction to skins.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20141004210343/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=16\" target=\"_blank\"><div class=\"table_tut_title\">Water Textures by Stadric</div><div class=\"table_tut_desc\">Visible representation of water textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20080622045705/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=17\" target=\"_blank\"><div class=\"table_tut_title\">Surface Materials by Gronblad</div><div class=\"table_tut_desc\">Surface Materials for Source</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20080622045725/http://www.halfwit-2.com/?page=tutorials&amp;id=101\" target=\"_blank\"><div class=\"table_tut_title\">Animated Textures by Yomother (101)</div><div class=\"table_tut_desc\">how to make an animated texture work for you in Half-Life. You will need these programs: Photoshop and VTFEdit</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!5UoXybbA!bLNdgSlJuG_nJVmgVvsTbQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20150219221231/http://www.halfwit-2.com/?page=tutorials&amp;id=129\" target=\"_blank\"><div class=\"table_tut_title\">Transparent Textures Video by YoMother (129)</div><div class=\"table_tut_desc\">How to make a transparent texture.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!FBYTHChZ!lMNjAWUMaXEN6IdDKmSuRQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.halfwit-2.com/?page=tutorials&amp;id=142\" target=\"_blank\"><div class=\"table_tut_title\">Extracting and editing a source texture by #1Duck (142)</div><div class=\"table_tut_desc\">how to extract a texture from the game, and then edit it.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!YE5lgAQA!5meXiQYY6wKbywNOV0YYnw\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.halfwit-2.com/?page=tutorials&amp;id=143\" target=\"_blank\"><div class=\"table_tut_title\">Specular Bumpmapping for Textures in Source by Stadric (143)</div><div class=\"table_tut_desc\">This tutorial fom Stadric shows how to make textures look more realistic with depth and texture, by specular bumpmapping.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!YRYyTY5Q!5eHm_G0B02K9H1y3-N3d7g\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20080622045735/http://www.halfwit-2.com/?page=tutorials&amp;id=144\" target=\"_blank\"><div class=\"table_tut_title\">Blending Textures by Stadric (144)</div><div class=\"table_tut_desc\">This shows you how to make a blend texture for use on displacements and was created by Stadric.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!JUhWFBTQ!OmUTcJp7avcfg1BoCDtNpQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.halfwit-2.com/?page=tutorials&amp;id=145\" target=\"_blank\"><div class=\"table_tut_title\">Create a Spray Decal by Bud Doug Lee (145)</div><div class=\"table_tut_desc\">Tutorial on making a spray decal that contains a full range of transparency, such as text or graffiti like used in HL2.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!oQJ1WTIT!cdLLq5JwbEAtyMiKMr9FMQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20150207141050/http://www.halfwit-2.com/?page=tutorials&amp;id=207\" target=\"_blank\"><div class=\"table_tut_title\">Using GIMP to turn a photograph into a texture with transparency (207)</div><div class=\"table_tut_desc\">If I can find a photograph of something similar, it's fairly straightforward to turn it into a texture file. </div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!4RhV2aoJ!WlvZgTWsBWAatGOWP3u1pg\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20150207060952/http://www.halfwit-2.com/?page=tutorials&amp;id=209\" target=\"_blank\"><div class=\"table_tut_title\">Using GIMP to make self illuminating textures (209)</div><div class=\"table_tut_desc\">Using GIMP to make self illuminating textures</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!cEwBCQqa!uaFFGUEPJm915AGeCoNbvQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/http://www.halfwit-2.com/?page=tutorials&amp;id=211\" target=\"_blank\"><div class=\"table_tut_title\">Converting textures with Paint.Net by Last.Exile (211)</div><div class=\"table_tut_desc\">How to create textures with Paint .NET and notepad.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!YEIUAJYQ!eu8g9d5SqGspuuMX8PJONg\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Adding_Effects_to_Source_Textures\" target=\"_blank\"><div class=\"table_tut_title\">Adding Effects to Source Textures</div><div class=\"table_tut_desc\">From bump mapping to phong shading - This tutorial covers a large number of texture effects. Look inside to discover how to give your textures an extra special touch.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: the_best_flash\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Creating_blend_textures_for_Displacements\" target=\"_blank\"><div class=\"table_tut_title\">Creating blend textures for Displacements</div><div class=\"table_tut_desc\">How to painlessly make functional blend textures.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!MIZiBR7A!2z7sC1gtiQTUngtxw4Z9LQ\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: JeffMOD\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Source_Custom_Materials\" target=\"_blank\"><div class=\"table_tut_title\">Source Custom Materials</div><div class=\"table_tut_desc\">This covers creation of custom textures in the Source engine</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: TheBlackViper\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20070606213906/http://egir.dk/phpBB2/viewtopic.php?t=3600&amp;sid=03bdea30a71e7e7591df09aed462a888\" target=\"_blank\"><div class=\"table_tut_title\">Custom Textures</div><div class=\"table_tut_desc\">Custom Textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_egirdk\" alt=\"egirdk\" data-title=\"Author: ThePwner\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/spraylogo.html\" target=\"_blank\"><div class=\"table_tut_title\">The Source Spraylogo Tutorial - Introduction</div><div class=\"table_tut_desc\">What are source spraylogos? Spraylogos are images you can place on most surfaces in source multiplayer games with the exception of models.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/tutorial01.html\" target=\"_blank\"><div class=\"table_tut_title\">The Source Spraylogo Tutorial - Creating a Static Spray</div><div class=\"table_tut_desc\">Our first tutorial is creating a static spray with no transparency.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/tutorial02.html\" target=\"_blank\"><div class=\"table_tut_title\">The Source Spraylogo Tutorial - Creating a Static Spray With Transparency</div><div class=\"table_tut_desc\">Our second tutorial is creating a static spray with transparency.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/tutorial03.html\" target=\"_blank\"><div class=\"table_tut_title\">The Source Spraylogo Tutorial - Creating Animated Sprays</div><div class=\"table_tut_desc\">Creating Animated Sprays</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/tutorial04.html\" target=\"_blank\"><div class=\"table_tut_title\">The Source Spraylogo Tutorial - Creating a Fading Spray</div><div class=\"table_tut_desc\">Creating a Fading Spray</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.the303.org/tutorials/tutorial05.html\" target=\"_blank\"><div class=\"table_tut_title\">The Source Spraylogo Tutorial - Pixelated Sprite Sprays</div><div class=\"table_tut_desc\">Pixelated Sprite Sprays</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=EC8Pn3SmiGQ\" target=\"_blank\"><div class=\"table_tut_title\">Custom particles in maps &amp; spritesheet VTFs</div><div class=\"table_tut_desc\">Custom particles in maps &amp; spritesheet VTFs</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/106/Custom_Textures_in_HL2_and_CS:S\" target=\"_blank\"><div class=\"table_tut_title\">Custom Textures in HL2 and CS:S</div><div class=\"table_tut_desc\">Learn how to use custom textures in HL2 and CS:S.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: darkdruid\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/178/Creating_transparent_textures\" target=\"_blank\"><div class=\"table_tut_title\">Creating transparent textures</div><div class=\"table_tut_desc\">a pretty simple tutorial on making transparent textures</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: XenNetwork\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/156/Learn_To_Make_Normal_Maps\" target=\"_blank\"><div class=\"table_tut_title\">Learn To Make Normal Maps</div><div class=\"table_tut_desc\">In this tutorial you will learn how to create and implent normal maps into your custom source engine textures. Normal maps are textures that make your original texture look 3d. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: darkdruid\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/141/Customizing/Merging_HL2_textures_(Fireworks_MX)\" target=\"_blank\"><div class=\"table_tut_title\">Customizing/Merging HL2 textures (Fireworks MX)</div><div class=\"table_tut_desc\">Merge HL2 textures to create new ones.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: ding\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/139/Custom_Decals_with_Alpha_Maps\" target=\"_blank\"><div class=\"table_tut_title\">Custom Decals with Alpha Maps</div><div class=\"table_tut_desc\">Creating your own decals </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: cman2k\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/126/Texture_file_formats\" target=\"_blank\"><div class=\"table_tut_title\">Texture file formats</div><div class=\"table_tut_desc\">Guide for texture artists - creating material textures for source</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: pospi\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/120/Converting_Wads_to_HL2\" target=\"_blank\"><div class=\"table_tut_title\">Converting Wads to HL2</div><div class=\"table_tut_desc\">Convert those old wads to HL2 </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: darkdruid\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/107/Specular_Bumpmapping_with_the_Source_Engine\" target=\"_blank\"><div class=\"table_tut_title\">Specular Bumpmapping with the Source Engine</div><div class=\"table_tut_desc\">Some hints for you to manage bumpmapping with your custom textures </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: laktat\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/115/lights.rad\" target=\"_blank\"><div class=\"table_tut_title\">lights.rad</div><div class=\"table_tut_desc\">Where is it and how do I make one? </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Sparky911\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20061024220650/http://collective.valve-erc.com/index.php?doc=1100776974-36248000\" target=\"_blank\"><div class=\"table_tut_title\">Your world in HL2</div><div class=\"table_tut_desc\">This article gives tips and advice to anyone wanting to make custom photorealistic textures to be used in Half-Life 2.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_verc\" alt=\"verc\" data-title=\"Author: Oksid\"></div>"
+  }
+]

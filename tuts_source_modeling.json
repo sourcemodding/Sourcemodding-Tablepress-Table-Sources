@@ -13,7 +13,7 @@
     "tut_description": "Creating custom eyes in 3DSMAX for TF2",
     "tut_link": "https://www.youtube.com/watch?v=5_ATRl1twEE",
     "tut_download": "https://mega.nz/#F!VBhyDRBS!fA13Q3sncmzt7jCNYFmYDg",
-    "tut_game": "TF2",
+    "tut_game": "tf2",
     "tut_author_name": "Anatoly Volnov",
     "tut_author_alt": "yt"
   },
@@ -22,7 +22,7 @@
     "tut_description": "How to work with TF2 facial morphs in 3DSMAX",
     "tut_link": "https://www.youtube.com/watch?v=U_-4HjXH97U",
     "tut_download": "https://mega.nz/#F!xZ4mnLCQ!3u8GY2xf2kX6mpDffpm26A",
-    "tut_game": "TF2",
+    "tut_game": "tf2",
     "tut_author_name": "Anatoly Volnov",
     "tut_author_alt": "yt"
   },
@@ -67,7 +67,7 @@
     "tut_description": "A full listing of HL2 models by directory",
     "tut_link": "http://web.archive.org/web/20060618113058/http://halfwit-2.com/?page=resources&amp;action=view&amp;item=1&amp;PHPSESSID=d50bbc8e15612551d0eb10d5f6efb683",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -76,7 +76,7 @@
     "tut_description": "How to add a custom sequence to an existing model",
     "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Adding_an_HL2_Custom_Sequence",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "BJ",
     "tut_author_alt": "twhl"
   },
@@ -139,7 +139,7 @@
     "tut_description": "Getting started",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/169/Creating_and_compiling_basic_models",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Vash",
     "tut_author_alt": "snarkpit"
   },
@@ -148,7 +148,7 @@
     "tut_description": "Get everything set up for your first model!",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/167/Modeling:_Getting_Started_with_XSI",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Addicted to Morphine",
     "tut_author_alt": "snarkpit"
   },
@@ -166,7 +166,7 @@
     "tut_description": "This is not a tutorial of such, more of a reference and is only an introduction to the QC file.",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/148/Writing_a_basic_QC_file",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Quaver",
     "tut_author_alt": "snarkpit"
   },
@@ -175,7 +175,7 @@
     "tut_description": "Modelling in Milkshape ",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/142/Custom_Props:_Part_1",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "ReNo",
     "tut_author_alt": "snarkpit"
   },
@@ -189,7 +189,7 @@
     "tut_author_alt": "303"
   },
   {
-    "tut_name": "Mario\\'s Guide to Ragdolling",
+    "tut_name": "Mario's Guide to Ragdolling",
     "tut_description": "Gmod Ragdolling with 3dmax",
     "tut_link": "https://web.archive.org/web/20110401001456/http://www.facepunch.com/threads/542906-Mario-s-Guide-To-Ragdolling?p=10073132#post10073132",
     "tut_download": "",
@@ -202,7 +202,7 @@
     "tut_description": "How to construct a prop in XSI, texture it, export it & compile to .mdl format and put in-game!",
     "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-make-a-prop-in-xsi-for-hl2",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Pretador",
     "tut_author_alt": "moddb"
   }

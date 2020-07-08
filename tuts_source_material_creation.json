@@ -4,7 +4,7 @@
     "tut_description": "This tutorial will show you how to create custom textures for use in creating maps for the Source engine",
     "tut_link": "http://lambdageneration.com/modding/source/how-to-create-custom-textures-for-the-source-engine/",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Dooglz",
     "tut_author_alt": "lambda"
   },
@@ -13,7 +13,7 @@
     "tut_description": "This tutorial will cover the basics of reskinning a model for Hammer and HalfLife2.",
     "tut_link": "http://web.archive.org/web/20060620102748/http://halfwit-2.com/?page=tutorials&amp;id=62&amp;PHPSESSID=d50bbc8e15612551d0eb10d5f6efb683",
     "tut_download": "https://mega.nz/#F!hAAjFQ5K!xxiI3X46kVMU21GWleKxGg",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -22,7 +22,7 @@
     "tut_description": "This is the first of a series of texturing tutorials from Gronblad, and covers making a texture, and converting it for use in Hammer and HalfLife 2",
     "tut_link": "http://web.archive.org/web/20060620102800/http://halfwit-2.com/?page=tutorials&amp;id=64&amp;PHPSESSID=d50bbc8e15612551d0eb10d5f6efb683",
     "tut_download": "https://mega.nz/#F!oUwCHYCS!10-Q695R0P3DMDC8XP2iuA",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -31,7 +31,7 @@
     "tut_description": "This tutorial walks you through creating a material with transparency and then placing it into VGUI menu.",
     "tut_link": "http://articles.thewavelength.net/662/",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "hopper",
     "tut_author_alt": "wavelength"
   },
@@ -40,7 +40,7 @@
     "tut_description": "How to create an alpha blending texture.",
     "tut_link": "http://articles.thewavelength.net/648/",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Bill",
     "tut_author_alt": "wavelength"
   },
@@ -67,7 +67,7 @@
     "tut_description": "This tutorial is a small introduction to skins.",
     "tut_link": "http://web.archive.org/web/20060909070319/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=7&amp;PHPSESSID=6807d82da4f7e0ae156f0e88c4864e5f",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -76,7 +76,7 @@
     "tut_description": "Visible representation of water textures",
     "tut_link": "http://web.archive.org/web/20141004210343/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=16",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -85,7 +85,7 @@
     "tut_description": "Surface Materials for Source",
     "tut_link": "http://web.archive.org/web/20080622045705/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=17",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -94,7 +94,7 @@
     "tut_description": "how to make an animated texture work for you in Half-Life. You will need these programs: Photoshop and VTFEdit",
     "tut_link": "http://web.archive.org/web/20080622045725/http://www.halfwit-2.com/?page=tutorials&amp;id=101",
     "tut_download": "https://mega.nz/#F!5UoXybbA!bLNdgSlJuG_nJVmgVvsTbQ",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -103,7 +103,7 @@
     "tut_description": "How to make a transparent texture.",
     "tut_link": "http://web.archive.org/web/20150219221231/http://www.halfwit-2.com/?page=tutorials&amp;id=129",
     "tut_download": "https://mega.nz/#F!FBYTHChZ!lMNjAWUMaXEN6IdDKmSuRQ",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -112,7 +112,7 @@
     "tut_description": "how to extract a texture from the game, and then edit it.",
     "tut_link": "http://web.archive.org/web/http://www.halfwit-2.com/?page=tutorials&amp;id=142",
     "tut_download": "https://mega.nz/#F!YE5lgAQA!5meXiQYY6wKbywNOV0YYnw",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -121,7 +121,7 @@
     "tut_description": "This tutorial fom Stadric shows how to make textures look more realistic with depth and texture, by specular bumpmapping.",
     "tut_link": "http://web.archive.org/web/http://www.halfwit-2.com/?page=tutorials&amp;id=143",
     "tut_download": "https://mega.nz/#F!YRYyTY5Q!5eHm_G0B02K9H1y3-N3d7g",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -130,7 +130,7 @@
     "tut_description": "This shows you how to make a blend texture for use on displacements and was created by Stadric.",
     "tut_link": "http://web.archive.org/web/20080622045735/http://www.halfwit-2.com/?page=tutorials&amp;id=144",
     "tut_download": "https://mega.nz/#F!JUhWFBTQ!OmUTcJp7avcfg1BoCDtNpQ",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -139,7 +139,7 @@
     "tut_description": "Tutorial on making a spray decal that contains a full range of transparency, such as text or graffiti like used in HL2.",
     "tut_link": "http://web.archive.org/web/http://www.halfwit-2.com/?page=tutorials&amp;id=145",
     "tut_download": "https://mega.nz/#F!oQJ1WTIT!cdLLq5JwbEAtyMiKMr9FMQ",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "halfwit 2",
     "tut_author_alt": "halfwit"
   },
@@ -175,7 +175,7 @@
     "tut_description": "From bump mapping to phong shading - This tutorial covers a large number of texture effects. Look inside to discover how to give your textures an extra special touch.",
     "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Adding_Effects_to_Source_Textures",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "the_best_flash",
     "tut_author_alt": "twhl"
   },
@@ -184,7 +184,7 @@
     "tut_description": "How to painlessly make functional blend textures.",
     "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Creating_blend_textures_for_Displacements",
     "tut_download": "https://mega.nz/#F!MIZiBR7A!2z7sC1gtiQTUngtxw4Z9LQ",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "JeffMOD",
     "tut_author_alt": "twhl"
   },
@@ -193,7 +193,7 @@
     "tut_description": "This covers creation of custom textures in the Source engine",
     "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Source_Custom_Materials",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheBlackViper",
     "tut_author_alt": "twhl"
   },
@@ -202,7 +202,7 @@
     "tut_description": "Custom Textures",
     "tut_link": "http://web.archive.org/web/20070606213906/http://egir.dk/phpBB2/viewtopic.php?t=3600&amp;sid=03bdea30a71e7e7591df09aed462a888",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "ThePwner",
     "tut_author_alt": "egirdk"
   },
@@ -211,7 +211,7 @@
     "tut_description": "What are source spraylogos? Spraylogos are images you can place on most surfaces in source multiplayer games with the exception of models.",
     "tut_link": "http://www.the303.org/tutorials/spraylogo.html",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheCorp303",
     "tut_author_alt": "303"
   },
@@ -220,7 +220,7 @@
     "tut_description": "Our first tutorial is creating a static spray with no transparency.",
     "tut_link": "http://www.the303.org/tutorials/tutorial01.html",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheCorp303",
     "tut_author_alt": "303"
   },
@@ -229,7 +229,7 @@
     "tut_description": "Our second tutorial is creating a static spray with transparency.",
     "tut_link": "http://www.the303.org/tutorials/tutorial02.html",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheCorp303",
     "tut_author_alt": "303"
   },
@@ -238,7 +238,7 @@
     "tut_description": "Creating Animated Sprays",
     "tut_link": "http://www.the303.org/tutorials/tutorial03.html",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheCorp303",
     "tut_author_alt": "303"
   },
@@ -247,7 +247,7 @@
     "tut_description": "Creating a Fading Spray",
     "tut_link": "http://www.the303.org/tutorials/tutorial04.html",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheCorp303",
     "tut_author_alt": "303"
   },
@@ -256,7 +256,7 @@
     "tut_description": "Pixelated Sprite Sprays",
     "tut_link": "http://www.the303.org/tutorials/tutorial05.html",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheCorp303",
     "tut_author_alt": "303"
   },
@@ -265,7 +265,7 @@
     "tut_description": "Custom particles in maps &amp; spritesheet VTFs",
     "tut_link": "https://www.youtube.com/watch?v=EC8Pn3SmiGQ",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "TheCorp303",
     "tut_author_alt": "303"
   },
@@ -283,7 +283,7 @@
     "tut_description": "a pretty simple tutorial on making transparent textures",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/178/Creating_transparent_textures",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "XenNetwork",
     "tut_author_alt": "snarkpit"
   },
@@ -301,7 +301,7 @@
     "tut_description": "Merge HL2 textures to create new ones.",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/141/Customizing/Merging_HL2_textures_(Fireworks_MX)",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "ding",
     "tut_author_alt": "snarkpit"
   },
@@ -310,7 +310,7 @@
     "tut_description": "Creating your own decals ",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/139/Custom_Decals_with_Alpha_Maps",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "cman2k",
     "tut_author_alt": "snarkpit"
   },
@@ -319,7 +319,7 @@
     "tut_description": "Guide for texture artists - creating material textures for source",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/126/Texture_file_formats",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "pospi",
     "tut_author_alt": "snarkpit"
   },
@@ -328,7 +328,7 @@
     "tut_description": "Convert those old wads to HL2 ",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/120/Converting_Wads_to_HL2",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "darkdruid",
     "tut_author_alt": "snarkpit"
   },
@@ -337,7 +337,7 @@
     "tut_description": "Some hints for you to manage bumpmapping with your custom textures ",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/107/Specular_Bumpmapping_with_the_Source_Engine",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "laktat",
     "tut_author_alt": "snarkpit"
   },
@@ -346,7 +346,7 @@
     "tut_description": "Where is it and how do I make one? ",
     "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/115/lights.rad",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Sparky911",
     "tut_author_alt": "snarkpit"
   },
@@ -355,7 +355,7 @@
     "tut_description": "This article gives tips and advice to anyone wanting to make custom photorealistic textures to be used in Half-Life 2.",
     "tut_link": "https://web.archive.org/web/20061024220650/http://collective.valve-erc.com/index.php?doc=1100776974-36248000",
     "tut_download": "",
-    "tut_game": "HL2",
+    "tut_game": "hl2",
     "tut_author_name": "Oksid",
     "tut_author_alt": "verc"
   }

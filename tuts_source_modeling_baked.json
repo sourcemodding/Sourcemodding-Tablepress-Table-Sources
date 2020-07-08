@@ -1,0 +1,146 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "<div class=\"table_header_game\"></div>",
+    "Col4": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"http://www.sourcemodding.com/tutorials/source/modeling/intro-to-hlmv-source/\" target=\"_blank\"><div class=\"table_tut_title\">Introduction to the Half-Life Model Viewer (HLMV)</div><div class=\"table_tut_desc\">In this tutorial i will explain to the best of my knowledge how to use HLMV for viewing and editing models</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_sourcemodding\" alt=\"sourcemodding\" data-title=\"Author: sourcemodding\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=5_ATRl1twEE\" target=\"_blank\"><div class=\"table_tut_title\">TF2 Custom Eyes in 3DS Max</div><div class=\"table_tut_desc\">Creating custom eyes in 3DSMAX for TF2</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!VBhyDRBS!fA13Q3sncmzt7jCNYFmYDg\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_tf2\" alt=\"tf2\" title=\"Team Fortress 2\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: Anatoly Volnov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.youtube.com/watch?v=U_-4HjXH97U\" target=\"_blank\"><div class=\"table_tut_title\">TF2 Facial Morphs in 3DS Max</div><div class=\"table_tut_desc\">How to work with TF2 facial morphs in 3DSMAX</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!xZ4mnLCQ!3u8GY2xf2kX6mpDffpm26A\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_tf2\" alt=\"tf2\" title=\"Team Fortress 2\"></div>",
+    "Col4": "<div class=\"tut_source src_yt\" alt=\"yt\" data-title=\"Author: Anatoly Volnov\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=492350894\" target=\"_blank\"><div class=\"table_tut_title\">Quick compilation of QC files using the Explorer 'Send To' dropdown dialog</div><div class=\"table_tut_desc\">If you want to quickly compile a model by just right clicking on the QC and selecting an option to compile it, then you're in the right place! </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_steam\" alt=\"steam\" data-title=\"Author: Thundery Steak\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/516/\" target=\"_blank\"><div class=\"table_tut_title\">SoftImage - Moving Around the Viewports</div><div class=\"table_tut_desc\">This is a short article describing the 2 options for moving around the viewports.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: Mosquito\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://articles.thewavelength.net/508/\" target=\"_blank\"><div class=\"table_tut_title\">SoftImage - Creating You First Character</div><div class=\"table_tut_desc\">Here is how to create your first character in SOFTIMAGE|XSI.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_wavelength\" alt=\"wavelength\" data-title=\"Author: -=Druid=-\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20141005115112/http://www.halfwit-2.com/?page=resources&amp;action=view&amp;item=14\" target=\"_blank\"><div class=\"table_tut_title\">Attachments </div><div class=\"table_tut_desc\">There are two reasons to use attachments. The first was touched on in the Point_Viewcontrol tutorial here, where you can set the PVC to always point at a particular feature on an NPC, Alyx's eyes in the tutorial.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20060618113058/http://halfwit-2.com/?page=resources&amp;action=view&amp;item=1&amp;PHPSESSID=d50bbc8e15612551d0eb10d5f6efb683\" target=\"_blank\"><div class=\"table_tut_title\">HL2 Model List</div><div class=\"table_tut_desc\">A full listing of HL2 models by directory</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_halfwit\" alt=\"halfwit\" data-title=\"Author: halfwit 2\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Adding_an_HL2_Custom_Sequence\" target=\"_blank\"><div class=\"table_tut_title\">Adding an HL2 Custom Sequence</div><div class=\"table_tut_desc\">How to add a custom sequence to an existing model</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: BJ\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Animating_Models\" target=\"_blank\"><div class=\"table_tut_title\">Animating Models</div><div class=\"table_tut_desc\">Rigging and animation for Source models, using XSI.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!Jd4V1KaJ!5LkcAH1IF64fd2K4i5lyLw\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: BJ\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_First_XSI_Model\" target=\"_blank\"><div class=\"table_tut_title\">First XSI Model</div><div class=\"table_tut_desc\">Guides you through creating your first Source mode in XSI.</div></a>",
+    "Col2": "<a href=\"https://mega.nz/#F!McwHWD5A!ljy6ZacJdNEymhnnhHZ7JA\" target=\"_blank\"><div class=\"table_dl\" title=\"Related Download!\" alt=\"dl\"></div></a>",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: BJ\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Rescaling_Prop_Models\" target=\"_blank\"><div class=\"table_tut_title\">Rescaling Prop Models</div><div class=\"table_tut_desc\">You can't use Model Viewer to do it anymore. This covers rescaling prop models for Source.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Gman\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://twhl.info/wiki/page/Tutorial%3A_Source_Modelling_Setup\" target=\"_blank\"><div class=\"table_tut_title\">Source Modelling Setup</div><div class=\"table_tut_desc\">Configuring XSI and using the SDK tools</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: BJ\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://web.archive.org/web/20071127125604/http://www.gamedesign.net/node/1002\" target=\"_blank\"><div class=\"table_tut_title\">Creating a 'prop_physics entity'</div><div class=\"table_tut_desc\">I will guide you through the creation of a prop_physics entity, which may also be used as a prop_static entity.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_rust\" alt=\"rust\" data-title=\"Author: yesukai\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/194/Adding_Extra_Skins_to_Existing_Models\" target=\"_blank\"><div class=\"table_tut_title\">Adding Extra Skins to Existing Models</div><div class=\"table_tut_desc\">Describes how to add extra skins to existing compiled models in the Source engine</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Le Chief\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/169/Creating_and_compiling_basic_models\" target=\"_blank\"><div class=\"table_tut_title\">Creating and compiling basic models</div><div class=\"table_tut_desc\">Getting started</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Vash\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/167/Modeling:_Getting_Started_with_XSI\" target=\"_blank\"><div class=\"table_tut_title\">Modeling: Getting Started with XSI</div><div class=\"table_tut_desc\">Get everything set up for your first model!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Addicted to Morphine\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://mega.nz/#F!gZhFzZja!4w8BbHm1GEFg_5_xenkAHA\" target=\"_blank\"><div class=\"table_tut_title\">Digital Tutors - Softimage 7.5 Training</div><div class=\"table_tut_desc\">Training kit originally provided for free by Digital Tutors and Autodesk to train those learning Sodtimage XSI</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_dt\" alt=\"digitaltutors\" data-title=\"Author: Digital Tutors\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/148/Writing_a_basic_QC_file\" target=\"_blank\"><div class=\"table_tut_title\">Writing a basic QC file</div><div class=\"table_tut_desc\">This is not a tutorial of such, more of a reference and is only an introduction to the QC file.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: Quaver\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/142/Custom_Props:_Part_1\" target=\"_blank\"><div class=\"table_tut_title\">Custom Props Part 1</div><div class=\"table_tut_desc\">Modelling in Milkshape </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: ReNo\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://the303.org/tutorials/index.html\" target=\"_blank\"><div class=\"table_tut_title\">Source Model Compile/Decompile Flowchart</div><div class=\"table_tut_desc\">A quick reference for source model compiling and decompiling. Includes links. </div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_303\" alt=\"303\" data-title=\"Author: TheCorp303\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://web.archive.org/web/20110401001456/http://www.facepunch.com/threads/542906-Mario-s-Guide-To-Ragdolling?p=10073132#post10073132\" target=\"_blank\"><div class=\"table_tut_title\">Mario's Guide to Ragdolling</div><div class=\"table_tut_desc\">Gmod Ragdolling with 3dmax</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_multi\" alt=\"multi\" title=\"Multiple Games\"></div>",
+    "Col4": "<div class=\"tut_source src_facepunch\" alt=\"facepunch\" data-title=\"Author: mariokart64n\"></div>"
+  },
+  {
+    "Col1": "<a href=\"https://www.moddb.com/games/half-life/tutorials/how-to-make-a-prop-in-xsi-for-hl2\" target=\"_blank\"><div class=\"table_tut_title\">How to make a prop in XSI for HL2</div><div class=\"table_tut_desc\">How to construct a prop in XSI, texture it, export it & compile to .mdl format and put in-game!</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"game_icon game_hl2\" alt=\"hl2\" title=\"Half-Life 2, EP1, EP2 & Lost Coast\"></div>",
+    "Col4": "<div class=\"tut_source src_moddb\" alt=\"moddb\" data-title=\"Author: Pretador\"></div>"
+  }
+]

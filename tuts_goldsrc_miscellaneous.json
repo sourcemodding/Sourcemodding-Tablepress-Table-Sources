@@ -1,163 +1,163 @@
 [
   {
-    "tut_name": "How to Make a Half-Life Modification",
-    "tut_description": "An extensive guide everyone will enjoy!",
-    "tut_link": "http://articles.thewavelength.net/266/",
+    "tut_name": "How to make Windows installer for your mod automatically determines Steam folder",
+    "tut_description": "How to make Windows installer for your mod automatically determines Steam folder",
+    "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-make-windwos-installer-for-your-mod-automatically-determines-steam-folder",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "EarthQuake",
-    "tut_author_alt": "wavelength"
+    "tut_game": "unknown",
+    "tut_author_name": "Cybermax ",
+    "tut_author_alt": "moddb"
   },
   {
-    "tut_name": "Half-Life Movies",
-    "tut_description": "Impressive movies made easy.",
-    "tut_link": "http://articles.thewavelength.net/546/",
+    "tut_name": "Scripting vs. Entities",
+    "tut_description": "Scripting vs. Entities",
+    "tut_link": "http://web.archive.org/web/20061027221645/http://collective.valve-erc.com/index.php?doc=1044694065-93758500",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Forceflow",
-    "tut_author_alt": "wavelength"
+    "tut_game": "unknown",
+    "tut_author_name": "Merl",
+    "tut_author_alt": "verc"
   },
   {
-    "tut_name": "Half-Life directories",
-    "tut_description": "What is in the Pak0.pak file?",
-    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Half-Life_directories",
+    "tut_name": "How to increase FOV in any GoldSrc engine game",
+    "tut_description": "How to increase FOV in any GoldSrc engine game",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1605242936",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "paulkennedy",
+    "tut_game": "unknown",
+    "tut_author_name": "iriyap",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Real-Time Photorealism",
+    "tut_description": "Real-Time Photorealism",
+    "tut_link": "http://web.archive.org/web/20061027225332/http://collective.valve-erc.com/index.php?doc=1042230580-65380800",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Making and applying Icons and Grid Images to steam for Half-Life mods",
+    "tut_description": "Making and applying Icons and Grid Images to steam for Half-Life mods",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=276991683",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "Cyber_DemiGod",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Error Guide",
+    "tut_description": "Goldsrc Error Guide",
+    "tut_link": "https://twhl.info/wiki/page/category%3AError_Guides%2BGoldsource_Errors",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "twhl",
     "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Definitions for common Mapping Terms",
+    "tut_description": "definitions for some common terms used when mapping and modding",
+    "tut_link": "https://twhl.info/wiki/page/category:Definitions",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "twhl",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Binds and aliases",
+    "tut_description": "Excellent, someone who knows how to use bind and alias.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105780255",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "SubWoofer",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Worldcraft 3.3 MAP File Format",
+    "tut_description": "a brief explanation of all the various parts of the Worldcraft 3.3 map format",
+    "tut_link": "https://web.archive.org/web/20021219134401/http://valve-erc.com/resources/?page=33mapformat",
+    "tut_download": "",
+    "tut_game": "unknown",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Client Side Commands (Fun/Misc)",
+    "tut_description": "My guide is simply a series of images and text that describe some of the client-side commands ",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=123390533",
+    "tut_download": "",
+    "tut_game": "tfc",
+    "tut_author_name": "Chuck Bronson",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Custom Hull Size Tutorial ",
+    "tut_description": "Custom Hull Size Tutorial (sven co-op only)",
+    "tut_link": "https://forums.svencoop.com/showthread.php/35533-Custom-Hull-Size-Tutorial",
+    "tut_download": "",
+    "tut_game": "sven",
+    "tut_author_name": "A1win",
+    "tut_author_alt": "sven"
+  },
+  {
+    "tut_name": "Global Custom Sentences",
+    "tut_description": "Sentence replacement has been possible for many long years through Global Sound Replacement",
+    "tut_link": "https://forums.svencoop.com/showthread.php/45224-Global-Custom-Sentences",
+    "tut_download": "",
+    "tut_game": "sven",
+    "tut_author_name": "Hezus",
+    "tut_author_alt": "sven"
   },
   {
     "tut_name": "Setting up a Mod: Part 1, Custom Game feature",
     "tut_description": "Make use of the Custom Game Feature",
     "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_1_Custom_Game_feature",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Vassy",
     "tut_author_alt": "twhl"
   },
   {
-    "tut_name": "Setting up a Mod: Part 2, Splash Screens",
-    "tut_description": "Adding splash screens to your custom Mod",
-    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_2_Splash_Screens",
-    "tut_download": "https://mega.nz/#F!xBIwGQQB!hPlT-wAsyyjWAIGjhp6JFQ",
-    "tut_game": "HL",
-    "tut_author_name": "Steinin",
-    "tut_author_alt": "twhl"
-  },
-  {
-    "tut_name": "Setting up a Mod: Part 3, Game Strings",
-    "tut_description": "Modifying Game Strings",
-    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_3_Game_Strings",
-    "tut_download": "https://mega.nz/#F!QA4n1Y5a!1GDJH_kCQy82ym2-gopTcg",
-    "tut_game": "HL",
-    "tut_author_name": "Steinin",
-    "tut_author_alt": "twhl"
-  },
-  {
-    "tut_name": "Setting up a Mod: Part 4, Customised HUD colour",
-    "tut_description": "Change the colour of your HUD.",
-    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_4_Customised_HUD_colour",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "m0p",
-    "tut_author_alt": "twhl"
-  },
-  {
-    "tut_name": "Splash Screens for Steam",
-    "tut_description": "How to get your mod splash screens to work in Steam HL.",
-    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Splash_Screens_for_Steam",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "ChickenFist",
-    "tut_author_alt": "twhl"
-  },
-  {
-    "tut_name": "Steam",
-    "tut_description": "Mapping with Steam",
-    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Steam",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Seventh-Monkey",
-    "tut_author_alt": "twhl"
-  },
-  {
-    "tut_name": "The Valve Half-Life SDK",
-    "tut_description": "botmans introduction to The Valve Half-Life SDK",
-    "tut_link": "http://hpb-bot.bots-united.com/sdk.html",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "botman",
+    "tut_name": "Half-Life Physics Reference",
+    "tut_description": "This is an unofficial documentation for the physics governing the Half-Life universe. ",
+    "tut_link": "https://www.jwchong.com/hl/",
+    "tut_download": "https://github.com/Matherunner/hldoc",
+    "tut_game": "hl",
+    "tut_author_name": "Matherunner",
     "tut_author_alt": "generic"
   },
   {
-    "tut_name": "The unofficial Half-Life MOD FAQ",
-    "tut_description": "botmans unofficial Half-Life MOD FAQ",
-    "tut_link": "http://hpb-bot.bots-united.com/mod_faq.html",
+    "tut_name": "Rust Entity Guide",
+    "tut_description": "Rust Entity Guide",
+    "tut_link": "http://web.archive.org/web/20070112203228/http://www.gamedesign.net/node/33#guide",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "botman",
-    "tut_author_alt": "generic"
+    "tut_game": "hl",
+    "tut_author_name": "Andy",
+    "tut_author_alt": "rust"
   },
   {
-    "tut_name": "Building the SDK",
-    "tut_description": "botmans article on Building the SDK",
-    "tut_link": "http://hpb-bot.bots-united.com/building.html",
+    "tut_name": "Mod FAQ (German) ",
+    "tut_description": "FAQ on the MOD SDK written in German",
+    "tut_link": "http://web.archive.org/web/20070418000556/http://www.resourcecode.de/index.php?section=19",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "botman",
-    "tut_author_alt": "generic"
+    "tut_game": "hl",
+    "tut_author_name": "resource code",
+    "tut_author_alt": "resourcecode"
   },
   {
-    "tut_name": "Overview of Half-Life Entities on Half-Life Editing Resource Center",
-    "tut_description": "Overview of Half-Life Entities on Half-Life Editing Resource Center",
-    "tut_link": "http://web.archive.org/web/http://www.halflife.gamedesign.net/tutorials.shtml",
+    "tut_name": "Making your MOD name show up on Team Play games",
+    "tut_description": "Making your MOD name show up on Team Play games",
+    "tut_link": "http://web.archive.org/web/20040804040300/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=63",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "HERC",
-    "tut_author_alt": "herc"
+    "tut_game": "hl",
+    "tut_author_name": "BIGman10in",
+    "tut_author_alt": "hlp"
   },
   {
-    "tut_name": "Half-Life Cheats",
-    "tut_description": "Half-Life Cheats",
-    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/cheat.shtml",
+    "tut_name": "Rendering Properties",
+    "tut_description": "Most brush-based and model-based (monsters, etc) point entities allow you to set their rendering properties. ",
+    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/renderproperties.shtml",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "HERC",
-    "tut_author_alt": "herc"
-  },
-  {
-    "tut_name": "Accessing the Half-Life Console",
-    "tut_description": "Accessing the Half-Life Console",
-    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/console.shtml",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "HERC",
-    "tut_author_alt": "herc"
-  },
-  {
-    "tut_name": "Half-Life Editing Tips",
-    "tut_description": " Read it! Whether you've been mapping 'forever' or just starting out, there's probably something for you here.",
-    "tut_link": "http://web.archive.org/web/http://www.halflife.gamedesign.net/resources/hltips.shtml",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Dave Johnson",
-    "tut_author_alt": "herc"
-  },
-  {
-    "tut_name": "Frequently Asked Questions",
-    "tut_description": "The majority of email received by Worldcraft support is from people experiencing many of the same problems. The most common problems are listed here.",
-    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/faq.shtml",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Dave Johnson",
-    "tut_author_alt": "herc"
-  },
-  {
-    "tut_name": "Glossary of Editing Terms",
-    "tut_description": "Confused by an editing term that you've seen? Check here for its meaning.",
-    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/glossary.shtml",
-    "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "HERC",
     "tut_author_alt": "herc"
   },
@@ -166,115 +166,277 @@
     "tut_description": "an indepth look at the issue of r_speeds and framerate, using two popular multiplayer maps as testing grounds. This is a must read for new level designers.",
     "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/fpschart.shtml",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Phil Daniels",
     "tut_author_alt": "herc"
-  },
-  {
-    "tut_name": "Rendering Properties",
-    "tut_description": "Most brush-based and model-based (monsters, etc) point entities allow you to set their rendering properties. ",
-    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/renderproperties.shtml",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "HERC",
-    "tut_author_alt": "herc"
-  },
-  {
-    "tut_name": "Making your MOD name show up on Team Play games",
-    "tut_description": "Making your MOD name show up on Team Play games",
-    "tut_link": "http://web.archive.org/web/20040804040300/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=63",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "BIGman10in",
-    "tut_author_alt": "hlp"
-  },
-  {
-    "tut_name": "How to use GCFScape ",
-    "tut_description": "In this tutorial I will tell you how to extract the .wad file from the .gcf files used by Steam.",
-    "tut_link": "http://web.archive.org/web/20040804040300/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=63",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "Naigel",
-    "tut_author_alt": "egirdk"
-  },
-  {
-    "tut_name": "Mod FAQ (German) ",
-    "tut_description": "FAQ on the MOD SDK written in German",
-    "tut_link": "http://web.archive.org/web/20070418000556/http://www.resourcecode.de/index.php?section=19",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "resource code",
-    "tut_author_alt": "resourcecode"
-  },
-  {
-    "tut_name": "Rust Entity Guide",
-    "tut_description": "Rust Entity Guide",
-    "tut_link": "http://web.archive.org/web/20070112203228/http://www.gamedesign.net/node/33#guide",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Andy",
-    "tut_author_alt": "rust"
-  },
-  {
-    "tut_name": "HOW TO PREPARE A MAP FOR DISTRIBUTION",
-    "tut_description": "This tutorial will explain how to prepare a .zip file for your map for distribution or testing. ",
-    "tut_link": "http://web.archive.org/web/http://www.game-edit.org/tutorials/general/map_zip/map_zip.html",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "snowdog",
-    "tut_author_alt": "doe"
-  },
-  {
-    "tut_name": "Tips on Mapping",
-    "tut_description": "Scroll down to uncover a list of useful tips on Half-Life Mapping",
-    "tut_link": "http://web.archive.org/web/20030219023548/http://www.megaone.com/nem/resources.html",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Ryan Greg",
-    "tut_author_alt": "generic"
   },
   {
     "tut_name": "Editing skill.cfg",
     "tut_description": "The skill.cfg file defines the amount of health, the weapon strength of a monster, and the player's weapon strengths.",
     "tut_link": "http://web.archive.org/web/20081003012635/http://www.vlatitude.com/tutorials.php?tutID=38",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Brian",
     "tut_author_alt": "vlatitude"
   },
   {
-    "tut_name": "Exploiting the Custom Game menu",
-    "tut_description": "This tutorial teaches how to add your MOD to the \"Custom Game\" menu in Half-Life. This is a must for releasing any serious package.",
-    "tut_link": "http://web.archive.org/web/20081003012707/http://www.vlatitude.com/tutorials.php?tutID=43",
+    "tut_name": "Half-Life directories",
+    "tut_description": "What is in the Pak0.pak file?",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Half-Life_directories",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "ArchVile",
-    "tut_author_alt": "vlatitude"
+    "tut_game": "hl",
+    "tut_author_name": "paulkennedy",
+    "tut_author_alt": "twhl"
   },
   {
-    "tut_name": "Custom Menu Art for your MOD",
-    "tut_description": "A complete tutorial on creating a custom menu for your MOD. This one covers every aspect of creating and integrating custom graphics into your own custom menu. ",
-    "tut_link": "http://web.archive.org/web/20081003012733/http://www.vlatitude.com/tutorials.php?tutID=48",
+    "tut_name": "Frequently Asked Questions",
+    "tut_description": "The majority of email received by Worldcraft support is from people experiencing many of the same problems. The most common problems are listed here.",
+    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/faq.shtml",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "ArchVile",
-    "tut_author_alt": "vlatitude"
+    "tut_game": "hl",
+    "tut_author_name": "Dave Johnson",
+    "tut_author_alt": "herc"
   },
   {
-    "tut_name": "Terms and tips for more successful mapping - Part 1",
-    "tut_description": "Terms and tips for more successful mapping",
-    "tut_link": "http://web.archive.org/web/20031018034541/http://www.planethalflife.com/chaincraft/resources/explanations1.htm",
+    "tut_name": "Setting up a Mod: Part 3, Game Strings",
+    "tut_description": "Modifying Game Strings",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_3_Game_Strings",
+    "tut_download": "https://mega.nz/#F!QA4n1Y5a!1GDJH_kCQy82ym2-gopTcg",
+    "tut_game": "hl",
+    "tut_author_name": "Steinin",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Setting up a Mod: Part 4, Customised HUD colour",
+    "tut_description": "Change the colour of your HUD.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_4_Customised_HUD_colour",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Chaincraft",
+    "tut_game": "hl",
+    "tut_author_name": "m0p",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Setting up a Mod: Part 2, Splash Screens",
+    "tut_description": "Adding splash screens to your custom Mod",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Setting_up_a_Mod%3A_Part_2_Splash_Screens",
+    "tut_download": "https://mega.nz/#F!xBIwGQQB!hPlT-wAsyyjWAIGjhp6JFQ",
+    "tut_game": "hl",
+    "tut_author_name": "Steinin",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "HOW TO PREPARE A MAP FOR DISTRIBUTION",
+    "tut_description": "This tutorial will explain how to prepare a .zip file for your map for distribution or testing. ",
+    "tut_link": "http://web.archive.org/web/http://www.game-edit.org/tutorials/general/map_zip/map_zip.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "snowdog",
+    "tut_author_alt": "doe"
+  },
+  {
+    "tut_name": "How to Make a Half-Life Modification",
+    "tut_description": "An extensive guide everyone will enjoy!",
+    "tut_link": "http://articles.thewavelength.net/266/",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "EarthQuake",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Files and folders required to make a Mod",
+    "tut_description": "This setup is based on the basis of a simple working mod",
+    "tut_link": "http://web.archive.org/web/20150316130846/http://halflifezone.com/forums/viewtopic.php?f=39&t=57",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "hl_freak",
     "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Lights.rad source",
+    "tut_description": "Lights.rad source",
+    "tut_link": "https://web.archive.org/web/20040811102757/http://snarfevs.gamedesign.net:80/lights.htm",
+    "tut_download": "https://web.archive.org/web/20040811132610/http://snarfevs.gamedesign.net:80/Downloads/lights.rad",
+    "tut_game": "hl",
+    "tut_author_name": "snarfevs",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Entity list",
+    "tut_description": "has some explanations",
+    "tut_link": "https://web.archive.org/web/20010511175437/http://www.gameditors.co.uk:80/wc/entities.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Mod editing",
+    "tut_description": "Mod editing",
+    "tut_link": "https://web.archive.org/web/20010523180755/http://planethalf-life.com:80/snarkpit/mods/mod_types.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Advanced compile",
+    "tut_description": "Advanced compile",
+    "tut_link": "https://web.archive.org/web/20010527025843/http://planethalf-life.com:80/snarkpit/editing/advanced_compile.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Setting up your compilers",
+    "tut_description": "Setting up your compilers",
+    "tut_link": "https://web.archive.org/web/20010527030105/http://planethalf-life.com:80/snarkpit/editing/compiler_setup.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Compiling Errors from the old Snarkpit",
+    "tut_description": "Compiling Errors from the old Snarkpit",
+    "tut_link": "https://web.archive.org/web/20010512081321/http://planethalf-life.com:80/snarkpit/editing/compiling.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Tips on Mapping",
+    "tut_description": "Scroll down to uncover a list of useful tips on Half-Life Mapping",
+    "tut_link": "http://web.archive.org/web/20030219023548/http://www.megaone.com/nem/resources.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Ryan Greg",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "FAQ from the old Snarkpit",
+    "tut_description": "This page has a whole bunch of problems you probably will encounter at some time, and how to fix them.",
+    "tut_link": "https://web.archive.org/web/20010527030511/http://planethalf-life.com:80/snarkpit/editing/huh.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "QERadiant Misc Tips & Tricks",
+    "tut_description": "Misc Tips & Tricks for QERadiant",
+    "tut_link": "https://web.archive.org/web/20020214085250/http://halflife.qeradiant.com:80/misc/misc00.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Rage",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Entitylist",
+    "tut_description": "Half-Life Entitylist from QERadiant",
+    "tut_link": "https://web.archive.org/web/20020219173723fw_/http://halflife.qeradiant.com:80/entities.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Tiger",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Accessing the Half-Life Console",
+    "tut_description": "Accessing the Half-Life Console",
+    "tut_link": "https://web.archive.org/web/20021219134015/http://valve-erc.com/resources/?page=console",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "In Game Scripted Movie - Placing and Viewing Simple Cameras",
+    "tut_description": "Placing and Viewing Simple Cameras",
+    "tut_link": "https://web.archive.org/web/20040422023632/http://planethalflife.com:80/vision/tutorials/Ingame01_01.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "pov",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "All commands for half life",
+    "tut_description": "All commands half life 1",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1415459571",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "ホαקкус",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Half-Life Editing Tips",
+    "tut_description": " Read it! Whether you've been mapping 'forever' or just starting out, there's probably something for you here.",
+    "tut_link": "http://web.archive.org/web/http://www.halflife.gamedesign.net/resources/hltips.shtml",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Dave Johnson",
+    "tut_author_alt": "herc"
+  },
+  {
+    "tut_name": "Editing Glossary",
+    "tut_description": "This pages lists commonly used editing terms and tells you what the heck they mean.",
+    "tut_link": "https://web.archive.org/web/20010527025138/http://planethalf-life.com:80/snarkpit/newbies/glossary.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "unknown",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Accessing the Half-Life Console",
+    "tut_description": "Accessing the Half-Life Console",
+    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/console.shtml",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "HERC",
+    "tut_author_alt": "herc"
+  },
+  {
+    "tut_name": "Building the SDK",
+    "tut_description": "botmans article on Building the SDK",
+    "tut_link": "http://hpb-bot.bots-united.com/building.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "botman",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Overview of Half-Life Entities on Half-Life Editing Resource Center",
+    "tut_description": "Overview of Half-Life Entities on Half-Life Editing Resource Center",
+    "tut_link": "http://web.archive.org/web/http://www.halflife.gamedesign.net/tutorials.shtml",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "HERC",
+    "tut_author_alt": "herc"
+  },
+  {
+    "tut_name": "Steam",
+    "tut_description": "Mapping with Steam",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Steam",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Seventh-Monkey",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "Overviews",
+    "tut_description": "How to make map overviews",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/24/Overviews",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Adam Hawkins",
+    "tut_author_alt": "snarkpit"
   },
   {
     "tut_name": "Terms and tips for more successful mapping - Part 2",
     "tut_description": "Terms and tips for more successful mapping",
     "tut_link": "http://web.archive.org/web/20031204164427/http://www.planethalflife.com/chaincraft/resources/explanations2.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Chaincraft",
     "tut_author_alt": "generic"
   },
@@ -283,7 +445,7 @@
     "tut_description": "Terms and tips for more successful mapping",
     "tut_link": "http://web.archive.org/web/20031204165304/http://www.planethalflife.com/chaincraft/resources/explanations3.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Chaincraft",
     "tut_author_alt": "generic"
   },
@@ -292,7 +454,7 @@
     "tut_description": "Terms and tips for more successful mapping",
     "tut_link": "http://web.archive.org/web/20031204171331/http://www.planethalflife.com/chaincraft/resources/explanations4.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Chaincraft",
     "tut_author_alt": "generic"
   },
@@ -301,7 +463,7 @@
     "tut_description": "Hotkeys For Worldcraft(VHE)",
     "tut_link": "http://web.archive.org/web/20151029143322/http://www.slackiller.com/tutorials/tutorials/hotkeys.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Eyeronik",
     "tut_author_alt": "eyeronik"
   },
@@ -310,26 +472,656 @@
     "tut_description": "Mapping Tips from Eyeronik",
     "tut_link": "http://web.archive.org/web/20151029143602/http://www.slackiller.com/tutorials/tutorials/maptips.htm",
     "tut_download": "",
-    "tut_game": "HL",
+    "tut_game": "hl",
     "tut_author_name": "Eyeronik",
     "tut_author_alt": "eyeronik"
   },
   {
-    "tut_name": "How To Install Maps",
-    "tut_description": "How To Install Maps",
-    "tut_link": "http://web.archive.org/web/20151029160214/http://www.slackiller.com/New%20Tuts/how_to_install.html",
+    "tut_name": "Advanced Half-Life editing FAQ",
+    "tut_description": "Advanced Half-Life editing FAQ",
+    "tut_link": "http://web.archive.org/web/20010505231645/http://vibrants.dk/jchq/faq/errors.htm",
     "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "Eyeronik",
-    "tut_author_alt": "eyeronik"
+    "tut_game": "hl",
+    "tut_author_name": "jch",
+    "tut_author_alt": "generic"
   },
   {
-    "tut_name": "Detail versus Design",
-    "tut_description": "2 part theory explaining detail versus design in map making",
-    "tut_link": "http://web.archive.org/web/20050310202011/http://www.planethalflife.com/davej/detail_versus_design.htm",
+    "tut_name": "General Half-Life Cmds &amp; Cvars",
+    "tut_description": "General Half-Life Cmds &amp; Cvars",
+    "tut_link": "http://web.archive.org/web/20021216211327/http://server.counter-strike.net/gencmd.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "counter-server",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Where is Poppy – Setting up a GoldSrc Mod",
+    "tut_description": "In this, the first part in the 'Where is Poppy' modding tutorial series i highlight the steps required for setting up your GoldSrc Mod for its first run.",
+    "tut_link": "http://www.sourcemodding.com/tutorials/goldsrc/projects/where-is-poppy/setting-up-a-goldsrc-mod/",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "sourcemodding",
+    "tut_author_alt": "sourcemodding"
+  },
+  {
+    "tut_name": "the303.org GoldSrc Research Page",
+    "tut_description": "The 303.org's GoldSrc Research page",
+    "tut_link": "http://www.the303.org/tutorials/gold_research.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "TheCorp303",
+    "tut_author_alt": "303"
+  },
+  {
+    "tut_name": "HL Movies",
+    "tut_description": "Impress your fans with a video",
+    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/84/HL_Movies",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Forceflow",
+    "tut_author_alt": "snarkpit"
+  },
+  {
+    "tut_name": "Launch Parameters with description",
+    "tut_description": "Launch Parameters with description",
+    "tut_link": "https://gamebanana.com/tuts/12530",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "theNurky",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Custom Menu Art for your MOD",
+    "tut_description": "A complete tutorial on creating a custom menu for your MOD. This one covers every aspect of creating and integrating custom graphics into your own custom menu. ",
+    "tut_link": "http://web.archive.org/web/20081003012733/http://www.vlatitude.com/tutorials.php?tutID=48",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "ArchVile",
+    "tut_author_alt": "vlatitude"
+  },
+  {
+    "tut_name": "Half-Life Cheats",
+    "tut_description": "Half-Life Cheats",
+    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/cheat.shtml",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "HERC",
+    "tut_author_alt": "herc"
+  },
+  {
+    "tut_name": " Change In-game FOV",
+    "tut_description": "I'm gonna show you how you can change Field of View (FOV) in Half-Life.",
+    "tut_link": "https://gamebanana.com/tuts/12397",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "theNurky",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Steam/Tools/Half-Life Dedicated Server",
+    "tut_description": "Steam/Tools/Half-Life Dedicated Server",
+    "tut_link": "https://gamebanana.com/tuts/11540",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Bacardi",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "File Structure For Mods (PAK file)",
+    "tut_description": "A typical .PAK file structure that shows you where your mod files should go within your mod's custom .PAK file.",
+    "tut_link": "http://web.archive.org/web/20150316130858/http://halflifezone.com/forums/viewtopic.php?f=39&t=56",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "hl_freak",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Basic Console Commands",
+    "tut_description": "Basic Console Commands",
+    "tut_link": "https://web.archive.org/web/20090430203412/http://hl.gamegate2k.com:80/halflife/generalconsolecommands",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "gamegate2k",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Cheats",
+    "tut_description": "Half-Life Cheats",
+    "tut_link": "https://web.archive.org/web/20090524060945/http://hl.gamegate2k.com:80/halflife/hlcheats",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "gamegate2k",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Mouse & Joystick Variables",
+    "tut_description": "Half-Life Mouse & Joystick Variables",
+    "tut_link": "https://web.archive.org/web/20090612011427/http://hl.gamegate2k.com:80/halflife/mjv",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "gamegate2k",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Audio & Video Variables",
+    "tut_description": "Half-Life Audio & Video Variables",
+    "tut_link": "https://web.archive.org/web/20081210065305/http://hl.gamegate2k.com:80/halflife/avv",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "gamegate2k",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Movie Variables",
+    "tut_description": "Half-Life Movie Variables",
+    "tut_link": "https://web.archive.org/web/20081210065318/http://hl.gamegate2k.com:80/halflife/mv",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "gamegate2k",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Movies",
+    "tut_description": "Impressive movies made easy.",
+    "tut_link": "http://articles.thewavelength.net/546/",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Forceflow",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Terms and tips for more successful mapping - Part 1",
+    "tut_description": "Terms and tips for more successful mapping",
+    "tut_link": "http://web.archive.org/web/20031018034541/http://www.planethalflife.com/chaincraft/resources/explanations1.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Chaincraft",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Exploiting the Custom Game menu",
+    "tut_description": "This tutorial teaches how to add your MOD to the \"Custom Game\" menu in Half-Life. This is a must for releasing any serious package.",
+    "tut_link": "http://web.archive.org/web/20081003012707/http://www.vlatitude.com/tutorials.php?tutID=43",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "ArchVile",
+    "tut_author_alt": "vlatitude"
+  },
+  {
+    "tut_name": "The Valve Half-Life SDK",
+    "tut_description": "botmans introduction to The Valve Half-Life SDK",
+    "tut_link": "http://hpb-bot.bots-united.com/sdk.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "botman",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Alias list",
+    "tut_description": "nice list of aliases",
+    "tut_link": "https://web.archive.org/web/20000606061321fw_/http://www.planethalflife.com:80/thebind/alias.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "va",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Splash Screens for Steam",
+    "tut_description": "How to get your mod splash screens to work in Steam HL.",
+    "tut_link": "https://twhl.info/wiki/page/Tutorial%3A_Splash_Screens_for_Steam",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "ChickenFist",
+    "tut_author_alt": "twhl"
+  },
+  {
+    "tut_name": "The unofficial Half-Life MOD FAQ",
+    "tut_description": "botmans unofficial Half-Life MOD FAQ",
+    "tut_link": "http://hpb-bot.bots-united.com/mod_faq.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "botman",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Playing HL in first-person with player model",
+    "tut_description": "Playing HL in first-person with player model",
+    "tut_link": "https://gamebanana.com/tuts/12266",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "CS Pro",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Glossary of Editing Terms",
+    "tut_description": "Confused by an editing term that you've seen? Check here for its meaning.",
+    "tut_link": "http://web.archive.org/web/http://halflife.gamedesign.net/resources/glossary.shtml",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "HERC",
+    "tut_author_alt": "herc"
+  },
+  {
+    "tut_name": "Useful console commands ",
+    "tut_description": "This tutorial explains the use of some specific console commands mostly used for mapping and debugging.",
+    "tut_link": "https://web.archive.org/web/20050409190318/http://www.tdcom.net:80/lacos/?section=2&subsection=5",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "lacos",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Movies : An Introduction",
+    "tut_description": "A Brief History of Machinima",
+    "tut_link": "https://web.archive.org/web/20040408051146/http://planethalflife.com:80/vision/tutorials/movie_types.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "pov",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How to return to the Old Models",
+    "tut_description": "How to return to the Old Models",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=125519186",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Chuma ",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "How To Fix The Screen Zoom-In Problem",
+    "tut_description": "This guide will help you fix the problem some people have when the screen gets zoomed in too much.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=340995480",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Olde",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "WorldCraft v2.0 Compile-Setup FAQ",
+    "tut_description": "This FAQ is designed to help you get WorldCraft setup so that it will compile correctly.",
+    "tut_link": "https://web.archive.org/web/20020317080815/http://www.planethalflife.com:80/wavelengtH/levels/resources/comp_faq.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "HellBringer",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Cinematography in GoldSrc",
+    "tut_description": "Cinematography in GoldSrc",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1172439308",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "oxcjae",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Half-Life FPS UNLOCK",
+    "tut_description": "FPS UNLOCK",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=843700257",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Elf LVL 99",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "List of console commands",
+    "tut_description": "The following is a list of commands that can be performed in your console or be added to your userconfig file",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=123119241",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Stu Pidaso",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "How to change your crosshairs",
+    "tut_description": "This will show you how to change your crosshairs",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122966843",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Stu Pidaso",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "How to remove texture filtering in OpenGL",
+    "tut_description": "Here's how to remove that cursed smoothening effect from your textures",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=244861148",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Aublak",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": " Realism for Half-Life",
+    "tut_description": "This Guide will teach you how to make your Half-Life experience as realistic as possible",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=425444115",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "lp-SORLλG",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "The Inner Workings of RAD",
+    "tut_description": "The Inner Workings of RAD",
+    "tut_link": "http://web.archive.org/web/20061028235357/http://collective.valve-erc.com/index.php?doc=1046121871-81619100",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "DeathWish",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Making Half-Life Mods - Part 2",
+    "tut_description": "In this segment, he goes over every aspect of his five week plan from the build process to playtesting to actually finishing and releasing the mod",
+    "tut_link": "http://web.archive.org/web/20061028231008/http://collective.valve-erc.com/index.php?doc=1046114255-88212900",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Robin Walker",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Making Half-Life Mods - Part 1",
+    "tut_description": "This article is designed to help you make ",
+    "tut_link": "http://web.archive.org/web/20061028231012/http://collective.valve-erc.com/index.php?doc=1046114231-73292000",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Robin Walker",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Recorded Freestyle Movies: Simple Recording and Editing",
+    "tut_description": "Recorded Freestyle Movies:\r\nSimple Recording and Editing",
+    "tut_link": "https://web.archive.org/web/20040408045559/http://planethalflife.com:80/vision/tutorials/Record01_01.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "pov",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "First Steps in Game AI: Your Own Bot",
+    "tut_description": "First Steps in Game AI: Your Own Bot",
+    "tut_link": "https://web.archive.org/web/20020816171439/http://ai-depot.com:80/GameAI/Bot-Introduction.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Alex J. Champandard",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "List of Codes - Cheats",
+    "tut_description": "This guide is a list for most of the important codes and cheats in Half Life",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=658280150",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Kinotechnick",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Demo Recording",
+    "tut_description": "Demo recording is a game feature which allows the player to record in-game footage into lightweight .dem fi",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=191368694",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "executλble",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Solving Lag Problems in Half Life (and most Gold Source games)",
+    "tut_description": "Solving Lag Problems in Half Life (and most Gold Source games)",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=367024352",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "meikkon_",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Getting Started with the Half-Life SDK",
+    "tut_description": "This tutorial should teach you how to set up a mod to code.",
+    "tut_link": "https://web.archive.org/web/20011204052449fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/00.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Drywall",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "Rust FAQ",
+    "tut_description": "Half-Life Editing FAQ",
+    "tut_link": "https://web.archive.org/web/20020825113008/http://www.gamedesign.net:80/?file=rust/content/half-life/faq/general",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "merl",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Getting Rid of Flash Frames",
+    "tut_description": "Getting Rid of Flash Frames",
+    "tut_link": "https://web.archive.org/web/20040408050643/http://planethalflife.com:80/vision/tutorials/flash.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "pov",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "paks, batch files, and liblists",
+    "tut_description": "paks, batch files, and liblists",
+    "tut_link": "https://web.archive.org/web/20040408050243/http://planethalflife.com:80/vision/tutorials/finishing.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "pov",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Mapping and Compiling Error List For Half-Life and Counter-Strike",
+    "tut_description": "Mapping and Compiling Error List\r\nFor Half-Life and Counter-Strike",
+    "tut_link": "https://web.archive.org/web/20071123145234/http://www.frankclan.ca:80/maps/map_resources/mirrored/errors.shtml#leafface",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Tommy",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Writing a Custom Userconfig File",
+    "tut_description": "Writing a custom userconfig file to change variables.",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122886751",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Stu Pidaso",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Beginner Movie Tutorial",
+    "tut_description": "Beginner Movie Tutorial",
+    "tut_link": "https://web.archive.org/web/20040408045905/http://planethalflife.com:80/vision/tutorials/begining.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "pov",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Ideals of Design",
+    "tut_description": "Ideals of Design",
+    "tut_link": "https://web.archive.org/web/20021205144930/http://www.valve-erc.com/resources/?page=ideals",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "autolycus",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Moving Camera, Stationary Focus / Moving Focus, Stationary Camera Tutorials",
+    "tut_description": "Moving Camera, Stationary Focus / Moving Focus, Stationary Camera Tutorials",
+    "tut_link": "https://web.archive.org/web/20040408051054/http://planethalflife.com:80/vision/tutorials/middle.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "pov",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "How To Make A Mod",
+    "tut_description": "How To Make A Mod",
+    "tut_link": "https://web.archive.org/web/20070808152932/http://collective.valve-erc.com/index.php?go=howto_mod",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Valve",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Solutions to Resolution Bug and More",
+    "tut_description": "Every GoldSrc game seems to have this bug-- change your resolution from native, and you're screwed",
+    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=318695295",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Comradicale",
+    "tut_author_alt": "steam"
+  },
+  {
+    "tut_name": "Making a custom console background",
+    "tut_description": "This tutorial will show you how to make your own console background and loading images for your mod.",
+    "tut_link": "https://web.archive.org/web/20021127203013/http://www.gamedesign.net:80/?file=rust/content/half-life/tutorials/conback",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Merl",
+    "tut_author_alt": "rust"
+  },
+  {
+    "tut_name": "Half-Life Entity List",
+    "tut_description": "Half-Life Entity List",
+    "tut_link": "https://web.archive.org/web/20000614220223/http://planethalflife.com:80/wavelength/levels/entities/index.html",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "HellBringer",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "The Introductory Guide to Half-Life Modding",
+    "tut_description": "Welcome to Wavelength's Introductory Guide to Half-Life editing!",
+    "tut_link": "https://web.archive.org/web/20011220124140fw_/http://www.planethalflife.com:80/wavelength/design/iguide/01.htm",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Red Knight",
+    "tut_author_alt": "wavelength"
+  },
+  {
+    "tut_name": "File Structure For Mods (no PAK file)",
+    "tut_description": "An example file structure that shows you where your mod files should go within your mods folder.",
+    "tut_link": "http://web.archive.org/web/20150309215721/http://halflifezone.com/forums/viewtopic.php?f=39&t=55",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "hl_freak",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Pak Files and the Directory Folders",
+    "tut_description": "The .pak files are places that store sounds, models, maps, etc",
+    "tut_link": "https://web.archive.org/web/20021219133439/http://valve-erc.com/resources/?page=pakfiles",
+    "tut_download": "",
+    "tut_game": "hl",
+    "tut_author_name": "Delete_Me",
+    "tut_author_alt": "verc"
+  },
+  {
+    "tut_name": "Porting GoldSrc to Linux",
+    "tut_description": "Collection of tutorials on getting your mod working on Linux",
+    "tut_link": "http://web.archive.org/web/20041210111242/http://www.planethalflife.com/tuxportal/index.shtml",
     "tut_download": "",
     "tut_game": "game_multi",
-    "tut_author_name": "David Johnston",
+    "tut_author_name": "TuxPortal",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Multiplayer Help and Tweaking",
+    "tut_description": "Half-Life Multiplayer Help and Tweaking",
+    "tut_link": "http://web.archive.org/web/20000226062428/http://halflife.pcgame.com/multi.html",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "I am Half-Life",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Personal VHE start splash",
+    "tut_description": "Personal VHE start splash",
+    "tut_link": "https://gamebanana.com/tuts/11410",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "fa7bardh",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to Green Screen",
+    "tut_description": "How to Green Screen",
+    "tut_link": "https://gamebanana.com/tuts/11335",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "DustStriker",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Common errors and problems in HL mapping",
+    "tut_description": "Common errors and problems in HL mapping",
+    "tut_link": "http://web.archive.org/web/20041205201924/http://www.tdcom.net/lacos/?section=2&amp;subsection=10",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "lacos",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Long compile times and tips to improve them",
+    "tut_description": "This tutorial is made to give a starting mapper some information about compile times and ideas how to improve them.",
+    "tut_link": "http://web.archive.org/web/20050307090906/http://www.tdcom.net/lacos/?section=2&amp;subsection=6",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "lacos",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Useful console commands",
+    "tut_description": "This tutorial explains the use of some specific console commands mostly used for mapping and debugging.",
+    "tut_link": "http://web.archive.org/web/20050409190318/http://www.tdcom.net/lacos/?section=2&amp;subsection=5",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "lacos",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Aliases and Scripts",
+    "tut_description": "Half-Life Aliases and Scripts",
+    "tut_link": "http://web.archive.org/web/20010813050131/http://halflife.pcgame.com/console/alias.html",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "I am Half-Life",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Server How-To @ Command Center",
+    "tut_description": "Tips and Tricks for setting up a half-life server",
+    "tut_link": "http://web.archive.org/web/20000818043034/http://planethalflife.com/commands/howto.shtml",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "Command Center",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Half-Life Console Commands and Variables",
+    "tut_description": "Half-Life Console Commands and Variables",
+    "tut_link": "http://web.archive.org/web/20000301050414/http://halflife.pcgame.com/console/tweaks.html",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "I am Half-Life",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "Steam Console Commands",
+    "tut_description": "Steam Console Commands",
+    "tut_link": "https://web.archive.org/web/20090429031937/http://hl.gamegate2k.com:80/halflife/steamconsolecommands",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "gamegate2k",
+    "tut_author_alt": "generic"
+  },
+  {
+    "tut_name": "General Worldcraft/Hammer Tips",
+    "tut_description": "General Worldcraft/Hammer Tips",
+    "tut_link": "http://web.archive.org/web/20030302191438/http://www.planethalflife.com/yak/articles/index.htm",
+    "tut_download": "",
+    "tut_game": "game_multi",
+    "tut_author_name": "yak",
     "tut_author_alt": "generic"
   },
   {
@@ -351,30 +1143,21 @@
     "tut_author_alt": "generic"
   },
   {
-    "tut_name": "Server How-To @ Command Center",
-    "tut_description": "Tips and Tricks for setting up a half-life server",
-    "tut_link": "http://web.archive.org/web/20000818043034/http://planethalflife.com/commands/howto.shtml",
+    "tut_name": "How to use GCFScape ",
+    "tut_description": "In this tutorial I will tell you how to extract the .wad file from the .gcf files used by Steam.",
+    "tut_link": "http://web.archive.org/web/20040804040300/http://www.planethalflife.com/hlprogramming/tutorial.asp?i=63",
     "tut_download": "",
     "tut_game": "game_multi",
-    "tut_author_name": "Command Center",
-    "tut_author_alt": "generic"
+    "tut_author_name": "Naigel",
+    "tut_author_alt": "egirdk"
   },
   {
-    "tut_name": "Half-Life Multiplayer Help and Tweaking",
-    "tut_description": "Half-Life Multiplayer Help and Tweaking",
-    "tut_link": "http://web.archive.org/web/20000226062428/http://halflife.pcgame.com/multi.html",
+    "tut_name": "Detail versus Design",
+    "tut_description": "2 part theory explaining detail versus design in map making",
+    "tut_link": "http://web.archive.org/web/20050310202011/http://www.planethalflife.com/davej/detail_versus_design.htm",
     "tut_download": "",
     "tut_game": "game_multi",
-    "tut_author_name": "I am Half-Life",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Half-Life Console Commands and Variables",
-    "tut_description": "Half-Life Console Commands and Variables",
-    "tut_link": "http://web.archive.org/web/20000301050414/http://halflife.pcgame.com/console/tweaks.html",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "I am Half-Life",
+    "tut_author_name": "David Johnston",
     "tut_author_alt": "generic"
   },
   {
@@ -387,318 +1170,21 @@
     "tut_author_alt": "generic"
   },
   {
-    "tut_name": "Half-Life Aliases and Scripts",
-    "tut_description": "Half-Life Aliases and Scripts",
-    "tut_link": "http://web.archive.org/web/20010813050131/http://halflife.pcgame.com/console/alias.html",
+    "tut_name": "Creating a Overview Description File",
+    "tut_description": "Creating a Overview Description File",
+    "tut_link": "https://gamebanana.com/tuts/2910",
     "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "I am Half-Life",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Porting GoldSrc to Linux",
-    "tut_description": "Collection of tutorials on getting your mod working on Linux",
-    "tut_link": "http://web.archive.org/web/20041210111242/http://www.planethalflife.com/tuxportal/index.shtml",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "TuxPortal",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "General Worldcraft/Hammer Tips",
-    "tut_description": "General Worldcraft/Hammer Tips",
-    "tut_link": "http://web.archive.org/web/20030302191438/http://www.planethalflife.com/yak/articles/index.htm",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "yak",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Useful console commands",
-    "tut_description": "This tutorial explains the use of some specific console commands mostly used for mapping and debugging.",
-    "tut_link": "http://web.archive.org/web/20050409190318/http://www.tdcom.net/lacos/?section=2&amp;subsection=5",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "lacos",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Long compile times and tips to improve them",
-    "tut_description": "This tutorial is made to give a starting mapper some information about compile times and ideas how to improve them.",
-    "tut_link": "http://web.archive.org/web/20050307090906/http://www.tdcom.net/lacos/?section=2&amp;subsection=6",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "lacos",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Common errors and problems in HL mapping",
-    "tut_description": "Common errors and problems in HL mapping",
-    "tut_link": "http://web.archive.org/web/20041205201924/http://www.tdcom.net/lacos/?section=2&amp;subsection=10",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "lacos",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Advanced Half-Life editing FAQ",
-    "tut_description": "Advanced Half-Life editing FAQ",
-    "tut_link": "http://web.archive.org/web/20010505231645/http://vibrants.dk/jchq/faq/errors.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "jch",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "General Half-Life Cmds &amp; Cvars",
-    "tut_description": "General Half-Life Cmds &amp; Cvars",
-    "tut_link": "http://web.archive.org/web/20021216211327/http://server.counter-strike.net/gencmd.html",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "counter-server",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Using RESGEN to make a .RES file for your map",
-    "tut_description": "Res files are a very useful extra you can build for your map. They contain a list of all the 'extras' your map contains, like sounds, maps, wads, etc",
-    "tut_link": "http://web.archive.org/web/20041009205732/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=41",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "Waldo",
-    "tut_author_alt": "counter-map"
-  },
-  {
-    "tut_name": "Introduction to Notepad for mappers",
-    "tut_description": "Have you ever seen l33t mappers say they only map with Notepad?",
-    "tut_link": "http://web.archive.org/web/20041119023338/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=40",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "MaryBeth",
-    "tut_author_alt": "counter-map"
-  },
-  {
-    "tut_name": "Where is Poppy – Setting up a GoldSrc Mod",
-    "tut_description": "In this, the first part in the 'Where is Poppy' modding tutorial series i highlight the steps required for setting up your GoldSrc Mod for its first run.",
-    "tut_link": "http://www.sourcemodding.com/tutorials/goldsrc/projects/where-is-poppy/setting-up-a-goldsrc-mod/",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "sourcemodding",
-    "tut_author_alt": "sourcemodding"
-  },
-  {
-    "tut_name": "the303.org GoldSrc Research Page",
-    "tut_description": "The 303.org's GoldSrc Research page",
-    "tut_link": "http://www.the303.org/tutorials/gold_research.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "303",
-    "tut_author_alt": "TheCorp303"
-  },
-  {
-    "tut_name": "HL Movies",
-    "tut_description": "Impress your fans with a video",
-    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/84/HL_Movies",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Forceflow",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "Overviews",
-    "tut_description": "How to make map overviews",
-    "tut_link": "http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/24/Overviews",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Adam Hawkins",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "Launch Parameters with description",
-    "tut_description": "Launch Parameters with description",
-    "tut_link": "https://gamebanana.com/tuts/12530",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "theNurky",
+    "tut_game": "cscz",
+    "tut_author_name": "manoj",
     "tut_author_alt": "gamebanana"
   },
   {
-    "tut_name": " Change In-game FOV",
-    "tut_description": "I\\'m gonna show you how you can change Field of View (FOV) in Half-Life.",
-    "tut_link": "https://gamebanana.com/tuts/12397",
+    "tut_name": "Scripting Basics",
+    "tut_description": "Scripting Basics",
+    "tut_link": "https://gamebanana.com/tuts/3291",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "theNurky",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Playing HL in first-person with player model",
-    "tut_description": "Playing HL in first-person with player model",
-    "tut_link": "https://gamebanana.com/tuts/12266",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "CS Pro",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Steam/Tools/Half-Life Dedicated Server",
-    "tut_description": "Steam/Tools/Half-Life Dedicated Server",
-    "tut_link": "https://gamebanana.com/tuts/11540",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Bacardi",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "CS 1.6 VGUI Editing Tutorial",
-    "tut_description": "So i got some requests telling me how i do these custom GUIs for CS 1.6 and i decided to make a tutorial, enjoy!",
-    "tut_link": "https://gamebanana.com/tuts/12458",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "CS:GO Ports",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to set diffrent scope each weapon",
-    "tut_description": "How to set diffrent scope each weapon",
-    "tut_link": "https://gamebanana.com/tuts/12387",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "Spys Cr3ed",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to add content without replace cstrike folder",
-    "tut_description": "How to add content without replace cstrike folder",
-    "tut_link": "https://gamebanana.com/tuts/12386",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "Spys Cr3ed",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Add Custom Bot Profiles",
-    "tut_description": "Add Custom Bot Profiles",
-    "tut_link": "https://gamebanana.com/tuts/11830",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "~Mc3",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to make your console transparent",
-    "tut_description": "How to make your console transparent",
-    "tut_link": "https://gamebanana.com/tuts/12043",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "TAGAMTAM",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to make Overview for your maps",
-    "tut_description": "How to make Overview for your maps",
-    "tut_link": "https://gamebanana.com/tuts/11962",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "Rammsteiner",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to create optimized overview [Detailed]",
-    "tut_description": "How to create optimized overview [Detailed]",
-    "tut_link": "https://gamebanana.com/tuts/11592",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "KaranMohadkar",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to Make Simple Render",
-    "tut_description": "How to Make Simple Render",
-    "tut_link": "https://gamebanana.com/tuts/11548",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "KnightSeander",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Personal VHE start splash",
-    "tut_description": "Personal VHE start splash",
-    "tut_link": "https://gamebanana.com/tuts/11410",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "fa7bardh",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to Green Screen",
-    "tut_description": "How to Green Screen",
-    "tut_link": "https://gamebanana.com/tuts/11335",
-    "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "DustStriker",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to customize Counter-Strike MOTD",
-    "tut_description": "You can set up an image MOTD (the picture that shows before connecting to a server) using one of the following methods:",
-    "tut_link": "https://gamebanana.com/tuts/11273",
-    "tut_download": "https://web.archive.org/web/20140522021716/http://pastebin.com:80/ypEv2w5d",
-    "tut_game": "CS",
-    "tut_author_name": "Dexter",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Make A Render Just Use HL Model Viewer",
-    "tut_description": "Make A Render Just Use HL Model Viewer",
-    "tut_link": "https://gamebanana.com/tuts/11098",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": " X-HaN",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Moviemaking Tutorial 1.0",
-    "tut_description": "I\\'ve created this guide for you who want to create a Counter Strike movie.",
-    "tut_link": "https://gamebanana.com/tuts/11018",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "Loggan08",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Basic rendering for GoldSrc using Free Programs",
-    "tut_description": "Basic Rendering for GoldSrc Using Free Programs",
-    "tut_link": "https://gamebanana.com/tuts/10832",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "Tobbit",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Installing Maps",
-    "tut_description": "Installing Maps",
-    "tut_link": "https://gamebanana.com/tuts/10513",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "natko",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Counter-Strike 1.6 Movie Tutorial",
-    "tut_description": "Counter-Strike 1.6 Movie Tutorial",
-    "tut_link": "https://gamebanana.com/tuts/10469",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": " Arman Ossi Loko",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "How to make a GUI",
-    "tut_description": "How to make a GUI",
-    "tut_link": "https://gamebanana.com/tuts/6880",
-    "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "SevenZero",
+    "tut_game": "cscz",
+    "tut_author_name": "Shellhead",
     "tut_author_alt": "gamebanana"
   },
   {
@@ -706,7 +1192,7 @@
     "tut_description": "Change Languange Script",
     "tut_link": "https://gamebanana.com/tuts/10353",
     "tut_download": "",
-    "tut_game": "CSCZ",
+    "tut_game": "cscz",
     "tut_author_name": "jamaika",
     "tut_author_alt": "gamebanana"
   },
@@ -715,26 +1201,8 @@
     "tut_description": "Hud Installation (EASY!)",
     "tut_link": "https://gamebanana.com/tuts/4458",
     "tut_download": "",
-    "tut_game": "CSCZ",
+    "tut_game": "cscz",
     "tut_author_name": "Zoe101",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Scripting Basics",
-    "tut_description": "Scripting Basics",
-    "tut_link": "https://gamebanana.com/tuts/3291",
-    "tut_download": "",
-    "tut_game": "CSCZ",
-    "tut_author_name": "Shellhead",
-    "tut_author_alt": "gamebanana"
-  },
-  {
-    "tut_name": "Creating a Overview Description File",
-    "tut_description": "Creating a Overview Description File",
-    "tut_link": "https://gamebanana.com/tuts/2910",
-    "tut_download": "",
-    "tut_game": "CSCZ",
-    "tut_author_name": "manoj",
     "tut_author_alt": "gamebanana"
   },
   {
@@ -742,665 +1210,197 @@
     "tut_description": "Changing the server start text",
     "tut_link": "https://gamebanana.com/tuts/1785",
     "tut_download": "",
-    "tut_game": "CSCZ",
+    "tut_game": "cscz",
     "tut_author_name": "s1nk0",
     "tut_author_alt": "gamebanana"
   },
   {
-    "tut_name": "Different versions of counter strike 1.6 ",
-    "tut_description": "Different versions of counter strike 1.6 ",
-    "tut_link": "http://cstrikemapping.blogspot.com/2014/01/different-versions-of-counter-strike-16.html",
+    "tut_name": "How to make your console transparent",
+    "tut_description": "How to make your console transparent",
+    "tut_link": "https://gamebanana.com/tuts/12043",
     "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "shash7",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "TAGAMTAM",
+    "tut_author_alt": "gamebanana"
   },
   {
-    "tut_name": "Correctly taking screenshots in cs 1.6 ",
-    "tut_description": "Screenshots are useful when publishing your map.",
-    "tut_link": "http://cstrikemapping.blogspot.com/2014/01/correctly-taking-screenshots-in-cs-16.html",
+    "tut_name": "How To Install Maps",
+    "tut_description": "How To Install Maps",
+    "tut_link": "http://web.archive.org/web/20151029160214/http://www.slackiller.com/New%20Tuts/how_to_install.html",
     "tut_download": "",
-    "tut_game": "CS",
-    "tut_author_name": "shash7",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "Eyeronik",
+    "tut_author_alt": "eyeronik"
   },
   {
-    "tut_name": "Basic Console Commands",
-    "tut_description": "Basic Console Commands",
-    "tut_link": "https://web.archive.org/web/20090430203412/http://hl.gamegate2k.com:80/halflife/generalconsolecommands",
+    "tut_name": "Using RESGEN to make a .RES file for your map",
+    "tut_description": "Res files are a very useful extra you can build for your map. They contain a list of all the 'extras' your map contains, like sounds, maps, wads, etc",
+    "tut_link": "http://web.archive.org/web/20041009205732/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=41",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "gamegate2k",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "Waldo",
+    "tut_author_alt": "counter-map"
   },
   {
-    "tut_name": "Steam Console Commands",
-    "tut_description": "Steam Console Commands",
-    "tut_link": "https://web.archive.org/web/20090429031937/http://hl.gamegate2k.com:80/halflife/steamconsolecommands",
+    "tut_name": "Introduction to Notepad for mappers",
+    "tut_description": "Have you ever seen l33t mappers say they only map with Notepad?",
+    "tut_link": "http://web.archive.org/web/20041119023338/http://countermap.counter-strike.net/Tutorials/tutorial.php?id=40",
     "tut_download": "",
-    "tut_game": "game_multi",
-    "tut_author_name": "gamegate2k",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "MaryBeth",
+    "tut_author_alt": "counter-map"
   },
   {
-    "tut_name": "Half-Life Cheats",
-    "tut_description": "Half-Life Cheats",
-    "tut_link": "https://web.archive.org/web/20090524060945/http://hl.gamegate2k.com:80/halflife/hlcheats",
+    "tut_name": "CS 1.6 VGUI Editing Tutorial",
+    "tut_description": "So i got some requests telling me how i do these custom GUIs for CS 1.6 and i decided to make a tutorial, enjoy!",
+    "tut_link": "https://gamebanana.com/tuts/12458",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "gamegate2k",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "CS:GO Ports",
+    "tut_author_alt": "gamebanana"
   },
   {
-    "tut_name": "Half-Life Mouse & Joystick Variables",
-    "tut_description": "Half-Life Mouse & Joystick Variables",
-    "tut_link": "https://web.archive.org/web/20090612011427/http://hl.gamegate2k.com:80/halflife/mjv",
+    "tut_name": "How to set diffrent scope each weapon",
+    "tut_description": "How to set diffrent scope each weapon",
+    "tut_link": "https://gamebanana.com/tuts/12387",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "gamegate2k",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "Spys Cr3ed",
+    "tut_author_alt": "gamebanana"
   },
   {
-    "tut_name": "Half-Life Audio & Video Variables",
-    "tut_description": "Half-Life Audio & Video Variables",
-    "tut_link": "https://web.archive.org/web/20081210065305/http://hl.gamegate2k.com:80/halflife/avv",
+    "tut_name": "How to add content without replace cstrike folder",
+    "tut_description": "How to add content without replace cstrike folder",
+    "tut_link": "https://gamebanana.com/tuts/12386",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "gamegate2k",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "Spys Cr3ed",
+    "tut_author_alt": "gamebanana"
   },
   {
-    "tut_name": "Half-Life Movie Variables",
-    "tut_description": "Half-Life Movie Variables",
-    "tut_link": "https://web.archive.org/web/20081210065318/http://hl.gamegate2k.com:80/halflife/mv",
+    "tut_name": "Add Custom Bot Profiles",
+    "tut_description": "Add Custom Bot Profiles",
+    "tut_link": "https://gamebanana.com/tuts/11830",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "gamegate2k",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Half-Life Physics Reference",
-    "tut_description": "This is an unofficial documentation for the physics governing the Half-Life universe. ",
-    "tut_link": "https://www.jwchong.com/hl/",
-    "tut_download": "https://github.com/Matherunner/hldoc",
-    "tut_game": "HL",
-    "tut_author_name": "Matherunner",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "All commands for half life",
-    "tut_description": "All commands half life 1",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1415459571",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "ホαקкус",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Global Custom Sentences",
-    "tut_description": "Sentence replacement has been possible for many long years through Global Sound Replacement",
-    "tut_link": "https://forums.svencoop.com/showthread.php/45224-Global-Custom-Sentences",
-    "tut_download": "",
-    "tut_game": "SVEN",
-    "tut_author_name": "Hezus",
-    "tut_author_alt": "sven"
-  },
-  {
-    "tut_name": "Custom Hull Size Tutorial ",
-    "tut_description": "Custom Hull Size Tutorial (sven co-op only)",
-    "tut_link": "https://forums.svencoop.com/showthread.php/35533-Custom-Hull-Size-Tutorial",
-    "tut_download": "",
-    "tut_game": "SVEN",
-    "tut_author_name": "A1win",
-    "tut_author_alt": "sven"
-  },
-  {
-    "tut_name": "Mapping and Compiling Error List For Half-Life and Counter-Strike",
-    "tut_description": "Mapping and Compiling Error List\r\nFor Half-Life and Counter-Strike",
-    "tut_link": "https://web.archive.org/web/20071123145234/http://www.frankclan.ca:80/maps/map_resources/mirrored/errors.shtml#leafface",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Tommy",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Making a custom console background",
-    "tut_description": "This tutorial will show you how to make your own console background and loading images for your mod.",
-    "tut_link": "https://web.archive.org/web/20021127203013/http://www.gamedesign.net:80/?file=rust/content/half-life/tutorials/conback",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Merl",
-    "tut_author_alt": "rust"
-  },
-  {
-    "tut_name": "Half-Life Entity List",
-    "tut_description": "Half-Life Entity List",
-    "tut_link": "https://web.archive.org/web/20000614220223/http://planethalflife.com:80/wavelength/levels/entities/index.html",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "HellBringer",
-    "tut_author_alt": "wavelength"
-  },
-  {
-    "tut_name": "The Introductory Guide to Half-Life Modding",
-    "tut_description": "Welcome to Wavelength\\'s Introductory Guide to Half-Life editing!",
-    "tut_link": "https://web.archive.org/web/20011220124140fw_/http://www.planethalflife.com:80/wavelength/design/iguide/01.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Red Knight",
-    "tut_author_alt": "wavelength"
-  },
-  {
-    "tut_name": "Getting Started with the Half-Life SDK",
-    "tut_description": "This tutorial should teach you how to set up a mod to code.",
-    "tut_link": "https://web.archive.org/web/20011204052449fw_/http://www.planethalflife.com:80/wavelength/coding/tutorials/00.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Drywall",
-    "tut_author_alt": "wavelength"
-  },
-  {
-    "tut_name": "WorldCraft v2.0 Compile-Setup FAQ",
-    "tut_description": "This FAQ is designed to help you get WorldCraft setup so that it will compile correctly.",
-    "tut_link": "https://web.archive.org/web/20020317080815/http://www.planethalflife.com:80/wavelengtH/levels/resources/comp_faq.html",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "HellBringer",
-    "tut_author_alt": "wavelength"
-  },
-  {
-    "tut_name": "Editing Glossary",
-    "tut_description": "This pages lists commonly used editing terms and tells you what the heck they mean.",
-    "tut_link": "https://web.archive.org/web/20010527025138/http://planethalf-life.com:80/snarkpit/newbies/glossary.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "FAQ from the old Snarkpit",
-    "tut_description": "This page has a whole bunch of problems you probably will encounter at some time, and how to fix them.",
-    "tut_link": "https://web.archive.org/web/20010527030511/http://planethalf-life.com:80/snarkpit/editing/huh.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "Compiling Errors from the old Snarkpit",
-    "tut_description": "Compiling Errors from the old Snarkpit",
-    "tut_link": "https://web.archive.org/web/20010512081321/http://planethalf-life.com:80/snarkpit/editing/compiling.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "Setting up your compilers",
-    "tut_description": "Setting up your compilers",
-    "tut_link": "https://web.archive.org/web/20010527030105/http://planethalf-life.com:80/snarkpit/editing/compiler_setup.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "Advanced compile",
-    "tut_description": "Advanced compile",
-    "tut_link": "https://web.archive.org/web/20010527025843/http://planethalf-life.com:80/snarkpit/editing/advanced_compile.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "Mod editing",
-    "tut_description": "Mod editing",
-    "tut_link": "https://web.archive.org/web/20010523180755/http://planethalf-life.com:80/snarkpit/mods/mod_types.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "snarkpit"
-  },
-  {
-    "tut_name": "Entity list",
-    "tut_description": "has some explanations",
-    "tut_link": "https://web.archive.org/web/20010511175437/http://www.gameditors.co.uk:80/wc/entities.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Lights.rad source",
-    "tut_description": "Lights.rad source",
-    "tut_link": "https://web.archive.org/web/20040811102757/http://snarfevs.gamedesign.net:80/lights.htm",
-    "tut_download": "https://web.archive.org/web/20040811132610/http://snarfevs.gamedesign.net:80/Downloads/lights.rad",
-    "tut_game": "HL",
-    "tut_author_name": "snarfevs",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "First Steps in Game AI: Your Own Bot",
-    "tut_description": "First Steps in Game AI: Your Own Bot",
-    "tut_link": "https://web.archive.org/web/20020816171439/http://ai-depot.com:80/GameAI/Bot-Introduction.html",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Alex J. Champandard",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Half-Life Movies : An Introduction",
-    "tut_description": "A Brief History of Machinima",
-    "tut_link": "https://web.archive.org/web/20040408051146/http://planethalflife.com:80/vision/tutorials/movie_types.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "pov",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "In Game Scripted Movie - Placing and Viewing Simple Cameras",
-    "tut_description": "Placing and Viewing Simple Cameras",
-    "tut_link": "https://web.archive.org/web/20040422023632/http://planethalflife.com:80/vision/tutorials/Ingame01_01.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "pov",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Recorded Freestyle Movies: Simple Recording and Editing",
-    "tut_description": "Recorded Freestyle Movies:\r\nSimple Recording and Editing",
-    "tut_link": "https://web.archive.org/web/20040408045559/http://planethalflife.com:80/vision/tutorials/Record01_01.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "pov",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Beginner Movie Tutorial",
-    "tut_description": "Beginner Movie Tutorial",
-    "tut_link": "https://web.archive.org/web/20040408045905/http://planethalflife.com:80/vision/tutorials/begining.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "pov",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Moving Camera, Stationary Focus / Moving Focus, Stationary Camera Tutorials",
-    "tut_description": "Moving Camera, Stationary Focus / Moving Focus, Stationary Camera Tutorials",
-    "tut_link": "https://web.archive.org/web/20040408051054/http://planethalflife.com:80/vision/tutorials/middle.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "pov",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "paks, batch files, and liblists",
-    "tut_description": "paks, batch files, and liblists",
-    "tut_link": "https://web.archive.org/web/20040408050243/http://planethalflife.com:80/vision/tutorials/finishing.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "pov",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Getting Rid of Flash Frames",
-    "tut_description": "Getting Rid of Flash Frames",
-    "tut_link": "https://web.archive.org/web/20040408050643/http://planethalflife.com:80/vision/tutorials/flash.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "pov",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Rust FAQ",
-    "tut_description": "Half-Life Editing FAQ",
-    "tut_link": "https://web.archive.org/web/20020825113008/http://www.gamedesign.net:80/?file=rust/content/half-life/faq/general",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "merl",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Useful console commands ",
-    "tut_description": "This tutorial explains the use of some specific console commands mostly used for mapping and debugging.",
-    "tut_link": "https://web.archive.org/web/20050409190318/http://www.tdcom.net:80/lacos/?section=2&subsection=5",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "lacos",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Alias list",
-    "tut_description": "nice list of aliases",
-    "tut_link": "https://web.archive.org/web/20000606061321fw_/http://www.planethalflife.com:80/thebind/alias.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "va",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "QERadiant Misc Tips & Tricks",
-    "tut_description": "Misc Tips & Tricks for QERadiant",
-    "tut_link": "https://web.archive.org/web/20020214085250/http://halflife.qeradiant.com:80/misc/misc00.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Rage",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Half-Life Entitylist",
-    "tut_description": "Half-Life Entitylist from QERadiant",
-    "tut_link": "https://web.archive.org/web/20020219173723fw_/http://halflife.qeradiant.com:80/entities.htm",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Tiger",
-    "tut_author_alt": "generic"
-  },
-  {
-    "tut_name": "Definitions for common Mapping Terms",
-    "tut_description": "definitions for some common terms used when mapping and modding",
-    "tut_link": "https://twhl.info/wiki/page/category:Definitions",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "twhl",
-    "tut_author_alt": "twhl"
-  },
-  {
-    "tut_name": "Error Guide",
-    "tut_description": "Goldsrc Error Guide",
-    "tut_link": "https://twhl.info/wiki/page/category%3AError_Guides%2BGoldsource_Errors",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "twhl",
-    "tut_author_alt": "twhl"
-  },
-  {
-    "tut_name": "How to make Windows installer for your mod automatically determines Steam folder",
-    "tut_description": "How to make Windows installer for your mod automatically determines Steam folder",
-    "tut_link": "https://www.moddb.com/games/half-life/tutorials/how-to-make-windwos-installer-for-your-mod-automatically-determines-steam-folder",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "Cybermax ",
-    "tut_author_alt": "moddb"
-  },
-  {
-    "tut_name": "Accessing the Half-Life Console",
-    "tut_description": "Accessing the Half-Life Console",
-    "tut_link": "https://web.archive.org/web/20021219134015/http://valve-erc.com/resources/?page=console",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "Ideals of Design",
-    "tut_description": "Ideals of Design",
-    "tut_link": "https://web.archive.org/web/20021205144930/http://www.valve-erc.com/resources/?page=ideals",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "autolycus",
-    "tut_author_alt": "verc"
+    "tut_game": "cs",
+    "tut_author_name": "~Mc3",
+    "tut_author_alt": "gamebanana"
   },
   {
     "tut_name": "Counter-Strike: Theories of Design",
     "tut_description": "Counter-Strike: Theories of Design",
     "tut_link": "https://web.archive.org/web/20021205143635/http://www.valve-erc.com/resources/?page=cs_design",
     "tut_download": "",
-    "tut_game": "CS",
+    "tut_game": "cs",
     "tut_author_name": "Gonnas",
     "tut_author_alt": "verc"
   },
   {
-    "tut_name": "Pak Files and the Directory Folders",
-    "tut_description": "The .pak files are places that store sounds, models, maps, etc",
-    "tut_link": "https://web.archive.org/web/20021219133439/http://valve-erc.com/resources/?page=pakfiles",
+    "tut_name": "Different versions of counter strike 1.6 ",
+    "tut_description": "Different versions of counter strike 1.6 ",
+    "tut_link": "http://cstrikemapping.blogspot.com/2014/01/different-versions-of-counter-strike-16.html",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Delete_Me",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "Worldcraft 3.3 MAP File Format",
-    "tut_description": "a brief explanation of all the various parts of the Worldcraft 3.3 map format",
-    "tut_link": "https://web.archive.org/web/20021219134401/http://valve-erc.com/resources/?page=33mapformat",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "unknown",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "How To Make A Mod",
-    "tut_description": "How To Make A Mod",
-    "tut_link": "https://web.archive.org/web/20070808152932/http://collective.valve-erc.com/index.php?go=howto_mod",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Valve",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "Making Half-Life Mods - Part 1",
-    "tut_description": "This article is designed to help you make ",
-    "tut_link": "http://web.archive.org/web/20061028231012/http://collective.valve-erc.com/index.php?doc=1046114231-73292000",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Robin Walker",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "Making Half-Life Mods - Part 2",
-    "tut_description": "In this segment, he goes over every aspect of his five week plan from the build process to playtesting to actually finishing and releasing the mod",
-    "tut_link": "http://web.archive.org/web/20061028231008/http://collective.valve-erc.com/index.php?doc=1046114255-88212900",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Robin Walker",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "Real-Time Photorealism",
-    "tut_description": "Real-Time Photorealism",
-    "tut_link": "http://web.archive.org/web/20061027225332/http://collective.valve-erc.com/index.php?doc=1042230580-65380800",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "DeathWish",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "Scripting vs. Entities",
-    "tut_description": "Scripting vs. Entities",
-    "tut_link": "http://web.archive.org/web/20061027221645/http://collective.valve-erc.com/index.php?doc=1044694065-93758500",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "Merl",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": "The Inner Workings of RAD",
-    "tut_description": "The Inner Workings of RAD",
-    "tut_link": "http://web.archive.org/web/20061028235357/http://collective.valve-erc.com/index.php?doc=1046121871-81619100",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "DeathWish",
-    "tut_author_alt": "verc"
-  },
-  {
-    "tut_name": " Realism for Half-Life",
-    "tut_description": "This Guide will teach you how to make your Half-Life experience as realistic as possible",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=425444115",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "lp-SORLλG",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "List of Codes - Cheats",
-    "tut_description": "This guide is a list for most of the important codes and cheats in Half Life",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=658280150",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Kinotechnick",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "How to remove texture filtering in OpenGL",
-    "tut_description": "Here\\'s how to remove that cursed smoothening effect from your textures",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=244861148",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Aublak",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "List of console commands",
-    "tut_description": "The following is a list of commands that can be performed in your console or be added to your userconfig file",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=123119241",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Stu Pidaso",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Half-Life FPS UNLOCK",
-    "tut_description": "FPS UNLOCK",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=843700257",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Elf LVL 99",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Making and applying Icons and Grid Images to steam for Half-Life mods",
-    "tut_description": "Making and applying Icons and Grid Images to steam for Half-Life mods",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=276991683",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "Cyber_DemiGod",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Cinematography in GoldSrc",
-    "tut_description": "Cinematography in GoldSrc",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1172439308",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "oxcjae",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "How To Fix The Screen Zoom-In Problem",
-    "tut_description": "This guide will help you fix the problem some people have when the screen gets zoomed in too much.",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=340995480",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Olde",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Solutions to Resolution Bug and More",
-    "tut_description": "Every GoldSrc game seems to have this bug-- change your resolution from native, and you\\'re screwed",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=318695295",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Comradicale",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Solving Lag Problems in Half Life (and most Gold Source games)",
-    "tut_description": "Solving Lag Problems in Half Life (and most Gold Source games)",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=367024352",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "meikkon_",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "How to increase FOV in any GoldSrc engine game",
-    "tut_description": "How to increase FOV in any GoldSrc engine game",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1605242936",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "iriyap",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "How to return to the Old Models",
-    "tut_description": "How to return to the Old Models",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=125519186",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Chuma ",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "How to change your crosshairs",
-    "tut_description": "This will show you how to change your crosshairs",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122966843",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Stu Pidaso",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Demo Recording",
-    "tut_description": "Demo recording is a game feature which allows the player to record in-game footage into lightweight .dem fi",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=191368694",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "executλble",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Writing a Custom Userconfig File",
-    "tut_description": "Writing a custom userconfig file to change variables.",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=122886751",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "Stu Pidaso",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Client Side Commands (Fun/Misc)",
-    "tut_description": "My guide is simply a series of images and text that describe some of the client-side commands ",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=123390533",
-    "tut_download": "",
-    "tut_game": "TFC",
-    "tut_author_name": "Chuck Bronson",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "Binds and aliases",
-    "tut_description": "Excellent, someone who knows how to use bind and alias.",
-    "tut_link": "https://steamcommunity.com/sharedfiles/filedetails/?id=1105780255",
-    "tut_download": "",
-    "tut_game": "unknown",
-    "tut_author_name": "SubWoofer",
-    "tut_author_alt": "steam"
-  },
-  {
-    "tut_name": "File Structure For Mods (no PAK file)",
-    "tut_description": "An example file structure that shows you where your mod files should go within your mods folder.",
-    "tut_link": "http://web.archive.org/web/20150309215721/http://halflifezone.com/forums/viewtopic.php?f=39&t=55",
-    "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "hl_freak",
+    "tut_game": "cs",
+    "tut_author_name": "shash7",
     "tut_author_alt": "generic"
   },
   {
-    "tut_name": "File Structure For Mods (PAK file)",
-    "tut_description": "A typical .PAK file structure that shows you where your mod files should go within your mod\\'s custom .PAK file.",
-    "tut_link": "http://web.archive.org/web/20150316130858/http://halflifezone.com/forums/viewtopic.php?f=39&t=56",
+    "tut_name": "How to Make Simple Render",
+    "tut_description": "How to Make Simple Render",
+    "tut_link": "https://gamebanana.com/tuts/11548",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "hl_freak",
+    "tut_game": "cs",
+    "tut_author_name": "KnightSeander",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to customize Counter-Strike MOTD",
+    "tut_description": "You can set up an image MOTD (the picture that shows before connecting to a server) using one of the following methods:",
+    "tut_link": "https://gamebanana.com/tuts/11273",
+    "tut_download": "https://web.archive.org/web/20140522021716/http://pastebin.com:80/ypEv2w5d",
+    "tut_game": "cs",
+    "tut_author_name": "Dexter",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to create optimized overview [Detailed]",
+    "tut_description": "How to create optimized overview [Detailed]",
+    "tut_link": "https://gamebanana.com/tuts/11592",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": "KaranMohadkar",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Moviemaking Tutorial 1.0",
+    "tut_description": "I've created this guide for you who want to create a Counter Strike movie.",
+    "tut_link": "https://gamebanana.com/tuts/11018",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": "Loggan08",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Correctly taking screenshots in cs 1.6 ",
+    "tut_description": "Screenshots are useful when publishing your map.",
+    "tut_link": "http://cstrikemapping.blogspot.com/2014/01/correctly-taking-screenshots-in-cs-16.html",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": "shash7",
     "tut_author_alt": "generic"
   },
   {
-    "tut_name": "Files and folders required to make a Mod",
-    "tut_description": "This setup is based on the basis of a simple working mod",
-    "tut_link": "http://web.archive.org/web/20150316130846/http://halflifezone.com/forums/viewtopic.php?f=39&t=57",
+    "tut_name": "Basic rendering for GoldSrc using Free Programs",
+    "tut_description": "Basic Rendering for GoldSrc Using Free Programs",
+    "tut_link": "https://gamebanana.com/tuts/10832",
     "tut_download": "",
-    "tut_game": "HL",
-    "tut_author_name": "hl_freak",
-    "tut_author_alt": "generic"
+    "tut_game": "cs",
+    "tut_author_name": "Tobbit",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Make A Render Just Use HL Model Viewer",
+    "tut_description": "Make A Render Just Use HL Model Viewer",
+    "tut_link": "https://gamebanana.com/tuts/11098",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": " X-HaN",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Installing Maps",
+    "tut_description": "Installing Maps",
+    "tut_link": "https://gamebanana.com/tuts/10513",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": "natko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "Counter-Strike 1.6 Movie Tutorial",
+    "tut_description": "Counter-Strike 1.6 Movie Tutorial",
+    "tut_link": "https://gamebanana.com/tuts/10469",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": " Arman Ossi Loko",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make Overview for your maps",
+    "tut_description": "How to make Overview for your maps",
+    "tut_link": "https://gamebanana.com/tuts/11962",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": "Rammsteiner",
+    "tut_author_alt": "gamebanana"
+  },
+  {
+    "tut_name": "How to make a GUI",
+    "tut_description": "How to make a GUI",
+    "tut_link": "https://gamebanana.com/tuts/6880",
+    "tut_download": "",
+    "tut_game": "cs",
+    "tut_author_name": "SevenZero",
+    "tut_author_alt": "gamebanana"
   }
 ]

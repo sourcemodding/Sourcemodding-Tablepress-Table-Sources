@@ -1,8 +1,8 @@
 [
   {
-    "tool_name": "TFConfig",
-    "tool_description": "Makes your life a little easier when setting up bindings for TFC.",
-    "tool_game": "TFC",
+    "tool_name": "tfconfig",
+    "tool_description": "Makes your life a little easier when setting up bindings for tfc.",
+    "tool_game": "tfc",
     "tool_preview_image": "tgs_0",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -11,7 +11,7 @@
   {
     "tool_name": "Portal 2 Map Launcher",
     "tool_description": "A simple but effective GUI for loading custom and stock portal 2 maps.",
-    "tool_game": "PRTL2",
+    "tool_game": "portal2",
     "tool_preview_image": "tgs_1",
     "tool_homelink": "",
     "tool_engine": "source",
@@ -20,7 +20,7 @@
   {
     "tool_name": "Portal to Portal 2 Content Porter",
     "tool_description": "Greatly eases the process of porting content from Portal 1 to Portal 2.",
-    "tool_game": "PRTL2",
+    "tool_game": "portal2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -29,7 +29,7 @@
   {
     "tool_name": "Barebones",
     "tool_description": "Barebones sets up the necessary files to create a basic mod .",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -38,7 +38,7 @@
   {
     "tool_name": "D2 Modkit",
     "tool_description": "The Dota 2 Modkit provides tools to make your life easier when working with Dota 2 Files for modding.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "tgs_2",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -47,7 +47,7 @@
   {
     "tool_name": "Dota API snippets for Sublime Text 2/3",
     "tool_description": "Adds Code snippets for the LUA api if you work with Sublime Text",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -56,16 +56,16 @@
   {
     "tool_name": "Dota Custom Files Joiner",
     "tool_description": "Clever tool to help organize your custom file creation to avoid a mess.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "tgs_3",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
     "tool_mega": "https://mega.nz/#F!tVIFjIKY!hWwh_eW57k06yiHGBI1XmA"
   },
   {
-    "tool_name": "Dota2 Builder helper library",
+    "tool_name": "dota2 Builder helper library",
     "tool_description": "A library to help make RTS-style and Tower Defense custom games in Dota 2",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -74,7 +74,7 @@
   {
     "tool_name": "Emacs major mode for editing KeyValue files",
     "tool_description": "An Emacs major mode for editing files written in the KeyValues format that is used in Valve's Source engine. ",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -83,7 +83,7 @@
   {
     "tool_name": "KV Files Builder",
     "tool_description": "splitS the Dota 2 KV files into smaller files to make them easier to read / manage.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -92,7 +92,7 @@
   {
     "tool_name": "KV Syntax highlighting and snippets for Sublime Text 2-3",
     "tool_description": "Valve's KV Syntax, Snippets, and plugins for Dota 2 Workshop's custom gamemode developers.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -101,7 +101,7 @@
   {
     "tool_name": "KVLib A C# Key-Value parser and library",
     "tool_description": "Key Value Parsing library in C#",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -110,7 +110,7 @@
   {
     "tool_name": "Lua API stub classes",
     "tool_description": "Publicly available snippets for Dota 2 Workshop Tools",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -119,7 +119,7 @@
   {
     "tool_name": "Source 2 Resource Decompiler",
     "tool_description": "Decompiles the various _c formats into the content assets, can be used to decompile dota assets.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -128,16 +128,16 @@
   {
     "tool_name": "Upgradeable Items KV Builder",
     "tool_description": "This script can be used to generate all the item levels and recipes for your items",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
     "tool_mega": "https://mega.nz/#F!xJRR1Soa!Hhm4suNh-o4_uNh26wzyKQ"
   },
   {
-    "tool_name": "Dota2 Sound Editor",
+    "tool_name": "dota2 Sound Editor",
     "tool_description": "The Dota 2 Sound Editor allows you to modify sounds for items, voices, music and hero spells.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "tgs_4",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -146,7 +146,7 @@
   {
     "tool_name": "KVUP",
     "tool_description": "Warcraft 3 -&gt; Dota 2 KV Parser",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -155,7 +155,7 @@
   {
     "tool_name": "ModDota Lib",
     "tool_description": "A Flash library for Dota 2 custom gamemodes",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -164,7 +164,7 @@
   {
     "tool_name": "Player Say",
     "tool_description": "A scaleform UI file for latching and allowing Lua to work with player chat.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -173,7 +173,7 @@
   {
     "tool_name": "VConsole 2 Lib",
     "tool_description": "A PoC library for working with the VConsole2 network protocol.",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -182,7 +182,7 @@
   {
     "tool_name": "WorldSmith",
     "tool_description": "Open source Dota 2 Mod Editor",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "tgs_5",
     "tool_homelink": "",
     "tool_engine": "source_and_source2",
@@ -191,7 +191,7 @@
   {
     "tool_name": "Left 4 Dead 2 Map Generator",
     "tool_description": "Abandoned proof of concept algorithm for creating L4D2 maps from random tiles",
-    "tool_game": "DOTA2",
+    "tool_game": "dota2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source",
@@ -200,16 +200,16 @@
   {
     "tool_name": "SignMaker",
     "tool_description": "Easy to use tool for the creation of portal style signs for test chambers",
-    "tool_game": "PRTL2",
+    "tool_game": "portal2",
     "tool_preview_image": "tgs_6",
     "tool_homelink": "",
     "tool_engine": "source",
     "tool_mega": "https://mega.nz/#F!QFYjjCDY!wexw0N6qruYhVWIRwEmvAQ"
   },
   {
-    "tool_name": "TF2 Mod Installer",
-    "tool_description": "Simple program used to install .vpk files into the TF2 custom content directory easily.",
-    "tool_game": "TF2",
+    "tool_name": "tf2 Mod Installer",
+    "tool_description": "Simple program used to install .vpk files into the tf2 custom content directory easily.",
+    "tool_game": "tf2",
     "tool_preview_image": "tgs_7",
     "tool_homelink": "",
     "tool_engine": "source",
@@ -218,16 +218,16 @@
   {
     "tool_name": "Lyrics to CFG",
     "tool_description": "When you run the program it will take whatever is in the lyrics.txt and turn into a cfg you can run in game. ",
-    "tool_game": "TF2",
+    "tool_game": "tf2",
     "tool_preview_image": "tgs_8",
     "tool_homelink": "",
     "tool_engine": "source",
-    "tool_mega": "https://mega.nz/#F!ZZZHlaBa!cCSHKSN00vj2XvdMmQNifQ"
+    "tool_mega": "https://mega.nz/#F!ZZZhlaBa!cCSHKSN00vj2XvdMmQNifQ"
   },
   {
-    "tool_name": "RCBOT FOR SVENCOOP 4.7",
-    "tool_description": "This the RCBOTS need for play with the SA13 pack if you running the last version of SVENCOOP",
-    "tool_game": "SVEN",
+    "tool_name": "RCBOT FOR svenCOOP 4.7",
+    "tool_description": "This the RCBOTS need for play with the SA13 pack if you running the last version of svenCOOP",
+    "tool_game": "sven",
     "tool_preview_image": "tgs_9",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -236,7 +236,7 @@
   {
     "tool_name": "ENABLE VIOLENCE CFG",
     "tool_description": "Enable Half Life 1 gore and blood, pretty much simple.",
-    "tool_game": "HL",
+    "tool_game": "hl",
     "tool_preview_image": "tgs_10",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -244,17 +244,17 @@
   },
   {
     "tool_name": "Background Maker",
-    "tool_description": "Put pic file in tool and make own background for TFC,HL,CS",
-    "tool_game": "TFC",
+    "tool_description": "Put pic file in tool and make own background for tfc,hl,CS",
+    "tool_game": "tfc",
     "tool_preview_image": "tgs_11",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
     "tool_mega": "https://mega.nz/#F!ocxCGCQA!q27DUw5prxJeG4ytpSiAfQ"
   },
   {
-    "tool_name": "FoxBot 7z for TFC",
-    "tool_description": "FoxBot 7z for TFC",
-    "tool_game": "TFC",
+    "tool_name": "FoxBot 7z for tfc",
+    "tool_description": "FoxBot 7z for tfc",
+    "tool_game": "tfc",
     "tool_preview_image": "tgs_12",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -263,7 +263,7 @@
   {
     "tool_name": "Deleted Scenes .fgd",
     "tool_description": "This is the file you will need to create maps for Condition Zero: Deleted Scenes. This tool was available at Urban Ruins But the site has shut down.",
-    "tool_game": "CSCZ",
+    "tool_game": "cscz",
     "tool_preview_image": "tgs_13",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -272,7 +272,7 @@
   {
     "tool_name": "cs:cz tweaker",
     "tool_description": "changes everything in your game including bot profiles of missions,bot profiles of multiplayer game,new mission packs , some things like grenades related challenges in original missions are removed.",
-    "tool_game": "CSCZ",
+    "tool_game": "cscz",
     "tool_preview_image": "tgs_14",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -281,7 +281,7 @@
   {
     "tool_name": "t missionpack v 3.0",
     "tool_description": "this is a mission pack for condition zero. to use xtract it to ur mission packs folder.",
-    "tool_game": "CSCZ",
+    "tool_game": "cscz",
     "tool_preview_image": "tgs_15",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -290,7 +290,7 @@
   {
     "tool_name": "Fgd for CS Condidtion Zero",
     "tool_description": "Fgd file for making maps for CS Condidtion Zero.",
-    "tool_game": "CSCZ",
+    "tool_game": "cscz",
     "tool_preview_image": "tgs_16",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -299,7 +299,7 @@
   {
     "tool_name": "CZ Bind Maker",
     "tool_description": "CZ Bind Maker is a custom buy script and configuration editor for Counter-Strike 1.6 and Condition Zero. It provides point and click, buy scripting and configuration editing capabilities",
-    "tool_game": "CSCZ",
+    "tool_game": "cscz",
     "tool_preview_image": "tgs_17",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -308,7 +308,7 @@
   {
     "tool_name": "Fix Death Model Animation Tools",
     "tool_description": "Fix Death Model Animation Tools",
-    "tool_game": "CSCZ",
+    "tool_game": "cscz",
     "tool_preview_image": "tgs_18",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -317,7 +317,7 @@
   {
     "tool_name": "Avis Bot Creator/Editor for Counter Strike CZ",
     "tool_description": "GUI Bot AI Editor!Allows you to create CS Bots (for 1.6-CZ) Easily with a GuI Interface..Also added more helpful tools to increase speed of Mission Pack Development. A Must-Have for every CS Player.",
-    "tool_game": "CSCZ",
+    "tool_game": "cscz",
     "tool_preview_image": "tgs_19",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -326,7 +326,7 @@
   {
     "tool_name": "Avis Bot Creator/Editor for Counter Strike",
     "tool_description": "GUI Bot AI Editor!Allows you to create CS Bots Easily with a Gui Interface..Also added more helpful tools to increase speed of Mission Pack Development. A Must-Have for every CS Player.",
-    "tool_game": "CS",
+    "tool_game": "cs",
     "tool_preview_image": "tgs_20",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -335,7 +335,7 @@
   {
     "tool_name": "UKTbinder7-2",
     "tool_description": "CS 1.6 key binder",
-    "tool_game": "CS",
+    "tool_game": "cs",
     "tool_preview_image": "tgs_21",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -344,7 +344,7 @@
   {
     "tool_name": "CS_expert for hammer",
     "tool_description": "CS_expert FGD for hammer",
-    "tool_game": "CS",
+    "tool_game": "cs",
     "tool_preview_image": "tgs_22",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -353,7 +353,7 @@
   {
     "tool_name": "CsSv Map Loader",
     "tool_description": "This soft is useful for giving server admins o team members the opportunity to upload/download maps from your server without giving them FTP access.",
-    "tool_game": "CS",
+    "tool_game": "cs",
     "tool_preview_image": "tgs_23",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -362,7 +362,7 @@
   {
     "tool_name": "Commandmenu Editor",
     "tool_description": "Now you can make your custom in game menus, enjoy using your custom scripts with the comfort of a graphical menu. Now its easy, just add/remove/edit menus previewing result immediately!",
-    "tool_game": "CS",
+    "tool_game": "cs",
     "tool_preview_image": "tgs_24",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -371,7 +371,7 @@
   {
     "tool_name": "CS 1.6 Plugin Installer",
     "tool_description": "Easy CS 1.6 Plugin Installer (amxx plugins only) by Galih Sitopan",
-    "tool_game": "CS",
+    "tool_game": "cs",
     "tool_preview_image": "tgs_25",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -380,7 +380,7 @@
   {
     "tool_name": "Bot Editor 1.5.1",
     "tool_description": "This application create, edit, fixes, and save the database for your Counter-Strike 1.6 or any modification that base on 1.6 version.",
-    "tool_game": "CS",
+    "tool_game": "cs",
     "tool_preview_image": "tgs_26",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -388,8 +388,8 @@
   },
   {
     "tool_name": "4hud",
-    "tool_description": "A TF2 Hud editor for Windows",
-    "tool_game": "TF2",
+    "tool_description": "A tf2 Hud editor for Windows",
+    "tool_game": "tf2",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source",
@@ -397,8 +397,8 @@
   },
   {
     "tool_name": "BEEmod",
-    "tool_description": "Tool to mod Portal 2\\'s Puzzlemaker ",
-    "tool_game": "PRTL2",
+    "tool_description": "Tool to mod Portal 2's Puzzlemaker ",
+    "tool_game": "portal2",
     "tool_preview_image": "tgs_27",
     "tool_homelink": "https://github.com/BEEmod/BEE2.4",
     "tool_engine": "source",

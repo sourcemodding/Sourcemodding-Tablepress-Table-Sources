@@ -1,0 +1,17 @@
+[
+  {
+    "Col1": "Name / Description",
+    "Col2": "<div class=\"table_header_dl\"></div>",
+    "Col3": "Site/Author"
+  },
+  {
+    "Col1": "<a href=\"http://twhl.info/tutorial.php?id=130\" target=\"_blank\"><div class=\"table_tut_title\">How to Propose a Mod</div><div class=\"table_tut_desc\">A good mod thread will generally result in your mod being well recieved by the community.</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_twhl\" alt=\"twhl\" data-title=\"Author: Archie\"></div>"
+  },
+  {
+    "Col1": "<a href=\"http://www.snarkpit.net/snarkpower/articles/game/cat/pn/tp/192/TUTORIAL_-_CONSTRUCTIVE_CRITICISM:\" target=\"_blank\"><div class=\"table_tut_title\">TUTORIAL - CONSTRUCTIVE CRITICISM</div><div class=\"table_tut_desc\">As Artist we need to learn how to give criticism</div></a>",
+    "Col2": "",
+    "Col3": "<div class=\"tut_source src_snarkpit\" alt=\"snarkpit\" data-title=\"Author: G4MER\"></div>"
+  }
+]

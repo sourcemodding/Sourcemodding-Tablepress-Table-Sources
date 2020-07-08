@@ -1,0 +1,16 @@
+[
+  {
+    "Col1": "Name / Purpose",
+    "Col2": "<div class=\"table_header_weblink\">",
+    "Col3": "<div class=\"table_header_preview\">",
+    "Col4": "Engine",
+    "Col5": "<div class=\"table_header_dl\">"
+  },
+  {
+    "Col1": "<div class=\"table_title\">Goldsrc Asset loaders </div><div class=\"table_desc\">Collection of loaders for game engine asset types. Currently supported: Half-Life BSP, MDL and SPR. (requires compilation) </div>",
+    "Col2": "<a href=\"https://github.com/wtrsltnk/game-assets\" target=\"_blank\"><div class=\"table_weblink\" alt=\"weblink\" title=\"Visit the Homepage!\"></div></a>",
+    "Col3": "",
+    "Col4": "<div class=\"eng_icon eng_goldsrc\" alt=\"1\" title=\"Goldsrc\">",
+    "Col5": "<a href=\"https://mega.nz/#F!pZQGXIqA!XkQLpqZl97mOYljgHRsoOg\" target=\"_blank\"><div class=\"table_dl\" title=\"Download!\"></div></a>"
+  }
+]

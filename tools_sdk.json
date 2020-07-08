@@ -561,7 +561,7 @@
   },
   {
     "tool_name": "Basis - Source Code",
-    "tool_description": "Something like Spirit of Half-Life. The intent is to add more features to the Half-Life SDK while better documenting the engine\\'s features and maintaining the same style.",
+    "tool_description": "Something like Spirit of Half-Life. The intent is to add more features to the Half-Life SDK while better documenting the engine's features and maintaining the same style.",
     "tool_preview_image": "",
     "tool_homelink": "https://github.com/tschumann/basis",
     "tool_engine": "goldsrc",
@@ -585,7 +585,7 @@
   },
   {
     "tool_name": "Half-Nuked Source Code",
-    "tool_description": "Here\\'s the source code of Half-Nuked, I just don\\'t have a lot of time to dedicate to this mod and I don\\'t think I\\'ll work further on it, feel free to toy around with it, or even continuing it\\'s development, that\\'s up to you.",
+    "tool_description": "Here's the source code of Half-Nuked, I just don't have a lot of time to dedicate to this mod and I don't think I'll work further on it, feel free to toy around with it, or even continuing it's development, that's up to you.",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -593,7 +593,7 @@
   },
   {
     "tool_name": "Gunman WC Mappack",
-    "tool_description": "Around 300 maps from the development of Gunman Chronicles. This is nowhere near the full map sources of the game, it is just what I\\'ve been able to gather.",
+    "tool_description": "Around 300 maps from the development of Gunman Chronicles. This is nowhere near the full map sources of the game, it is just what I've been able to gather.",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -601,7 +601,7 @@
   },
   {
     "tool_name": "Autonomy Lost map source files",
-    "tool_description": "These are all the map source files for Autonomy Lost. Please note that they\\'re in the JMF file format which requires the J.A.C.K. editor in order for them to work. Read the readme.txt for more info.",
+    "tool_description": "These are all the map source files for Autonomy Lost. Please note that they're in the JMF file format which requires the J.A.C.K. editor in order for them to work. Read the readme.txt for more info.",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "goldsrc",
@@ -673,7 +673,7 @@
   },
   {
     "tool_name": "ARGG - Adnans Rotational Gravity Gun",
-    "tool_description": "This is the source code for Adnan\\'s Rotational Gravity Gun, v1.0.",
+    "tool_description": "This is the source code for Adnan's Rotational Gravity Gun, v1.0.",
     "tool_preview_image": "",
     "tool_homelink": "https://web.archive.org/web/20150222194420/http://skew.telefragged.com/mods/hl2/ARGG/",
     "tool_engine": "source",
@@ -705,7 +705,7 @@
   },
   {
     "tool_name": "HL2-Base",
-    "tool_description": "This file contains the HL2 Source Code, (It\\'s basically HL2 stripped of everything and left with just the basic files needed to run it)",
+    "tool_description": "This file contains the HL2 Source Code, (It's basically HL2 stripped of everything and left with just the basic files needed to run it)",
     "tool_preview_image": "",
     "tool_homelink": "",
     "tool_engine": "source",
